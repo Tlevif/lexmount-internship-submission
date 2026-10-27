@@ -11,3 +11,5 @@
 旧库5,213条中补齐494条职责、3,477条要求，3,480条记录补齐字段；移除2,295条不满足技术准入或属于综合入口的记录，13条详情未完整核验单独归档。71项测试通过。
 
 [另一台云主机匿名验证记录](https://github.com/Tlevif/lexmount-internship-submission/actions/workflows/verify-public.yml)。解压后运行python verify_package.py核验哈希和岗位完整性。
+
+本版本两个入口均已通过[GitHub云主机匿名验证](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40514810238)：2,905条完整技术岗位，15个类别，PDF及ZIP可下载，1,788个包内文件哈希全部一致。
