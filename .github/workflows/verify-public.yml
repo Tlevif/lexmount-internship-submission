@@ -15,7 +15,8 @@ jobs:
           checks=[]
           for base in ['https://tlevif.github.io/lexmount-internship-submission/','https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/']:
             for name in ['', 'materials/REPORT.pdf','materials/results/jobs.json','submission.zip']:
-              with urllib.request.urlopen(base+name,timeout=90) as r:
+              print('CHECKING '+base+name,flush=True)
+              with urllib.request.urlopen(urllib.request.Request(base+name,headers={'User-Agent':'Mozilla/5.0'}),timeout=90) as r:
                 data=r.read();assert r.status==200
                 item={'url':base+name,'status':r.status,'bytes':len(data)}
               if name.endswith('jobs.json'):
