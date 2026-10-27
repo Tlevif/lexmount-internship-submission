@@ -1,0 +1,22 @@
+{
+  "source_page": "https://careers.baichuan-inc.com/",
+  "source_request_id": "2c10413a-e226-4019-a4ab-4ea0aa989b64",
+  "official_internship_link": "https://cq6qe6bvfr6.jobs.feishu.cn/646926/?keywords=&category=&location=&project=7676369353193589042&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+  "ats_dom_id_reused": "896894",
+  "ats_extract_request_id": "7e714c3c-c5f8-4232-b4cc-ac37f11377af",
+  "ats_status_code": 200,
+  "ats_final_url": "https://cq6qe6bvfr6.jobs.feishu.cn/646926/?keywords=&category=&location=&project=7676369353193589042&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+  "reported_listing_count": 6,
+  "observed_titles": [
+    "【日常实习】后训练算法实习生-百川模型训练团队",
+    "【日常实习】RL Infra实习生-百川模型训练团队",
+    "【日常实习】AI Infra工程师-推理方向实习生",
+    "【日常实习】AI Infra工程师-训练方向实习生",
+    "【日常实习】生命世界模型算法实习生",
+    "【日常实习】大模型算法实习生"
+  ],
+  "observed_city": "北京",
+  "detail_urls_verified": [],
+  "collection_ready": false,
+  "reason": "WebFetch extraction shows job text, but exposes no stable detail URL; raw DOM is an app shell without job cards."
+}

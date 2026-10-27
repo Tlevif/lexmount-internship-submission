@@ -1,0 +1,31 @@
+{
+  "format": "descriptive-process-manifest-v1",
+  "importable_to_lexmount": false,
+  "steps": [
+    {
+      "step": 1,
+      "tool": "Lexmount WebFetch",
+      "action": "读取官网与官方招聘链接；dump-dom/extract复用DOM"
+    },
+    {
+      "step": 2,
+      "tool": "Lexmount Cloud Browser",
+      "action": "动态列表筛选、分页、岗位卡与稳定ID读取"
+    },
+    {
+      "step": 3,
+      "tool": "Python",
+      "action": "过滤、去重、归类、结果保存与SQLite入库"
+    },
+    {
+      "step": 4,
+      "tool": "FastAPI/frontend",
+      "action": "检索、详情、来源跳转与CSV导出"
+    },
+    {
+      "step": 5,
+      "tool": "人工/Codex",
+      "action": "来源、边界岗位与运行结果复核"
+    }
+  ]
+}

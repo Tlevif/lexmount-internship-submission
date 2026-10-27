@@ -1,0 +1,49 @@
+{
+  "company": "面壁智能",
+  "source_url": "https://modelbest.jobs.feishu.cn/campus/position/list",
+  "collection_method": "Lexmount Cloud Browser via collector.iter_company_pages; Feishu ATS pagination parameters current/limit",
+  "pages_read": 4,
+  "reported_total": 65,
+  "page_counts": [
+    20,
+    20,
+    20,
+    5
+  ],
+  "raw_card_count": 65,
+  "unique_raw_card_ids": 65,
+  "duplicate_card_ids": 0,
+  "target_city_internship_cards": 61,
+  "main_count": 42,
+  "review_count": 4,
+  "excluded_count": 19,
+  "review_candidates": [
+    {
+      "source_job_id": "7696873200756607282",
+      "title": "大模型数据运营实习生（供应商与专家运营方向）",
+      "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7696873200756607282/detail",
+      "reason": "职责集中在训练数据供应商、专家和 API 服务商运营及交付管理；岗位属于大模型业务，但技术研发相关性不清，保留人工判断。"
+    },
+    {
+      "source_job_id": "7699006832242051382",
+      "title": "产业战略与投资实习生",
+      "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7699006832242051382/detail",
+      "reason": "职责研究端侧大模型产业链并支持投资尽调，AI 行业关联明确，但工作偏产业研究和投资支持，保留人工判断。"
+    },
+    {
+      "source_job_id": "7698638357937064255",
+      "title": "语言学实习生",
+      "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7698638357937064255/detail",
+      "reason": "职责包含语音模型评测、测试集维护和数据标注管理，也要求语言学专业；需判断其是否属于目标 AI/计算方向岗位。"
+    },
+    {
+      "source_job_id": "7646697491979815206",
+      "title": "基础模型战略实习生",
+      "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7646697491979815206/detail",
+      "reason": "职责跟踪基础模型、评测和技术路线并支持战略决策，AI 技术关联明确，但工作偏战略研究，保留人工判断。"
+    }
+  ],
+  "session_id": "session_6f6ca932-aac6-4411-b8c8-cb16a11e49b2",
+  "session_closed": true,
+  "pagination_check": "4 pages, raw counts 20/20/20/5, site total 65, 65 stable IDs unique; target-city internship classification retained in curation evidence."
+}

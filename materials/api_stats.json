@@ -1,0 +1,127 @@
+{
+  "jobs": 5213,
+  "companies": 89,
+  "active_employers": 35,
+  "verified_companies": 58,
+  "by_category": [
+    {
+      "category": "人工智能与算法",
+      "count": 1900
+    },
+    {
+      "category": "运营",
+      "count": 593
+    },
+    {
+      "category": "产品经理",
+      "count": 495
+    },
+    {
+      "category": "后端与基础架构",
+      "count": 452
+    },
+    {
+      "category": "待审核",
+      "count": 292
+    },
+    {
+      "category": "数据",
+      "count": 290
+    },
+    {
+      "category": "前端与客户端",
+      "count": 242
+    },
+    {
+      "category": "营销",
+      "count": 220
+    },
+    {
+      "category": "内容策划",
+      "count": 140
+    },
+    {
+      "category": "人力资源",
+      "count": 124
+    },
+    {
+      "category": "设计",
+      "count": 101
+    },
+    {
+      "category": "安全与测试",
+      "count": 89
+    },
+    {
+      "category": "软件工程",
+      "count": 64
+    },
+    {
+      "category": "业务分析",
+      "count": 49
+    },
+    {
+      "category": "项目管理",
+      "count": 41
+    },
+    {
+      "category": "活动策划",
+      "count": 32
+    },
+    {
+      "category": "嵌入式与自动驾驶",
+      "count": 22
+    },
+    {
+      "category": "销售",
+      "count": 20
+    },
+    {
+      "category": "硬件与芯片",
+      "count": 11
+    },
+    {
+      "category": "行政与采购",
+      "count": 11
+    },
+    {
+      "category": "财务",
+      "count": 10
+    },
+    {
+      "category": "法务",
+      "count": 8
+    },
+    {
+      "category": "游戏策划",
+      "count": 5
+    },
+    {
+      "category": "客户服务",
+      "count": 2
+    }
+  ],
+  "by_city": [
+    {
+      "city": "北京",
+      "count": 3058
+    },
+    {
+      "city": "上海",
+      "count": 1671
+    },
+    {
+      "city": "深圳",
+      "count": 659
+    },
+    {
+      "city": "杭州",
+      "count": 652
+    },
+    {
+      "city": "广州",
+      "count": 132
+    }
+  ],
+  "tasks": 0
+}

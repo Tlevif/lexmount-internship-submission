@@ -1,0 +1,10 @@
+{
+  "site": "https://jobs.bytedance.com/campus/position?project=7194661644654577981&current=1&limit=10",
+  "tool": "Lexmount WebFetch dump-dom",
+  "request_id": "8f4d5382-9f8a-4448-957f-d3e73997021d",
+  "dom_id": "896788",
+  "engine": "lightmount_lite",
+  "status_code": 200,
+  "finding": "Returned HTML contained an empty #bd app mount and script bundles; it did not contain rendered job cards. A 200 response was therefore insufficient for internship collection, so Cloud Browser was used.",
+  "raw_html_saved": false
+}

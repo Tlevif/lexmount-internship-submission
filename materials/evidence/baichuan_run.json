@@ -1,0 +1,16 @@
+{
+  "observed_at_utc": "2026-10-22T06:17:48.666191+00:00",
+  "source_page": "https://cq6qe6bvfr6.jobs.feishu.cn/646926/?keywords=&category=&location=&project=7676369353193589042&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+  "raw_page_count": 6,
+  "filtered_technical_count": 6,
+  "displayed_site_total": 6,
+  "detail_url_count": 6,
+  "manual_browser_session_id": "session_f2447e89-ee91-4926-935c-8892326b5ef3",
+  "manual_session_status": "closed",
+  "automated_browser_session_id": "session_870319ee-ef69-4528-b0f5-71bc13f30abd",
+  "automated_session_status": "closed",
+  "session_status_verified_via": "browser-cli session get",
+  "raw_output": "evidence/collector/baichuan_raw_page1.json",
+  "filtered_output": "evidence/collector/baichuan_jobs_filtered.json",
+  "full_crawl": false
+}
