@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7505752399567505682",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7505752399567505682/detail",
+  "checked_at_utc": "2026-10-27T13:03:48.187936+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7505752399567505682",
+  "code": 0,
+  "title": "AIGC算法实习生-TikTok智能创作",
+  "responsibilities": "团队介绍：TikTok是一个覆盖150个国家和地区的国际短视频平台，我们希望通过TikTok发现真实、有趣的瞬间，让生活更美好。TikTok 在全球各地设有办公室，全球总部位于洛杉矶和新加坡，办公地点还包括纽约、伦敦、都柏林、巴黎、柏林、迪拜、雅加达、首尔和东京等多个城市。\n\nTikTok智能创作团队是为TikTok业务提供AI，特效，音视频创作技术能力，涵盖了计算机视觉、图形学、拍摄编辑、特效、客户端、服务端工程等技术领域,并以多种形式向抖音提提供业界前沿的内容理解、内容创作、互动体验与消费的能力和行业解决方案。\n\n1、负责TikTok视频特效方向的研发工作；\n2、负责AI人像美化、视频和图像的特效算法研发和业务落地；\n3、参与AI在CV、CG领域前沿技术的分析和研究。",
+  "requirements": "1、本科及以上学历在读，图像处理、计算机视觉、计算机图形学等相关专业优先；\n2、熟悉常用深度学习框架（TensorFlow\\PyTorch），熟悉CNN、Transformer等网络结构；\n3、了解GAN、Stable Diffusion等AIGC技术，了解大模型的相关技术进展；\n4、工程能力强，熟悉C++或者Python，有扎实的数据结构和算法基础。"
+}

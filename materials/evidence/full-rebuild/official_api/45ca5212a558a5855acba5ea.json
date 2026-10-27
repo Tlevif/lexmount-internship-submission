@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7497187975623117092",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7497187975623117092/detail",
+  "checked_at_utc": "2026-10-27T13:04:49.334623+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7497187975623117092",
+  "code": 0,
+  "title": "算法工程研发实习生",
+  "responsibilities": "1、参与算法工程化相关开发；\n2、整合后端算法和产品侧业务逻辑，将算法能力以服务化形式提供出来；\n3、参与算法服务的设计和优化；",
+  "requirements": "1、熟悉计算机原理，有良好的数据结构和算法基础，扎实的编程能力；\n2、对软件工程和编程技术有较深理解，熟悉一些常用的框架和开发范式；\n3、有golang、java、c++、python等高级语言开发经验；\n4、熟悉 Linux操作系统、shell等基本知识；\n5、在学科竞赛中取得优异成绩者优先；"
+}

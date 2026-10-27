@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904240002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904240002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:00.774765+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992831",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904240002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "AI应用算法实习生-医疗大模型\nUpdated on 2026-04-10\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、深度参与医疗领域大模型（Medical LLM）的全链路研发，负责包括基础模型预训练、指令微调（SFT）、以及基于人类反馈的强化学习（RLHF）等核心技术的建模与优化\n2、探索并实现面向医疗诊断辅助、健康管理等复杂场景的 AI Agent 架构，设计多步推理、工具调用及反思机制，提升模型解决实际医学问题的能力\n3、建立完善的医疗垂直领域模型评估体系，从医学专业性、安全性、逻辑性等维度持续迭代算法方案\nQualifications\n1、熟悉先进大模型的算法原理，有丰富的大模型训练（pre-train/post-train）或数据样本合成方面的经验或技巧优先\n2、有大模型强化学习训练上有经验者优先，包括但不限于RFT、RLVR、PPO、GRPO等\n3、在大模型方向有高质量（ACL、EMNLP、AAAI等）论文或开源项目产出者优先\n4、自驱力强、有良好的协作能力\n5、对医疗健康行业感兴趣，有热情\nHiring Business\nAlibaba Health",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 618,
+      "warnings": []
+    },
+    "request_id": "c9f506bf-ba51-479c-b614-7c434951f01e",
+    "status_code": 200,
+    "title": "AI应用算法实习生-医疗大模型",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904240002?deptCodes="
+  },
+  "responsibilities": "1、深度参与医疗领域大模型（Medical LLM）的全链路研发，负责包括基础模型预训练、指令微调（SFT）、以及基于人类反馈的强化学习（RLHF）等核心技术的建模与优化\n2、探索并实现面向医疗诊断辅助、健康管理等复杂场景的 AI Agent 架构，设计多步推理、工具调用及反思机制，提升模型解决实际医学问题的能力\n3、建立完善的医疗垂直领域模型评估体系，从医学专业性、安全性、逻辑性等维度持续迭代算法方案",
+  "requirements": "1、熟悉先进大模型的算法原理，有丰富的大模型训练（pre-train/post-train）或数据样本合成方面的经验或技巧优先\n2、有大模型强化学习训练上有经验者优先，包括但不限于RFT、RLVR、PPO、GRPO等\n3、在大模型方向有高质量（ACL、EMNLP、AAAI等）论文或开源项目产出者优先\n4、自驱力强、有良好的协作能力\n5、对医疗健康行业感兴趣，有热情"
+}

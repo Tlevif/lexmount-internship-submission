@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199908720005",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199908720005?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:48.161228+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992740",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908720005?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "千问-AI内容生成与理解实习生-杭州\nUpdated on 2026-08-13\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n我们聚焦大模型在内容生成与多模态理解中的实际应用，期待你参与图文创作、视频理解等方向的算法研发与落地，持续提升内容生产效率与内容理解效果。\n1. 参与 AI 内容生成与理解核心项目：围绕 AI 图文创作、视频内容理解等方向，开展算法研发与系统落地\n2. 开展算法创新与工程实现：设计实验方案，分析对比实验及消融结果，推动表现较优的方案在实际内容场景中部署并验证效果\n3. 善用 AI Coding 工具（如 Codex、OpenCode 等）提升研发效率，快速完成原型搭建、数据处理与实验迭代\n4. 跟踪大模型及多模态领域的前沿进展，定期输出顶会论文解读，并将前沿思路转化为可落地的技术方案\nQualifications\n1. 计算机、人工智能等相关专业硕士及以上学历\n2. 熟悉 Python 编程，具备使用各类主流 LLM 训练框架开展模型训练与推理的经验\n3. 对大语言模型及多模态大模型有深入理解和实践，熟悉 Prompt Engineering、后训练（SFT、RL）、Agent 等主流技术路线，对图文生成、视频理解等方向有一定了解\n4. 有 AI Coding 工具（如 Codex、OpenCode 等）的实际使用经验，能高效利用 AI 辅助编程完成开发任务\n5. 具有项目或科研经历，能提供项目成果、论文、竞赛或专利等证明\n6. 实习期 ≥ 6 个月\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 821,
+      "warnings": []
+    },
+    "request_id": "4d73c1ac-6298-41f0-8bb4-960f933218c1",
+    "status_code": 200,
+    "title": "千问-AI内容生成与理解实习生-杭州",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908720005?deptCodes="
+  },
+  "responsibilities": "我们聚焦大模型在内容生成与多模态理解中的实际应用，期待你参与图文创作、视频理解等方向的算法研发与落地，持续提升内容生产效率与内容理解效果。\n1. 参与 AI 内容生成与理解核心项目：围绕 AI 图文创作、视频内容理解等方向，开展算法研发与系统落地\n2. 开展算法创新与工程实现：设计实验方案，分析对比实验及消融结果，推动表现较优的方案在实际内容场景中部署并验证效果\n3. 善用 AI Coding 工具（如 Codex、OpenCode 等）提升研发效率，快速完成原型搭建、数据处理与实验迭代\n4. 跟踪大模型及多模态领域的前沿进展，定期输出顶会论文解读，并将前沿思路转化为可落地的技术方案",
+  "requirements": "1. 计算机、人工智能等相关专业硕士及以上学历\n2. 熟悉 Python 编程，具备使用各类主流 LLM 训练框架开展模型训练与推理的经验\n3. 对大语言模型及多模态大模型有深入理解和实践，熟悉 Prompt Engineering、后训练（SFT、RL）、Agent 等主流技术路线，对图文生成、视频理解等方向有一定了解\n4. 有 AI Coding 工具（如 Codex、OpenCode 等）的实际使用经验，能高效利用 AI 辅助编程完成开发任务\n5. 具有项目或科研经历，能提供项目成果、论文、竞赛或专利等证明\n6. 实习期 ≥ 6 个月"
+}

@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7605087195226392885",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7605087195226392885/detail",
+  "checked_at_utc": "2026-10-27T13:04:01.332273+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7605087195226392885",
+  "code": 0,
+  "title": "云搜索AI研究实习生-算力与AI基础设施",
+  "responsibilities": "日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n团队介绍：字节跳动云基础设施部门，通过云技术管理着百万量级的服务器构成的超大数据中心。我们通过深度优化千万级容器实例与算力优化，搭建EB级数据存储治理体系，探索新一代搜索型数据库与大规模AI集群下的高速网络通信，我们积极拥抱开源和创新的软硬件架构，致力于构建业界领先、稳定、高可用的面向LLM的AI云原生的基础设施架构与产品矩阵，为整个公司的业务和客户发展保驾护航。\n\n1、在导师指导下，围绕大规模向量检索场景开展研究与验证，设计并实现具备大容量、高吞吐、低延迟、高召回、高精度、可扩展等特性的向量检索方案；工作内容包括但不限于：索引与检索、压缩与量化、复杂场景查询、软硬件协同优化、分布式系统；\n2、在导师指导下探索LLM与检索结合的系统化方案，围绕Multi-Agent/Agentic RAG/DeepResearch等范式研究可复现的有效路径，提升复杂多跳任务下的可靠性与可控性，工作内容包括但是不限于：RAG、Agent、评测与对齐；\n3、持续跟踪学术界与工业界在向量数据库/向量索引/Agentic RAG方向的最新进展，输出技术解读与复现实验；对标主流系统（Milvus/PGVector/Chroma/Weaviate/Faiss/ScaNN/DiskANN等），推动内部路线选择与产品市场力构建；\n4、协助团队在SIGMOD/VLDB/OSDI/SOSP/ICML/ACL/ICLR等高水平会议发表论文，并申请相关专利（算法、系统架构、量化压缩、评测体系、Agentic RAG等）。",
+  "requirements": "1、硕士及以上学位在读，计算机、通信等相关专业；\n2、了解常用量化压缩算法（PQ、SQ、RaBitQ等）、向量索引（IVF、HNSW、NSG、DiskANN、LSH等）与向量数据库（Milvus/Chroma/PGVector等）的基本原理；\n3、在CCF-A（或同等级别）会议/期刊发表过至少1篇论文，具备推进研究问题、设计实验、写作投稿的能力；\n4、热爱编程，有较强的学习能力，有强烈的求知欲、好奇心和进取心，能及时关注和学习业界最新技术。\n\n加分项：\n1、以第一作者或除导师外第一作者身份在SIGMOD/VLDB/OSDI/SOSP/ICML/ACL/ICLR等（或同等级别DB/系统/AI顶会）发表过论文；\n2、在ACM-ICPC、NOI等信息学竞赛中获得区域金牌及以上奖项；\n3、数学能力特别突出或有相关理论工作经验者；\n4、有经典数据库内核/优化器/执行引擎经验（PostgreSQL/SparkSQL/Neo4j等），或在索引设计、存储格式、事务/并发、Compaction等方面有实战经验；\n5、在Agentic RAG、LLM Finetune（SFT/LoRA/RLHF等）、检索增强评测、对齐与可靠性等有实战经验；\n6、熟悉PyTorch等框架，能完成训练/推理/评测管线搭建；熟悉GPU架构与CUDA C++，或有向量计算/检索算子GPU化经验；熟悉分布式系统基本原理（共识、复制、调度、资源隔离、可观测性等）及相关工程框架。"
+}

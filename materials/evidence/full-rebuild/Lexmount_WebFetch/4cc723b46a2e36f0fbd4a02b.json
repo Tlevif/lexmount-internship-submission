@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199909900002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199909900002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:18.561297+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992689",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909900002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "视觉算法实习生（图片质量/美学评价大模型方向）\nUpdated on 2026-09-24\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 基于大模型研究图像和视频质量评价技术，需要对影响图像质量的细分维度（如：噪声、模糊度、亮度、对比度、炫光等）做可解释性分析，综合性地给出图像质量分数；\n2. 基于大模型研究图像美学评价和AI构图技术，需要对影响美学打分的细分维度（如：颜色、光线、对称性、构图合理性等）做可解释性分析，综合性地给出美学评估分数；\n3. 参与数据质量评估、标注标准制定及自动化数据 Pipeline 的搭建与维护。\nQualifications\n1. 在读硕士或博士，研究型/学术背景优先，有扎实的数学基础，对基础视觉算法、多模态大模型、模型蒸馏等技术有深入理解和实战经验；\n2. 精通Python编程，熟悉Linux开发环境，熟练掌握常见的深度学习框架（如TensorFlow、PyTorch等）；\n3. 良好的实验设计能力与论文阅读/撰写能力，能阅读并快速复现前沿算法；\n4. 实习期6个月起，能长期实习优先；\n加分项\n1. 有ACM、Kaggle、阿里天池等竞赛经历/获奖者优先；\n2. 发表过NeurIPS/CVPR/ICCV/ECCV/ICLR等会议论文优先。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 720,
+      "warnings": []
+    },
+    "request_id": "9af4ef89-83ca-44a4-8a63-bfda12c52d9d",
+    "status_code": 200,
+    "title": "视觉算法实习生（图片质量/美学评价大模型方向）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909900002?deptCodes="
+  },
+  "responsibilities": "1. 基于大模型研究图像和视频质量评价技术，需要对影响图像质量的细分维度（如：噪声、模糊度、亮度、对比度、炫光等）做可解释性分析，综合性地给出图像质量分数；\n2. 基于大模型研究图像美学评价和AI构图技术，需要对影响美学打分的细分维度（如：颜色、光线、对称性、构图合理性等）做可解释性分析，综合性地给出美学评估分数；\n3. 参与数据质量评估、标注标准制定及自动化数据 Pipeline 的搭建与维护。",
+  "requirements": "1. 在读硕士或博士，研究型/学术背景优先，有扎实的数学基础，对基础视觉算法、多模态大模型、模型蒸馏等技术有深入理解和实战经验；\n2. 精通Python编程，熟悉Linux开发环境，熟练掌握常见的深度学习框架（如TensorFlow、PyTorch等）；\n3. 良好的实验设计能力与论文阅读/撰写能力，能阅读并快速复现前沿算法；\n4. 实习期6个月起，能长期实习优先；\n加分项\n1. 有ACM、Kaggle、阿里天池等竞赛经历/获奖者优先；\n2. 发表过NeurIPS/CVPR/ICCV/ECCV/ICLR等会议论文优先。"
+}

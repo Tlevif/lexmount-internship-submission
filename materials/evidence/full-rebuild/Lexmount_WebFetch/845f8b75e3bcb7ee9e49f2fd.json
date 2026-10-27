@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074692139072",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074692139072",
+  "checked_at_utc": "2026-10-27T13:07:49.064833+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "元宝—基于大模型的搜索排序技术研究 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "993109",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139072",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n攻克AI搜索场景排序能力的突破难题，优化搜索能力的鲁棒性和满意度。\n课题挑战：\n1、 大模型排序(LLM Ranking): 传统搜索的排序模型在“长尾 Query 理解”和“深层语义对齐”上存在一定瓶颈，需要平衡 LLM 的语义通识能力、领域任务解决能力\n2、模型推理（Reasoning Ranking）： AI 搜索场景大量的复杂查询、长尾满足，需要模型具备一定的推理能力，建模目标从“概率匹配”进化到“逻辑决策”。\n3、 基于强化反馈的排序泛化增强（RL from Feedback）：如何在领域任务下，引入强化反馈，在噪声环境下设置有效的 reward，引导模型增强细粒度排序的泛化能力\n4、推理加速：在长上下文与多文档排序中，需在极低延迟约束下，解决压缩表征导致的关键信息丢失与语义匹配的平衡难题。\n具体工作：\n1、大模型排序(LLM Ranking):\n研究大模型排序核心技术如LLM Scaling Up、Continued Pre-Training、Reasoning Ranking等方向，提升多目标排序满意度和鲁棒性\n2、Reasoning Ranking：\n借鉴思维链（CoT）， 引入自反思机制（Self-Reflection），对比推理过程与最终打分的一致性，通过rubrics 等有效过程监督信号，提升推理能力。\n3、基于强化反馈的排序泛化增强:\n构建鲁棒的奖励模型，利用 DPO、GRPO 等建模方式，对 DocList 进行细粒度偏序的感知能力，合成有效的过程监督、结果监督 reward，引导模型进行有效泛化补充。\n4、推理加速:\n探究 Query 感知的动态 Token 修剪与层级化语义表征算法，通过注意力机制识别并剔除文档冗余信息；构建轻量化压缩模型，将长文本编码为固定长度的 Soft Tokens；同步优化 KV Cache 缓存策略与算子并行化等\n课题要求\n学历和专业要求：\n计算机、人工智能、数学等相关专业硕士或博士。重点关注在自然语言处理 (NLP)、信息检索 (IR)、大模型微调或强化学习领域有深厚学术积累或顶会论文发表（如 ACL、SIGIR、KDD、NeurIPS）的同学。\n技术技能要求：\n熟练掌握 PyTorch/DeepSpeed 及主流大模型架构，深入理解 RAG、LTR 排序及 RLHF/DPO 算法。精通 Python/C++，具备优秀的底层算子优化或 KV Cache 优化能力，有大规模分布式训练及搜索性能调优经验者优先。\n软性素质要求：\n具备极强的逻辑思维与自驱动力，能够敏锐捕捉前沿技术并转化为业务落地。拥有出色的抗压能力与团队协作精神，能在复杂业务场景下保持沟通高效，对解决算法落地中的硬核挑战充满激情。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1192,
+      "warnings": []
+    },
+    "request_id": "4e7fdb82-59d0-455b-9061-65d2a112d8fd",
+    "status_code": 200,
+    "title": "元宝—基于大模型的搜索排序技术研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139072"
+  },
+  "responsibilities": "课题背景：\n攻克AI搜索场景排序能力的突破难题，优化搜索能力的鲁棒性和满意度。\n课题挑战：\n1、 大模型排序(LLM Ranking): 传统搜索的排序模型在“长尾 Query 理解”和“深层语义对齐”上存在一定瓶颈，需要平衡 LLM 的语义通识能力、领域任务解决能力\n2、模型推理（Reasoning Ranking）： AI 搜索场景大量的复杂查询、长尾满足，需要模型具备一定的推理能力，建模目标从“概率匹配”进化到“逻辑决策”。\n3、 基于强化反馈的排序泛化增强（RL from Feedback）：如何在领域任务下，引入强化反馈，在噪声环境下设置有效的 reward，引导模型增强细粒度排序的泛化能力\n4、推理加速：在长上下文与多文档排序中，需在极低延迟约束下，解决压缩表征导致的关键信息丢失与语义匹配的平衡难题。\n具体工作：\n1、大模型排序(LLM Ranking):\n研究大模型排序核心技术如LLM Scaling Up、Continued Pre-Training、Reasoning Ranking等方向，提升多目标排序满意度和鲁棒性\n2、Reasoning Ranking：\n借鉴思维链（CoT）， 引入自反思机制（Self-Reflection），对比推理过程与最终打分的一致性，通过rubrics 等有效过程监督信号，提升推理能力。\n3、基于强化反馈的排序泛化增强:\n构建鲁棒的奖励模型，利用 DPO、GRPO 等建模方式，对 DocList 进行细粒度偏序的感知能力，合成有效的过程监督、结果监督 reward，引导模型进行有效泛化补充。\n4、推理加速:\n探究 Query 感知的动态 Token 修剪与层级化语义表征算法，通过注意力机制识别并剔除文档冗余信息；构建轻量化压缩模型，将长文本编码为固定长度的 Soft Tokens；同步优化 KV Cache 缓存策略与算子并行化等",
+  "requirements": "学历和专业要求：\n计算机、人工智能、数学等相关专业硕士或博士。重点关注在自然语言处理 (NLP)、信息检索 (IR)、大模型微调或强化学习领域有深厚学术积累或顶会论文发表（如 ACL、SIGIR、KDD、NeurIPS）的同学。\n技术技能要求：\n熟练掌握 PyTorch/DeepSpeed 及主流大模型架构，深入理解 RAG、LTR 排序及 RLHF/DPO 算法。精通 Python/C++，具备优秀的底层算子优化或 KV Cache 优化能力，有大规模分布式训练及搜索性能调优经验者优先。\n软性素质要求：\n具备极强的逻辑思维与自驱动力，能够敏锐捕捉前沿技术并转化为业务落地。拥有出色的抗压能力与团队协作精神，能在复杂业务场景下保持沟通高效，对解决算法落地中的硬核挑战充满激情。"
+}

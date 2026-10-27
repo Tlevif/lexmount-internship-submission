@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21110",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21110",
+  "checked_at_utc": "2026-10-27T13:10:45.261862+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：策略算法 | 工作地点：北京市 | 项目：其他项目",
+    "dom_id": "993354",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21110",
+    "language": "zh-cn",
+    "main_text": "职位类型：策略算法\n工作地点：北京市\n项目：其他项目\n工作职责\n1. 用户增长投放：负责小红书新用户拉新与流失用户召回的广告投放策略，通过算法驱动实现用户规模的高质量、高效率增长； 2. 用户价值建模: 应用多目标学习、因果推断(Causal Inference)、大模型等前沿方法，对全网数十亿级用户进行精细化建模，精准评估并预测用户长期价值LTV; 3. 智能出价策略:基于LTV预估设计并迭代智能出价策略，持续提升投放ROI。\n任职资格\n1. 数学、统计、计算机等相关专业优先;具备扎实的机器学习理论基础,能够熟练运用深度学习等主流模型解决实际业务问题; 2. 工程能力：具备优秀的编码能力,精通 Java / C++ / Scala / Python 中至少一门语言,拥有扎实的数据结构与算法功底; 3. 领域经验：在用户增长、搜索、推荐、广告等方向有相关实习或项目经验者优先;熟悉竞价广告机制、因果推断或强化学习者更佳; 4. 软实力：具备良好的团队协作与沟通能力,对业务有较强的好奇心与数据敏感度,学习能力强、能快速适应高速迭代的业务节奏。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 476,
+      "warnings": []
+    },
+    "request_id": "0faeab0d-470b-4280-bd4b-6310073647cb",
+    "status_code": 200,
+    "title": "增长算法实习生 — RTA方向",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21110"
+  },
+  "responsibilities": "1. 用户增长投放：负责小红书新用户拉新与流失用户召回的广告投放策略，通过算法驱动实现用户规模的高质量、高效率增长； 2. 用户价值建模: 应用多目标学习、因果推断(Causal Inference)、大模型等前沿方法，对全网数十亿级用户进行精细化建模，精准评估并预测用户长期价值LTV; 3. 智能出价策略:基于LTV预估设计并迭代智能出价策略，持续提升投放ROI。",
+  "requirements": "1. 数学、统计、计算机等相关专业优先;具备扎实的机器学习理论基础,能够熟练运用深度学习等主流模型解决实际业务问题; 2. 工程能力：具备优秀的编码能力,精通 Java / C++ / Scala / Python 中至少一门语言,拥有扎实的数据结构与算法功底; 3. 领域经验：在用户增长、搜索、推荐、广告等方向有相关实习或项目经验者优先;熟悉竞价广告机制、因果推断或强化学习者更佳; 4. 软实力：具备良好的团队协作与沟通能力,对业务有较强的好奇心与数据敏感度,学习能力强、能快速适应高速迭代的业务节奏。"
+}

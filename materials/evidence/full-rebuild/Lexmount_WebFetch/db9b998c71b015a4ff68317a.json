@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904360002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904360002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:57.658525+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992827",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904360002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "多模态大模型工程师-多模态文档智能\nUpdated on 2026-04-13\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2028-12-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n围绕多模态文档智能方向，开展文档理解、文档推理和文档智能体相关研究，推动多模态大模型在真实文档场景中的能力提升，并服务实际业务落地。\n你将参与以下一个或多个方向的工作：\n1. 文档理解：面向复杂长文档场景，研究文档解析与结构化重建技术，提升模型对文本、公式、表格、图像等元素的识别、定位和还原能力，探索从图像到结构化文档的端到端方案。结合真实场景进行数据构建、实验设计与效果分析，持续优化模型在复杂文档解析任务中的表现；\n2. 文档推理：面向统计图表、学术论文、行业报告等高信息密度文档，研究多模态大模型的图文理解、逻辑推理和数值分析能力，提升模型在复杂文档问答、证据整合和长上下文推理任务中的表现。围绕关键任务开展数据整理、评测设计和实验迭代，持续分析并改进模型在复杂文档推理中的效果；\n3. 文档智能体：探索基于多模态大模型的文档智能体能力，包括跨文档检索、信息搜集、任务规划、工具调用和结果验证等，推动模型完成如研报生成、信息抽取、跨文档对比分析等复杂任务。结合具体业务场景，参与任务设计、效果评估和系统迭代，提升智能体在真实任务中的完成质量。\nQualifications\n1. 计算机、人工智能、数学、统计学等相关专业，硕士/博士优先；\n2. 熟悉Python和PyTorch，具备较强的代码与实验能力；\n3. 熟悉多模态大模型，理解主流LLM/MLLM基础架构，有SFT/RL等后训练实操经验；\n4. 认真踏实、主动性强，有良好的沟通和协作能力；\n5. 在以下一个或多个方向有经验者优先：文档解析、OCR、表格/图表理解、多模态推理、Agent。\nHiring Business\nAlibaba Cloud",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 906,
+      "warnings": []
+    },
+    "request_id": "d1392e99-5365-4dfc-98ab-2f056f4a65be",
+    "status_code": 200,
+    "title": "多模态大模型工程师-多模态文档智能",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904360002?deptCodes="
+  },
+  "responsibilities": "围绕多模态文档智能方向，开展文档理解、文档推理和文档智能体相关研究，推动多模态大模型在真实文档场景中的能力提升，并服务实际业务落地。\n你将参与以下一个或多个方向的工作：\n1. 文档理解：面向复杂长文档场景，研究文档解析与结构化重建技术，提升模型对文本、公式、表格、图像等元素的识别、定位和还原能力，探索从图像到结构化文档的端到端方案。结合真实场景进行数据构建、实验设计与效果分析，持续优化模型在复杂文档解析任务中的表现；\n2. 文档推理：面向统计图表、学术论文、行业报告等高信息密度文档，研究多模态大模型的图文理解、逻辑推理和数值分析能力，提升模型在复杂文档问答、证据整合和长上下文推理任务中的表现。围绕关键任务开展数据整理、评测设计和实验迭代，持续分析并改进模型在复杂文档推理中的效果；\n3. 文档智能体：探索基于多模态大模型的文档智能体能力，包括跨文档检索、信息搜集、任务规划、工具调用和结果验证等，推动模型完成如研报生成、信息抽取、跨文档对比分析等复杂任务。结合具体业务场景，参与任务设计、效果评估和系统迭代，提升智能体在真实任务中的完成质量。",
+  "requirements": "1. 计算机、人工智能、数学、统计学等相关专业，硕士/博士优先；\n2. 熟悉Python和PyTorch，具备较强的代码与实验能力；\n3. 熟悉多模态大模型，理解主流LLM/MLLM基础架构，有SFT/RL等后训练实操经验；\n4. 认真踏实、主动性强，有良好的沟通和协作能力；\n5. 在以下一个或多个方向有经验者优先：文档解析、OCR、表格/图表理解、多模态推理、Agent。"
+}

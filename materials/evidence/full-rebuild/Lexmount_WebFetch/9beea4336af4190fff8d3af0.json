@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "19280",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/19280",
+  "checked_at_utc": "2026-10-27T13:10:22.378891+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：大模型 | 工作地点：北京市，上海市 | 项目：其他项目",
+    "dom_id": "993318",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/19280",
+    "language": "zh-cn",
+    "main_text": "职位类型：大模型\n工作地点：北京市，上海市\n项目：其他项目\n工作职责\n岗位定位： 本岗位侧重于提升大语言模型的“核心大脑”能力。你将通过先进的 Post-training 技术，让模型在Reasoning、Agentic以及人类意图对齐上达到业界顶尖水平，通过提升AI智能水平的上限，支撑小红书所有业务场景，包括且不限于搜索、广告、推荐、电商、客服及智能发布等核心场景。 你的工作内容 大规模对齐与强化学习： 研发并优化 SFT、RL（如GRPO 等）算法，构建高精度的 Reward Model，解决模型在复杂指令下的对齐问题。 推理模型（Reasoning）优化： 探索长链推理（CoT）、强化学习驱动的自反思与自进化机制，提升模型在的 System 2 思维能力。 Agentic RL 与Agency： 研发面向 Search Agent、Code Agent 和 Tool-use Agent 的强化学习方案，提升模型在开放环境中的任务拆解、工具调用及闭环执行能力。 合成数据与模型进化： 探索高质量合成数据的生成与过滤技术，实现模型能力的自我循环与持续进化。\n任职资格\n我们希望你具备： 背景： 计算机、数学等相关专业硕士/博士在读；深入理解 Transformer 架构及大模型训练全流程。 专业深耕： 在 Search（搜索）、Code（代码生成/工程）、tool-use、alignment 或 RL（强化学习） 领域有深厚积累。 工程能力： 熟练使用 PyTorch，有 DeepSpeed、Megatron-LM 或 Ray 等大规模分布式训练实战经验。 加分项： 在 NeurIPS, ICML, ICLR, ACL 等顶会发表过高质量论文。 在 LLM 大家关注的 Benchmark 榜单有深入研究或优异表现。 有大规模集群调优经验或知名开源 LLM 项目核心贡献者。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 798,
+      "warnings": []
+    },
+    "request_id": "4a5728f4-c68a-4837-b36f-422c03e1c6a6",
+    "status_code": 200,
+    "title": "基础模型算法实习生 - LLM Post-training",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/19280"
+  },
+  "responsibilities": "岗位定位： 本岗位侧重于提升大语言模型的“核心大脑”能力。你将通过先进的 Post-training 技术，让模型在Reasoning、Agentic以及人类意图对齐上达到业界顶尖水平，通过提升AI智能水平的上限，支撑小红书所有业务场景，包括且不限于搜索、广告、推荐、电商、客服及智能发布等核心场景。 你的工作内容 大规模对齐与强化学习： 研发并优化 SFT、RL（如GRPO 等）算法，构建高精度的 Reward Model，解决模型在复杂指令下的对齐问题。 推理模型（Reasoning）优化： 探索长链推理（CoT）、强化学习驱动的自反思与自进化机制，提升模型在的 System 2 思维能力。 Agentic RL 与Agency： 研发面向 Search Agent、Code Agent 和 Tool-use Agent 的强化学习方案，提升模型在开放环境中的任务拆解、工具调用及闭环执行能力。 合成数据与模型进化： 探索高质量合成数据的生成与过滤技术，实现模型能力的自我循环与持续进化。",
+  "requirements": "我们希望你具备： 背景： 计算机、数学等相关专业硕士/博士在读；深入理解 Transformer 架构及大模型训练全流程。 专业深耕： 在 Search（搜索）、Code（代码生成/工程）、tool-use、alignment 或 RL（强化学习） 领域有深厚积累。 工程能力： 熟练使用 PyTorch，有 DeepSpeed、Megatron-LM 或 Ray 等大规模分布式训练实战经验。 加分项： 在 NeurIPS, ICML, ICLR, ACL 等顶会发表过高质量论文。 在 LLM 大家关注的 Benchmark 榜单有深入研究或优异表现。 有大规模集群调优经验或知名开源 LLM 项目核心贡献者。"
+}

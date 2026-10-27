@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1295442456116166656",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1295442456116166656",
+  "checked_at_utc": "2026-10-27T13:08:51.878912+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信小微-基于CodeLLM的小程序主要功能（MCP Tool）生成式编译技术研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "993208",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1295442456116166656",
+    "language": "zh-cn",
+    "main_text": "课题描述\n本课题聚焦于自然语言到小程序功能逻辑的自动化转化。研究如何利用CodeLLM 的代码理解与生成能力，将小程序的原子能力编译成标准化的 Skill 组件（JSON/JS 代码块）。重点突破Runtime代码分析、生成小程序代码段、搭建Verify Loop、训练专用CodeLLM等技术，构建一套从任务到功能实现（Text-to-MCP Tool）的高效编译流水线。\n课题要求\n1、包括但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程等专业的博士和优秀硕士；\n2、具备CodeLLM相关的CPT、SFT、RL经验，参与过CodeLLM的Harness工程建设；\n3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 382,
+      "warnings": []
+    },
+    "request_id": "f83e7f54-0ac3-4b29-b3eb-f3669b8f1b95",
+    "status_code": 200,
+    "title": "微信小微-基于CodeLLM的小程序主要功能（MCP Tool）生成式编译技术研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1295442456116166656"
+  },
+  "responsibilities": "本课题聚焦于自然语言到小程序功能逻辑的自动化转化。研究如何利用CodeLLM 的代码理解与生成能力，将小程序的原子能力编译成标准化的 Skill 组件（JSON/JS 代码块）。重点突破Runtime代码分析、生成小程序代码段、搭建Verify Loop、训练专用CodeLLM等技术，构建一套从任务到功能实现（Text-to-MCP Tool）的高效编译流水线。",
+  "requirements": "1、包括但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程等专业的博士和优秀硕士；\n2、具备CodeLLM相关的CPT、SFT、RL经验，参与过CodeLLM的Harness工程建设；\n3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。"
+}

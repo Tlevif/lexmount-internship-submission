@@ -1,0 +1,12 @@
+{
+  "company_name": "百川智能",
+  "source_job_id": "7680029585811360027",
+  "detail_url": "https://cq6qe6bvfr6.jobs.feishu.cn/646926/position/7680029585811360027/detail",
+  "checked_at_utc": "2026-10-27T13:04:43.836808+00:00",
+  "method": "official_api",
+  "api_url": "https://cq6qe6bvfr6.jobs.feishu.cn/api/v1/job/posts/7680029585811360027",
+  "code": 0,
+  "title": "【日常实习】后训练算法实习生-百川模型训练团队",
+  "responsibilities": "后训练算法实习生，与我们并肩战斗训练下一代Baichuan-M模型。\n",
+  "requirements": "1. 硕博在校生，良好的计算机相关背景，有大模型训练经验优先；\n2. Research Hacker，能看论文也能第二天跑出demo，是实验室出活儿最快的那批人；\n3. 对LLM充满好奇心，能从数据/训练/评测的每个环节都找到研究的乐趣。"
+}

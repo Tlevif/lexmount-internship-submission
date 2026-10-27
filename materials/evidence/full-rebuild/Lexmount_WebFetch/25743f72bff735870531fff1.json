@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21649",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21649",
+  "checked_at_utc": "2026-10-27T13:10:08.964499+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：数据科学 | 工作地点：上海市，北京市，深圳市 | 项目：其他项目",
+    "dom_id": "993299",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21649",
+    "language": "zh-cn",
+    "main_text": "职位类型：数据科学\n工作地点：上海市，北京市，深圳市\n项目：其他项目\n工作职责\n1. 协助分析团队完成数据洞察、分析工作（可能是增长方向，或是通用方向） ； 2. 根据业务目标，找到潜在机会点或是问题发现，并带领/协助业务&算法团队解决问题。\n任职资格\n1. 本科及以上学历，统计学、数学、物理学、计算机、经济学、社会学等相关专业优先； 2. 逻辑思维强，具备数据敏感度，能从复杂业务问题中拆解结构、提炼规律； 3. 掌握Claude Code/Codex 等AI工具； 4. 对小红书多业务领域（如社区内容、商业价值等）多方向感兴趣者，并愿意往多方向学习、探索。 5. 掌握SQL、Python等编程能力，了解A/B 实验逻辑，机器学习和因果推断者分析方法者优先； 6. 实习 6 个月及以上者优先。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 351,
+      "warnings": []
+    },
+    "request_id": "2d36e6e5-b516-46fd-8aa8-1d9554745140",
+    "status_code": 200,
+    "title": "数据科学与分析实习生（算法/用户增长）",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21649"
+  },
+  "responsibilities": "1. 协助分析团队完成数据洞察、分析工作（可能是增长方向，或是通用方向） ； 2. 根据业务目标，找到潜在机会点或是问题发现，并带领/协助业务&算法团队解决问题。",
+  "requirements": "1. 本科及以上学历，统计学、数学、物理学、计算机、经济学、社会学等相关专业优先； 2. 逻辑思维强，具备数据敏感度，能从复杂业务问题中拆解结构、提炼规律； 3. 掌握Claude Code/Codex 等AI工具； 4. 对小红书多业务领域（如社区内容、商业价值等）多方向感兴趣者，并愿意往多方向学习、探索。 5. 掌握SQL、Python等编程能力，了解A/B 实验逻辑，机器学习和因果推断者分析方法者优先； 6. 实习 6 个月及以上者优先。"
+}

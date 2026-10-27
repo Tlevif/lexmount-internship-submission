@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7695759047416613129",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7695759047416613129/detail",
+  "checked_at_utc": "2026-10-27T13:04:44.313030+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7695759047416613129",
+  "code": 0,
+  "title": "code agent 后训练算法实习生",
+  "responsibilities": "面壁智能基础模型团队，方向聚焦于提升端侧、云侧自研模型的长程 Code Agent 能力。本岗位主要负责长程代码任务的后训练优化，覆盖环境构建、轨迹合成、强化学习与上线后的持续迭代，使模型在多轮交互、多文件修改、长程任务执行、错误恢复与闭环交付中稳定泛化。\n主要负责长程 Code Agent 能力的后训练优化，包括但不限于：\n数据 scaling：构建高质量、多样化的 Agent 环境，用于 SFT 轨迹合成与 RL 训练\n优化 RL 算法，重点包括：\n1.奖励优化：奖励设计、过程奖励与细粒度奖励、长轨迹信用分配等，引导模型习得稳定的解题模式\n2.训练稳定性：通过重要性采样、loss 调整等方法维持梯度稳定；在更快的 infra 优化引入训推差异等不稳定因素时，进一步保证训练稳定\n3.探索优化：优化模型的搜索与采样方式，提升对更优轨迹的探索效率\n4.RL 训练加速：探索 single rollout 或 partial rollout + critic assignment 等方法，降低 rollout 长尾，提升 RL 整体速度\n5.多 Agent 优化：提升模型原生的多 Agent 协作能力，提高 test-time compute 的效率\n6.在线学习与持续学习：在模型部署上线后持续优化性能，形成训练与线上反馈的闭环",
+  "requirements": "职位要求：\n1.可以持续实习 6 个月及以上\n2.硕士或博士在读，优秀本科生也可投递\n3.具备分布式训练经验，熟悉大模型 post-training（SFT / RL）流程\n4.能够高效利用 AI 工具，并依据实验结果进行快速归因与迭代\n\n优先考虑：\n1.具备扎实的强化学习理论背景（策略优化、信用分配、探索与样本效率等）\n2.在 ACL / EMNLP / NAACL 或 NeurIPS / ICML / ICLR 等顶级会议发表过论文\n3.参加过数学、信息学、物理奥林匹克竞赛，或 ACM / ICPC\n4.拥有基座模型研发或训练 Infra 优化经验\n5.有 Code Agent、长程任务或强化学习相关项目经验"
+}

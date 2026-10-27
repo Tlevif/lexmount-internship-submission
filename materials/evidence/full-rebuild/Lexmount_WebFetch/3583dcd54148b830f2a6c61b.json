@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199908240001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199908240001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:59.167507+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou / Shenzhen | Technology | Alibaba Project Intern",
+    "dom_id": "992760",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908240001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "移动端 AI 功能研发实习生\nUpdated on 2026-07-27\nHangzhou / Shenzhen\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、参与移动端业务模块与 AI 能力模块的研发工作，负责端侧大模型集成、多模态交互、Agent 应用等 AI Native 特性在客户端的实现与迭代；\n2、参与创新业务及 AI 眼镜、可穿戴设备等智能硬件在移动端的落地，包括设备连接、多模态数据采集、实时推理、端云协同、AR/HUD 渲染等关键链路的开发与调优；\n3、参与移动端 AI 工程基础设施建设，包括模型部署、Prompt 管理、推理性能优化、AI 全链路埋点与效果评估等工程能力沉淀。\nQualifications\n1、计算机、软件工程、人工智能等相关专业本科及以上学历；\n2、熟悉移动端系统原理，了解移动端软件的开发、编译、构建、系统集成和上架应用市场流程；有 App 项目经验者优先；\n3、理解 Objective-C、Swift 语言，理解 Runtime、RunLoop、GCD、内存管理等基础机制者优先 或者 理解 Java、Kotlin 语言；理解 ART、Binder、View 渲染、协程等基础机制者优先\n掌握 APP 性能（启动、流畅度、包大小、功耗）与稳定性优化的基本方法，有 C/C++ 编码经验者优先；\n4、对大模型应用开发有浓厚兴趣，了解 Prompt 工程、Function Calling、Tool Use、RAG、Agent 等基本概念；有大模型 API 调用、AI 应用 Demo（如 Chatbot、AI 助手、AIGC 小工具）开发经验者优先；\n5、对多模态交互（实时语音对话、ASR/TTS、VQA、OCR、AI 音视频、数字人、实时翻译等）有兴趣与实践者优先；了解 WebRTC、流式协议基础知识者加分；\n6、熟练使用 Claude Code、Cursor、Copilot 等 AI 编程工具进行日常开发；有 AI Coding 提效经验、Skill/Agent/MCP 扩展开发经验、开源社区贡献者优先。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1048,
+      "warnings": []
+    },
+    "request_id": "0e6a4099-661a-4843-8241-ae51f4e714ea",
+    "status_code": 200,
+    "title": "移动端 AI 功能研发实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908240001?deptCodes="
+  },
+  "responsibilities": "1、参与移动端业务模块与 AI 能力模块的研发工作，负责端侧大模型集成、多模态交互、Agent 应用等 AI Native 特性在客户端的实现与迭代；\n2、参与创新业务及 AI 眼镜、可穿戴设备等智能硬件在移动端的落地，包括设备连接、多模态数据采集、实时推理、端云协同、AR/HUD 渲染等关键链路的开发与调优；\n3、参与移动端 AI 工程基础设施建设，包括模型部署、Prompt 管理、推理性能优化、AI 全链路埋点与效果评估等工程能力沉淀。",
+  "requirements": "1、计算机、软件工程、人工智能等相关专业本科及以上学历；\n2、熟悉移动端系统原理，了解移动端软件的开发、编译、构建、系统集成和上架应用市场流程；有 App 项目经验者优先；\n3、理解 Objective-C、Swift 语言，理解 Runtime、RunLoop、GCD、内存管理等基础机制者优先 或者 理解 Java、Kotlin 语言；理解 ART、Binder、View 渲染、协程等基础机制者优先\n掌握 APP 性能（启动、流畅度、包大小、功耗）与稳定性优化的基本方法，有 C/C++ 编码经验者优先；\n4、对大模型应用开发有浓厚兴趣，了解 Prompt 工程、Function Calling、Tool Use、RAG、Agent 等基本概念；有大模型 API 调用、AI 应用 Demo（如 Chatbot、AI 助手、AIGC 小工具）开发经验者优先；\n5、对多模态交互（实时语音对话、ASR/TTS、VQA、OCR、AI 音视频、数字人、实时翻译等）有兴趣与实践者优先；了解 WebRTC、流式协议基础知识者加分；\n6、熟练使用 Claude Code、Cursor、Copilot 等 AI 编程工具进行日常开发；有 AI Coding 提效经验、Skill/Agent/MCP 扩展开发经验、开源社区贡献者优先。"
+}

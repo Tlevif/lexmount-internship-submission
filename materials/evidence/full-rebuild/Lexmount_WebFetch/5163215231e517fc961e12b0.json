@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199905380002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199905380002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:33.464446+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992801",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905380002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-AI Coding先锋\nUpdated on 2026-05-28\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n你的使命 ：代码是构建数字世界的积木，而我们正在重塑积木的搭建方式。 我们不满足于简单的“代码补全”，我们正在构建一个“能读懂整个软件工程”的 AI 智能体。 在这里，代码不仅是被编写的，更是被 AI 理解、推理和共创的。你将加入一支精英特种部队，用最前沿的 LLM 技术，把科幻电影里的编程场景变成数百万开发者手中的日常工具。\n你将面临的挑战 (Responsibilities)\n- 重塑代码生成引擎：不仅仅是 生成，你要挑战如何让 AI 写出符合工程美感、可维护、无 Bug 的生产级代码；\n- 突破 Context 极限：解决大模型“记不住”的问题，利用 RAG、静态分析（AST）等技术，赋予 AI - 阅读海量项目代码的能力，实现跨文件的深度语义理解；\n- 打造 AI 编程 Agent：参与设计具备规划、执行、反思能力的编程智能体，让它像资深架构师一样思考；\n- 探索交互的边界：从 Chat 到 Edit，从图生代码 to 语音编程，你将探索下一代 IDE 的交互形态。\nQualifications\n我们寻找这样的你 (Requirements)\n- 极客精神：看到重复劳动就想写脚本自动化，看到烂代码就忍不住重构。你相信 AI 是放大创造力的杠杆，而非单纯的替代品；\n- 硬核背景：计算机/软件工程相关专业硕士及以上（优秀本科生亦可）；\n- 语言能力：精通 Go (首选)、Python 或 TypeScript。你不仅会写，还懂语言背后的原理（如编译原理、AST）；\n- 抗压与迭代：享受从 0 到 1 的混沌，能在模糊需求中快速验证假设，Fail fast, learn faster。\n加分项 (Bonus Skills)\n- 学术大牛：在 ACL/ICLR/NeurIPS 等顶会发表过 LLM/Code Generation 相关论文；\n- 开源贡献：拥有高质量的 GitHub 开源项目，或深入研究过 VS Code / IntelliJ 插件开发；\n- 大模型玩家：熟悉 LangChain, LlamaIndex，或有过微调 Code Llama/DeepSeek 等代码模型的经验。\n成长与回报\n- 核心战场：你的代码将直接运行在下一代 IDE 核心中，影响全球开发者的编码习惯；\n- 顶级导师：与业内顶尖的 AI 架构师结对编程，获得 Code Review 的极致打磨；\n- 无限可能：表现优异者提供极具竞争力的转正 Offer。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1269,
+      "warnings": []
+    },
+    "request_id": "bc07d3f0-ed9e-4693-afd1-dbc9582e5875",
+    "status_code": 200,
+    "title": "日常实习生-AI Coding先锋",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905380002?deptCodes="
+  },
+  "responsibilities": "你的使命 ：代码是构建数字世界的积木，而我们正在重塑积木的搭建方式。 我们不满足于简单的“代码补全”，我们正在构建一个“能读懂整个软件工程”的 AI 智能体。 在这里，代码不仅是被编写的，更是被 AI 理解、推理和共创的。你将加入一支精英特种部队，用最前沿的 LLM 技术，把科幻电影里的编程场景变成数百万开发者手中的日常工具。\n你将面临的挑战 (Responsibilities)\n- 重塑代码生成引擎：不仅仅是 生成，你要挑战如何让 AI 写出符合工程美感、可维护、无 Bug 的生产级代码；\n- 突破 Context 极限：解决大模型“记不住”的问题，利用 RAG、静态分析（AST）等技术，赋予 AI - 阅读海量项目代码的能力，实现跨文件的深度语义理解；\n- 打造 AI 编程 Agent：参与设计具备规划、执行、反思能力的编程智能体，让它像资深架构师一样思考；\n- 探索交互的边界：从 Chat 到 Edit，从图生代码 to 语音编程，你将探索下一代 IDE 的交互形态。",
+  "requirements": "我们寻找这样的你 (Requirements)\n- 极客精神：看到重复劳动就想写脚本自动化，看到烂代码就忍不住重构。你相信 AI 是放大创造力的杠杆，而非单纯的替代品；\n- 硬核背景：计算机/软件工程相关专业硕士及以上（优秀本科生亦可）；\n- 语言能力：精通 Go (首选)、Python 或 TypeScript。你不仅会写，还懂语言背后的原理（如编译原理、AST）；\n- 抗压与迭代：享受从 0 到 1 的混沌，能在模糊需求中快速验证假设，Fail fast, learn faster。\n加分项 (Bonus Skills)\n- 学术大牛：在 ACL/ICLR/NeurIPS 等顶会发表过 LLM/Code Generation 相关论文；\n- 开源贡献：拥有高质量的 GitHub 开源项目，或深入研究过 VS Code / IntelliJ 插件开发；\n- 大模型玩家：熟悉 LangChain, LlamaIndex，或有过微调 Code Llama/DeepSeek 等代码模型的经验。\n成长与回报\n- 核心战场：你的代码将直接运行在下一代 IDE 核心中，影响全球开发者的编码习惯；\n- 顶级导师：与业内顶尖的 AI 架构师结对编程，获得 Code Review 的极致打磨；\n- 无限可能：表现优异者提供极具竞争力的转正 Offer。"
+}

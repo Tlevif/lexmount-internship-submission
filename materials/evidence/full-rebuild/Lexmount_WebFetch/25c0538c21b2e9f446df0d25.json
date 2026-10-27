@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903880015",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903880015?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:46.870345+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992815",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903880015?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-业务技术-AI Agent应用算法实习生\nUpdated on 2026-05-10\nHangzhou\nBasic Information\nGraduation Dates: 2027-10-31 - 2029-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、主导基于大模型的AI Agent全生命周期研发，包括通用型及垂直领域AI Agent的应用构建、模型训练与评测；\n2、运用SFT、RL等Post-training训练方法，提升大模型在自主规划（Planning）、多步推理、工具调用、RAG、记忆、长周期任务执行等方面的能力；\n3、跟踪LLM与Agent领域的国际前沿技术动态，推动技术创新在业务场景中的落地应用，重点突破复杂推理、Agent记忆、自演进系统、Agentic RL等方向的技术创新；\n4、持续优化Agent算法与系统架构，构建端到端的Agent评测体系，开发自动化评估工具与多维评价指标，提升Agent系统性能与效率，打造业内领先的AI Agent系统级技术方案。\n5、具体业务/研究场景包括但不限于：面向Agent基础设施的通用系统/组件的自优化算法、记忆系统、智能运维Agent、多Agent协作系统、Harness设计、高效后训练Pipeline等\nQualifications\n1、计算机/人工智能/数学等相关专业硕士及以上学历（博士及顶会论文发表者优先）；\n2、对大模型前沿技术充满热情，具备攻克复杂技术难题的能力，能够快速实现 问题建模→应用构建→实验迭代；\n3、精通Python及PyTorch/TensorFlow等框架，具备Qwen、Deepseek等开源模型的迭代优化经验者优先；\n4、具备较强的AI Coding能力，熟练掌握至少一种AI Coding工具，使用AI Coding完成过复杂项目落地者优先；\n5、深入理解Transformer架构、SFT/RL训练范式及上下文工程，了解至少一种Agent开发框架，有完整智能体系统搭建经验者优先。\n（注：实习申请者需保证3个月或以上的实习周期，提供充足的GPU算力资源及丰富的业务场景实践机会）\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 999,
+      "warnings": []
+    },
+    "request_id": "8dc976a1-6fd0-4c0d-a4a6-674fd329b99b",
+    "status_code": 200,
+    "title": "日常实习生-业务技术-AI Agent应用算法实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903880015?deptCodes="
+  },
+  "responsibilities": "1、主导基于大模型的AI Agent全生命周期研发，包括通用型及垂直领域AI Agent的应用构建、模型训练与评测；\n2、运用SFT、RL等Post-training训练方法，提升大模型在自主规划（Planning）、多步推理、工具调用、RAG、记忆、长周期任务执行等方面的能力；\n3、跟踪LLM与Agent领域的国际前沿技术动态，推动技术创新在业务场景中的落地应用，重点突破复杂推理、Agent记忆、自演进系统、Agentic RL等方向的技术创新；\n4、持续优化Agent算法与系统架构，构建端到端的Agent评测体系，开发自动化评估工具与多维评价指标，提升Agent系统性能与效率，打造业内领先的AI Agent系统级技术方案。\n5、具体业务/研究场景包括但不限于：面向Agent基础设施的通用系统/组件的自优化算法、记忆系统、智能运维Agent、多Agent协作系统、Harness设计、高效后训练Pipeline等",
+  "requirements": "1、计算机/人工智能/数学等相关专业硕士及以上学历（博士及顶会论文发表者优先）；\n2、对大模型前沿技术充满热情，具备攻克复杂技术难题的能力，能够快速实现 问题建模→应用构建→实验迭代；\n3、精通Python及PyTorch/TensorFlow等框架，具备Qwen、Deepseek等开源模型的迭代优化经验者优先；\n4、具备较强的AI Coding能力，熟练掌握至少一种AI Coding工具，使用AI Coding完成过复杂项目落地者优先；\n5、深入理解Transformer架构、SFT/RL训练范式及上下文工程，了解至少一种Agent开发框架，有完整智能体系统搭建经验者优先。\n（注：实习申请者需保证3个月或以上的实习周期，提供充足的GPU算力资源及丰富的业务场景实践机会）"
+}

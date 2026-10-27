@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21970",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21970",
+  "checked_at_utc": "2026-10-27T13:10:01.675366+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：策略算法 | 工作地点：北京市，上海市，杭州市 | 项目：其他项目",
+    "dom_id": "993290",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21970",
+    "language": "zh-cn",
+    "main_text": "职位类型：策略算法\n工作地点：北京市，上海市，杭州市\n项目：其他项目\n工作职责\n岗位介绍 面向 效果广告创意生成，研发 LLM 文本生成与 Creative Agent 能力，业务覆盖客资收集、应用下载、种草广告、UD、闭环及非闭环电商广告、小程序推广、平台 UG 等营销目标。 我们希望模型能够理解广告主诉求、行业知识、商品与服务信息、搜索语境及营销目标，自主规划并生成原生、真实、合规且具备投放竞争力的广告创意内容。 岗位职责 1.行业与营销目标自适应内容生成 面向种草、线索、电商、应用增长及平台 UG 等效果广告场景，构建融合广告主意图、商品与服务信息、搜索语境、商业类目及营销目标的多条件生成框架，探索多模板生成、SFT/GRPO、偏好优化、知识增强与可控生成等技术。 2.数据、Reward 与 Evaluation 体系 从大规模真实投放数据中挖掘分行业、分场景的优质创意范式，将效果差异沉淀为训练数据、动态 Rubrics 与 Judge/Reward，建设覆盖合规准入、指令遵循和内容质量的分层 Benchmark，持续推动离线评测与线上效果对齐。 3.Creative Agent 创意生产闭环 构建覆盖业务理解、创意规划、工具调用、内容生成、审核评估与反馈学习的 Creative Agent，使模型能够针对不同营销目标自主规划、生产和优化广告创意，推动相关能力规模化迭代与落地。\n任职资格\n1.有顶会论文、开源项目或相关竞赛经历； 2.2028 届及以后毕业，每周至少实习4天，持续6个月以上； 3.有文本生成、SFT、RLHF/DPO/GRPO、Reward Model、LLM Evaluation、知识增强或 Agent 相关经验者优先； 4.具备良好的实验分析能力，能够通过 bad case 定位模型、数据及评测链路中的问题； 5.自驱力强、沟通清晰，对真实商业场景中的生成式 AI 问题有兴趣。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 815,
+      "warnings": []
+    },
+    "request_id": "07eaf27f-cb16-4dcb-b5e5-59c7084756dc",
+    "status_code": 200,
+    "title": "研究型实习生-广告大模型算法工程师（创意生成）",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21970"
+  },
+  "responsibilities": "岗位介绍 面向 效果广告创意生成，研发 LLM 文本生成与 Creative Agent 能力，业务覆盖客资收集、应用下载、种草广告、UD、闭环及非闭环电商广告、小程序推广、平台 UG 等营销目标。 我们希望模型能够理解广告主诉求、行业知识、商品与服务信息、搜索语境及营销目标，自主规划并生成原生、真实、合规且具备投放竞争力的广告创意内容。 岗位职责 1.行业与营销目标自适应内容生成 面向种草、线索、电商、应用增长及平台 UG 等效果广告场景，构建融合广告主意图、商品与服务信息、搜索语境、商业类目及营销目标的多条件生成框架，探索多模板生成、SFT/GRPO、偏好优化、知识增强与可控生成等技术。 2.数据、Reward 与 Evaluation 体系 从大规模真实投放数据中挖掘分行业、分场景的优质创意范式，将效果差异沉淀为训练数据、动态 Rubrics 与 Judge/Reward，建设覆盖合规准入、指令遵循和内容质量的分层 Benchmark，持续推动离线评测与线上效果对齐。 3.Creative Agent 创意生产闭环 构建覆盖业务理解、创意规划、工具调用、内容生成、审核评估与反馈学习的 Creative Agent，使模型能够针对不同营销目标自主规划、生产和优化广告创意，推动相关能力规模化迭代与落地。",
+  "requirements": "1.有顶会论文、开源项目或相关竞赛经历； 2.2028 届及以后毕业，每周至少实习4天，持续6个月以上； 3.有文本生成、SFT、RLHF/DPO/GRPO、Reward Model、LLM Evaluation、知识增强或 Agent 相关经验者优先； 4.具备良好的实验分析能力，能够通过 bad case 定位模型、数据及评测链路中的问题； 5.自驱力强、沟通清晰，对真实商业场景中的生成式 AI 问题有兴趣。"
+}

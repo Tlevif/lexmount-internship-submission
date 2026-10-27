@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7671136225139689766",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7671136225139689766/detail",
+  "checked_at_utc": "2026-10-27T13:04:45.464923+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7671136225139689766",
+  "code": 0,
+  "title": "具身智能算法工程实习生",
+  "responsibilities": "岗位方向\n参与具身智能机器人相关项目工程开发，覆盖数据处理、模型训练、真机部署与效果评测等环节，一起推进实验验证与方案迭代。\n工作内容\n1. 参与机器人示教数据处理，为模型训练提供高质量数据支撑\n2. 参与模仿学习 / VLA 等策略的训练、复现与对比分析\n3. 参与模型在真机环境中的部署与测试，根据实际表现迭代算法方案。\n4. 参与相关预演项目demo的实现",
+  "requirements": "1. 自动化、机器人、计算机、人工智能、电子工程等相关专业本科或硕士在读\n2. 了解模仿学习 / VLA / Diffusion Policy / ACT 等具身策略\n3. 动手能力强，对在真实硬件上部署和调试算法有耐心和兴趣，有真机部署经验\n4. 熟悉Python，掌握PyTorch或其他主流深度学习框架\n5. 自驱力强，面对不确定性问题时能够主动探索、独立思考并推动解决\n加分项\n- 有真机部署或具身智能相关的研究或项目经历\n- 可长期线下实习"
+}

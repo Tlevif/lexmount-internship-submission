@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074692139044",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074692139044",
+  "checked_at_utc": "2026-10-27T13:07:40.668135+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信小微-面向小程序复杂交互环境的强化学习 GUIAgent 决策机制研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "993093",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139044",
+    "language": "zh-cn",
+    "main_text": "课题描述\n本课题旨在研发能像真人一样感知并操作小程序的智能体。针对小程序多层嵌套、动态加载及跨页面逻辑等复杂环境，研究基于视觉与元数据融合的语义理解技术。通过深度强化学习（DRL）构建决策模型，解决在稀疏奖赏环境下的路径规划与长序列任务执行问题，实现 Agent 在未见场景下的自主探索与高成功率交互。\n课题要求\n1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程等专业的博士和优秀硕士；\n2、具备VLM相关的CPT、SFT、RL经验；\n3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 319,
+      "warnings": []
+    },
+    "request_id": "60e62979-a014-4c5e-be9a-c3e620c902bb",
+    "status_code": 200,
+    "title": "微信小微-面向小程序复杂交互环境的强化学习 GUIAgent 决策机制研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139044"
+  },
+  "responsibilities": "本课题旨在研发能像真人一样感知并操作小程序的智能体。针对小程序多层嵌套、动态加载及跨页面逻辑等复杂环境，研究基于视觉与元数据融合的语义理解技术。通过深度强化学习（DRL）构建决策模型，解决在稀疏奖赏环境下的路径规划与长序列任务执行问题，实现 Agent 在未见场景下的自主探索与高成功率交互。",
+  "requirements": "1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程等专业的博士和优秀硕士；\n2、具备VLM相关的CPT、SFT、RL经验；\n3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。"
+}

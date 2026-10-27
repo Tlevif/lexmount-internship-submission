@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7685613435107232054",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7685613435107232054/detail",
+  "checked_at_utc": "2026-10-27T13:04:44.882310+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7685613435107232054",
+  "code": 0,
+  "title": "大模型 Agent 数据算法实习生",
+  "responsibilities": "1、参与大模型 Agent 能力数据构建，探索如何让大模型更自主、可靠地完成长程复杂任务；\n2、从真实工作流、互联网等场景中挖掘高价值 Agent 任务，参与高质量训练数据、任务与交互环境的构建；\n3、参与 Agent 数据与环境构建相关的方法研究，包括但不限于：\n1）任务与环境构造、Trajectory 生成与筛选；\n2）研究任务与环境的自动化生产方法，探索 Agent 数据与环境的 Scaling Law；\n3）Reward / Verifier 的设计与构建。",
+  "requirements": "1、本科及以上学历在读，计算机、人工智能、软件工程及相关专业；\n2、具备较强的算法设计与开发能力，熟练使用 Claude Code、Codex 等工具进行开发、实验与数据处理；\n3、具备较强的论文阅读、算法理解与复现能力，有大模型研发、训练或 Agent 相关经验；\n4、在 ACL、EMNLP、NAACL、COLING、NeurIPS、ICML、ICLR 等会议发表过相关工作者优先。"
+}

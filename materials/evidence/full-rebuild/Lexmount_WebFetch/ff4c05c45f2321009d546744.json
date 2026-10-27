@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "19568",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/19568",
+  "checked_at_utc": "2026-10-27T13:09:56.268301+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：策略算法 | 工作地点：北京市，上海市 | 项目：其他项目",
+    "dom_id": "993284",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/19568",
+    "language": "zh-cn",
+    "main_text": "职位类型：策略算法\n工作地点：北京市，上海市\n项目：其他项目\n工作职责\n【岗位定位】本岗位侧重于构建广告投放的核心大脑。你将通过 LLM 与 Agent 技术，让模型在理解投放目标、制定策略、观测反思上达到业界顶尖水平，并在长期记忆、工具调用与自我迭代上持续突破，通过提升 AI 投放的智能上限，支撑小红书广告业务的核心场景，包括且不限于新客冷启动、账户诊断、素材生成、人群圈选与自动化出价等。 【工作内容】 1、AI 数字投手构建：基于 LLM 与 Agent 技术，研发 24 小时在线的\"AI 数字投手\"，实现从广告诊断、策略制定、素材生成到自动出价的全流程自动化托管； 2、记忆与知识体系搭建：构建面向广告业务的长期记忆机制（Long-term Memory）与领域知识库（RAG），使 AI 投手能持续学习历史投放经验、行业案例及平台规则，自行迭代； 3、技能编排与工具调用：开发标准化技能库（Skill Library），将出价调整、人群定向、创意 A/B 测试等原子能力封装为 Agent 可调用的工具，实现复杂任务的自动化编排； 4、供需语义匹配：用 LLM 把用户侧的自然语言需求结构化为可计算的意图表示，与供给侧的结构化供给描述做语义匹配，打通从召回、排序到出价的联动链路，涵盖召回通道设计、出价 Boost、Query 改写与语义去重、面向供给侧的人群圈选； 5、模型后训练与迭代：用 SFT、蒸馏、低维对比学习与 DPO / RL 后训练持续提升匹配与决策模型的效果，把线上后验信号转化为训练监督信号；并将 LLM 能力落到具体投放场景（如冷启动期的人群初始化与内容理解），按客户生命周期配套差异化策略； 6、仿真与评估体系：搭建广告投放的虚拟仿真环境（Simulator），用于 Agent 的低成本试错训练；建立多维度的 Agent 能力评估指标（如 ROI 提升率、响应延迟、策略稳定性）。\n任职资格\n1、技术背景：计算机、人工智能、自动化、数学等相关专业在读硕士及以上；精通 Python / C++，熟悉 PyTorch / TensorFlow 等主流深度学习框架； 2、Agent 核心技术：深入理解 LLM 应用开发，有 RAG、Function Calling、Memory Mechanism 的实际落地经验； 3、模型后训练与检索能力：熟悉 SFT、RL（DPO / RLHF / GRPO 等）等大模型后训练范式，理解对比学习、蒸馏、向量检索与召回模型的训练与调优；能把线上效果信号（点击、转化、精排分）转化为训练监督信号，推动模型效果持续上涨。 *加分项：有 AI Agent、多智能体协作（Multi-Agent）项目经验者优先；在 ICLR、NeurIPS、ICML、KDD 等顶会发表过相关论文者优先；有开源 Agent 项目或 GitHub 高星项目者优先；在广告投放、推荐或搜索场景有Agentic改造经验者优先。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 1237,
+      "warnings": []
+    },
+    "request_id": "163c7cfd-d420-4750-bc05-7cbb86bb4b98",
+    "status_code": 200,
+    "title": "广告Agentic投放算法实习生-商业算法",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/19568"
+  },
+  "responsibilities": "【岗位定位】本岗位侧重于构建广告投放的核心大脑。你将通过 LLM 与 Agent 技术，让模型在理解投放目标、制定策略、观测反思上达到业界顶尖水平，并在长期记忆、工具调用与自我迭代上持续突破，通过提升 AI 投放的智能上限，支撑小红书广告业务的核心场景，包括且不限于新客冷启动、账户诊断、素材生成、人群圈选与自动化出价等。\n工作内容\n 1、AI 数字投手构建：基于 LLM 与 Agent 技术，研发 24 小时在线的\"AI 数字投手\"，实现从广告诊断、策略制定、素材生成到自动出价的全流程自动化托管； 2、记忆与知识体系搭建：构建面向广告业务的长期记忆机制（Long-term Memory）与领域知识库（RAG），使 AI 投手能持续学习历史投放经验、行业案例及平台规则，自行迭代； 3、技能编排与工具调用：开发标准化技能库（Skill Library），将出价调整、人群定向、创意 A/B 测试等原子能力封装为 Agent 可调用的工具，实现复杂任务的自动化编排； 4、供需语义匹配：用 LLM 把用户侧的自然语言需求结构化为可计算的意图表示，与供给侧的结构化供给描述做语义匹配，打通从召回、排序到出价的联动链路，涵盖召回通道设计、出价 Boost、Query 改写与语义去重、面向供给侧的人群圈选； 5、模型后训练与迭代：用 SFT、蒸馏、低维对比学习与 DPO / RL 后训练持续提升匹配与决策模型的效果，把线上后验信号转化为训练监督信号；并将 LLM 能力落到具体投放场景（如冷启动期的人群初始化与内容理解），按客户生命周期配套差异化策略； 6、仿真与评估体系：搭建广告投放的虚拟仿真环境（Simulator），用于 Agent 的低成本试错训练；建立多维度的 Agent 能力评估指标（如 ROI 提升率、响应延迟、策略稳定性）。",
+  "requirements": "1、技术背景：计算机、人工智能、自动化、数学等相关专业在读硕士及以上；精通 Python / C++，熟悉 PyTorch / TensorFlow 等主流深度学习框架； 2、Agent 核心技术：深入理解 LLM 应用开发，有 RAG、Function Calling、Memory Mechanism 的实际落地经验； 3、模型后训练与检索能力：熟悉 SFT、RL（DPO / RLHF / GRPO 等）等大模型后训练范式，理解对比学习、蒸馏、向量检索与召回模型的训练与调优；能把线上效果信号（点击、转化、精排分）转化为训练监督信号，推动模型效果持续上涨。 *加分项：有 AI Agent、多智能体协作（Multi-Agent）项目经验者优先；在 ICLR、NeurIPS、ICML、KDD 等顶会发表过相关论文者优先；有开源 Agent 项目或 GitHub 高星项目者优先；在广告投放、推荐或搜索场景有Agentic改造经验者优先。"
+}

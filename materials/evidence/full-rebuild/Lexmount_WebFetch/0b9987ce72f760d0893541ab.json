@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904180001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904180001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:15.462348+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992779",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904180001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-多模态算法-未来生活实验室\nUpdated on 2026-06-29\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1.探索多模态大模型的高效训练，包括预训练、SFT、及RLHF等技术；\n2.探索高效的视觉编码器结构、对齐范式、训练策略、数据清洗、质量分级、数据合成等；\n3.探索多模态大模型的逻辑推理、planing、完成复杂任务的能力；\n4.探索原生多模态大模型的架构与训练范式；\n5.探索图像、视频、音频的全模态大模型；\n6.结合淘天业务，推动多模态大模型在搜索、推荐、广告等业务中的应用。\nQualifications\n1.计算机视觉、自然语言处理、语音处理、机器学习、数据挖掘、人工智能等相关专业的硕士或博士；\n2.具备较好的编程能力，动手能力强，熟练使用至少一种开源深度学习框架;\n3.优秀的英文文献阅读能力,有人工智能顶会顶刊论文发表者优先，ACM竞赛获奖者优先。\nHiring Business\nToken Foundry",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 560,
+      "warnings": []
+    },
+    "request_id": "2826047c-1f44-494c-99cc-4eadf69279fa",
+    "status_code": 200,
+    "title": "日常实习生-多模态算法-未来生活实验室",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904180001?deptCodes="
+  },
+  "responsibilities": "1.探索多模态大模型的高效训练，包括预训练、SFT、及RLHF等技术；\n2.探索高效的视觉编码器结构、对齐范式、训练策略、数据清洗、质量分级、数据合成等；\n3.探索多模态大模型的逻辑推理、planing、完成复杂任务的能力；\n4.探索原生多模态大模型的架构与训练范式；\n5.探索图像、视频、音频的全模态大模型；\n6.结合淘天业务，推动多模态大模型在搜索、推荐、广告等业务中的应用。",
+  "requirements": "1.计算机视觉、自然语言处理、语音处理、机器学习、数据挖掘、人工智能等相关专业的硕士或博士；\n2.具备较好的编程能力，动手能力强，熟练使用至少一种开源深度学习框架;\n3.优秀的英文文献阅读能力,有人工智能顶会顶刊论文发表者优先，ACM竞赛获奖者优先。"
+}

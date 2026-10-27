@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7685612476641904923",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7685612476641904923/detail",
+  "checked_at_utc": "2026-10-27T13:04:45.034542+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7685612476641904923",
+  "code": 0,
+  "title": "强化学习算法实习生（LLM Agent 方向）",
+  "responsibilities": "1、面向 agentic 任务（多轮工具调用、代码修复 / SWE、网页搜索与信息检索、长程任务规划等）开展 LLM 的RL 后训练研究；\n2、研究并改进面向多轮、长 horizon、稀疏奖励场景的 RL 算法（GRPO / PPO 及其变体），包括优势估计与 credit assignment、off-policy 修正、探索与熵控制、训练稳定性等问题；\n3、参与 agent 任务的训练数据与评测设计：构造训练任务，设计可验证的奖励信号，分析 rollout 轨迹质量；\n4、独立设计并执行实验：数据构造与筛选、消融实验、训练曲线与 rollout 轨迹分析，定位 reward hacking、训练崩溃等问题并给出改进方案，撰写技术报告；有机会产出论文或开源成果；\n5、跟踪 agent RL 前沿工作并快速复现，在内部训练框架中落地验证。",
+  "requirements": "1、硕士及以上学历在读，计算机、人工智能、数学等相关专业；能持续实习 6 个月优先；\n2、扎实的机器学习基础，熟悉 Transformer 架构，熟悉强化学习基本理论（策略梯度、PPO、GRPO 等），理解 LLM 后训练（SFT / RLHF / RLVR / OPD）的流程；\n3、良好的 coding 能力与良好的实验素养：熟练使用 Python 和 PyTorch，能从训练指标和 rollout 样本中发现问题并得出可信结论；\n4、自驱力强，能独立推进研究课题；\n5、优秀的沟通与协作能力：能清晰地表达实验思路、结论和遇到的问题，与团队成员高效协作。\n加分项\n1、有 LLM RL 训练（RLHF / RLVR / agent RL）的实际经验；\n2、有强化学习理论研究背景（策略优化、探索、credit assignment、off-policy 学习等），或相关实习；\n3、在 NeurIPS / ICML / ICLR / ACL 等会议发表过相关论文，或有高质量开源项目；\n4、ACM-ICPC / Kaggle 等竞赛获奖经历。"
+}

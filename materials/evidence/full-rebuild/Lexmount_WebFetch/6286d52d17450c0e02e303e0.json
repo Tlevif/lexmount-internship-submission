@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "20815",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/20815",
+  "checked_at_utc": "2026-10-27T13:09:55.982519+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：后端开发 | 工作地点：北京市，上海市 | 项目：其他项目",
+    "dom_id": "993283",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/20815",
+    "language": "zh-cn",
+    "main_text": "职位类型：后端开发\n工作地点：北京市，上海市\n项目：其他项目\n工作职责\n1. 参与小红书社区相关产品的需求分析、功能设计和开发实现； 2. 使用 Python/Go/Java 等语言进行后端服务开发，保证代码质量和系统稳定性； 3. 参与系统架构设计和技术方案讨论，持续优化系统性能； 4. 与产品、设计、测试等团队紧密协作，推动项目高质量交付； 5. 关注前沿技术发展，将新技术应用到实际业务场景中。\n任职资格\n1. 2027 届毕业生，计算机、软件工程、人工智能等相关专业本科及以上学历； 2. 扎实的编程基础，熟悉至少一门编程语言（Python/Go/Java/C++ 等）； 3. 良好的逻辑思维和问题分析能力，能够快速学习新技术； 4. 具备良好的沟通协作能力和团队合作精神； 5. 有全栈开发经验、AI 应用开发经验或开源项目贡献者优先； 6. 实习时间不少于 3 个月，每周出勤 5 天。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 401,
+      "warnings": []
+    },
+    "request_id": "43da3588-4378-41e7-873b-55ea30899956",
+    "status_code": 200,
+    "title": "【27届实习】Product Engineer-产品工程师（AI与全栈方向）-社区工程",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/20815"
+  },
+  "responsibilities": "1. 参与小红书社区相关产品的需求分析、功能设计和开发实现； 2. 使用 Python/Go/Java 等语言进行后端服务开发，保证代码质量和系统稳定性； 3. 参与系统架构设计和技术方案讨论，持续优化系统性能； 4. 与产品、设计、测试等团队紧密协作，推动项目高质量交付； 5. 关注前沿技术发展，将新技术应用到实际业务场景中。",
+  "requirements": "1. 2027 届毕业生，计算机、软件工程、人工智能等相关专业本科及以上学历； 2. 扎实的编程基础，熟悉至少一门编程语言（Python/Go/Java/C++ 等）； 3. 良好的逻辑思维和问题分析能力，能够快速学习新技术； 4. 具备良好的沟通协作能力和团队合作精神； 5. 有全栈开发经验、AI 应用开发经验或开源项目贡献者优先； 6. 实习时间不少于 3 个月，每周出勤 5 天。"
+}

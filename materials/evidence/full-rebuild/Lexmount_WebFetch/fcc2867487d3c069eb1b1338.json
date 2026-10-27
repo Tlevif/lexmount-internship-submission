@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199909600006",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199909600006?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:09.271438+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992675",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909600006?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "千问办公-AI全栈开发实习生\nUpdated on 2026-10-15\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 在导师指导下参与千问办公 iOS、Android、HarmonyOS 客户端的功能开发、问题修复和体验优化。\n2. 参与 AI Agent 移动端体验建设，包括流式交互、工具调用、任务状态展示、多模态输入及异常处理。\n3. 参与 Rust Core、Native 桥接或 Mobile BFF 相关模块开发，协助维护跨端接口和数据契约。\n4. 参与客户端性能、稳定性、埋点、日志及自动化测试建设，协助定位和解决端到端问题。\n5. 编写技术文档和测试记录，配合团队完成代码评审、联调及版本交付。\nQualifications\n1. 在导师指导下参与千问办公 iOS、Android、HarmonyOS 客户端的功能开发、问题修复和体验优化。\n2. 参与 AI Agent 移动端体验建设，包括流式交互、工具调用、任务状态展示、多模态输入及异常处理。\n3. 参与 Rust Core、Native 桥接或 Mobile BFF 相关模块开发，协助维护跨端接口和数据契约。\n4. 参与客户端性能、稳定性、埋点、日志及自动化测试建设，协助定位和解决端到端问题。\n5. 编写技术文档和测试记录，配合团队完成代码评审、联调及版本交付。\nHiring Business\nQwenWork",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 723,
+      "warnings": []
+    },
+    "request_id": "6d69d4c4-4b43-49bf-a611-b1f8aeb12075",
+    "status_code": 200,
+    "title": "千问办公-AI全栈开发实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909600006?deptCodes="
+  },
+  "responsibilities": "1. 在导师指导下参与千问办公 iOS、Android、HarmonyOS 客户端的功能开发、问题修复和体验优化。\n2. 参与 AI Agent 移动端体验建设，包括流式交互、工具调用、任务状态展示、多模态输入及异常处理。\n3. 参与 Rust Core、Native 桥接或 Mobile BFF 相关模块开发，协助维护跨端接口和数据契约。\n4. 参与客户端性能、稳定性、埋点、日志及自动化测试建设，协助定位和解决端到端问题。\n5. 编写技术文档和测试记录，配合团队完成代码评审、联调及版本交付。",
+  "requirements": "1. 在导师指导下参与千问办公 iOS、Android、HarmonyOS 客户端的功能开发、问题修复和体验优化。\n2. 参与 AI Agent 移动端体验建设，包括流式交互、工具调用、任务状态展示、多模态输入及异常处理。\n3. 参与 Rust Core、Native 桥接或 Mobile BFF 相关模块开发，协助维护跨端接口和数据契约。\n4. 参与客户端性能、稳定性、埋点、日志及自动化测试建设，协助定位和解决端到端问题。\n5. 编写技术文档和测试记录，配合团队完成代码评审、联调及版本交付。"
+}

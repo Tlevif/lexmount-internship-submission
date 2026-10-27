@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199905280009",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199905280009?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:31.967171+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992799",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905280009?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-AI Coding Agent实习生\nUpdated on 2026-05-29\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n负责AI代码生成核心技术研发、智能IDE后端架构建设、工程级代码理解能力开发、企业级与国际化能力建设，以及AI编程新方向的探索与产品化落地。\n工作职责：\n1、负责基于AI模型的代码生成与补全核心算法的研发工作；\n2、优化生成代码的质量、准确性与可维护性，确保符合工程规范；\n3、构建支持多语言、多场景的通用代码生成能力体系；\n4、设计并实现生成结果的智能排序与推荐机制；\n5、负责AI编程工具后端服务的架构设计、开发与持续迭代。\n关键挑战和产出：\n1、你将打造业界领先的 Coding Agent 引擎，让生成的代码不仅正确，更具备工程美感与长期可维护性；\n2、你将面对无数复杂 Agent 工程问题，包括上下文管理、智能体架构、编码、测试各种智能体开发，以及性能调优。我们可以携手一一突破；\n3、你将深入 AI Agent 核心算法领域，解决长期记忆、大规模智能体协同等复杂问题；\n4、你将参与 Qoder 智能体大模型的设计和训练过程，与通义算法工程师一起打造世界顶尖模型。\nQualifications\n任职要求：\n1、计算机科学、软件工程或相关专业硕士及以上学历；\n2、有前端开发经验（React JS）、有 vs code 插件开发经验、了解常见 AI 技术、AI Coding 活跃用户；\n3、精通Python、Go或C++至少一种语言有 Go 语言背景最佳，熟悉主流深度学习框架（如PyTorch、TensorFlow）；\n4、具备扎实的算法与数据结构基础，有代码生成、程序合成或大模型应用经验者优先。\n期望你：\n你是那种看到一段冗余代码就忍不住想自动重构的人；你相信AI不是替代开发者，而是放大创造力的杠杆；你能在模糊需求中快速验证假设，在失败中迭代出最优解；你不被技术栈限制，而是以问题为中心快速学习新范式；你享受从0到1的混沌，也执着于1到100的极致打磨。我们不在乎你有多少年经验，只在乎你解决过多少“不可能”的问题。\n成长与未来：\n在这个岗位上，你将深度掌握 AI Agent 工程构建的核心技术，以及了解智能体大模型训练和评测细节。深度参与到具体难题的定义和突破过程中，获得一手经验和知识。相信在这个过程中你的工程算法能力可以快速成长，并在获得进入最核心 AI 领域的门票。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1190,
+      "warnings": []
+    },
+    "request_id": "ea51a9c8-f34a-4d1f-bcf6-a972c9b089e6",
+    "status_code": 200,
+    "title": "日常实习生-AI Coding Agent实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905280009?deptCodes="
+  },
+  "responsibilities": "负责AI代码生成核心技术研发、智能IDE后端架构建设、工程级代码理解能力开发、企业级与国际化能力建设，以及AI编程新方向的探索与产品化落地。\n工作职责：\n1、负责基于AI模型的代码生成与补全核心算法的研发工作；\n2、优化生成代码的质量、准确性与可维护性，确保符合工程规范；\n3、构建支持多语言、多场景的通用代码生成能力体系；\n4、设计并实现生成结果的智能排序与推荐机制；\n5、负责AI编程工具后端服务的架构设计、开发与持续迭代。\n关键挑战和产出：\n1、你将打造业界领先的 Coding Agent 引擎，让生成的代码不仅正确，更具备工程美感与长期可维护性；\n2、你将面对无数复杂 Agent 工程问题，包括上下文管理、智能体架构、编码、测试各种智能体开发，以及性能调优。我们可以携手一一突破；\n3、你将深入 AI Agent 核心算法领域，解决长期记忆、大规模智能体协同等复杂问题；\n4、你将参与 Qoder 智能体大模型的设计和训练过程，与通义算法工程师一起打造世界顶尖模型。",
+  "requirements": "1、计算机科学、软件工程或相关专业硕士及以上学历；\n2、有前端开发经验（React JS）、有 vs code 插件开发经验、了解常见 AI 技术、AI Coding 活跃用户；\n3、精通Python、Go或C++至少一种语言有 Go 语言背景最佳，熟悉主流深度学习框架（如PyTorch、TensorFlow）；\n4、具备扎实的算法与数据结构基础，有代码生成、程序合成或大模型应用经验者优先。\n期望你：\n你是那种看到一段冗余代码就忍不住想自动重构的人；你相信AI不是替代开发者，而是放大创造力的杠杆；你能在模糊需求中快速验证假设，在失败中迭代出最优解；你不被技术栈限制，而是以问题为中心快速学习新范式；你享受从0到1的混沌，也执着于1到100的极致打磨。我们不在乎你有多少年经验，只在乎你解决过多少“不可能”的问题。\n成长与未来：\n在这个岗位上，你将深度掌握 AI Agent 工程构建的核心技术，以及了解智能体大模型训练和评测细节。深度参与到具体难题的定义和突破过程中，获得一手经验和知识。相信在这个过程中你的工程算法能力可以快速成长，并在获得进入最核心 AI 领域的门票。"
+}

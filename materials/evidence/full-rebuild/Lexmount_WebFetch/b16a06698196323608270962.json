@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199905280016",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199905280016?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:29.473757+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992797",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905280016?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-AI应用开发工程师（风控&创新）\nUpdated on 2026-06-01\nHangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2029-09-29\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 参与企业办公场景智能体架构的探索，协助实现AI Agent系统的功能模块开发；\n2. 在导师指导下学习RAG、知识图谱等技术，参与基础推理框架的搭建与测试；\n3. 接触大模型基础调优技术，学习通过数据标注与效果评估提升系统性能；\n4. 配合业务团队完成需求分析，参与具体业务场景的功能实现与效果验证；\n5. 协助优化智能体交互体验，参与系统基础能力的评估测试；\n6. 学习Agent领域前沿技术（如ReAct/COT等），参与技术调研与demo实现。\nQualifications\n1. 熟悉Python/Java/C++中至少一门语言，有良好的编程基础（课程项目/竞赛经历）；\n2. 对Agent系统有基本认知，接触过LangChain/LLamaIndex等框架者优先；\n3. 了解基础Prompt设计方法，对LLM技术有学习热情；\n4. 选修过机器学习相关课程，有PyTorch/TensorFlow实践经历加分；\n5. 具备逻辑分析和问题定位能力，对复杂问题有钻研精神；\n6. 乐于团队协作，有技术文档写作或项目汇报经验；\n7. 加分项：在GitHub有AI相关项目/发表过技术博客/参与过AI竞赛；在NLP或多模态大模型领域有实际的项目经验或发表过高水平研究论文。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 767,
+      "warnings": []
+    },
+    "request_id": "3e63a967-7470-4e47-9ff8-4f58fdab4d7c",
+    "status_code": 200,
+    "title": "日常实习生-AI应用开发工程师（风控&创新）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905280016?deptCodes="
+  },
+  "responsibilities": "1. 参与企业办公场景智能体架构的探索，协助实现AI Agent系统的功能模块开发；\n2. 在导师指导下学习RAG、知识图谱等技术，参与基础推理框架的搭建与测试；\n3. 接触大模型基础调优技术，学习通过数据标注与效果评估提升系统性能；\n4. 配合业务团队完成需求分析，参与具体业务场景的功能实现与效果验证；\n5. 协助优化智能体交互体验，参与系统基础能力的评估测试；\n6. 学习Agent领域前沿技术（如ReAct/COT等），参与技术调研与demo实现。",
+  "requirements": "1. 熟悉Python/Java/C++中至少一门语言，有良好的编程基础（课程项目/竞赛经历）；\n2. 对Agent系统有基本认知，接触过LangChain/LLamaIndex等框架者优先；\n3. 了解基础Prompt设计方法，对LLM技术有学习热情；\n4. 选修过机器学习相关课程，有PyTorch/TensorFlow实践经历加分；\n5. 具备逻辑分析和问题定位能力，对复杂问题有钻研精神；\n6. 乐于团队协作，有技术文档写作或项目汇报经验；\n7. 加分项：在GitHub有AI相关项目/发表过技术博客/参与过AI竞赛；在NLP或多模态大模型领域有实际的项目经验或发表过高水平研究论文。"
+}

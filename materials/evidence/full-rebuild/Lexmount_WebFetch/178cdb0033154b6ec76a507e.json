@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904080009",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904080009?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:03.730041+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992673",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904080009?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-多模态算法（音乐方向）-未来生活实验室\nUpdated on 2026-06-29\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 协助团队开展多模态大模型算法研发工作，参与语音/音频生成、理解等核心技术的研发与测试；\n2. 辅助研发多模态内容理解模型，协助搭建高精度、细粒度的内容描述体系，完成基础数据标注与整理工作；\n3. 参与训练数据集的搭建、清洗、整理与标注，助力模型迭代优化，配合完成数据集相关基础调研；\n4. 协助推进多模态大模型在核心业务中的落地测试，参与技术实用化过程中的效果验证与问题反馈；\n5. 跟踪多模态大模型、音频AI领域行业前沿技术，协助整理前沿技术资料，参与团队技术研讨与学习。\nQualifications\n1. 计算机、电子信息、人工智能、自动化等相关专业，本科及以上学历。\n2. 对多模态大模型/AI生成有浓厚兴趣，有相关课程学习、课程设计、科研项目或竞赛经验即可（涉及语音/音频/文本生成、多模态理解等方向均可）；\n3. 了解AI生成模型基础算法，接触过Transformer、DiT、Flow-Matching等任一框架，有模型训练、调优实操经验者优先；\n4. 了解多模态表征基础技术，学习过自监督表征相关知识，了解基础高质量数据解码方案，对数据质量有基本感知者优先；\n5. 有基础的多模态理解模型学习或开发经验，了解主流多模态大模型基本原理者优先；\n6. 编程基础扎实，熟练使用Python，了解主流大模型训练框架；具备良好的科研学习能力，能够主动跟进领域前沿技术，有相关论文撰写、竞赛获奖经历者优先；\n7. 对AI/多模态技术有浓厚兴趣，了解基础数据处理知识，具备一定相关实践经验者优先；\n8. 实习时长不少于3个月，每周可到岗4天及以上，能尽快到岗者优先；工作态度认真负责，具备良好的团队协作能力与问题解决能力。\nHiring Business\nToken Foundry",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 950,
+      "warnings": []
+    },
+    "request_id": "c28abc2e-5a15-40d8-9adb-6432a5d7d89f",
+    "status_code": 200,
+    "title": "日常实习生-多模态算法（音乐方向）-未来生活实验室",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904080009?deptCodes="
+  },
+  "responsibilities": "1. 协助团队开展多模态大模型算法研发工作，参与语音/音频生成、理解等核心技术的研发与测试；\n2. 辅助研发多模态内容理解模型，协助搭建高精度、细粒度的内容描述体系，完成基础数据标注与整理工作；\n3. 参与训练数据集的搭建、清洗、整理与标注，助力模型迭代优化，配合完成数据集相关基础调研；\n4. 协助推进多模态大模型在核心业务中的落地测试，参与技术实用化过程中的效果验证与问题反馈；\n5. 跟踪多模态大模型、音频AI领域行业前沿技术，协助整理前沿技术资料，参与团队技术研讨与学习。",
+  "requirements": "1. 计算机、电子信息、人工智能、自动化等相关专业，本科及以上学历。\n2. 对多模态大模型/AI生成有浓厚兴趣，有相关课程学习、课程设计、科研项目或竞赛经验即可（涉及语音/音频/文本生成、多模态理解等方向均可）；\n3. 了解AI生成模型基础算法，接触过Transformer、DiT、Flow-Matching等任一框架，有模型训练、调优实操经验者优先；\n4. 了解多模态表征基础技术，学习过自监督表征相关知识，了解基础高质量数据解码方案，对数据质量有基本感知者优先；\n5. 有基础的多模态理解模型学习或开发经验，了解主流多模态大模型基本原理者优先；\n6. 编程基础扎实，熟练使用Python，了解主流大模型训练框架；具备良好的科研学习能力，能够主动跟进领域前沿技术，有相关论文撰写、竞赛获奖经历者优先；\n7. 对AI/多模态技术有浓厚兴趣，了解基础数据处理知识，具备一定相关实践经验者优先；\n8. 实习时长不少于3个月，每周可到岗4天及以上，能尽快到岗者优先；工作态度认真负责，具备良好的团队协作能力与问题解决能力。"
+}

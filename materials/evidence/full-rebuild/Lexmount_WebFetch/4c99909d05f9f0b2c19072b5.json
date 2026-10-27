@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199907060001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199907060001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:20.476613+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992785",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199907060001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-业务技术-AI Agent 优化工程师\nUpdated on 2026-06-24\nHangzhou\nBasic Information\nGraduation Dates: 2025-06-30 - 2028-12-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n在这里，你将有机会：\n● 主导 AI Agent 的设计与优化——围绕大模型构建多 Agent 协作、任务规划、工具调用（Function Calling / MCP）、记忆与上下文管理等核心链路，持续提升 Agent 的准确率、稳定性与执行效率。\n● 参与构建 Agent 工程化体系，打造可复用的编排框架、评测基线、效果回归与可观测性能力，系统性优化 Agent 的端到端表现，推动智能化研发范式升级演进。\n● 深度参与国民级软件淘宝的 Agent 能力建设，与业务、算法、设计团队深度协作，把 Agent 能力转化为稳定可用的线上应用，推动产品快速迭代。\n● 面向 Agent 多轮推理成本、响应延迟、长链路稳定性、效果与成本平衡等技术前沿挑战，主导优化方案的设计与实施，提升淘宝用户的智能交互体验。\n● 与团队的专业小伙伴共同设计高效率、高系统化、高鲁棒性的 Agent 架构，打造稳定、流畅的智能业务体验。\n加入我们，投身业内最前沿的 AI Agent 研发与优化。你将与来自不同部门的优秀人才合作，既能获得专业指导与协作，也能在工作中不断挑战自我，在职业生涯中持续成长，享受 Agent 落地带来的乐趣和成就感。来吧，我们等你加入！\nQualifications\n【必备要求】\n● 本科及以上学历，计算机、软件、人工智能及电子信息等相关专业优先。\n● 工程基础扎实，学习能力强，对新事物抱有好奇心，并能快速适应新环境；具备良好的沟通、团队协同能力。\n● 熟悉主流的编程思想、数据结构和算法；至少精通一门主流语言（Python/Node.js/TypeScript 等），具备扎实的工程实现能力。\n● 熟悉 AI Agent 研发的核心场景，以下至少一项：熟悉主流 LLM 集成与应用范式、掌握 Prompt 工程化、有 Agent 编排 / 任务规划 / 工具调用（Function Calling / MCP）开发经验、熟悉 RAG 检索增强、熟悉 Agent 记忆与上下文管理。\n● 熟练掌握以下 Agent 细分领域知识（至少一项）：多 Agent 协作、Agent 效果评测与回归、推理链路优化（成本 / 延迟）、Agent 可观测性、AI 安全与可信、智能编码 Copilot。\n【加分项】\n● 有 AI Agent 落地项目经验，参与过 Agent 产品的技术方案设计，如智能编码助手、自动化运维 Agent、智能客服 Agent 等。\n● 熟悉 Agent 评测体系建设，能设计自动化评测基线与效果回归方案，量化驱动 Agent 优化。\n● 熟悉 AI 工程化基础设施，对 Prompt 管理、可观测性、模型推理加速、Rust 等高性能工具链有相关开发经验。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1372,
+      "warnings": []
+    },
+    "request_id": "9a709f7f-f7e4-4478-a754-e4e16b453de3",
+    "status_code": 200,
+    "title": "日常实习生-业务技术-AI Agent 优化工程师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199907060001?deptCodes="
+  },
+  "responsibilities": "在这里，你将有机会：\n● 主导 AI Agent 的设计与优化——围绕大模型构建多 Agent 协作、任务规划、工具调用（Function Calling / MCP）、记忆与上下文管理等核心链路，持续提升 Agent 的准确率、稳定性与执行效率。\n● 参与构建 Agent 工程化体系，打造可复用的编排框架、评测基线、效果回归与可观测性能力，系统性优化 Agent 的端到端表现，推动智能化研发范式升级演进。\n● 深度参与国民级软件淘宝的 Agent 能力建设，与业务、算法、设计团队深度协作，把 Agent 能力转化为稳定可用的线上应用，推动产品快速迭代。\n● 面向 Agent 多轮推理成本、响应延迟、长链路稳定性、效果与成本平衡等技术前沿挑战，主导优化方案的设计与实施，提升淘宝用户的智能交互体验。\n● 与团队的专业小伙伴共同设计高效率、高系统化、高鲁棒性的 Agent 架构，打造稳定、流畅的智能业务体验。\n加入我们，投身业内最前沿的 AI Agent 研发与优化。你将与来自不同部门的优秀人才合作，既能获得专业指导与协作，也能在工作中不断挑战自我，在职业生涯中持续成长，享受 Agent 落地带来的乐趣和成就感。来吧，我们等你加入！",
+  "requirements": "【必备要求】\n● 本科及以上学历，计算机、软件、人工智能及电子信息等相关专业优先。\n● 工程基础扎实，学习能力强，对新事物抱有好奇心，并能快速适应新环境；具备良好的沟通、团队协同能力。\n● 熟悉主流的编程思想、数据结构和算法；至少精通一门主流语言（Python/Node.js/TypeScript 等），具备扎实的工程实现能力。\n● 熟悉 AI Agent 研发的核心场景，以下至少一项：熟悉主流 LLM 集成与应用范式、掌握 Prompt 工程化、有 Agent 编排 / 任务规划 / 工具调用（Function Calling / MCP）开发经验、熟悉 RAG 检索增强、熟悉 Agent 记忆与上下文管理。\n● 熟练掌握以下 Agent 细分领域知识（至少一项）：多 Agent 协作、Agent 效果评测与回归、推理链路优化（成本 / 延迟）、Agent 可观测性、AI 安全与可信、智能编码 Copilot。\n【加分项】\n● 有 AI Agent 落地项目经验，参与过 Agent 产品的技术方案设计，如智能编码助手、自动化运维 Agent、智能客服 Agent 等。\n● 熟悉 Agent 评测体系建设，能设计自动化评测基线与效果回归方案，量化驱动 Agent 优化。\n● 熟悉 AI 工程化基础设施，对 Prompt 管理、可观测性、模型推理加速、Rust 等高性能工具链有相关开发经验。"
+}

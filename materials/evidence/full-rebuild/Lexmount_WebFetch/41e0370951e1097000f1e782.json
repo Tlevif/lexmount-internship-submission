@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "18325",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/18325",
+  "checked_at_utc": "2026-10-27T13:10:03.864630+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：大模型 | 工作地点：上海市 | 项目：其他项目",
+    "dom_id": "993294",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/18325",
+    "language": "zh-cn",
+    "main_text": "职位类型：大模型\n工作地点：上海市\n项目：其他项目\n工作职责\n1、跟踪大模型应用、训练优化、强化学习等前沿进展，将相应技术应用到AI搜索、内容理解等小红书国际化实际的业务场景； 2、跟踪大模型翻译算法的前沿进展，负责文本、图片、视频翻译等相关算法优化，持续提升翻译体验。\n任职资格\n1、计算机/电子信息/自动控制/软件工程/数学等相关专业，硕士及以上学历在读同学； 2、扎实的大模型和机器学习理论基础，熟悉LLM / MLLM / RAG / Agent等相关算法，有大模型相关场景的业务实践经验者优先； 3、具备优秀的研究和创新能力，在ACL/EMNLP/NAACL/COLING/CVPR/ICCV/ICLR/NeurIPS等会议上发表过论文者优先； 4、具备优秀的编程能力和经验，熟悉Python、C/C++、Java等编程语言，具有扎实的数据结构和算法功底； 5、优秀的分析、解决问题能力，对新技术充满好奇，敢于挑战高难度，善于提出解决方案并快速验证。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 430,
+      "warnings": []
+    },
+    "request_id": "bd329c50-7d24-4f04-b7c1-e49ad22fdfd1",
+    "status_code": 200,
+    "title": "大模型应用算法实习-国际化业务",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/18325"
+  },
+  "responsibilities": "1、跟踪大模型应用、训练优化、强化学习等前沿进展，将相应技术应用到AI搜索、内容理解等小红书国际化实际的业务场景； 2、跟踪大模型翻译算法的前沿进展，负责文本、图片、视频翻译等相关算法优化，持续提升翻译体验。",
+  "requirements": "1、计算机/电子信息/自动控制/软件工程/数学等相关专业，硕士及以上学历在读同学； 2、扎实的大模型和机器学习理论基础，熟悉LLM / MLLM / RAG / Agent等相关算法，有大模型相关场景的业务实践经验者优先； 3、具备优秀的研究和创新能力，在ACL/EMNLP/NAACL/COLING/CVPR/ICCV/ICLR/NeurIPS等会议上发表过论文者优先； 4、具备优秀的编程能力和经验，熟悉Python、C/C++、Java等编程语言，具有扎实的数据结构和算法功底； 5、优秀的分析、解决问题能力，对新技术充满好奇，敢于挑战高难度，善于提出解决方案并快速验证。"
+}

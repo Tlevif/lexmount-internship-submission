@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7694642999108094261",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7694642999108094261/detail",
+  "checked_at_utc": "2026-10-27T13:04:34.764079+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7694642999108094261",
+  "code": 0,
+  "title": "平台研发实习生（AI芯片） - 芯片研发",
+  "responsibilities": "团队介绍：AI芯片团队深耕人工智能芯片研发领域，产品覆盖云端与终端场景，致力于提供高效率、低成本的AI芯片及 SoC 解决方案，满足公司内外AI及相关业务的算力需求。团队自主设计了多款AI芯片，涵盖推理、训练场景，具有高性能、高精度、高灵活性、编译器友好、低成本等特点。核心AI加速核与AI软件栈均为自主研发，具备完整知识产权，能够支撑面向不同模型、不同部署场景的持续演进与优化。\n\n日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n\n1、参与芯片软件验证、仿真平台建设，完成后端模块设计、优化与开发；\n2、参与芯片研发CI/CD、自动化测试平台建设，完成后端开发，实现资源调度能力；\n3、开发AI相关场景、DPDK、RDMA功能与性能测试案例（带宽、时延、稳定性等），输出分析报告；\n4、协助系统软件模块的重构、优化与小型特性开发；\n5、搭建和维护测试环境，包括AI Infra、Linux配置、DPDK、RDMA组件调试及芯片业务问题定位，开发信息自动化收集工具并探索自动化故障诊断等。",
+  "requirements": "1、本科及以上学历在读，专业不限；\n2、熟悉网络协议栈、数据库、Web服务框架等知识，具备后端服务开发能力；\n3、熟悉Linux基本操作、常用开发语言（Python/Shell/Go/C其一）；\n4、具备AI、OS、网络基础知识；对AI、高性能IO、网络方向有兴趣；\n5、良好的问题分析能力，愿意学习并深入底层系统。\n\n加分项\n1、有全栈开发经验、熟悉Web应用架构；\n2、具备AI coding能力、有Agent开发经验；\n3、有过Kubernetes、Docker、Helm服务部署经验；\n4、有自动化测试框架或CI/CD经验；\n5、熟悉C/C++调试、perf、BCC/Bpftrace；\n6、接触过AI Infra/DPDK PMD/RDMA ibverbs、性能测试工具（TestPMD、PerfTest、Iperf等）。"
+}

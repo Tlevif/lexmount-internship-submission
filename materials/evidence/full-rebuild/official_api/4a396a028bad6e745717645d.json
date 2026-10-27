@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7514653361226008844",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7514653361226008844/detail",
+  "checked_at_utc": "2026-10-27T13:04:48.830213+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7514653361226008844",
+  "code": 0,
+  "title": "大模型数据采集实习生",
+  "responsibilities": "1.参与大数据采集相关的系统架构设计和开发工作, 推动业务和技术的融合落地, 建设自动化数据采集核心平台能力\n2.负责分布式爬虫系统架构的设计与研发, 优化数据调度, 抓取, 存储, 解析全栈流程\n3.保障技术系统稳定可靠, 协同团队攻克技术难关, 提升海量数据系统的抓取效果和性能.",
+  "requirements": "1.2026届及以后毕业\n2. 熟悉 Go/Java/Python 语言中的一种，熟悉常用框架，对代码质量有追求；\n3.熟悉主流爬取技术以及爬虫框架者优先, 如 Puppeteer/Webmagic/Frida 等\n4.有大规模分布式系统研发经验优先"
+}

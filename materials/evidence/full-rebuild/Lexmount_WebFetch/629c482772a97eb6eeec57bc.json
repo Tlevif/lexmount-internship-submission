@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904260007",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904260007?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:55.763144+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992823",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904260007?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-智能服务一组-AI Agent 算法工程师\nUpdated on 2026-04-15\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1.重塑消费者体验：建设大模型智能化比价辅助决策、Al消费者智能问答助手等多元AI工具，提高用户购物体验，并进一步探索AI Native的新消费者产品形态；\n2.赋能商家智能化运营：基于大模型调度多领域智能体，实现智能客服、采购寻源、内容生成、直播运营等全链路提效，赋能千万商家；\n3.构建平台级技术基建：开发AI代码生成工具提升研发效率，打造面向运营小二的智能提效平台，探索面向全体企业员工办公场景的智能体架构。\nQualifications\n【必备项】\n1. 本科及以上学历，计算机科学、软件工程、人工智能相关专业优先；\n2. 掌握Python/Java/Go/C++等编程语言开发，具备扎实的算法与数据结构基础；\n3. 具备Agent系统开发经验，掌握LangChain/LLamaIndex/AutoGen等框架及实现原理，能够设计高可用、高扩展性的大模型/Agent工程架构；\n4. 掌握Prompt工程、RAG、Tool Calling、Context Engineering等AI应用关键技术；\n5. 能够进行工具集成，掌握OpenAPI、RPC、MCP等协议实现方案；\n6. 了解机器学习、深度学习框架（PyTorch/TensorFlow），有Transformer等模型实战经验优先；\n7. 具备问题/价值驱动的探索精神和优秀的问题解决能力；\n8. 敢于创新，主动探索AI新技术/新范式在商业场景中的应用边界；\n9. 对AI技术充满热情，具备快速学习的能力，持续关注和学习AIGC前沿技术研究。\n【加分项】\n1. 有数据工程、模型微调/后训练、模型评测经验的同学优先。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 926,
+      "warnings": []
+    },
+    "request_id": "de5832ef-4034-44a5-8509-7bef8d9b6dd8",
+    "status_code": 200,
+    "title": "日常实习生-智能服务一组-AI Agent 算法工程师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904260007?deptCodes="
+  },
+  "responsibilities": "1.重塑消费者体验：建设大模型智能化比价辅助决策、Al消费者智能问答助手等多元AI工具，提高用户购物体验，并进一步探索AI Native的新消费者产品形态；\n2.赋能商家智能化运营：基于大模型调度多领域智能体，实现智能客服、采购寻源、内容生成、直播运营等全链路提效，赋能千万商家；\n3.构建平台级技术基建：开发AI代码生成工具提升研发效率，打造面向运营小二的智能提效平台，探索面向全体企业员工办公场景的智能体架构。",
+  "requirements": "【必备项】\n1. 本科及以上学历，计算机科学、软件工程、人工智能相关专业优先；\n2. 掌握Python/Java/Go/C++等编程语言开发，具备扎实的算法与数据结构基础；\n3. 具备Agent系统开发经验，掌握LangChain/LLamaIndex/AutoGen等框架及实现原理，能够设计高可用、高扩展性的大模型/Agent工程架构；\n4. 掌握Prompt工程、RAG、Tool Calling、Context Engineering等AI应用关键技术；\n5. 能够进行工具集成，掌握OpenAPI、RPC、MCP等协议实现方案；\n6. 了解机器学习、深度学习框架（PyTorch/TensorFlow），有Transformer等模型实战经验优先；\n7. 具备问题/价值驱动的探索精神和优秀的问题解决能力；\n8. 敢于创新，主动探索AI新技术/新范式在商业场景中的应用边界；\n9. 对AI技术充满热情，具备快速学习的能力，持续关注和学习AIGC前沿技术研究。\n【加分项】\n1. 有数据工程、模型微调/后训练、模型评测经验的同学优先。"
+}

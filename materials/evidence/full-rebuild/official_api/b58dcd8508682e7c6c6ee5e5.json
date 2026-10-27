@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7498620051928172827",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7498620051928172827/detail",
+  "checked_at_utc": "2026-10-27T13:04:49.173417+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7498620051928172827",
+  "code": 0,
+  "title": "DBA数据库实习生",
+  "responsibilities": " 1、保障 MiniMax 产品数据库系统的稳定性和可靠性；\n2、深入理解 MiniMax 产品业务，系统性地进行数据库优化和风险治理；\n3、进行数据库的故障发现、定位、止损能力建设，提升数据库异常恢复速度；\n4、深入了解  MiniMax 产品数据库设计，和研发同学一起进行数据库架构设计和优化；\n5、主导 MiniMax 产品数据库的资源管理和优化。",
+  "requirements": "1. 2026届本科及以上学历在读，计算机、通信、数学等相关专业优先\n2. 深入理解Linux操作系统；具备较好的计算机网络和体系结构基础\n3. 熟练掌握MySQL、Redis等，熟悉主流数据库的体系架构，能够进行合理的数据库选型和设计；\n4. 良好的沟通协作和推动能力；"
+}

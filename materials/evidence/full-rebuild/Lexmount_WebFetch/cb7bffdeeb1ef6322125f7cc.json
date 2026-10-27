@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903880034",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903880034?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:27.666606+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992864",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903880034?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "算法工程师-多模态（T-Star Lab 日常实习）\nUpdated on 2026-03-26\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2030-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\nT-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n在这里，你可以基于淘天海量商品数据，打造技术先进的电商多模态大模型，提升对多模态异构的商品数据(图、文、视频等)的理解能力和结构化能力，输出底层算法能力和高质量结构化数据，支撑发布、比货、导购等多种电商业务场景，并面向商家和消费者探索AIGC等创新业务应用。工作内容包括模型结构设计、训练任务设计、预训练和下游能力建设等；\n在这里，你将参与跟踪、探索大模型方向/多模态预训练方向的前沿技术，将各方向的SOTA能力集成到模型底座上，提升下游任务的效果，打造团队的技术先进性。\nT-Star实习可以带给你什么？\nꔷ ①加入前沿技术探索队伍，参与顶级课题研究，有机会实现工业界项目落地。②跟企业大牛导师/学术界名导一起做有价值的课题。③丰富的技术资源、海量的数据与优秀的团队助力发paper ④有机会提前获得秋招直通T-Star的正式Offer。\nQualifications\n1、毕业时间在2026年11月及以后的在校本硕博同学，计算机、人工智能、电子与通信等相关专业；\n2、熟悉计算机视觉、机器学习、图像/视频分析与处理、多模态内容理解、AIGC等相关领域技术和应用；\n3、具备极佳的工程实现能力，熟练掌握C/C++、Java、Python等至少一门语言；\n4、学习能力强，对新事物有好奇心，对所在领域有热情，善于独立思考并反思总结；\n5、良好的沟通能力和团队协同能力，善于合作，乐于分享。\n【加分项】\n1、在校园内或互联网公司有相关实习或项目经历；\n2、在ICCV、CVPR等国际顶级会议、期刊上发表论文，或在相关学术会议组织的权威比赛中获奖。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1035,
+      "warnings": []
+    },
+    "request_id": "87b2e073-7b66-42a7-ba6e-abf871332307",
+    "status_code": 200,
+    "title": "算法工程师-多模态（T-Star Lab 日常实习）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903880034?deptCodes="
+  },
+  "responsibilities": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n在这里，你可以基于淘天海量商品数据，打造技术先进的电商多模态大模型，提升对多模态异构的商品数据(图、文、视频等)的理解能力和结构化能力，输出底层算法能力和高质量结构化数据，支撑发布、比货、导购等多种电商业务场景，并面向商家和消费者探索AIGC等创新业务应用。工作内容包括模型结构设计、训练任务设计、预训练和下游能力建设等；\n在这里，你将参与跟踪、探索大模型方向/多模态预训练方向的前沿技术，将各方向的SOTA能力集成到模型底座上，提升下游任务的效果，打造团队的技术先进性。\nT-Star实习可以带给你什么？\nꔷ ①加入前沿技术探索队伍，参与顶级课题研究，有机会实现工业界项目落地。②跟企业大牛导师/学术界名导一起做有价值的课题。③丰富的技术资源、海量的数据与优秀的团队助力发paper ④有机会提前获得秋招直通T-Star的正式Offer。",
+  "requirements": "1、毕业时间在2026年11月及以后的在校本硕博同学，计算机、人工智能、电子与通信等相关专业；\n2、熟悉计算机视觉、机器学习、图像/视频分析与处理、多模态内容理解、AIGC等相关领域技术和应用；\n3、具备极佳的工程实现能力，熟练掌握C/C++、Java、Python等至少一门语言；\n4、学习能力强，对新事物有好奇心，对所在领域有热情，善于独立思考并反思总结；\n5、良好的沟通能力和团队协同能力，善于合作，乐于分享。\n【加分项】\n1、在校园内或互联网公司有相关实习或项目经历；\n2、在ICCV、CVPR等国际顶级会议、期刊上发表论文，或在相关学术会议组织的权威比赛中获奖。"
+}

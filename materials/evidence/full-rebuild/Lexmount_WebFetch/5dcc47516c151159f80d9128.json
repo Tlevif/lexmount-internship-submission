@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199907280002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199907280002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:10.441792+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992775",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199907280002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-语音算法\nUpdated on 2026-06-30\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n应用声纹识别、语音合成、情绪迁移等音频技术处理海量音频数据，紧跟业界前沿技术方向，在真实的语音场景进行落地应用，实现音色适配、情绪饱满、高自然度拟人的音频合成，期待追求卓越、自我驱动、聪明乐观的优秀人士加入虎鲸文娱集团，共同开创影视工业化的商业新格局\n具体职责包括但不限于：\n1、负责基于海量数据和复杂业务场景，和团队其他成员一起构建面向多语言多说话人多情绪的一流语音合成系统\n2、负责语音合成相关算法设计，包括Emotional TTS、Speaker Recognition、Instant Voice Clone等模块的算法优化和在实际场景上的落地\n3、跟踪业界前沿技术和方法，持续探索语音合成技术的新能力和新应用，解决资源受限场景的实际问题，持续提升语音合成核心能力\nQualifications\n1、在语音合成、情绪迁移、音频检索、音频分类、声纹识别、语音增强等方面有相关的项目经验，并能够对其中某一领域的算法深入研发并努力创新\n2、熟悉传统机器学习基础理论，熟悉深度学习开源框架，深入理解DNN/RNN/CNN/lstm原理,掌握至少一个深度学习框架（如tensorflow, pytorch）\n3、拥有良好的数学及信号处理基础，熟练掌握C/C++,python编程语言\n4、学习能力强，逻辑思维清晰; 较强的文献阅读能力，能够快速实现或设计音频相关的算法\n5、在相关方向知名国际会议发表过论文者优先\nHiring Business\nHujing Digital Media & Entertainment Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 855,
+      "warnings": []
+    },
+    "request_id": "fbaa94e8-8ad6-4e0f-83b2-d2db5bae39fa",
+    "status_code": 200,
+    "title": "日常实习生-语音算法",
+    "url": "https://campus-talent.alibaba.com/campus/position/199907280002?deptCodes="
+  },
+  "responsibilities": "应用声纹识别、语音合成、情绪迁移等音频技术处理海量音频数据，紧跟业界前沿技术方向，在真实的语音场景进行落地应用，实现音色适配、情绪饱满、高自然度拟人的音频合成，期待追求卓越、自我驱动、聪明乐观的优秀人士加入虎鲸文娱集团，共同开创影视工业化的商业新格局\n具体职责包括但不限于：\n1、负责基于海量数据和复杂业务场景，和团队其他成员一起构建面向多语言多说话人多情绪的一流语音合成系统\n2、负责语音合成相关算法设计，包括Emotional TTS、Speaker Recognition、Instant Voice Clone等模块的算法优化和在实际场景上的落地\n3、跟踪业界前沿技术和方法，持续探索语音合成技术的新能力和新应用，解决资源受限场景的实际问题，持续提升语音合成核心能力",
+  "requirements": "1、在语音合成、情绪迁移、音频检索、音频分类、声纹识别、语音增强等方面有相关的项目经验，并能够对其中某一领域的算法深入研发并努力创新\n2、熟悉传统机器学习基础理论，熟悉深度学习开源框架，深入理解DNN/RNN/CNN/lstm原理,掌握至少一个深度学习框架（如tensorflow, pytorch）\n3、拥有良好的数学及信号处理基础，熟练掌握C/C++,python编程语言\n4、学习能力强，逻辑思维清晰; 较强的文献阅读能力，能够快速实现或设计音频相关的算法\n5、在相关方向知名国际会议发表过论文者优先"
+}

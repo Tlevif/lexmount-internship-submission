@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199905280003",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199905280003?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:41.765002+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992809",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905280003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "AIOps工程实习生\nUpdated on 2026-05-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、参与告警降噪、收敛策略的开发，协助实现关键指标的智能异常检测，减少无效告警干扰；\n2、基于日志、监控数据及调用链信息，协助构建故障根因分析（RCA）模型，提升问题定位效率；\n3、结合大语言模型（LLM）技术，参与运维知识库问答、日志智能解读等功能的开发与优化，打造交互式运维 Copilot；\n4、负责运维数据的清洗、预处理及特征工程，协助完成算法模型的训练、评估及基础工程化落地。\nQualifications\n1、计算机、软件、数学或相关专业本科及以上学历，对 AI 在运维领域的应用有浓厚兴趣；\n2、熟练掌握 Python，具备良好的代码规范，熟悉常用数据结构与算法；\n3、了解基本的机器学习概念（如分类、聚类、回归），对时间序列分析或 NLP 有初步了解者优先；\n4、对 LLM 有浓厚兴趣，了解 LangChain/LangGragh 等框架；有 AI 编程工具（Copilot/Cursor）使用习惯或大模型应用开发项目经验者优先。\n加分项：有 AIOps 相关项目经历（如告警聚类、日志异常检测）、可观测性开源组件（Prometheus/ES/SkyWalking）使用经验。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 726,
+      "warnings": []
+    },
+    "request_id": "37248109-84f4-4708-974b-85d3eefb27a8",
+    "status_code": 200,
+    "title": "AIOps工程实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905280003?deptCodes="
+  },
+  "responsibilities": "1、参与告警降噪、收敛策略的开发，协助实现关键指标的智能异常检测，减少无效告警干扰；\n2、基于日志、监控数据及调用链信息，协助构建故障根因分析（RCA）模型，提升问题定位效率；\n3、结合大语言模型（LLM）技术，参与运维知识库问答、日志智能解读等功能的开发与优化，打造交互式运维 Copilot；\n4、负责运维数据的清洗、预处理及特征工程，协助完成算法模型的训练、评估及基础工程化落地。",
+  "requirements": "1、计算机、软件、数学或相关专业本科及以上学历，对 AI 在运维领域的应用有浓厚兴趣；\n2、熟练掌握 Python，具备良好的代码规范，熟悉常用数据结构与算法；\n3、了解基本的机器学习概念（如分类、聚类、回归），对时间序列分析或 NLP 有初步了解者优先；\n4、对 LLM 有浓厚兴趣，了解 LangChain/LangGragh 等框架；有 AI 编程工具（Copilot/Cursor）使用习惯或大模型应用开发项目经验者优先。\n加分项：有 AIOps 相关项目经历（如告警聚类、日志异常检测）、可观测性开源组件（Prometheus/ES/SkyWalking）使用经验。"
+}

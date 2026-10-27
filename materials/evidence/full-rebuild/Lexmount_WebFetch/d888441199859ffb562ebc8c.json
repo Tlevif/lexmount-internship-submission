@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199909720002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199909720002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:03.731661+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou / Shanghai | Technology | Alibaba Project Intern",
+    "dom_id": "992671",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909720002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "AI 客户端全栈开发实习生\nUpdated on 2026-10-15\nHangzhou / Shanghai\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 在导师指导下参与千问办公 iOS、Android、HarmonyOS 客户端的功能开发、问题修复和体验优化。\n2. 参与 AI Agent 移动端体验建设，包括流式交互、工具调用、任务状态展示、多模态输入及异常处理。\n3. 参与 Rust Core、Native 桥接或 Mobile BFF 相关模块开发，协助维护跨端接口和数据契约。\n4. 参与客户端性能、稳定性、埋点、日志及自动化测试建设，协助定位和解决端到端问题。\n5. 编写技术文档和测试记录，配合团队完成代码评审、联调及版本交付。\nQualifications\n1. 本科或研究生在读，计算机、软件工程或相关专业，能够连续实习至少 3 个月，每周到岗不少于 4 天。\n2. 熟悉Swift、Kotlin/Java、ArkTS、Rust、C/C++、TypeScript 或服务端语言中的至少一种，具备良好的编程基础。\n3. 了解iOS、Android、HarmonyOS、跨平台开发或服务端开发中的至少一个方向，有课程项目、实习、竞赛或开源项目经验者优先。\n4. 对大模型和 AI Agent 应用有兴趣；有流式交互、Function Calling、MCP、RAG、多模态等项目经验者优先。\n5. 具备良好的学习能力、沟通协作意识和问题定位能力，能够主动推进任务并沉淀文档。\n6. 有移动端 App、Rust、FFI、IM/Chat、性能优化或自动化测试经验者优先。\nHiring Business\nQwenWork",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 837,
+      "warnings": []
+    },
+    "request_id": "6ca4c171-2443-4a26-87e4-adbf8337a95b",
+    "status_code": 200,
+    "title": "AI 客户端全栈开发实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909720002?deptCodes="
+  },
+  "responsibilities": "1. 在导师指导下参与千问办公 iOS、Android、HarmonyOS 客户端的功能开发、问题修复和体验优化。\n2. 参与 AI Agent 移动端体验建设，包括流式交互、工具调用、任务状态展示、多模态输入及异常处理。\n3. 参与 Rust Core、Native 桥接或 Mobile BFF 相关模块开发，协助维护跨端接口和数据契约。\n4. 参与客户端性能、稳定性、埋点、日志及自动化测试建设，协助定位和解决端到端问题。\n5. 编写技术文档和测试记录，配合团队完成代码评审、联调及版本交付。",
+  "requirements": "1. 本科或研究生在读，计算机、软件工程或相关专业，能够连续实习至少 3 个月，每周到岗不少于 4 天。\n2. 熟悉Swift、Kotlin/Java、ArkTS、Rust、C/C++、TypeScript 或服务端语言中的至少一种，具备良好的编程基础。\n3. 了解iOS、Android、HarmonyOS、跨平台开发或服务端开发中的至少一个方向，有课程项目、实习、竞赛或开源项目经验者优先。\n4. 对大模型和 AI Agent 应用有兴趣；有流式交互、Function Calling、MCP、RAG、多模态等项目经验者优先。\n5. 具备良好的学习能力、沟通协作意识和问题定位能力，能够主动推进任务并沉淀文档。\n6. 有移动端 App、Rust、FFI、IM/Chat、性能优化或自动化测试经验者优先。"
+}

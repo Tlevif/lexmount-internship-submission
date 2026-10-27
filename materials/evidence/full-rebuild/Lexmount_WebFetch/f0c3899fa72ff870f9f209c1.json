@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074692139011",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074692139011",
+  "checked_at_utc": "2026-10-27T13:07:26.364137+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信-WeLM多模态大模型Agentic RL研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "993068",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139011",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n大模型正在从\"会回答\"走向\"会行动\"。\n当 GPT-4o 能看懂图片、Sora 能生成视频，下一个真正的技术跃迁是：让多模态大模型在复杂的现实环境中自主决策、持续探索、完成长程任务——这正是 Agentic RL 的核心命题。我们相信，将强化学习的主动探索能力与多模态大模型的感知理解能力深度融合，将催生出新一代能够真正\"做事\"的智能体，而不仅仅是\"对话\"的助手。\n课题挑战/具体工作：\n1、面向多模态感知的 Agentic 决策建模\n在图像、视频、UI 截图、文档等富视觉信息的环境中，研究 Agent 如何从原始多模态观测中提取任务相关信号，构建长程上下文下的状态表征，并做出可执行的行动规划。\n2、多模态环境下的强化学习算法\n探索适配大模型的新一代 RL 范式——从 RLHF 到 GRPO，从 PPO 到 offline RL，研究如何在稀疏奖励、长视野、多步推理的多模态 Agent 任务上实现高效、稳定的策略优化。\n3、自主探索与世界模型\n研究 Agent 在未知视觉环境中的自主探索机制，构建多模态世界模型以支持模拟推演与反事实推理，使 Agent 具备\"先想后做\"的能力。\n4、工具调用与跨模态行动空间\n研究 Agent 在复杂行动空间（点击、滑动、代码执行、API 调用、图像编辑等）下的策略学习，探索多模态感知与工具使用的协同建模。\n5、可扩展的奖励设计与评估体系\n突破人工标注的瓶颈，研究基于多模态大模型的自动奖励建模（Reward Modeling）方法，以及面向 Agentic 任务的系统性评估框架。\n课题要求\n硬性要求：\n1、计算机科学、人工智能、自动化、统计学等相关专业博士在读或应届毕业；\n2、深度学习基础扎实，熟悉 Transformer 架构及其在 LLM/VLM 中的应用；\n3、熟练使用 PyTorch，具备独立实现和调试复杂模型的能力；\n4、具备较强的数学功底，理解强化学习核心原理（MDP、策略梯度、值函数估计等）。\n加分项：\n1、在 NeurIPS / ICML / ICLR / CVPR / ICCV / ACL / EMNLP 等顶会以第一作者发表过论文；\n2、有 RL 或 RLHF 在大模型上的实际训练经验（PPO、GRPO、DPO 等）；\n3、复现或改进过主流多模态模型（LLaVA、InternVL、Qwen-VL、DALL-E 等）；\n4、参与过 GUI Agent、Web Agent、具身智能等 Agentic 方向的研究或工程项目；\n5、有分布式训练经验（Megatron-LM、DeepSpeed、FSDP）；\n6、对scaling law、emergent ability、reward hacking 等前沿议题有独立的深度思考。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1196,
+      "warnings": []
+    },
+    "request_id": "4ea65dca-06c0-4d58-84c2-18826750c5d9",
+    "status_code": 200,
+    "title": "微信-WeLM多模态大模型Agentic RL研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139011"
+  },
+  "responsibilities": "课题背景：\n大模型正在从\"会回答\"走向\"会行动\"。\n当 GPT-4o 能看懂图片、Sora 能生成视频，下一个真正的技术跃迁是：让多模态大模型在复杂的现实环境中自主决策、持续探索、完成长程任务——这正是 Agentic RL 的核心命题。我们相信，将强化学习的主动探索能力与多模态大模型的感知理解能力深度融合，将催生出新一代能够真正\"做事\"的智能体，而不仅仅是\"对话\"的助手。\n课题挑战/具体工作：\n1、面向多模态感知的 Agentic 决策建模\n在图像、视频、UI 截图、文档等富视觉信息的环境中，研究 Agent 如何从原始多模态观测中提取任务相关信号，构建长程上下文下的状态表征，并做出可执行的行动规划。\n2、多模态环境下的强化学习算法\n探索适配大模型的新一代 RL 范式——从 RLHF 到 GRPO，从 PPO 到 offline RL，研究如何在稀疏奖励、长视野、多步推理的多模态 Agent 任务上实现高效、稳定的策略优化。\n3、自主探索与世界模型\n研究 Agent 在未知视觉环境中的自主探索机制，构建多模态世界模型以支持模拟推演与反事实推理，使 Agent 具备\"先想后做\"的能力。\n4、工具调用与跨模态行动空间\n研究 Agent 在复杂行动空间（点击、滑动、代码执行、API 调用、图像编辑等）下的策略学习，探索多模态感知与工具使用的协同建模。\n5、可扩展的奖励设计与评估体系\n突破人工标注的瓶颈，研究基于多模态大模型的自动奖励建模（Reward Modeling）方法，以及面向 Agentic 任务的系统性评估框架。",
+  "requirements": "硬性要求：\n1、计算机科学、人工智能、自动化、统计学等相关专业博士在读或应届毕业；\n2、深度学习基础扎实，熟悉 Transformer 架构及其在 LLM/VLM 中的应用；\n3、熟练使用 PyTorch，具备独立实现和调试复杂模型的能力；\n4、具备较强的数学功底，理解强化学习核心原理（MDP、策略梯度、值函数估计等）。\n加分项：\n1、在 NeurIPS / ICML / ICLR / CVPR / ICCV / ACL / EMNLP 等顶会以第一作者发表过论文；\n2、有 RL 或 RLHF 在大模型上的实际训练经验（PPO、GRPO、DPO 等）；\n3、复现或改进过主流多模态模型（LLaVA、InternVL、Qwen-VL、DALL-E 等）；\n4、参与过 GUI Agent、Web Agent、具身智能等 Agentic 方向的研究或工程项目；\n5、有分布式训练经验（Megatron-LM、DeepSpeed、FSDP）；\n6、对scaling law、emergent ability、reward hacking 等前沿议题有独立的深度思考。"
+}

@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7584283508526729525",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7584283508526729525/detail",
+  "checked_at_utc": "2026-10-27T13:04:08.292350+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7584283508526729525",
+  "code": 0,
+  "title": "大模型算法实习生（图像/视频生成方向） - 剪映CapCut",
+  "responsibilities": "团队介绍：剪映研发团队，主要支持剪映、CapCut、醒图、Hypic、即梦、Dreamina、小云雀、Pippit等多款国内外产品的研发工作，业务覆盖多元化影像创作场景，并孵化了多款AIGC明星产品，相关产品多次登顶国内外App Store 免费应用榜第一，并继续保持高速增长。加入我们，一起打造全球最受用户欢迎的影像创作和GenAI产品。\n\n日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n\n1、负责剪映和醒图的图像和视觉算法方向的研发创新、效果优化，结合Agent系统研发探索；\n2、针对AI图像色彩、画质、摄影、人像、文字、特效等方向产品应用进行研究和实现；\n3、负责模型研发、微调、小样本训练、Prompt工程、RL、Agent研究和实现。",
+  "requirements": "1、本科及以上学历在读；\n2、有扎实的计算机视觉、人工智能、大模型等方面的基础知识；\n3、具备出色的编程能力，精通Python/C++，熟悉TensorFlow/PyTorch等框架，有计算机视觉（CV）、多模态生成模型（如CLIP、Diffusion Models）项目经验；\n4、熟悉大模型理论知识和应用，熟悉常见图像视频生成模型架构，有实际大模型预训练、微调或推理优化经验者优先；\n5、在ACL/CVPR/SIGIR/KDD/NeurIPS/ICCV等顶会发表过AIGC相关论文者优先；\n6、热爱视频剪辑，对常用视频剪辑工具有使用经验者优先；有数理和编程竞赛经历者优先，每周出勤4天，可实习4个月以上。"
+}

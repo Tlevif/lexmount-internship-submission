@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199905420001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199905420001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:41.359832+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992810",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905420001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "语音算法实习生—端到端语音大模型/统一建模方向\nUpdated on 2026-05-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、探索并构建语音理解与生成统一的大模型架构（Speech Unified Modal），实现从语音到语音（S2S）、文本到语音（T2S）、语音到文本（S2T）的端到端流式交互能力，对标 GPT-4o 音频模式等前沿技术；\n2、负责语音离散化（Audio Tokenizer/Neural Codec）算法的改进与优化，提升语音 Token 在语义理解与声学细节（语调、情感、音色）上的表征能力，降低压缩损耗；\n3、参与语音大模型的预训练（Pre-training）、指令微调（SFT）及人类反馈强化学习（RLHF）流程；解决长序列建模、跨模态对齐及推理延迟等技术难题；\n4、设计并实施大规模多模态数据（语音-文本交错数据）的清洗、合成与增强方案，构建高质量的语音指令数据集（Instruction Tuning Data）；\n5、追踪并复现语音与多模态领域的最新顶会论文（如 ICASSP, Interspeech, ICLR, CVPR 等），将最新的自回归（Autoregressive）或流匹配（Flow Matching）技术应用于内部模型创新。\nQualifications\n1、计算机科学、人工智能、信号处理、电子工程等相关专业在校硕士或博士研究生；\n2、精通 Python 编程，熟练掌握 PyTorch 深度学习框架；有 Megatron-LM、DeepSpeed 等大规模分布式训练框架使用经验者优先；\n3、深入理解 Transformer 架构及大语言模型（LLM）原理。熟悉主流语音编解码模型（如 VQ-VAE, SoundStream, EnCodec, HiFi-Codec）。熟悉语音大模型相关工作（如 AudioLM, VALL-E, SpeechGPT, Qwen-Audio, GPT-4o Audio 等）。\n加分项：\n1、在语音合成（TTS）、语音识别（ASR）或多模态学习领域有顶会（ICASSP, Interspeech, ACL, NeurIPS 等）论文发表者优先；\n2、有训练百亿参数以上模型经验，或在 HuggingFace/GitHub 有高 Star 开源项目贡献者优先；\n3、熟悉扩散模型（Diffusion Model）或 Flow Matching 在语音生成中的应用；\n4、具备优秀的英文文献阅读能力，对 AGI 和多模态交互有极强的探索欲。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1245,
+      "warnings": []
+    },
+    "request_id": "d54c2155-68e7-46ef-a3d6-5292c531567f",
+    "status_code": 200,
+    "title": "语音算法实习生—端到端语音大模型/统一建模方向",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905420001?deptCodes="
+  },
+  "responsibilities": "1、探索并构建语音理解与生成统一的大模型架构（Speech Unified Modal），实现从语音到语音（S2S）、文本到语音（T2S）、语音到文本（S2T）的端到端流式交互能力，对标 GPT-4o 音频模式等前沿技术；\n2、负责语音离散化（Audio Tokenizer/Neural Codec）算法的改进与优化，提升语音 Token 在语义理解与声学细节（语调、情感、音色）上的表征能力，降低压缩损耗；\n3、参与语音大模型的预训练（Pre-training）、指令微调（SFT）及人类反馈强化学习（RLHF）流程；解决长序列建模、跨模态对齐及推理延迟等技术难题；\n4、设计并实施大规模多模态数据（语音-文本交错数据）的清洗、合成与增强方案，构建高质量的语音指令数据集（Instruction Tuning Data）；\n5、追踪并复现语音与多模态领域的最新顶会论文（如 ICASSP, Interspeech, ICLR, CVPR 等），将最新的自回归（Autoregressive）或流匹配（Flow Matching）技术应用于内部模型创新。",
+  "requirements": "1、计算机科学、人工智能、信号处理、电子工程等相关专业在校硕士或博士研究生；\n2、精通 Python 编程，熟练掌握 PyTorch 深度学习框架；有 Megatron-LM、DeepSpeed 等大规模分布式训练框架使用经验者优先；\n3、深入理解 Transformer 架构及大语言模型（LLM）原理。熟悉主流语音编解码模型（如 VQ-VAE, SoundStream, EnCodec, HiFi-Codec）。熟悉语音大模型相关工作（如 AudioLM, VALL-E, SpeechGPT, Qwen-Audio, GPT-4o Audio 等）。\n加分项：\n1、在语音合成（TTS）、语音识别（ASR）或多模态学习领域有顶会（ICASSP, Interspeech, ACL, NeurIPS 等）论文发表者优先；\n2、有训练百亿参数以上模型经验，或在 HuggingFace/GitHub 有高 Star 开源项目贡献者优先；\n3、熟悉扩散模型（Diffusion Model）或 Flow Matching 在语音生成中的应用；\n4、具备优秀的英文文献阅读能力，对 AGI 和多模态交互有极强的探索欲。"
+}

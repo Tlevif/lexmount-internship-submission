@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7505309900911053065",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7505309900911053065/detail",
+  "checked_at_utc": "2026-10-27T13:04:48.963473+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7505309900911053065",
+  "code": 0,
+  "title": "机器学习系统研发实习生",
+  "responsibilities": "1. 参与 MiniMax 机器学习平台的研发，设计和实现机器学习相关的基础设施/算法框架/工具链等，关注机器学习研发过程的稳定性、资源利用率等问题；\n2. 基于机器学习系统、云原生、云计算架构等多个角度做技术问题解决和探索；\n3. 覆盖机器学习系统多个子方向领域的工作，包括：大数据引擎、资源调度、任务编排、模型训练、模型管理、数据集管理、工作流编排、ML for System等；",
+  "requirements": "1. 熟悉Linux平台下的分布式系统的开发及运维；\n2. 具有Golang/Python/C/C++等一种高级语言开发经验；\n3. 熟悉计算机组成、操作系统原理；\n4. 熟悉分布式系统原理，参与过大规模分布式系统的设计、开发和维护优先；\n5. 了解容器技术，具有Docker、Kubernetes开发或使用经验\n6. 有机器学习平台研发经验, 有大规模训练任务和推理服务的编排、在离线混部及资源调度经验者优先\n7. 了解 Pytorch/Tensorflow/JAX/PaddlePaddle/Mindspore等机器学习框架、GPU/NPU/ARM等最新异构计算系统与架构、RDMA高性能网络, 有相关系统研发经验者优先"
+}

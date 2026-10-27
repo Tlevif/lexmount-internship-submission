@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903920035",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903920035?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:27.367321+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992863",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903920035?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "算法工程师-多模态内容理解方向（T-Star Lab日常实习）\nUpdated on 2026-03-26\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2028-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n岗位课题：\n探索生成和理解统一模型对视觉理解的增益\n课题项目背景：\n基于推荐和内容场景，通过多模态、大模型技术，应用于内容质量审核、内容基础信息完善、推荐泛化性探索等场景；我们有海量的商品、用户行为数据，能让实习生将前沿技术落地，并在真实应用和用户反馈中实现技术价值。\n岗位职责：\n在这里，你将深度参与并探索多模态、大模型技术给推荐、内容应用场景带来的新可能、新突破。这些技术成果，也将具体体现在每日用户使用和反馈的效果提升上。\nQualifications\n1. 硕士及以上学历，2026年11月1日以后毕业，计算机科学/人工智能/机器学习等相关专业，能连续实习3个月及以上；\n2. 具备扎实的编程基础（Python），熟悉常用算法与数据结构；掌握机器学习基础理论，了解大模型/多模态等至少一个领域；\n3. 有PyTorch框架使用经验，参与过算法竞赛（Kaggle/天池等）或开源项目者优先；\n4. 对AI技术充满好奇心，主动关注大模型、强化学习等领域前沿进展；\n5. 具备较强的问题拆解能力，能通过数据分析定位业务痛点并提出创新思路；\n6. 良好的沟通能力，能与工程师、产品经理高效协作，将技术方案转化为业务价值；\n7. 对电商场景有基本认知，愿意深入理解用户需求与商业逻辑。\n【加分项】\n● 有大模型训练/微调经验（如Llama、Qwen、多模态模型）或搜推广算法相关项目经历；\n● 有海量数据处理经验或者大厂实习经验；\n● 在算法竞赛中获得优异成绩（ACM-ICPC/挑战赛TOP10等）或者在顶级会议或高水平期刊发表过论文或有复现前沿论文的经验者优先；\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 928,
+      "warnings": []
+    },
+    "request_id": "ebd3e109-3791-47b0-b203-7a2e9c8df8ec",
+    "status_code": 200,
+    "title": "算法工程师-多模态内容理解方向（T-Star Lab日常实习）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903920035?deptCodes="
+  },
+  "responsibilities": "岗位课题：\n探索生成和理解统一模型对视觉理解的增益\n课题项目背景：\n基于推荐和内容场景，通过多模态、大模型技术，应用于内容质量审核、内容基础信息完善、推荐泛化性探索等场景；我们有海量的商品、用户行为数据，能让实习生将前沿技术落地，并在真实应用和用户反馈中实现技术价值。\n岗位职责：\n在这里，你将深度参与并探索多模态、大模型技术给推荐、内容应用场景带来的新可能、新突破。这些技术成果，也将具体体现在每日用户使用和反馈的效果提升上。",
+  "requirements": "1. 硕士及以上学历，2026年11月1日以后毕业，计算机科学/人工智能/机器学习等相关专业，能连续实习3个月及以上；\n2. 具备扎实的编程基础（Python），熟悉常用算法与数据结构；掌握机器学习基础理论，了解大模型/多模态等至少一个领域；\n3. 有PyTorch框架使用经验，参与过算法竞赛（Kaggle/天池等）或开源项目者优先；\n4. 对AI技术充满好奇心，主动关注大模型、强化学习等领域前沿进展；\n5. 具备较强的问题拆解能力，能通过数据分析定位业务痛点并提出创新思路；\n6. 良好的沟通能力，能与工程师、产品经理高效协作，将技术方案转化为业务价值；\n7. 对电商场景有基本认知，愿意深入理解用户需求与商业逻辑。\n【加分项】\n● 有大模型训练/微调经验（如Llama、Qwen、多模态模型）或搜推广算法相关项目经历；\n● 有海量数据处理经验或者大厂实习经验；\n● 在算法竞赛中获得优异成绩（ACM-ICPC/挑战赛TOP10等）或者在顶级会议或高水平期刊发表过论文或有复现前沿论文的经验者优先；"
+}

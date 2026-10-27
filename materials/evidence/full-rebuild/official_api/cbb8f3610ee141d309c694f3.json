@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7647829106008557851",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7647829106008557851/detail",
+  "checked_at_utc": "2026-10-27T13:04:48.365191+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7647829106008557851",
+  "code": 0,
+  "title": "MaaS 平台研发实习生",
+  "responsibilities": "1. 参与 MaaS 平台的模型服务化能力建设，支持多模型、多版本的管理与发布流程\n2. 参与模型部署工具链开发，包括上线流水线、灰度发布、回滚、配置管理等自动化能力\n3. 参与推理服务链路的基础优化，协助分析延迟、吞吐、资源利用率等指标并推动改进\n4. 参与平台可观测性建设（监控、日志、链路追踪、告警），提升线上问题发现与定位效率\n5. 参与平台稳定性保障，包括限流、降级、熔断等机制的开发与验证",
+  "requirements": "1. 本科及以上学历，计算机科学、软件工程等相关专业，每周至少实习 4 天，可持续 3 个月以上\n2. 熟练掌握 Go / Python / C++ 中至少一门语言，具备扎实的数据结构与算法基础\n3. 了解分布式系统基本概念（CAP、一致性、负载均衡等）\n4. 了解 Linux 系统编程基础（进程/线程、网络编程、IO 模型）\n5. 对模型推理流程有基本了解或学习意愿，对 AI 基础设施方向有浓厚兴趣\n加分项\n- 熟悉 Kubernetes / Docker，了解容器化部署与编排\n- 熟悉 CI/CD 工具（Jenkins / GitLab CI / Argo CD 等）\n- 熟悉 Prometheus、Grafana 等可观测性工具\n- 有后端服务开发或平台工具开发经验\n- 有开源项目贡献或高质量个人项目经验"
+}

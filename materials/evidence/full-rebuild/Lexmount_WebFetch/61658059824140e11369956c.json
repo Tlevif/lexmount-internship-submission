@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199909620006",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199909620006?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:27.964506+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992702",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909620006?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "千问办公-AI应用研发工程师\nUpdated on 2026-09-16\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、设备接入网关\n负责移动端与 PC 端设备接入：WebSocket 长连接管理、协议编解码、会话注册与位置（presence）管理；建设反向推送链路，凭位置信息直连持有会话的实例下推，支撑设备到设备的请求与事件流。\n2、云端沙箱运行时\n建设与演进 Agent 代码执行沙箱平台，覆盖沙箱生命周期管理（创建/暂停/释放/保活）、资源池化预热、多 Provider 抽象与路由；持续优化建箱与文件系统挂载性能，压降冷启动耗时。\nQualifications\n1. 本科及以上学历，计算机及相关专业。\n2. 熟练掌握 Go、Java、Rust 中的至少一种，具备扎实的计算机基础和并发编程能力。\n3. 熟悉关系型数据库，了解 Redis、消息队列及常见性能优化方法。\n4. 调用过主流 LLM API，理解流式响应的基本原理。\n5. 会使用 Git、Linux、Docker，具备日志分析、接口调试和单元测试能力。\n6. 熟练使用AI 编程工具，能够验证生成结果并对最终代码质量负责。\n7. 认真负责、自驱，能够清晰分析和表达技术问题。\n加分项\n1、有 AI Agent / Sandbox / 代码执行环境 / Serverless 运行时相关建设经验。\n2、有长连接网关经验（WebSocket、大规模连接管理、推送系统）的设计与运维经验。\n3、有分布式存储或大规模文件服务经验，理解分片路由、对象存储与凭证体系。\nHiring Business\nQwenWork",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 816,
+      "warnings": []
+    },
+    "request_id": "05cb7e13-11f4-4e5e-8c95-5a3584fe671e",
+    "status_code": 200,
+    "title": "千问办公-AI应用研发工程师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909620006?deptCodes="
+  },
+  "responsibilities": "1、设备接入网关\n负责移动端与 PC 端设备接入：WebSocket 长连接管理、协议编解码、会话注册与位置（presence）管理；建设反向推送链路，凭位置信息直连持有会话的实例下推，支撑设备到设备的请求与事件流。\n2、云端沙箱运行时\n建设与演进 Agent 代码执行沙箱平台，覆盖沙箱生命周期管理（创建/暂停/释放/保活）、资源池化预热、多 Provider 抽象与路由；持续优化建箱与文件系统挂载性能，压降冷启动耗时。",
+  "requirements": "1. 本科及以上学历，计算机及相关专业。\n2. 熟练掌握 Go、Java、Rust 中的至少一种，具备扎实的计算机基础和并发编程能力。\n3. 熟悉关系型数据库，了解 Redis、消息队列及常见性能优化方法。\n4. 调用过主流 LLM API，理解流式响应的基本原理。\n5. 会使用 Git、Linux、Docker，具备日志分析、接口调试和单元测试能力。\n6. 熟练使用AI 编程工具，能够验证生成结果并对最终代码质量负责。\n7. 认真负责、自驱，能够清晰分析和表达技术问题。\n加分项\n1、有 AI Agent / Sandbox / 代码执行环境 / Serverless 运行时相关建设经验。\n2、有长连接网关经验（WebSocket、大规模连接管理、推送系统）的设计与运维经验。\n3、有分布式存储或大规模文件服务经验，理解分片路由、对象存储与凭证体系。"
+}

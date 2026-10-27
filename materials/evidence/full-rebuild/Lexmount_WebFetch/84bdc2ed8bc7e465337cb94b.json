@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199908340001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199908340001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:58.568046+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992759",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908340001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "阿里国际智能技术-广告AIGC算法工程师-日常实习生\nUpdated on 2026-07-28\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n【团队介绍】\n我们是 AE广告算法团队，聚焦跨境电商广告场景下的图片创意生成、评估与优化。我们相信下一代创意系统不该只是\"\"出一张图\"\"，而是能把多模态生成模型、视觉语言模型、行业知识库和真实投放反馈闭环起来，持续朝商业效果进化。\n在这里你能拿到的，是大多数研究岗给不了的两样东西:真实跨境电商广告场景的完整数据与投放闭环，以及把创新工作沉淀为顶会论文 / 专利 / 对外技术材料的空间。你会走完从创意评测、生成链路分析、创意原子归因到策略优化的完整研究链路，既做业务落地，也做前沿探索。\n【岗位描述】\n1. 用多模态模型做商品图片创意的生成与编辑，围绕\"\"生成质量 + 商业效果\"\"双目标持续迭代；\n2. 设计面向电商创意的评测方法——判断一张生成图是否满足商品表达、投放可用性和效果潜力；\n3. 做图像生成 / 图像编辑 / VLM 方向的技术调研、论文复现与实验验证，把前沿方法转化为可上线的方案；\n4. 分析生成结果与业务反馈，探索让创意系统从\"\"单次出图\"\"走向\"\"持续进化\"\"的优化机制（归因、偏好学习、策略优化等）；\n5. 沉淀实验结论与技术方案，优秀成果进一步形成论文、专利或对外材料。\nQualifications\n1. 计算机 / 人工智能 / 机器学习等相关专业在读硕士或高年级本科；\n2. 熟练 Python，掌握 PyTorch / TensorFlow / Transformers / Diffusers 中至少一种；\n3. 对多模态模型、图像生成、图像编辑、视觉语言模型、生成式 AI 中至少一个方向有研究兴趣或实践经验；\n4. 能独立跑实验、分析结果、归纳结论，能读前沿英文论文并落成可验证的实验方案；\n5. 有较强的研究热情和技术自驱力。\n【加分项】\n1. 图像生成 / 图像编辑 / 扩散模型 / VLM 评测 / VLM-as-Judge 相关研究或项目经验；\n2. RLHF / DPO / preference optimization / reward model / 策略优化经验；\n3. 熟悉广告、推荐、CTR 预估、A/B 实验、反事实评估等业务背景；\n4. 多模态 Benchmark 建设、模型横评、人工标注规范设计经验；\n5. 顶会顶刊论文、高水平竞赛获奖或高质量开源贡献者优先。\nHiring Business\nAlibaba International Digital Commerce Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1226,
+      "warnings": []
+    },
+    "request_id": "fd5df0ae-feca-453f-b7b2-012f55f02826",
+    "status_code": 200,
+    "title": "阿里国际智能技术-广告AIGC算法工程师-日常实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908340001?deptCodes="
+  },
+  "responsibilities": "【团队介绍】\n我们是 AE广告算法团队，聚焦跨境电商广告场景下的图片创意生成、评估与优化。我们相信下一代创意系统不该只是\"\"出一张图\"\"，而是能把多模态生成模型、视觉语言模型、行业知识库和真实投放反馈闭环起来，持续朝商业效果进化。\n在这里你能拿到的，是大多数研究岗给不了的两样东西:真实跨境电商广告场景的完整数据与投放闭环，以及把创新工作沉淀为顶会论文 / 专利 / 对外技术材料的空间。你会走完从创意评测、生成链路分析、创意原子归因到策略优化的完整研究链路，既做业务落地，也做前沿探索。\n\n岗位描述\n\n1. 用多模态模型做商品图片创意的生成与编辑，围绕\"\"生成质量 + 商业效果\"\"双目标持续迭代；\n2. 设计面向电商创意的评测方法——判断一张生成图是否满足商品表达、投放可用性和效果潜力；\n3. 做图像生成 / 图像编辑 / VLM 方向的技术调研、论文复现与实验验证，把前沿方法转化为可上线的方案；\n4. 分析生成结果与业务反馈，探索让创意系统从\"\"单次出图\"\"走向\"\"持续进化\"\"的优化机制（归因、偏好学习、策略优化等）；\n5. 沉淀实验结论与技术方案，优秀成果进一步形成论文、专利或对外材料。",
+  "requirements": "1. 计算机 / 人工智能 / 机器学习等相关专业在读硕士或高年级本科；\n2. 熟练 Python，掌握 PyTorch / TensorFlow / Transformers / Diffusers 中至少一种；\n3. 对多模态模型、图像生成、图像编辑、视觉语言模型、生成式 AI 中至少一个方向有研究兴趣或实践经验；\n4. 能独立跑实验、分析结果、归纳结论，能读前沿英文论文并落成可验证的实验方案；\n5. 有较强的研究热情和技术自驱力。\n【加分项】\n1. 图像生成 / 图像编辑 / 扩散模型 / VLM 评测 / VLM-as-Judge 相关研究或项目经验；\n2. RLHF / DPO / preference optimization / reward model / 策略优化经验；\n3. 熟悉广告、推荐、CTR 预估、A/B 实验、反事实评估等业务背景；\n4. 多模态 Benchmark 建设、模型横评、人工标注规范设计经验；\n5. 顶会顶刊论文、高水平竞赛获奖或高质量开源贡献者优先。"
+}

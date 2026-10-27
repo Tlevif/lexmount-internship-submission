@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1211741011563656192",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1211741011563656192",
+  "checked_at_utc": "2026-10-27T13:05:38.870675+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "你将开发维护各种不可思议的客户端产品， 以技术力量创造更美好的生活体验。 让你的前端技术，服务顶尖产品！",
+    "dom_id": "992880",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1211741011563656192",
+    "language": "zh-cn",
+    "main_text": "你将开发维护各种不可思议的客户端产品， 以技术力量创造更美好的生活体验。 让你的前端技术，服务顶尖产品！\n岗位描述\n负责 Web 页面、小程序、以及跨平台框架等前端相关技术的研发。\n1、通过优化技术方案，提升产品体验，实践AI辅助前端开发（如AI生成UI组件、智能代码重构等）提升效率；\n2、抽离通用组件进行复用，关注AI驱动的前端工具链和组件智能化趋势；\n3、探索AI在前端领域的前沿应用（AI交互组件、智能表单、对话式UI等），力争为用户带来跨时代的产品体验；\n4、参与前端AI能力的集成与落地，如大模型对话界面、智能推荐前端等。\n岗位要求\nAI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI的输出进行高质量判断，具备人机协同的工作意识和习惯。\n专业能力：\n1、计算机相关专业本科及以上学历；\n2、热爱计算机编程，丰富的编码实战经验；\n3、熟悉JS/TS/HTML/CSS等前端开发语言；\n4、了解一门后台技术，如Python/Node.js/Go等；\n5、了解常见前端开发框架（React/Vue/Next.js等）以及devops工具；\n6、了解常见的web/app/小程序前后端系统架构；\n7、掌握常见的算法能力；\n8、掌握常见网络协议和相关底层网络协议的全面知识。\n参加面试的城市\n远程面试\n招聘部门和工作地\nIEG\n互动娱乐事业群\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 592,
+      "warnings": []
+    },
+    "request_id": "71dd3a1a-cfda-4770-a17e-c7886b6137bd",
+    "status_code": 200,
+    "title": "前端开发 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1211741011563656192"
+  },
+  "responsibilities": "负责 Web 页面、小程序、以及跨平台框架等前端相关技术的研发。\n1、通过优化技术方案，提升产品体验，实践AI辅助前端开发（如AI生成UI组件、智能代码重构等）提升效率；\n2、抽离通用组件进行复用，关注AI驱动的前端工具链和组件智能化趋势；\n3、探索AI在前端领域的前沿应用（AI交互组件、智能表单、对话式UI等），力争为用户带来跨时代的产品体验；\n4、参与前端AI能力的集成与落地，如大模型对话界面、智能推荐前端等。",
+  "requirements": "AI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI的输出进行高质量判断，具备人机协同的工作意识和习惯。\n专业能力：\n1、计算机相关专业本科及以上学历；\n2、热爱计算机编程，丰富的编码实战经验；\n3、熟悉JS/TS/HTML/CSS等前端开发语言；\n4、了解一门后台技术，如Python/Node.js/Go等；\n5、了解常见前端开发框架（React/Vue/Next.js等）以及devops工具；\n6、了解常见的web/app/小程序前后端系统架构；\n7、掌握常见的算法能力；\n8、掌握常见网络协议和相关底层网络协议的全面知识。"
+}

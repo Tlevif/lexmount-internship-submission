@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7685277183518427419",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7685277183518427419/detail",
+  "checked_at_utc": "2026-10-27T13:04:47.595979+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7685277183518427419",
+  "code": 0,
+  "title": "Agent系统工程实习生（AI Infra）",
+  "responsibilities": " 一、岗位定位\n\n  参与从 0 到 1 构建面向系统故障诊断的 AI Agent 平台，将主机、网络、Kubernetes 等领域的专业 Agent\n  组织成可扩展的协作系统，实现任务路由、上下文传递、证据聚合和可靠执行。\n\n 二、你将解决什么问题\n\n  真实的智能排障系统并不是简单调用一次大模型接口，而是需要解决：\n\n  - 不同领域 Agent 如何被统一发现和调用；\n  - 一个复杂问题如何拆解并分发给多个 Agent；\n  - 如何结合日志、指标、事件和调用链进行证据驱动的诊断；\n  - 如何处理超时、失败、结果不一致和上下文传递；\n  - 如何评估 Agent 诊断结果的准确性和稳定性。\n\n  你将参与：\n\n  1. 设计和实现 skill、plugin、sub-agent 的统一协议与运行机制。\n  2. 建设多 Agent 协作框架，实现任务路由、请求转发、上下文传递和结果汇总。\n  3. 将主机、网络、Kubernetes 等领域的排障能力抽象为可复用的 Agent 工具。\n  4. 探索基于日志、指标、事件和调用链的自动化诊断流程。\n  5. 完善 Agent 系统的超时、重试、降级、权限和结果校验机制。\n  6. 建立测试样例和评估方法，持续提升 Agent 输出的准确性、稳定性和可解释性。\n\n",
+  "requirements": " 三、我们期望你具备\n\n  1. 计算机、软件工程或相关专业本科及以上学历，在校生。\n  2. Python 基础扎实，能够独立完成模块设计、编码、调试和测试。\n  3. 了解 API、JSON、Git 和常见后端开发方式，具备基本工程实践能力。\n  4. 对模块化设计、任务编排、状态管理或分布式系统有兴趣。\n  5. 能够将复杂问题拆解为输入、步骤、判断条件和可验证的输出。\n  6. 对大模型、AI Agent、工具调用或智能运维方向有实际兴趣或项目经验。\n  7. 每周建议到岗 4 天以上，可连续实习 2—4 个月。\n\n  ### 加分项\n\n  - 了解 Kubernetes、Docker、Linux 或计算机网络。\n  - 使用过 kubectl、Prometheus、Grafana 或日志平台。\n  - 开发过 Agent、RAG、MCP、Function Calling 或自动化工作流。\n  - 有后端服务、CLI 工具、开源项目或结构完整的个人项目经验。\n  - 接触过异步编程、消息队列、任务调度或多服务协作。\n\n \n \n"
+}

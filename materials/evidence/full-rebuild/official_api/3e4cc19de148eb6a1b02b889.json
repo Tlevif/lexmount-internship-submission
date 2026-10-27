@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7698302607328233733",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7698302607328233733/detail",
+  "checked_at_utc": "2026-10-27T13:03:05.123102+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7698302607328233733",
+  "code": 0,
+  "title": "LLM/Agent算法实习生 - Commercial AI",
+  "responsibilities": "团队介绍：Commercial AI隶属于国际化广告（国际化商业产品与技术），聚焦在商业化场景下的AI研发与创新，包括围绕广告场景，探索超长序列复杂模型、生成式推荐和 AI 广告素材生成等核心能力。简化产品流程，提升客户体验，并推动广告系统从素材生成到推荐建模的持续升级，助力广告效果提升和收入增长。\n\n日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n\n1、探索将LLM和Agent技术在广告领域落地，构建业界领先的Agent产品，在广告助手、智能客服、创编服务等关键领域通过Agent大幅提升广告相关工作的效率与效果；\n2、后训练优化：应用和创新后训练方法，如微调、强化学习变体或数据增强，以提升推理能力，优化模型在问答、推理、工具使用等场景下的表现；\n3、深度应用LLM相关技术栈：多模态RAG、Reasoning RL、Reward System、Agent产品构建和评估，为用户提供优质的智能交互产品体验。",
+  "requirements": "1、硕士及以上学位在读，计算机相关专业优先；\n2、后训练专业经验：对LLM/MLLM相关后训练技术，包括微调、RL有实践或创新优化相关经验；\n3、Agent领域经验：对长上下文、Agent Memory、多轮工具使用、Agent垂直场景问答、Tool Use、Browser use、Deep research等领域有深度实践和理解；\n4、系统评估：对LLM/Agent相关Reward/Eval system有实践和理解；\n5、对基模智能边界提升、多模态RAG、强化学习、Agent等前沿技术有持续跟踪和理解。"
+}

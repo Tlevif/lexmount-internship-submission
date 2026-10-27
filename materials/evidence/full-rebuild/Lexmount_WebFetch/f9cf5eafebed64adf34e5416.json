@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199906500001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199906500001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:24.363834+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992789",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199906500001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-业务研发-开发工程师\nUpdated on 2026-06-12\nHangzhou\nBasic Information\nGraduation Dates: 2028-01-01 - 2029-12-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n我们招募的是能在前端、服务端、AI Agent 三个方向灵活切换的全栈实习生：\n前端：参与搜索、推荐、详情等核心场景的研发，负责动态化渲染、性能优化与 AB 实验落地。\n服务端：参与召回、粗排、精排链路建设，支撑亿级请求的高并发在线服务。\nAI Agent：参与 A2A 智能采购代理、意图理解、对话式导购等方向，涉及大模型应用、Prompt 与 Agent 编排。\n全栈协作：一个课题从需求到上线，你会在多个层次都留下代码，而不是只做一颗螺丝钉。\nQualifications\n我们更看重学习能力和技术热情，而非已有经验：\n计算机相关专业本科及以上在读，熟悉 Java / JavaScript / TypeScript / Python 任一语言。\n学习能力强，能在一两周内进入陌生技术栈并产出可用代码。\n对技术有真正的热情，愿意读源码、写 Demo、折腾 side project；对 AI、Agent、AIGC 有思考或实践者优先。\n工程习惯良好，注重可读性与可维护性，沟通清晰、协作主动。\n每周到岗 ≥ 4 天，连续实习 ≥ 3 个月。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 694,
+      "warnings": []
+    },
+    "request_id": "8ba940d8-b0eb-424a-b9d8-6de3bee327c0",
+    "status_code": 200,
+    "title": "日常实习生-业务研发-开发工程师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199906500001?deptCodes="
+  },
+  "responsibilities": "我们招募的是能在前端、服务端、AI Agent 三个方向灵活切换的全栈实习生：\n前端：参与搜索、推荐、详情等核心场景的研发，负责动态化渲染、性能优化与 AB 实验落地。\n服务端：参与召回、粗排、精排链路建设，支撑亿级请求的高并发在线服务。\nAI Agent：参与 A2A 智能采购代理、意图理解、对话式导购等方向，涉及大模型应用、Prompt 与 Agent 编排。\n全栈协作：一个课题从需求到上线，你会在多个层次都留下代码，而不是只做一颗螺丝钉。",
+  "requirements": "我们更看重学习能力和技术热情，而非已有经验：\n计算机相关专业本科及以上在读，熟悉 Java / JavaScript / TypeScript / Python 任一语言。\n学习能力强，能在一两周内进入陌生技术栈并产出可用代码。\n对技术有真正的热情，愿意读源码、写 Demo、折腾 side project；对 AI、Agent、AIGC 有思考或实践者优先。\n工程习惯良好，注重可读性与可维护性，沟通清晰、协作主动。\n每周到岗 ≥ 4 天，连续实习 ≥ 3 个月。"
+}

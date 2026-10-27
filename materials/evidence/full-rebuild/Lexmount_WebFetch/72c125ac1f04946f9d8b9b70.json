@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "19021",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/19021",
+  "checked_at_utc": "2026-10-27T13:09:37.561994+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：大模型 | 工作地点：北京市，上海市，杭州市 | 项目：其他项目",
+    "dom_id": "993263",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/19021",
+    "language": "zh-cn",
+    "main_text": "职位类型：大模型\n工作地点：北京市，上海市，杭州市\n项目：其他项目\n工作职责\n1、深入探索LLM在编程场景中的应用，参与Coding Agent开发 ； 2、探索AI coding领域前沿技术与工程范式（Agent编排、上下文工程、harness、loop等） ； 3、通过提取代码语义、构建工程级上下文及梳理复杂依赖关系等手段，提升LLM对于超复杂项目的理解能力 ； 4、搭建Coding Agent的执行与验证闭环，让模型在真实构建与动态测试的反馈中反复修正问题、提升质量 ； 5、建立面向复杂、工程的代码质量评测体系，持续定位并突破当前大模型在工程级与端侧落地中的能力瓶颈。\n任职资格\n1、扎实的计算机基础，对程序分析、软件工程有深入理解； 2、具备优秀的代码能力、数据结构和基础算法功底，熟练掌握C/C++、Python等一个或多个编程语言； 3、具备处理大型工程代码库的经验，理解复杂工程中的模块依赖、构建体系与演进模式； 4、具备较强的问题抽象能力，能够将复杂的工程问题转化为可建模、可验证的技术方案； 5、熟悉大模型有关的算法技术，有自然语言处理（NLP）和大模型训练、强化学习（RL）算法经验者优先； 6、有出色的科研经历，在NeurIPS/ICRL/ICML/ISSTA/ACL/EMNLP/ICSE/ASE/FSE等国际顶级期刊会议上发表论文者优先。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 585,
+      "warnings": []
+    },
+    "request_id": "83595566-955c-4ec9-8fa2-5149a27c7018",
+    "status_code": 200,
+    "title": "大模型 Agent 开发实习（AI Coding方向）",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/19021"
+  },
+  "responsibilities": "1、深入探索LLM在编程场景中的应用，参与Coding Agent开发 ； 2、探索AI coding领域前沿技术与工程范式（Agent编排、上下文工程、harness、loop等） ； 3、通过提取代码语义、构建工程级上下文及梳理复杂依赖关系等手段，提升LLM对于超复杂项目的理解能力 ； 4、搭建Coding Agent的执行与验证闭环，让模型在真实构建与动态测试的反馈中反复修正问题、提升质量 ； 5、建立面向复杂、工程的代码质量评测体系，持续定位并突破当前大模型在工程级与端侧落地中的能力瓶颈。",
+  "requirements": "1、扎实的计算机基础，对程序分析、软件工程有深入理解； 2、具备优秀的代码能力、数据结构和基础算法功底，熟练掌握C/C++、Python等一个或多个编程语言； 3、具备处理大型工程代码库的经验，理解复杂工程中的模块依赖、构建体系与演进模式； 4、具备较强的问题抽象能力，能够将复杂的工程问题转化为可建模、可验证的技术方案； 5、熟悉大模型有关的算法技术，有自然语言处理（NLP）和大模型训练、强化学习（RL）算法经验者优先； 6、有出色的科研经历，在NeurIPS/ICRL/ICML/ISSTA/ACL/EMNLP/ICSE/ASE/FSE等国际顶级期刊会议上发表论文者优先。"
+}

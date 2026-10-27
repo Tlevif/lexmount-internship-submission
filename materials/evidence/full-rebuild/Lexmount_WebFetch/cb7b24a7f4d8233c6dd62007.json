@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903920030",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903920030?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:22.664473+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing | Technology | Alibaba Project Intern",
+    "dom_id": "992856",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903920030?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "算法工程师-外投广告机器学习方向（T-Star Lab日常实习）\nUpdated on 2026-03-26\nBeijing\nBasic Information\nGraduation Dates: 2026-10-31 - 2028-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n岗位课题包括以下两个研究方向：\n1. 利用大模型的序列描述能力和外投广告的全域数据，建模消费者全域行为兴趣模型，发掘消费者兴趣；\n2. 广告召回、粗排、精排多阶段联合建模，保障计算效率的同时，提升模型打分准确度。\n课题背景：\n大模型技术在搜推广领域已经有很多的工作产出，包括基于大模型的召回方法（Tiger、Universal retriever等）和排序模型（HSTU等），然而，他们都面向整个商品推荐漏斗的不同阶段（召回、精排或机制），这样一方面整个推荐链路仍然存在不同阶段不一致，同时分阶段使用不同的模型也存在算力浪费的问题。本项目期望推动大模型打分在外投全域广告投放中的应用，将各个打分阶段联合建模，提升模型精度的同时保证模型计算效率。\n岗位职责：\n你将负责阿里妈妈外投效果广告投放算法工作，包括但不限于：\n1. 负责大模型在客户交互和投放算法上的应用方案设计；\n2. 负责根据外投效果广告业务场景，对大模型进行改造和性能优化；\n3. 负责深度模型架构升级，提升在线广告投放模型性能和效果；\n4. 负责深度学习模型在用户表征学习、召回模型、精排打分模型的应用；\nQualifications\n1. 硕士及以上学历，2026年11月1日以后毕业，计算机、数学或统计学等相关专业，能连续实习3个月及以上；\n2. 有机器学习、运筹优化、大模型和博弈论相关领域研究和实践经验，在以上领域的知名国际会议(例如SIGIR、SIGKDD、ICML、NIPS、WSDM、WWW、AAAI、CIKM、ACL、RECSYS)或者期刊上发表过论文者更佳；\n3. 参加过ACM或数据挖掘&机器学习类竞赛(天池大奖赛、Kaggle)并取得好名次者更佳；\n4. 参与过机器学习开源项目并有突出贡献者更佳；\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 978,
+      "warnings": []
+    },
+    "request_id": "4ccb456e-a466-4421-ae2e-1d4e27879da7",
+    "status_code": 200,
+    "title": "算法工程师-外投广告机器学习方向（T-Star Lab日常实习）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903920030?deptCodes="
+  },
+  "responsibilities": "岗位课题包括以下两个研究方向：\n1. 利用大模型的序列描述能力和外投广告的全域数据，建模消费者全域行为兴趣模型，发掘消费者兴趣；\n2. 广告召回、粗排、精排多阶段联合建模，保障计算效率的同时，提升模型打分准确度。\n课题背景：\n大模型技术在搜推广领域已经有很多的工作产出，包括基于大模型的召回方法（Tiger、Universal retriever等）和排序模型（HSTU等），然而，他们都面向整个商品推荐漏斗的不同阶段（召回、精排或机制），这样一方面整个推荐链路仍然存在不同阶段不一致，同时分阶段使用不同的模型也存在算力浪费的问题。本项目期望推动大模型打分在外投全域广告投放中的应用，将各个打分阶段联合建模，提升模型精度的同时保证模型计算效率。\n岗位职责：\n你将负责阿里妈妈外投效果广告投放算法工作，包括但不限于：\n1. 负责大模型在客户交互和投放算法上的应用方案设计；\n2. 负责根据外投效果广告业务场景，对大模型进行改造和性能优化；\n3. 负责深度模型架构升级，提升在线广告投放模型性能和效果；\n4. 负责深度学习模型在用户表征学习、召回模型、精排打分模型的应用；",
+  "requirements": "1. 硕士及以上学历，2026年11月1日以后毕业，计算机、数学或统计学等相关专业，能连续实习3个月及以上；\n2. 有机器学习、运筹优化、大模型和博弈论相关领域研究和实践经验，在以上领域的知名国际会议(例如SIGIR、SIGKDD、ICML、NIPS、WSDM、WWW、AAAI、CIKM、ACL、RECSYS)或者期刊上发表过论文者更佳；\n3. 参加过ACM或数据挖掘&机器学习类竞赛(天池大奖赛、Kaggle)并取得好名次者更佳；\n4. 参与过机器学习开源项目并有突出贡献者更佳；"
+}

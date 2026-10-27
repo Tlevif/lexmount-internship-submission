@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903820043",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903820043?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:36.566800+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992875",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903820043?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "算法工程师-多模态大模型（T-Star Lab 日常实习）\nUpdated on 2026-03-20\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2028-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\nT-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n工作内容：\n1. 研发多模态大模型（MLLM），提升模型对图像/视频内容的深度语义理解、描述（Captioning）及问答能力。\n2. 负责基于 Qwen-image-edit / Flux等架构的图像生成算法优化，提升生成质量、多样性和可控性。研发针对特定风格、人物或场景的 包括但不限于LoRA / ControlNet / IP-Adapter 等微调与控制技术。探索图像高清化（Upscaling）、局部重绘（Inpainting）及属性编辑等落地场景。\n3. 负责文生视频（T2V）、图生视频（I2V）前沿算法的跟踪与实现（如 Sora,, Veo-3 类似架构）。优化视频生成的时空一致性、动作流畅度及长视频生成能力，探索视频风格迁移、数字人驱动及视频编辑相关技术。\nT-Star实习可以带给你什么？\nꔷ ①加入前沿技术探索队伍，参与顶级课题研究，有机会实现工业界项目落地。②跟企业大牛导师/学术界名导一起做有价值的课题。③丰富的技术资源、海量的数据与优秀的团队助力发paper ④有机会提前获得秋招直通T-Star的正式Offer。\nQualifications\n1、毕业时间在2026年11月及以后的海内外高校在校生。包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业。\n2、具备扎实的深度学习基础，熟练掌握 python，对 Transformer、Diffusion Model、VAE等架构有深入理解。\n3、在图像生成（Qwen-image/Flux 生态）、视频生成或多模态理解领域有实际项目经验或深度研究。\n4、在 CVPR, ICCV, ECCV, NeurIPS, SIGGRAPH 等顶会发表过高质量论文优先。\n5、在 GitHub 上有高星 AIGC 开源项目贡献，或在 Kaggle、顶会挑战赛中获得优异成绩优先。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1180,
+      "warnings": []
+    },
+    "request_id": "162ade09-b933-409c-94ad-f81fa365c1c7",
+    "status_code": 200,
+    "title": "算法工程师-多模态大模型（T-Star Lab 日常实习）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903820043?deptCodes="
+  },
+  "responsibilities": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n工作内容：\n1. 研发多模态大模型（MLLM），提升模型对图像/视频内容的深度语义理解、描述（Captioning）及问答能力。\n2. 负责基于 Qwen-image-edit / Flux等架构的图像生成算法优化，提升生成质量、多样性和可控性。研发针对特定风格、人物或场景的 包括但不限于LoRA / ControlNet / IP-Adapter 等微调与控制技术。探索图像高清化（Upscaling）、局部重绘（Inpainting）及属性编辑等落地场景。\n3. 负责文生视频（T2V）、图生视频（I2V）前沿算法的跟踪与实现（如 Sora,, Veo-3 类似架构）。优化视频生成的时空一致性、动作流畅度及长视频生成能力，探索视频风格迁移、数字人驱动及视频编辑相关技术。\nT-Star实习可以带给你什么？\nꔷ ①加入前沿技术探索队伍，参与顶级课题研究，有机会实现工业界项目落地。②跟企业大牛导师/学术界名导一起做有价值的课题。③丰富的技术资源、海量的数据与优秀的团队助力发paper ④有机会提前获得秋招直通T-Star的正式Offer。",
+  "requirements": "1、毕业时间在2026年11月及以后的海内外高校在校生。包括但不限于计算机、软件工程、人工智能、网络安全、信息与通信工程、电子科学、自动化、量子计算、数学以及其他前沿交叉学科等相关专业。\n2、具备扎实的深度学习基础，熟练掌握 python，对 Transformer、Diffusion Model、VAE等架构有深入理解。\n3、在图像生成（Qwen-image/Flux 生态）、视频生成或多模态理解领域有实际项目经验或深度研究。\n4、在 CVPR, ICCV, ECCV, NeurIPS, SIGGRAPH 等顶会发表过高质量论文优先。\n5、在 GitHub 上有高星 AIGC 开源项目贡献，或在 Kaggle、顶会挑战赛中获得优异成绩优先。"
+}

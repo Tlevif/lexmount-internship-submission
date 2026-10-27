@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199905360002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199905360002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:41.666239+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992808",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905360002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "自然语言处理算法实习生-语音对话交互方向\nUpdated on 2026-05-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、探索并构建面向语音交互场景的端到端对话大模型，实现多轮语音对话的语义理解、上下文管理与智能回复生成，打造流畅自然的人机对话体验，对标 GPT-4o、Gemini Live 等前沿产品；\n2、负责语音、文本、图像等多模态信息的联合建模与跨模态对齐研究，基于 LLM/VLM 骨干网络（如 Qwen、GLM、seed 等）构建统一的多模态对话理解框架，提升模型在视听融合场景下的推理与交互能力；\n3、参与对话大模型的预训练（Pre-training）、有监督微调（SFT）及基于人类反馈的强化学习（RLHF/RLAIF）全流程；重点攻克多轮对话上下文建模、语音-文本跨模态对齐、低延迟流式推理等核心技术难题；\n4、设计并实施大规模语音对话数据的采集、清洗、合成与质量评估方案；构建高质量的多轮对话指令数据集（Instruction Tuning Data），包括语音问答、情感对话、多模态指令跟随等多类型数据；\n5、持续追踪 ACL、EMNLP、NAACL、Interspeech、ICLR、NeurIPS 等顶会最新进展，快速复现并将 Chain-of-Thought、RAG、Agent、语音语言模型等前沿技术迁移至内部产品场景，推动模型能力持续迭代。\nQualifications\n1、计算机科学、人工智能、信号处理、电子工程等相关专业在校硕士或博士研究生；\n2、精通 Python 编程，熟练掌握 PyTorch 深度学习框架，有 Megatron-LM、DeepSpeed、vLLM 等分布式训练/推理框架使用经验者优先；\n3、深入理解 Transformer 架构及大语言模型（LLM）原理，熟悉主流开源模型（LLaMA / Qwen / Mistral 等）的结构与训练范式；熟悉多模态视觉语言模型（VLM）相关工作，如 LLaVA、InternVL、Qwen-VL、GPT-4V 等；\n4、熟悉语音对话大模型相关工作，如 SpeechGPT、Qwen-Audio、SALMONN、WavLLM、Moshi 等。了解主流语音编码器（Whisper、HuBERT、wav2vec 2.0）及语音解码器（VITS、CosyVoice 等）基本原理。\n加分项\n1、在 NLP、语音或多模态领域有顶会论文发表（ACL / EMNLP / Interspeech / ICASSP / NeurIPS / ICLR 等）；\n2、有对话系统、任务型对话（TOD）、开放域对话或 LLM Agent 相关项目经验；熟悉 RAG（检索增强生成）、Tool Use、Function Calling 等 LLM 应用技术；\n3、在 HuggingFace / GitHub 有高 Star 开源项目贡献，或参与过知名开源大模型项目；了解模型量化（GPTQ / AWQ）、推理加速（FlashAttention / Speculative Decoding）等工程优化技术。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1473,
+      "warnings": []
+    },
+    "request_id": "b729d15e-4e9d-406f-b458-78654a5bddcd",
+    "status_code": 200,
+    "title": "自然语言处理算法实习生-语音对话交互方向",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905360002?deptCodes="
+  },
+  "responsibilities": "1、探索并构建面向语音交互场景的端到端对话大模型，实现多轮语音对话的语义理解、上下文管理与智能回复生成，打造流畅自然的人机对话体验，对标 GPT-4o、Gemini Live 等前沿产品；\n2、负责语音、文本、图像等多模态信息的联合建模与跨模态对齐研究，基于 LLM/VLM 骨干网络（如 Qwen、GLM、seed 等）构建统一的多模态对话理解框架，提升模型在视听融合场景下的推理与交互能力；\n3、参与对话大模型的预训练（Pre-training）、有监督微调（SFT）及基于人类反馈的强化学习（RLHF/RLAIF）全流程；重点攻克多轮对话上下文建模、语音-文本跨模态对齐、低延迟流式推理等核心技术难题；\n4、设计并实施大规模语音对话数据的采集、清洗、合成与质量评估方案；构建高质量的多轮对话指令数据集（Instruction Tuning Data），包括语音问答、情感对话、多模态指令跟随等多类型数据；\n5、持续追踪 ACL、EMNLP、NAACL、Interspeech、ICLR、NeurIPS 等顶会最新进展，快速复现并将 Chain-of-Thought、RAG、Agent、语音语言模型等前沿技术迁移至内部产品场景，推动模型能力持续迭代。",
+  "requirements": "1、计算机科学、人工智能、信号处理、电子工程等相关专业在校硕士或博士研究生；\n2、精通 Python 编程，熟练掌握 PyTorch 深度学习框架，有 Megatron-LM、DeepSpeed、vLLM 等分布式训练/推理框架使用经验者优先；\n3、深入理解 Transformer 架构及大语言模型（LLM）原理，熟悉主流开源模型（LLaMA / Qwen / Mistral 等）的结构与训练范式；熟悉多模态视觉语言模型（VLM）相关工作，如 LLaVA、InternVL、Qwen-VL、GPT-4V 等；\n4、熟悉语音对话大模型相关工作，如 SpeechGPT、Qwen-Audio、SALMONN、WavLLM、Moshi 等。了解主流语音编码器（Whisper、HuBERT、wav2vec 2.0）及语音解码器（VITS、CosyVoice 等）基本原理。\n加分项\n1、在 NLP、语音或多模态领域有顶会论文发表（ACL / EMNLP / Interspeech / ICASSP / NeurIPS / ICLR 等）；\n2、有对话系统、任务型对话（TOD）、开放域对话或 LLM Agent 相关项目经验；熟悉 RAG（检索增强生成）、Tool Use、Function Calling 等 LLM 应用技术；\n3、在 HuggingFace / GitHub 有高 Star 开源项目贡献，或参与过知名开源大模型项目；了解模型量化（GPTQ / AWQ）、推理加速（FlashAttention / Speculative Decoding）等工程优化技术。"
+}

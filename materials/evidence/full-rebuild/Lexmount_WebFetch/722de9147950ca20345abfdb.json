@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904380008",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904380008?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:46.465851+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992813",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904380008?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-数据智多星-数据评测算法方向\nUpdated on 2026-05-18\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n我们团队专注于大模型的高质量数据合成算法与通用评测算法研究，希望在AI下半场通过评测驱动的方式引领大模型技术方向。我们的研究方向覆盖：\n1. 多智能体协作式数据合成算法\n2. 高质量训练数据筛选算法\n3. RL算法创新\n4. 通用Reward model训练方法\n5. Agent Harness工程 & Agent环境scaling算法\n职位描述：\n1、裁判/奖励模型（Reward Model）研发：结合最前沿的训练技术（如 SFT、RLHF、DPO/PPO 等），构建 SOTA 级别的奖励模型，为业务侧强化学习（RL）提供核心动能。\n2、评测体系与 Benchmark 构建：运用多智能体（Multi-Agent）技术构建权威评测基准，或研发自动化的评测合成方案，精准量化 SOTA 模型的能力边界与缺陷，驱动“数据-评测”闭环飞轮。\n3、数据合成技术创新：探索创新的数据合成算法，生产高难度、高多样性的训练与评测语料；同时利用算法构建智能体（Agent）训练与评测所需的复杂仿真环境。\n4、前沿强化学习（RL）算法探索：跟踪并研究 RL 领域的最新进展，挑战通用强化学习算法的性能极限，推动技术从理论突破向实际场景转化。\nQualifications\n1、学历要求： 高校在读博士生（特别优秀的硕士生可放宽限制），计算机、人工智能、软件工程、认知科学、脑科学或其他AI相关专业。\n2、技术背景： 对大语言模型（LLM）、智能体（Agent）、强化学习或相关底层架构有深入理解，具备扎实的编程能力与工程实现能力。\n3、研究能力： 具备独立提出问题、设计实验并解决复杂问题的能力。有顶级会议（如ACL, ICLR, NeurIPS, ICML, colm等）论文发表经验者优先。获得过ACM、NOI金牌或同等水平竞赛奖项优先。\n4、实习时间： 为了保证研究的完整性与成果落地，实习期要求不少于3个月（建议3-6个月），能够沉下心推进完整的闭环研究。\n【你将获得】\n• 真实的业务落地与影响力： 你的研究成果将直接交付评测集、训练数据，沉淀数据生产方法（合成流水线、标注规范等），在真实业务中产生巨大价值。\n• 顶会论文发表支持： 在保障业务落地的基础上，团队大力支持将研究成果转化为CCF-A类会议或同等级顶会论文。若实习生为主要的实验和论文完成人，默认以第一作者身份发表。\n• 资深专家1v1指导： 采用导师负责制，为你指定专属资深导师，定期回顾目标与成果，并在专业探索与个人成长上提供全方位护航。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1299,
+      "warnings": []
+    },
+    "request_id": "84f4c769-938a-4650-b617-c301eff408f9",
+    "status_code": 200,
+    "title": "日常实习生-数据智多星-数据评测算法方向",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904380008?deptCodes="
+  },
+  "responsibilities": "我们团队专注于大模型的高质量数据合成算法与通用评测算法研究，希望在AI下半场通过评测驱动的方式引领大模型技术方向。我们的研究方向覆盖：\n1. 多智能体协作式数据合成算法\n2. 高质量训练数据筛选算法\n3. RL算法创新\n4. 通用Reward model训练方法\n5. Agent Harness工程 & Agent环境scaling算法\n职位描述：\n1、裁判/奖励模型（Reward Model）研发：结合最前沿的训练技术（如 SFT、RLHF、DPO/PPO 等），构建 SOTA 级别的奖励模型，为业务侧强化学习（RL）提供核心动能。\n2、评测体系与 Benchmark 构建：运用多智能体（Multi-Agent）技术构建权威评测基准，或研发自动化的评测合成方案，精准量化 SOTA 模型的能力边界与缺陷，驱动“数据-评测”闭环飞轮。\n3、数据合成技术创新：探索创新的数据合成算法，生产高难度、高多样性的训练与评测语料；同时利用算法构建智能体（Agent）训练与评测所需的复杂仿真环境。\n4、前沿强化学习（RL）算法探索：跟踪并研究 RL 领域的最新进展，挑战通用强化学习算法的性能极限，推动技术从理论突破向实际场景转化。",
+  "requirements": "1、学历要求： 高校在读博士生（特别优秀的硕士生可放宽限制），计算机、人工智能、软件工程、认知科学、脑科学或其他AI相关专业。\n2、技术背景： 对大语言模型（LLM）、智能体（Agent）、强化学习或相关底层架构有深入理解，具备扎实的编程能力与工程实现能力。\n3、研究能力： 具备独立提出问题、设计实验并解决复杂问题的能力。有顶级会议（如ACL, ICLR, NeurIPS, ICML, colm等）论文发表经验者优先。获得过ACM、NOI金牌或同等水平竞赛奖项优先。\n4、实习时间： 为了保证研究的完整性与成果落地，实习期要求不少于3个月（建议3-6个月），能够沉下心推进完整的闭环研究。\n【你将获得】\n• 真实的业务落地与影响力： 你的研究成果将直接交付评测集、训练数据，沉淀数据生产方法（合成流水线、标注规范等），在真实业务中产生巨大价值。\n• 顶会论文发表支持： 在保障业务落地的基础上，团队大力支持将研究成果转化为CCF-A类会议或同等级顶会论文。若实习生为主要的实验和论文完成人，默认以第一作者身份发表。\n• 资深专家1v1指导： 采用导师负责制，为你指定专属资深导师，定期回顾目标与成果，并在专业探索与个人成长上提供全方位护航。"
+}

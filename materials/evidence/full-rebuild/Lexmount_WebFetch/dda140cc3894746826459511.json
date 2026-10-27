@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199907920014",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199907920014?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:00.365242+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou / Shanghai | Technology | Alibaba Project Intern",
+    "dom_id": "992761",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199907920014?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-RLHF算法工程师-Qwen基础模型\nUpdated on 2026-07-22\nBeijing / Hangzhou / Shanghai\nBasic Information\nGraduation Dates: 2026-11-01 - 2033-11-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n团队介绍\n千问（Qwen）是由阿里巴巴自主研发的超大规模语言模型，具备跨语言、跨任务的理解与生成能力。Qwen系列模型，涵盖参数量从几百 M 到 T 级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创作，从单一多模态到全模态统一理解生成，Qwen 正在打造全球领先的全模态模型技术体系，推动AI在企业服务、开发者生态、个人用户等领域的深度应用，引领下一代人工智能的发展。\n工作内容\n1. 用户偏好采集与建模：设计并构建系统化的用户偏好数据采集方案，深入分析用户行为与反馈信号，建立多维度、可扩展的用户偏好表征与建模体系，为 Reward Model 训练提供高质量数据基础。\n2. Reward Model 训练与优化：训练高精度、低偏差的 Reward Model，覆盖创作质量、指令遵循、安全对齐、人类偏好等多个专项维度；持续优化训练策略，有效缓解 Reward Hacking 与分布偏移问题，为下游 RL 训练（PPO / GRPO 等）和用户偏好评测提供可靠的奖励信号。\n3. 用户反馈分析与 Badcase 聚类：建立从线上用户反馈到模型迭代的闭环机制，利用聚类、归因分析等方法系统性挖掘 Badcase，定位模型能力短板与偏好盲区，驱动数据策略与训练目标的持续优化。\n4. LLM Judge / Verifier 体系建设：研究并构建基于 LLM 的自动化评测与验证体系，设计可 Scalable 的 Verifier 信号，使其既能作为高效的偏好评测工具，也能作为奖励信号直接融入 RL 训练流程，提升模型迭代的自动化程度与覆盖广度。\n5. 偏好对齐前沿探索：持续跟踪 RLHF / RLAIF / DPO / Constitutional AI 等对齐技术的前沿进展，探索更高效的偏好学习范式，推动 Qwen 在对齐质量与训练效率上的双重突破。\nQualifications\n1. 计算机、机器学习、人工智能、自然语言处理等相关专业，硕士及以上学历。\n2. 具有 RLHF / Reward Modeling / 偏好对齐方向的实践经验，熟悉 PPO、DPO、GRPO 等主流算法的原理与工程实现。\n3. 精通 Python 及 PyTorch 等深度学习框架，具备扎实的工程能力，能够独立完成从数据处理、模型训练到评测部署的全链路工作。\n4. 对数据质量高度敏感，具备优秀的数据分析与问题诊断能力，能够从复杂反馈信号中提炼有效的优化方向。\n加分项\n1. 熟悉主流 RL 训练框架（如 veRL ）及大规模分布式训练方案（DeepSpeed、Megatron-LM、FSDP）。\n2. 在 Reward Model 泛化性、Reward Hacking 缓解、偏好数据合成等方向有深入研究或实际落地经验。\n3. 曾在 NeurIPS、ICLR、ICML、ACL 等顶级会议发表对齐、强化学习或 NLP 相关论文，具有一定学术影响力。\n4. 拥有知名开源项目贡献经历，在开源社区具有较好的影响力。\n5. 具备线上系统用户反馈分析经验，熟悉 A/B 测试、用户行为建模等方法论。\nHiring Business\nToken Foundry",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1608,
+      "warnings": []
+    },
+    "request_id": "924cc9cd-74f0-471f-8cee-200034cfe6c0",
+    "status_code": 200,
+    "title": "日常实习生-RLHF算法工程师-Qwen基础模型",
+    "url": "https://campus-talent.alibaba.com/campus/position/199907920014?deptCodes="
+  },
+  "responsibilities": "团队介绍\n千问（Qwen）是由阿里巴巴自主研发的超大规模语言模型，具备跨语言、跨任务的理解与生成能力。Qwen系列模型，涵盖参数量从几百 M 到 T 级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创作，从单一多模态到全模态统一理解生成，Qwen 正在打造全球领先的全模态模型技术体系，推动AI在企业服务、开发者生态、个人用户等领域的深度应用，引领下一代人工智能的发展。\n工作内容\n1. 用户偏好采集与建模：设计并构建系统化的用户偏好数据采集方案，深入分析用户行为与反馈信号，建立多维度、可扩展的用户偏好表征与建模体系，为 Reward Model 训练提供高质量数据基础。\n2. Reward Model 训练与优化：训练高精度、低偏差的 Reward Model，覆盖创作质量、指令遵循、安全对齐、人类偏好等多个专项维度；持续优化训练策略，有效缓解 Reward Hacking 与分布偏移问题，为下游 RL 训练（PPO / GRPO 等）和用户偏好评测提供可靠的奖励信号。\n3. 用户反馈分析与 Badcase 聚类：建立从线上用户反馈到模型迭代的闭环机制，利用聚类、归因分析等方法系统性挖掘 Badcase，定位模型能力短板与偏好盲区，驱动数据策略与训练目标的持续优化。\n4. LLM Judge / Verifier 体系建设：研究并构建基于 LLM 的自动化评测与验证体系，设计可 Scalable 的 Verifier 信号，使其既能作为高效的偏好评测工具，也能作为奖励信号直接融入 RL 训练流程，提升模型迭代的自动化程度与覆盖广度。\n5. 偏好对齐前沿探索：持续跟踪 RLHF / RLAIF / DPO / Constitutional AI 等对齐技术的前沿进展，探索更高效的偏好学习范式，推动 Qwen 在对齐质量与训练效率上的双重突破。",
+  "requirements": "1. 计算机、机器学习、人工智能、自然语言处理等相关专业，硕士及以上学历。\n2. 具有 RLHF / Reward Modeling / 偏好对齐方向的实践经验，熟悉 PPO、DPO、GRPO 等主流算法的原理与工程实现。\n3. 精通 Python 及 PyTorch 等深度学习框架，具备扎实的工程能力，能够独立完成从数据处理、模型训练到评测部署的全链路工作。\n4. 对数据质量高度敏感，具备优秀的数据分析与问题诊断能力，能够从复杂反馈信号中提炼有效的优化方向。\n加分项\n1. 熟悉主流 RL 训练框架（如 veRL ）及大规模分布式训练方案（DeepSpeed、Megatron-LM、FSDP）。\n2. 在 Reward Model 泛化性、Reward Hacking 缓解、偏好数据合成等方向有深入研究或实际落地经验。\n3. 曾在 NeurIPS、ICLR、ICML、ACL 等顶级会议发表对齐、强化学习或 NLP 相关论文，具有一定学术影响力。\n4. 拥有知名开源项目贡献经历，在开源社区具有较好的影响力。\n5. 具备线上系统用户反馈分析经验，熟悉 A/B 测试、用户行为建模等方法论。"
+}

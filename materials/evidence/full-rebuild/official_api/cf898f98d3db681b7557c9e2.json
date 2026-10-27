@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7568458077637577001",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7568458077637577001/detail",
+  "checked_at_utc": "2026-10-27T13:04:48.540853+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7568458077637577001",
+  "code": 0,
+  "title": "大模型算法工程师-日常实习",
+  "responsibilities": "研发超大规模基础模型（LLM&MLLM），并进行极致的系统优化；\n",
+  "requirements": "实习周期3个月以上，每周出勤不低于4天\n1. 有强烈的技术追求和和热情，真的想要用技术给现实世界带来改变；\n2. 具备优秀的研究素养和创新能力，在国际顶会或期刊发表过高质量论文；\n3. 有良好的工程和动手能力，能够广泛利用各种工具解决问题，主导或者参与过有影响力的大规模机器学习项目；\n加分项\n1. 有大规模分布式训练相关经验、在理解算法原理的同时，也掌握实现细节者优先；\n2. 有ACM/NOI/超算等各类竞赛获奖经历者优先；\n3. 有强化学习经验优先；"
+}

@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903920039",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903920039?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:34.364932+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992874",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903920039?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "算法工程师-3D重建大模型（T-Star Lab 日常实习）\nUpdated on 2026-03-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2028-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n核心职责与研究课题\n1、物品3D大模型：聚焦淘宝商品的高还原度3D建模，产出比例结构、细节丰富度与实际物品具有高度一致性的3D模型\n• 基于稀疏图片的3R建模技术，支持动态/静态场景，输出高精度位姿、点云、深度图、体素结构等信息；\n• 设计3D VAE算法，构建高效3D数据表示（点云/网格/体素），实现3D数据的高效压缩，提升模型在几何重建、纹理生成和潜在空间控制方面的性能；\n• 结合自回归（AutoRegressive）、强化学习（Reinforcement Learning）等技术，提高3D生成的精度、可控性和泛化性；\n• 突破材质属性预测与生成技术，实现PBR材质预测、可控高清材质生成等，重点关注文字、纹理细节效果；\n2、数字人3D大模型：打造高写实数字人，产出细节丰富（尤其是人脸）、可驱动的3D模型\n• 3D数字人生成算法，结合3DGS的表征能力和DiT的生成能力，实现端到端生成细节丰富、分辨率>1024的高精度人体3D模型，同时透出人体姿态等信息；\n• 3D数字人驱动技术，实现人体组件化、层次化拆解，实现自动化骨架绑定与蒙皮，确保驱动自然流畅。\nT-Star实习可以带给你什么？\nꔷ ①加入前沿技术探索队伍，参与顶级课题研究，有机会实现工业界项目落地。②跟企业大牛导师/学术界名导一起做有价值的课题。③丰富的技术资源、海量的数据与优秀的团队助力发paper ④有机会提前获得秋招直通T-Star的正式Offer。\nQualifications\n1、毕业时间在 2026年11月及以后的在校硕博同学，计算机视觉、计算机图形学、机器学习等相关专业\n2、具备计算机图形学和计算机视觉理论基础；\n3、具备极佳的工程实现能力，熟练掌握C++/Java/Python等至少一门语言；\n4、敢于突破现状，勇于探索新思路、新技术，能够积极主动地进行协助沟通，配合团队共同完成目标。\n5、有顶会相关论文发表优先\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1043,
+      "warnings": []
+    },
+    "request_id": "df625a19-9110-41b3-8b29-6f85635eec99",
+    "status_code": 200,
+    "title": "算法工程师-3D重建大模型（T-Star Lab 日常实习）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903920039?deptCodes="
+  },
+  "responsibilities": "核心职责与研究课题\n1、物品3D大模型：聚焦淘宝商品的高还原度3D建模，产出比例结构、细节丰富度与实际物品具有高度一致性的3D模型\n• 基于稀疏图片的3R建模技术，支持动态/静态场景，输出高精度位姿、点云、深度图、体素结构等信息；\n• 设计3D VAE算法，构建高效3D数据表示（点云/网格/体素），实现3D数据的高效压缩，提升模型在几何重建、纹理生成和潜在空间控制方面的性能；\n• 结合自回归（AutoRegressive）、强化学习（Reinforcement Learning）等技术，提高3D生成的精度、可控性和泛化性；\n• 突破材质属性预测与生成技术，实现PBR材质预测、可控高清材质生成等，重点关注文字、纹理细节效果；\n2、数字人3D大模型：打造高写实数字人，产出细节丰富（尤其是人脸）、可驱动的3D模型\n• 3D数字人生成算法，结合3DGS的表征能力和DiT的生成能力，实现端到端生成细节丰富、分辨率>1024的高精度人体3D模型，同时透出人体姿态等信息；\n• 3D数字人驱动技术，实现人体组件化、层次化拆解，实现自动化骨架绑定与蒙皮，确保驱动自然流畅。\nT-Star实习可以带给你什么？\nꔷ ①加入前沿技术探索队伍，参与顶级课题研究，有机会实现工业界项目落地。②跟企业大牛导师/学术界名导一起做有价值的课题。③丰富的技术资源、海量的数据与优秀的团队助力发paper ④有机会提前获得秋招直通T-Star的正式Offer。",
+  "requirements": "1、毕业时间在 2026年11月及以后的在校硕博同学，计算机视觉、计算机图形学、机器学习等相关专业\n2、具备计算机图形学和计算机视觉理论基础；\n3、具备极佳的工程实现能力，熟练掌握C++/Java/Python等至少一门语言；\n4、敢于突破现状，勇于探索新思路、新技术，能够积极主动地进行协助沟通，配合团队共同完成目标。\n5、有顶会相关论文发表优先"
+}

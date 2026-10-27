@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903700027",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903700027?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:12.863604+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992845",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903700027?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-算法技术-AI助手算法工程师\nUpdated on 2026-03-26\nHangzhou\nBasic Information\nGraduation Dates: 2027-06-29 - 2028-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n淘天集团AI助手算法团队承担了淘天集团新一代AI原生购物助手的开发工作，通过统一的All in One大模型解决淘宝在不同场景的用户需求。团队在大模型强化学习、Agentic训练、原生多模态训练以及Agent框架设计有着行业领先的认知和实际落地效果。\n在这里，你将\n● 全链路模型训练\n○ 深度参与购物场景统一大模型的完整训练周期：预训练退火 → SFT → RLVR → RLHF\n○ 你碰到的不是一个冻结的API，而是一个你可以从底层塑造的模型\n● Agent框架设计——让大模型真正\"能办事\"\n○ 设计大模型原生的Agent架构，通过Skill编排、Sub-agent协作等机制，将淘系搜索、推荐、交易、客服等全域能力注入AI助手\n○ 让模型不只是\"能聊\"，而是\"能买、能比、能帮你做决定\"\n● 奖励信号发现——在真实场景中定义\"什么是好\"\n○ 基于淘天数亿用户的真实交互行为，挖掘和设计最能提升用户体验的奖励信号\n○ 用RL的方式让模型在电商场景下持续逼近SOTA体验\n● 无人区探索——做业界还没有答案的事\n○ 异步实时Agent：用户不等你，你怎么让Agent在真实时间约束下又快又好？\n○ 原生Any-to-Any多模态：文字、图片、视频、商品卡片……如何让模型原生理解和生成一切？\n○ 这些方向没有教科书，我们需要你带着自己的判断力走进去\n为什么值得来\n你会加入这样一个团队：\n● “师兄机制”：为你配置经验丰富的师兄，亲自带你熟悉环境，在进行实习期间进行全方位的指导。\n● 灵活开放的技术氛围：根据你的实际研究内容，结合你感兴趣的方向，量身定制匹配的研究方向。\n● 浓厚的技术氛围：定期记性技术分享，保持对前沿技术的敏感度。\n● 充足的算力资源：学校的卡不够用？在这里不存在的，会有足够的资源支持实验迭代。\n收获在学校无法获得的宝贵经验：\n● 场景稀缺性：数亿级日活用户 × 极其丰富的电商意图 × 可闭环的商业验证\n● 技术纵深：从模型训练到Agent系统到产品体验，你可以一竿子插到底，而不是只做流水线上的一环\n● 前沿密度：团队在RLVR、Agentic Training、多模态等前沿研究方向持续投入\n● 影响力：你训练的模型、设计的Agent，会直接服务于淘宝用户\n我们期待你\n● 在大模型预训练/SFT/RLHF/强化学习中有扎实的实战经验。对Agent/Tool-use/Multi-agent系统有深入理解。\n● 有科研成果或在顶会发表过自己的论文，或在Github有自己的维护的小项目。\n● 有自己的想法想要落地、通过实际场景来证明自己的科研价值。\nQualifications\n1. 计算机科学、人工智能、机器学习等相关领域的硕士或博士在校生。\n2. 具备较强的分析问题和解决问题的能力，逻辑思维清晰，拥有良好的自学能力。\n3. 参加ACM或同类型算法竞赛获奖者优先。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1428,
+      "warnings": []
+    },
+    "request_id": "79c284a3-b06b-4d80-8efb-08f33b74b1bd",
+    "status_code": 200,
+    "title": "日常实习生-算法技术-AI助手算法工程师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903700027?deptCodes="
+  },
+  "responsibilities": "淘天集团AI助手算法团队承担了淘天集团新一代AI原生购物助手的开发工作，通过统一的All in One大模型解决淘宝在不同场景的用户需求。团队在大模型强化学习、Agentic训练、原生多模态训练以及Agent框架设计有着行业领先的认知和实际落地效果。\n在这里，你将\n● 全链路模型训练\n○ 深度参与购物场景统一大模型的完整训练周期：预训练退火 → SFT → RLVR → RLHF\n○ 你碰到的不是一个冻结的API，而是一个你可以从底层塑造的模型\n● Agent框架设计——让大模型真正\"能办事\"\n○ 设计大模型原生的Agent架构，通过Skill编排、Sub-agent协作等机制，将淘系搜索、推荐、交易、客服等全域能力注入AI助手\n○ 让模型不只是\"能聊\"，而是\"能买、能比、能帮你做决定\"\n● 奖励信号发现——在真实场景中定义\"什么是好\"\n○ 基于淘天数亿用户的真实交互行为，挖掘和设计最能提升用户体验的奖励信号\n○ 用RL的方式让模型在电商场景下持续逼近SOTA体验\n● 无人区探索——做业界还没有答案的事\n○ 异步实时Agent：用户不等你，你怎么让Agent在真实时间约束下又快又好？\n○ 原生Any-to-Any多模态：文字、图片、视频、商品卡片……如何让模型原生理解和生成一切？\n○ 这些方向没有教科书，我们需要你带着自己的判断力走进去\n为什么值得来\n你会加入这样一个团队：\n● “师兄机制”：为你配置经验丰富的师兄，亲自带你熟悉环境，在进行实习期间进行全方位的指导。\n● 灵活开放的技术氛围：根据你的实际研究内容，结合你感兴趣的方向，量身定制匹配的研究方向。\n● 浓厚的技术氛围：定期记性技术分享，保持对前沿技术的敏感度。\n● 充足的算力资源：学校的卡不够用？在这里不存在的，会有足够的资源支持实验迭代。\n收获在学校无法获得的宝贵经验：\n● 场景稀缺性：数亿级日活用户 × 极其丰富的电商意图 × 可闭环的商业验证\n● 技术纵深：从模型训练到Agent系统到产品体验，你可以一竿子插到底，而不是只做流水线上的一环\n● 前沿密度：团队在RLVR、Agentic Training、多模态等前沿研究方向持续投入\n● 影响力：你训练的模型、设计的Agent，会直接服务于淘宝用户\n我们期待你\n● 在大模型预训练/SFT/RLHF/强化学习中有扎实的实战经验。对Agent/Tool-use/Multi-agent系统有深入理解。\n● 有科研成果或在顶会发表过自己的论文，或在Github有自己的维护的小项目。\n● 有自己的想法想要落地、通过实际场景来证明自己的科研价值。",
+  "requirements": "1. 计算机科学、人工智能、机器学习等相关领域的硕士或博士在校生。\n2. 具备较强的分析问题和解决问题的能力，逻辑思维清晰，拥有良好的自学能力。\n3. 参加ACM或同类型算法竞赛获奖者优先。"
+}

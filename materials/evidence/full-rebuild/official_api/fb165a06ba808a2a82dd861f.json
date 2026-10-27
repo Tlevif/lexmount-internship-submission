@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7495709841098017032",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7495709841098017032/detail",
+  "checked_at_utc": "2026-10-27T13:04:14.909563+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7495709841098017032",
+  "code": 0,
+  "title": "数据科学实习生（智能工具方向）-内容质量与数据服务平台",
+  "responsibilities": "日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n团队介绍：CQC（中国内容质量与数据服务平台）归属于抖音集团，负责今日头条、抖音、西瓜等产品内容和抖音集团商业内容的安全质量与体验，支持各产品的运营和增长，以及为产品线提供AI算法算力的基础支持服务。\n\n1、应用大语言模型技术在内容安全治理与商业数据分析领域进行AI应用，实现系统智能化升级，提升治理准确率及分析效率；\n2、针对业务场景、需求和目标，通过PE、SFT/RLHF、Agent等对相关技术工具、流程进行优化；\n3、持续探索Agent技术框架的创新应用，优化模型推理效率与场景适配能力，建立可量化的效果评估体系。",
+  "requirements": "1、硕士及以上学位在读，计算机、应用数学、统计学等相关专业；\n2、熟悉LangChain/AutoGen等主流Agent开发框架，掌握LLM技术栈，具有Prompt Engineering、SFT/RLHF等模型优化、项目落地相关经验优先；\n3、熟悉Python开发，掌握PyTorch/TensorFlow等学习框架，具备Hadoop/Spark等大数据平台开发能力。"
+}

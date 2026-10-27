@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7550964671864539410",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7550964671864539410/detail",
+  "checked_at_utc": "2026-10-27T13:03:26.463861+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7550964671864539410",
+  "code": 0,
+  "title": "后端开发实习生-AI Platform",
+  "responsibilities": "日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n团队介绍：AI Platform团队负责 AI 应用开发工具平台的产品研发及相关能力建设。具体包括为字节跳动内外的 LLM 应用开发者提供开发框架、DevOps、可观测、LLMOps 等效率工具，以满足其生产活动需求；支持开发者进行数据处理、Prompt 工程、模型训练评测及推理部署等端到端的模型迭代流程，不断提升 AI 应用的效果。团队整体致力于构建 LLM 应用开发者生态，并推动产品的商业化建设。\n\n1、负责LLM驱动的AI Agent框架的研究和实现，确保技术的创新与前瞻性；\n2、根据应用场景的需求，优化并提升AI Agent的算法性能和用户体验；\n3、持续追踪AI Agent领域的最新技术趋势和研究成果，将前沿技术整合进我们的项目与解决方案中。",
+  "requirements": "1、本科及以上学历在读，计算机、人工智能、自动化、数学相关专业优先；\n2、精通Go、Python、C++等一种或多种编程语言，具备扎实的编程技能和算法设计能力；\n3、对AI Agent技术有深入了解，熟悉AutoGPT、LangChain等现代AI框架；\n4、具备出色的团队协作精神和良好的英文阅读及沟通能力；\n5、每周可实习4天以上，可实习3个月以上。\n\n加分项：\n1、在LLM工程领域有落地经验；\n2、有Agent、RAG、Tool方向的研究或者工作经验；\n3、开发过AI应用。"
+}

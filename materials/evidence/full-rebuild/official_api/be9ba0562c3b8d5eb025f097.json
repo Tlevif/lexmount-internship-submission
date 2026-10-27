@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7689004710846662922",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7689004710846662922/detail",
+  "checked_at_utc": "2026-10-27T13:04:44.643839+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7689004710846662922",
+  "code": 0,
+  "title": "agentic算法实习生",
+  "responsibilities": "面壁智能基础模型团队，方向聚焦于提升端侧、云侧自研模型在复杂 Agentic 场景下的表现。通过优化多轮交互、多工具协同、多跳信息检索、多文件操作、长程任务执行、错误恢复与闭环交付等方面的能力，实现模型的跨 harness 泛化。\n\n岗位职责：\n以模型训练为核心，参与 data-infra-algorithm-eval 的全流程闭环：\n1、构建大规模任务与环境合成管线，实现高质量训练数据的快速获取；\n2、优化训练 recipe，探索 mid-train, sft, rl, opd 的有机结合；\n3、形成独到的数据选择及加权策略，逐步拓宽模型的能力边界；\n4、在 agentic training 中持续 scaling，保证大规模异步强化学习的高效与稳定；\n5、设计更为精细的评测和长轨迹信用分配方法，引导模型习得良好的解题模式；",
+  "requirements": "1、Base 北京，持续实习 6 个月及以上，硕士 or 博士在读（优秀本科生也可投递）；\n2、具备分布式训练经验，熟悉 MoE 模型的 post-train 流程；\n3、能够高效利用 AI 工具，可以依据实验结果进行快速归因。\n\n加分项：\n1、拥有基座模型研发经验，对于模型训练、Infra 优化有深入理解；\n2、在 NeurIPS / ICML / ICLR / ACL / EMNLP / SIGIR 等顶级学术会议发表过有切实应用价值的工作，或主导过高影响力的开源项目。"
+}

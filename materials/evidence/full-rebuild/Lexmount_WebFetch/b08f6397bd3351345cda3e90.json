@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903880019",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903880019?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:08.360793+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992838",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903880019?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-AI原生应用-AIGC多模态数据算法实习生\nUpdated on 2026-03-26\nHangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2029-06-29\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n我们是国内使用量最大的电商AIGC平台之一。\n你将参与到：构建以评测驱动的多模态数据高效处理与迭代机制，融合多模态理解、合成增强等关键技术，打造适用于AI电商场景的高质量融合数据，最终实现“数据-模型-场景”的高效协同闭环，推动新一代AI数据体系的建设。\nQualifications\n【必备项】\n计算机、统计学等相关专业，熟练掌握 C/C++、Python 等至少一门语言；\n熟悉AIGC 、计算机视觉、图像/视频分析与处理等相关领域技术和应用；\n熟悉多模态理解与生成领域的最新研究成果；\n对数据技术有激情，能够快速接受和掌握新技术，对所在领域有热情，善于独立思考并反思总结；\n良好的沟通能力和团队协同能力，善于合作，乐于分享。\n【加分项】\n在 CVPR/ICCV 等国际顶级会议、期刊上发表论文，或在相关学术会议组织的权威比赛中获奖；\n有数据合成、数据集构建等相关项目经验；\n有数据挖掘的项目经验；\n能够线下全职实习，实习时间至少6个月以上。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 655,
+      "warnings": []
+    },
+    "request_id": "f65b42c7-692b-410b-9ecc-6d878f661125",
+    "status_code": 200,
+    "title": "日常实习生-AI原生应用-AIGC多模态数据算法实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903880019?deptCodes="
+  },
+  "responsibilities": "我们是国内使用量最大的电商AIGC平台之一。\n你将参与到：构建以评测驱动的多模态数据高效处理与迭代机制，融合多模态理解、合成增强等关键技术，打造适用于AI电商场景的高质量融合数据，最终实现“数据-模型-场景”的高效协同闭环，推动新一代AI数据体系的建设。",
+  "requirements": "【必备项】\n计算机、统计学等相关专业，熟练掌握 C/C++、Python 等至少一门语言；\n熟悉AIGC 、计算机视觉、图像/视频分析与处理等相关领域技术和应用；\n熟悉多模态理解与生成领域的最新研究成果；\n对数据技术有激情，能够快速接受和掌握新技术，对所在领域有热情，善于独立思考并反思总结；\n良好的沟通能力和团队协同能力，善于合作，乐于分享。\n【加分项】\n在 CVPR/ICCV 等国际顶级会议、期刊上发表论文，或在相关学术会议组织的权威比赛中获奖；\n有数据合成、数据集构建等相关项目经验；\n有数据挖掘的项目经验；\n能够线下全职实习，实习时间至少6个月以上。"
+}

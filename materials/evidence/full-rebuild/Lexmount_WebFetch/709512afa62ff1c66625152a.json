@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "18548",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/18548",
+  "checked_at_utc": "2026-10-27T13:10:14.769256+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：AIGC算法 | 工作地点：上海市 | 项目：其他项目",
+    "dom_id": "993308",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/18548",
+    "language": "zh-cn",
+    "main_text": "职位类型：AIGC算法\n工作地点：上海市\n项目：其他项目\n工作职责\n1. 深度参与文生图大模型，图像编辑大模型的研发 2. 参与aigc生成方向的项目研发和落地，应用到小红书各业务线（创作发布、私信、商业化等）来解决实际业务问题； 3. 利用前沿机器学习算法，打造业内领先的多媒体内容理解和生成能力，包含但不限于图文大模型、LLM、VLLM等模型，负责对各业务场景下相关技术问题进行分析、算法设计、研发以及推动上线，提升业务效果。\n任职资格\n1. 熟悉计算机视觉方向，有相关项目经验 2. 具备扎实的编程功底，熟悉 Pytorch 等主流深度学习框架，熟悉 Linux 开发环境 3. 学习能力强；做事高效，响应迅速，自驱力强 4. 有AIGC图像生成方向经验优先，在CVPR、ICCV、ECCV、NeurIPS、ICML、ICLR、AAAI、ACL、EMNLP等顶级学术会议上发表论文者优先 5. 长期实习，至少4个月，每周4天，base上海",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 422,
+      "warnings": []
+    },
+    "request_id": "c11bd88f-9c4f-4a9c-b4ac-d006ed328723",
+    "status_code": 200,
+    "title": "AIGC算法实习生-社区技术",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/18548"
+  },
+  "responsibilities": "1. 深度参与文生图大模型，图像编辑大模型的研发 2. 参与aigc生成方向的项目研发和落地，应用到小红书各业务线（创作发布、私信、商业化等）来解决实际业务问题； 3. 利用前沿机器学习算法，打造业内领先的多媒体内容理解和生成能力，包含但不限于图文大模型、LLM、VLLM等模型，负责对各业务场景下相关技术问题进行分析、算法设计、研发以及推动上线，提升业务效果。",
+  "requirements": "1. 熟悉计算机视觉方向，有相关项目经验 2. 具备扎实的编程功底，熟悉 Pytorch 等主流深度学习框架，熟悉 Linux 开发环境 3. 学习能力强；做事高效，响应迅速，自驱力强 4. 有AIGC图像生成方向经验优先，在CVPR、ICCV、ECCV、NeurIPS、ICML、ICLR、AAAI、ACL、EMNLP等顶级学术会议上发表论文者优先 5. 长期实习，至少4个月，每周4天，base上海"
+}

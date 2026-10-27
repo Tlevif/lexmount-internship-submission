@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "22497",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/22497",
+  "checked_at_utc": "2026-10-27T13:10:33.563401+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：项目管理_技术 | 工作地点：上海市 | 项目：其他项目",
+    "dom_id": "993334",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/22497",
+    "language": "zh-cn",
+    "main_text": "职位类型：项目管理_技术\n工作地点：上海市\n项目：其他项目\n工作职责\n企业智能部是AI时代下，小红书对于AI Agent赋能业务运作的系统性尝试。企业智能部服务于各业务部门，负责开发统一的Agent和Workflow产品体系，使不同的业务条线可以在统一的底座上，根据自身的实际需求，模块化地搭建AI系统。Workflow FDE需要将业务需求和Agent技术能力相结合，协助和引导业务开发各类Agent和Workflow。 工作职责： 1、根据业务的具体需求，协助开发专属Agent和Workflow 2、引导业务发掘可被AI赋能的任务和流程 3、帮助业务内部的合作方提升AI-native能力 4、根据共性下游需求，指引产研团队迭代优化Agent Workflow产品设计 5、持续探索Agent Workflow的能力上限，沉淀最佳实践\n任职资格\n1、CS专业或可能涉及到编程的理工科专业，如EE、统计等 2、熟悉大模型应用开发，有Agent/RAG/Workflow相关实际项目经验的PM 3、熟练使用Claude Code/Codex或者主流Agent Harness之一，对于常规软件、LLM和Agent的工作原理、能力边界、工程化实现有基本的理解 4、沟通能力强、problem solving能力强，对业务问题有好奇心，擅长挖掘真需求和基于现有条件提出解决方案",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 587,
+      "warnings": []
+    },
+    "request_id": "46608d8d-b40f-4136-b6b6-3de34b0cd6bc",
+    "status_code": 200,
+    "title": "Workflow FDE实习生",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/22497"
+  },
+  "responsibilities": "企业智能部是AI时代下，小红书对于AI Agent赋能业务运作的系统性尝试。企业智能部服务于各业务部门，负责开发统一的Agent和Workflow产品体系，使不同的业务条线可以在统一的底座上，根据自身的实际需求，模块化地搭建AI系统。Workflow FDE需要将业务需求和Agent技术能力相结合，协助和引导业务开发各类Agent和Workflow。 工作职责： 1、根据业务的具体需求，协助开发专属Agent和Workflow 2、引导业务发掘可被AI赋能的任务和流程 3、帮助业务内部的合作方提升AI-native能力 4、根据共性下游需求，指引产研团队迭代优化Agent Workflow产品设计 5、持续探索Agent Workflow的能力上限，沉淀最佳实践",
+  "requirements": "1、CS专业或可能涉及到编程的理工科专业，如EE、统计等 2、熟悉大模型应用开发，有Agent/RAG/Workflow相关实际项目经验的PM 3、熟练使用Claude Code/Codex或者主流Agent Harness之一，对于常规软件、LLM和Agent的工作原理、能力边界、工程化实现有基本的理解 4、沟通能力强、problem solving能力强，对业务问题有好奇心，擅长挖掘真需求和基于现有条件提出解决方案"
+}

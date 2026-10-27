@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199905300006",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199905300006?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:34.466803+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992802",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905300006?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-AI Coding Agent实习生-Qoder\nUpdated on 2026-05-28\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、负责基于AI模型的代码生成与补全核心算法的研发工作；\n2、优化生成代码的质量、准确性与可维护性，确保符合工程规范；\n3、构建支持多语言、多场景的通用代码生成能力体系；\n4、设计并实现生成结果的智能排序与推荐机制；\n5、负责AI编程工具后端服务的架构设计、开发与持续迭代；\n6、构建高并发、低延迟的模型推理服务系统，保障系统稳定性。\nQualifications\n1、计算机科学、软件工程或相关专业硕士及以上学历；\n2、精通Python、Go或C++至少一种语言有 Go 语言背景最佳，熟悉主流深度学习框架（如PyTorch、TensorFlow）；\n3、具备扎实的算法与数据结构基础，有代码生成、程序合成或大模型应用经验者优先；\n4、熟悉云原生技术栈（Kubernetes、Docker等），有高并发服务部署与调优经验；\n5、了解企业级软件安全、多租户架构及国际化（i18n/l10n）基本实践；\n6、具备良好的工程文档撰写能力和跨团队协作意识。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 671,
+      "warnings": []
+    },
+    "request_id": "21bbcf96-f62b-4413-8de3-48b117287c92",
+    "status_code": 200,
+    "title": "日常实习生-AI Coding Agent实习生-Qoder",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905300006?deptCodes="
+  },
+  "responsibilities": "1、负责基于AI模型的代码生成与补全核心算法的研发工作；\n2、优化生成代码的质量、准确性与可维护性，确保符合工程规范；\n3、构建支持多语言、多场景的通用代码生成能力体系；\n4、设计并实现生成结果的智能排序与推荐机制；\n5、负责AI编程工具后端服务的架构设计、开发与持续迭代；\n6、构建高并发、低延迟的模型推理服务系统，保障系统稳定性。",
+  "requirements": "1、计算机科学、软件工程或相关专业硕士及以上学历；\n2、精通Python、Go或C++至少一种语言有 Go 语言背景最佳，熟悉主流深度学习框架（如PyTorch、TensorFlow）；\n3、具备扎实的算法与数据结构基础，有代码生成、程序合成或大模型应用经验者优先；\n4、熟悉云原生技术栈（Kubernetes、Docker等），有高并发服务部署与调优经验；\n5、了解企业级软件安全、多租户架构及国际化（i18n/l10n）基本实践；\n6、具备良好的工程文档撰写能力和跨团队协作意识。"
+}

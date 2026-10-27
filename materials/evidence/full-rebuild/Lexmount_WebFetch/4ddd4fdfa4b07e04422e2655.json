@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21091",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21091",
+  "checked_at_utc": "2026-10-27T13:10:14.862038+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：大模型 | 工作地点：北京市 | 项目：其他项目",
+    "dom_id": "993309",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21091",
+    "language": "zh-cn",
+    "main_text": "职位类型：大模型\n工作地点：北京市\n项目：其他项目\n工作职责\n岗位职责 - 参与语音 Agent 产品与原型研发，围绕语音输入、意图理解、任务编排、工具调用和结果反馈，构建端到端 Agent 工作流。 - 参与 ASR / TTS / VAD / 说话人识别 / 音频理解等语音算法模块的实验、接入、评测和效果优化。 - 参与 Agent 核心能力建设，包括 Prompt 优化、Tool Calling、RAG、Memory、多轮对话、上下文管理、Workflow 编排和结果校验。 - 跟进语音大模型、LLM Agent、多模态交互等前沿方向，探索其在真实业务场景中的落地方式。\n任职资格\n任职要求 - 硕士及以上学历在读，计算机、人工智能等相关专业，具备扎实的编程能力，语音算法相关研究方向优先。 - 了解 AI Agent 相关技术栈，如 LangChain、Semantic Kernel、OpenAI API 或主流大模型调用方式；熟悉 Prompt Engineering、Function Calling、工具调用、Agent 编排，并有相关实践经验。 - 具备较强的问题拆解能力、实验意识和自驱力，能通过指标、日志和 badcase 分析持续推动效果优化。 - 每周可实习 4 天及以上，连续实习 3 个月以上；可实习 6 个月以上优先。 加分项 - 对 AI Agent 有热情，日常使用或折腾过各类 LLM / Agent 工具；动手能力强，熟练使用 Vibe Coding 工具，能快速将想法转化为可运行代码或 demo；有开源项目、论文、竞赛、技术博客或可展示个人作品者优先。 - 有 ASR、TTS、VAD、说话人识别、音频理解、语音大模型、多模态交互等相关项目经验。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 748,
+      "warnings": []
+    },
+    "request_id": "4751055b-5b15-4e91-b729-36e92494b4aa",
+    "status_code": 200,
+    "title": "语音算法实习生",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21091"
+  },
+  "responsibilities": "岗位职责 - 参与语音 Agent 产品与原型研发，围绕语音输入、意图理解、任务编排、工具调用和结果反馈，构建端到端 Agent 工作流。 - 参与 ASR / TTS / VAD / 说话人识别 / 音频理解等语音算法模块的实验、接入、评测和效果优化。 - 参与 Agent 核心能力建设，包括 Prompt 优化、Tool Calling、RAG、Memory、多轮对话、上下文管理、Workflow 编排和结果校验。 - 跟进语音大模型、LLM Agent、多模态交互等前沿方向，探索其在真实业务场景中的落地方式。",
+  "requirements": "任职要求 - 硕士及以上学历在读，计算机、人工智能等相关专业，具备扎实的编程能力，语音算法相关研究方向优先。 - 了解 AI Agent 相关技术栈，如 LangChain、Semantic Kernel、OpenAI API 或主流大模型调用方式；熟悉 Prompt Engineering、Function Calling、工具调用、Agent 编排，并有相关实践经验。 - 具备较强的问题拆解能力、实验意识和自驱力，能通过指标、日志和 badcase 分析持续推动效果优化。 - 每周可实习 4 天及以上，连续实习 3 个月以上；可实习 6 个月以上优先。 加分项 - 对 AI Agent 有热情，日常使用或折腾过各类 LLM / Agent 工具；动手能力强，熟练使用 Vibe Coding 工具，能快速将想法转化为可运行代码或 demo；有开源项目、论文、竞赛、技术博客或可展示个人作品者优先。 - 有 ASR、TTS、VAD、说话人识别、音频理解、语音大模型、多模态交互等相关项目经验。"
+}

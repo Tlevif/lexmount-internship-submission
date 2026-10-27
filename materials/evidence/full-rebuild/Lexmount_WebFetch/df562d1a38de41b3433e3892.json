@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904320004",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904320004?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:00.563133+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992830",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904320004?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "AI Infra项目实习生\nUpdated on 2026-04-13\nHangzhou\nBasic Information\nGraduation Dates: 2026-07-01 - 2028-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1．进行AI Infra相关的研发工作，包括但不限于模型推理引擎，模型后训练，算法模型压缩，模型部署等；\n2. 通过AI Infra的研发工作，支持LLM和多模态等业务大模型的研发、部署和上线服务，支持Agentic AI等新型AI产品的研发和应用，提高计算效率，实现业务落地和成本降低等目标；\n3. 与算法、工程、产品以及运营等团队通力合作，推进AI应用产品的研发和落地应用。\nQualifications\n1. 至少熟悉一种编程语言，包括但不限于C/C++/Python/Rust/Java等，熟悉Linux/Unix开发环境；\n2. 对AI技术和算法模型感兴趣，熟悉主流的算法模型，包括LLM大语言模型、多模态模型、cv生成类模型等，有算法背景或者算法模型压缩经验者优先；\n3. 对计算机系统和高性能计算感兴趣，有计算机系统相关的知识，包括计算机网络、操作系统、计算机体系结构、数据库等，有Nvidia GPU和其他AI芯片相关经验者优先；\n4. 了解业界主要的推理框架和模型后训练框架，包括但不限于vllm，sglang，pytorch，megatron，verl等；\n5. 对模型部署和服务感兴趣，熟悉k8s、Docker、Ray等技术者优先；\n6．有很好的团队精神和沟通交流能力.\nHiring Business\nAlibaba Cloud",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 759,
+      "warnings": []
+    },
+    "request_id": "b5e0a437-c156-4c5c-a546-52370fdc2a33",
+    "status_code": 200,
+    "title": "AI Infra项目实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904320004?deptCodes="
+  },
+  "responsibilities": "1．进行AI Infra相关的研发工作，包括但不限于模型推理引擎，模型后训练，算法模型压缩，模型部署等；\n2. 通过AI Infra的研发工作，支持LLM和多模态等业务大模型的研发、部署和上线服务，支持Agentic AI等新型AI产品的研发和应用，提高计算效率，实现业务落地和成本降低等目标；\n3. 与算法、工程、产品以及运营等团队通力合作，推进AI应用产品的研发和落地应用。",
+  "requirements": "1. 至少熟悉一种编程语言，包括但不限于C/C++/Python/Rust/Java等，熟悉Linux/Unix开发环境；\n2. 对AI技术和算法模型感兴趣，熟悉主流的算法模型，包括LLM大语言模型、多模态模型、cv生成类模型等，有算法背景或者算法模型压缩经验者优先；\n3. 对计算机系统和高性能计算感兴趣，有计算机系统相关的知识，包括计算机网络、操作系统、计算机体系结构、数据库等，有Nvidia GPU和其他AI芯片相关经验者优先；\n4. 了解业界主要的推理框架和模型后训练框架，包括但不限于vllm，sglang，pytorch，megatron，verl等；\n5. 对模型部署和服务感兴趣，熟悉k8s、Docker、Ray等技术者优先；\n6．有很好的团队精神和沟通交流能力."
+}

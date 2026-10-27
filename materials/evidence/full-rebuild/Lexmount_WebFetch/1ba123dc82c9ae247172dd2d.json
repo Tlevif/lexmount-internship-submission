@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "20098",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/20098",
+  "checked_at_utc": "2026-10-27T13:09:12.363400+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：数据科学 | 工作地点：上海市，北京市 | 项目：其他项目",
+    "dom_id": "993232",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/20098",
+    "language": "zh-cn",
+    "main_text": "职位类型：数据科学\n工作地点：上海市，北京市\n项目：其他项目\n工作职责\n1. 协助团队完成社区内容数据分析工作，覆盖AI产品功能、用户意图和体验分析等业务领域； 2. 跟踪内容业务核心指标，设计搭建AI产品的整体指标体系，监测业务趋势，对指标异常进行预警、归因与解读，及时识别业务机会与风险； 3. 结合内容产品与运营策略，通过数据洞察驱动AI搜索扩量、AI回答语意等策略优化，输出分析结论并推动方案落地； 4. 探索 AI 在内容数据分析领域的应用落地（如智能归因、内容理解、自动化报告等）。\n任职资格\n1. 本科及以上学历，统计学、数学、计算机、经济学、传播学等相关专业优先； 2. 掌握 Claude Code等CLI AI工具，同时掌握SQL、Python等编程能力，熟悉 A/B 实验方法，机器学习和因果推断者优先； 3. 逻辑思维强，具备数据敏感度，能从复杂业务问题中拆解结构、提炼规律； 4. 对内容社区生态、创作者经济有兴趣和理解，关注小红书及同类内容平台的发展趋势； 5. 对 AI 发展与应用充满兴趣，具备快速学习能力； 6. 实习 6 个月及以上者优先。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 488,
+      "warnings": []
+    },
+    "request_id": "8c1f5b1c-7793-4136-b752-2a0ab3424014",
+    "status_code": 200,
+    "title": "数据科学与分析实习生（社区流量）",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/20098"
+  },
+  "responsibilities": "1. 协助团队完成社区内容数据分析工作，覆盖AI产品功能、用户意图和体验分析等业务领域； 2. 跟踪内容业务核心指标，设计搭建AI产品的整体指标体系，监测业务趋势，对指标异常进行预警、归因与解读，及时识别业务机会与风险； 3. 结合内容产品与运营策略，通过数据洞察驱动AI搜索扩量、AI回答语意等策略优化，输出分析结论并推动方案落地； 4. 探索 AI 在内容数据分析领域的应用落地（如智能归因、内容理解、自动化报告等）。",
+  "requirements": "1. 本科及以上学历，统计学、数学、计算机、经济学、传播学等相关专业优先； 2. 掌握 Claude Code等CLI AI工具，同时掌握SQL、Python等编程能力，熟悉 A/B 实验方法，机器学习和因果推断者优先； 3. 逻辑思维强，具备数据敏感度，能从复杂业务问题中拆解结构、提炼规律； 4. 对内容社区生态、创作者经济有兴趣和理解，关注小红书及同类内容平台的发展趋势； 5. 对 AI 发展与应用充满兴趣，具备快速学习能力； 6. 实习 6 个月及以上者优先。"
+}

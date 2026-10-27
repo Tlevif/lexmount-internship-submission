@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903920016",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903920016?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:10.279151+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992841",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903920016?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习-业务技术- AI数据研发工程师（营销方向）\nUpdated on 2026-03-26\nHangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2029-12-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 参与构建淘天全域营销知识AI基础设施，负责将海量、多源的营销业务知识（如商品信息、权益规则、活动策略、用户行为等）进行结构化、体系化的组织与沉淀；\n2. 设计并开发高效、鲁棒的知识处理工作流，包括但不限于：多模态（文本、图像、结构化数据）营销数据的清洗、融合、加工与向量化，为上层AI应用提供高质量的“燃料”；\n3. 探索并实践知识检索增强（RAG）架构，参与设计面向营销场景的语义检索、混合检索方案，提升AI模型在复杂营销问答、策略生成等任务中的准确性与可解释性；\n4. 参与营销领域本体（Ontology）的构建与迭代，将业务专家的经验和逻辑转化为机器可理解的知识图谱，推动营销知识的标准化和智能化应用；\n5. 紧密协同算法、产品及业务团队，深入理解营销业务痛点，将业务需求转化为可落地的数据与AI解决方案。\nQualifications\n1. 计算机科学、人工智能、数据科学、信息管理或相关专业在读硕士/博士研究生，对AI驱动的数据智能有浓厚兴趣；\n2. 扎实的编程基础，熟练掌握Python，并熟悉至少一种主流大数据处理框架（如Spark, Flink）或数据湖仓技术（如Data Lake, Iceberg, Hudi）；\n3. 具备优秀的数据处理与工程能力，能独立完成从原始数据到可用知识资产的端到端 pipeline 开发，对数据质量有极致追求；\n4. 对AI前沿技术有热情和实践，了解大语言模型（LLM）基本原理，有以下任一经验者优先：\n-知识工程：熟悉知识图谱、本体论、实体链接、关系抽取等技术\n-向量数据库与检索：了解或使用过如 Milvus, Pinecone, Elasticsearch 等向量/混合检索系统\n-多模态数据处理：有处理文本、图像等多模态数据的经验\n5. 具备优秀的逻辑思维、沟通能力和自驱力，能够快速学习新知识并解决复杂问题。有互联网大厂实习经验者优先。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1032,
+      "warnings": []
+    },
+    "request_id": "265dace0-9038-4599-9ad6-c60e9bcaafe1",
+    "status_code": 200,
+    "title": "日常实习-业务技术- AI数据研发工程师（营销方向）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903920016?deptCodes="
+  },
+  "responsibilities": "1. 参与构建淘天全域营销知识AI基础设施，负责将海量、多源的营销业务知识（如商品信息、权益规则、活动策略、用户行为等）进行结构化、体系化的组织与沉淀；\n2. 设计并开发高效、鲁棒的知识处理工作流，包括但不限于：多模态（文本、图像、结构化数据）营销数据的清洗、融合、加工与向量化，为上层AI应用提供高质量的“燃料”；\n3. 探索并实践知识检索增强（RAG）架构，参与设计面向营销场景的语义检索、混合检索方案，提升AI模型在复杂营销问答、策略生成等任务中的准确性与可解释性；\n4. 参与营销领域本体（Ontology）的构建与迭代，将业务专家的经验和逻辑转化为机器可理解的知识图谱，推动营销知识的标准化和智能化应用；\n5. 紧密协同算法、产品及业务团队，深入理解营销业务痛点，将业务需求转化为可落地的数据与AI解决方案。",
+  "requirements": "1. 计算机科学、人工智能、数据科学、信息管理或相关专业在读硕士/博士研究生，对AI驱动的数据智能有浓厚兴趣；\n2. 扎实的编程基础，熟练掌握Python，并熟悉至少一种主流大数据处理框架（如Spark, Flink）或数据湖仓技术（如Data Lake, Iceberg, Hudi）；\n3. 具备优秀的数据处理与工程能力，能独立完成从原始数据到可用知识资产的端到端 pipeline 开发，对数据质量有极致追求；\n4. 对AI前沿技术有热情和实践，了解大语言模型（LLM）基本原理，有以下任一经验者优先：\n-知识工程：熟悉知识图谱、本体论、实体链接、关系抽取等技术\n-向量数据库与检索：了解或使用过如 Milvus, Pinecone, Elasticsearch 等向量/混合检索系统\n-多模态数据处理：有处理文本、图像等多模态数据的经验\n5. 具备优秀的逻辑思维、沟通能力和自驱力，能够快速学习新知识并解决复杂问题。有互联网大厂实习经验者优先。"
+}

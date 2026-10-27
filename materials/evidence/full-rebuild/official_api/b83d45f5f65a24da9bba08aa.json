@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7665999774961338678",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7665999774961338678/detail",
+  "checked_at_utc": "2026-10-27T13:04:47.361891+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7665999774961338678",
+  "code": 0,
+  "title": "基础模型预训练加速实习生",
+  "responsibilities": "参与基础文本模型的预训练和推理性能优化，主要工作包括：\n\n1、跟进 NVIDIA GPU新硬件特性，基于Hopper、Blackwell等新硬件架构进行性能优化；\n2、分析预训练性能瓶颈，根据trace数据设计和实现性能优化方案；\n3、优化推理引擎的吞吐、延迟和显存利用率，分析并解决性能瓶颈；\n4、开展不同硬件、精度和并行策略下的性能测试，沉淀可复现的测试结果和优化方案；\n5、与算法及基础设施团队合作，将优化方案应用到实际模型训练或部署流程中。",
+  "requirements": "1、计算机、人工智能、电子工程等相关专业在读；\n2、熟悉 Transformer 架构，理解预训练和自回归推理的基本流程；\n3、熟练使用 Python，具备良好的工程实现和问题排查能力；\n4、至少满足以下一个方向：\na.熟悉 PyTorch，以及 Megatron-LM、DeepSpeed、FSDP 等训练框架中的一种或多种，了解数据并行、张量并行、流水线并行、ZeRO 等技术；\nb.熟悉 vLLM、SGLang、TensorRT-LLM 等推理引擎中的一种或多种，了解 KV Cache、连续批处理、Paged Attention、量化等技术；\nc.熟悉 GPU 内存层次、线程调度、Tensor Core、算子融合及性能分析方法，具备实际的算子开发或调优经验；\nd.了解 GPU 架构及 CUDA 基础，对算子性能、显存访问和通信开销有基本认识；\ne.能够阅读英文技术文档和开源代码，并通过实验验证结论。"
+}

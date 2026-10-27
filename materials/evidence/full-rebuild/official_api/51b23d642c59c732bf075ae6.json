@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7681562665059322148",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7681562665059322148/detail",
+  "checked_at_utc": "2026-10-27T13:04:45.124597+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7681562665059322148",
+  "code": 0,
+  "title": "具身HarnessAgent算法实习生",
+  "responsibilities": "下一代具身智能体不是被编排的执行器，而是能在真实物理世界中自主完成长程任务、并从每一次失败中进化的自治系统。robot-harness 是承载这一目标的核心引擎，你将参与它从 0 到 1 的建设，并主导其中最具挑战的方向——让 Harness Agent 自己变得更强。\n岗位职责\n1. 参与 robot-harness 核心研发：负责任务上下文管理、Skill 调用协议、执行器抽象与异常恢复机制的设计与实现，并针对端侧算力与实时性约束优化调度开销。\n2. 建设 Harness Agent 具身工作全流程：打通任务定义 → workflow 编排 → 执行 → 验证 → 失败归因 → 修复重试的完整闭环，建设真实轨迹的采集、结构化与失败样本回流的数据闭环，围绕业务场景建立 BenchMark，持续提升长程任务成功率、执行耗时与资源使用效率。\n3. 研究 Harness Agent 自进化机制：探索 Harness、Skill 与 Model 的协同演化——系统如何从自身执行轨迹中自动发现瓶颈、生成改进并验证收益，完成方案设计与实验验证，推动研究成果形成论文并投稿至 CCF A/B 类会议。\n4. 技术方案与协作：与团队紧密配合参与方案讨论，提出算法思路并落地实施；撰写技术文档，沉淀研发经验，方便团队共享与后续查阅。",
+  "requirements": "1. 计算机、自动化、机器人、人工智能等相关专业在读，硕博优先；熟悉 Python / Rust / C++ 中至少一门，具备独立完成系统模块设计与实现的工程能力\n2. 具备 Harness / Agent 系统相关研究或工程经验：了解 agentic loop 构造、上下文工程、工具协议设计、智能体轨迹调试与优化\n3. 具备 VLM 微调经验（SFT / DPO / LoRA 等后训练实践），了解多模态数据构造与效果归因\n加分项\n1. 有 Agent 自进化方向研究经验（Skill Evolve、Self-improving Agent、轨迹驱动的策略优化）\n2. 有真机部署经验，理解物理世界的时序、时延与失败模式\n3. 有相关领域顶会论文、开源项目或有影响力的技术实践"
+}

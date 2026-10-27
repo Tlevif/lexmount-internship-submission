@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199906700002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199906700002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:03.887627+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992767",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199906700002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-大模型安全评测实习生\nUpdated on 2026-07-10\nHangzhou\nBasic Information\nGraduation Dates: 2027-06-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、参与大模型安全评测体系的设计与建设，围绕内容安全、价值观对齐与越狱攻击等方向，搭建多维度、多场景、多语种的系统化评测方案，推动模型安全能力的量化分析与行业评估标准的完善。\n2、参与大模型安全评测数据集构建与维护，覆盖通用风险、垂直领域风险及长尾风险等场景，探索基于红队对抗（Red Teaming）、自动化Prompt生成、合成数据等技术的高质量评测样本生产方案。\n3、参与基于LLM-as-a-Judge的自动化评判方法研究与落地，探索评判模型的偏差校准、不确定性量化及与人类标注一致性提升的关键技术路径，构建可信、可解释的安全评测闭环。\n4、参与自动化安全评测工具链与评测平台的研发与迭代，沉淀可复用的评测Pipeline与Judge模型能力，提升评测效率、覆盖度与结果一致性，支撑大模型版本迭代过程中的安全回归与持续监控。\n5、跟踪国内外大模型安全评测、AI Safety Benchmark、Red Teaming 等前沿研究进展，复现相关论文与开源方案（如HarmBench、JailbreakBench、SafetyBench等），推动研究成果在实际评测场景中的落地应用。\nQualifications\n1、硕士及以上学历在读，计算机、人工智能、网络安全等相关专业优先。\n2、具备扎实的深度学习与自然语言处理基础，熟悉深度学习框架（PyTorch），熟练掌握 Prompt Engineering、模型微调（SFT/DPO）等基础技术，具备较强的算法实现与实验能力；了解 Qwen、DeepSeek、GLM、Llama 等主流大模型架构及推理框架（vLLM、SGLang）者优先。\n3、 了解大模型安全评测、AI Safety、Red Teaming、Jailbreak Attack & Defense、Alignment、LLM-as-a-Judge 等相关研究方向，熟悉主流安全评测 Benchmark 与评测方法论、自动化评测样本生成，以及评判模型构建、评分一致性度量、不确定性量化、Judge 偏差分析与校准等方法。\n4、具备良好的论文阅读与复现能力，能够跟踪并理解前沿学术研究工作；有相关项目、研究经验或顶会论文（NeurIPS/ICML/ICLR/ACL/EMNLP 等）者优先。\n5、熟练掌握 Python 编程，具备良好的工程实现能力和代码规范意识，有大规模数据处理或评测平台开发经验者优先。\n6、具备较强的逻辑分析能力、数据敏感度与问题拆解能力，对大模型安全评测研究有浓厚兴趣，能够独立推进课题。\n7、工作地点杭州，每周至少实习4天，持续3个月以上。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1325,
+      "warnings": []
+    },
+    "request_id": "40c20d77-86c8-45b4-b80d-51dafdcf8789",
+    "status_code": 200,
+    "title": "日常实习生-大模型安全评测实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199906700002?deptCodes="
+  },
+  "responsibilities": "1、参与大模型安全评测体系的设计与建设，围绕内容安全、价值观对齐与越狱攻击等方向，搭建多维度、多场景、多语种的系统化评测方案，推动模型安全能力的量化分析与行业评估标准的完善。\n2、参与大模型安全评测数据集构建与维护，覆盖通用风险、垂直领域风险及长尾风险等场景，探索基于红队对抗（Red Teaming）、自动化Prompt生成、合成数据等技术的高质量评测样本生产方案。\n3、参与基于LLM-as-a-Judge的自动化评判方法研究与落地，探索评判模型的偏差校准、不确定性量化及与人类标注一致性提升的关键技术路径，构建可信、可解释的安全评测闭环。\n4、参与自动化安全评测工具链与评测平台的研发与迭代，沉淀可复用的评测Pipeline与Judge模型能力，提升评测效率、覆盖度与结果一致性，支撑大模型版本迭代过程中的安全回归与持续监控。\n5、跟踪国内外大模型安全评测、AI Safety Benchmark、Red Teaming 等前沿研究进展，复现相关论文与开源方案（如HarmBench、JailbreakBench、SafetyBench等），推动研究成果在实际评测场景中的落地应用。",
+  "requirements": "1、硕士及以上学历在读，计算机、人工智能、网络安全等相关专业优先。\n2、具备扎实的深度学习与自然语言处理基础，熟悉深度学习框架（PyTorch），熟练掌握 Prompt Engineering、模型微调（SFT/DPO）等基础技术，具备较强的算法实现与实验能力；了解 Qwen、DeepSeek、GLM、Llama 等主流大模型架构及推理框架（vLLM、SGLang）者优先。\n3、 了解大模型安全评测、AI Safety、Red Teaming、Jailbreak Attack & Defense、Alignment、LLM-as-a-Judge 等相关研究方向，熟悉主流安全评测 Benchmark 与评测方法论、自动化评测样本生成，以及评判模型构建、评分一致性度量、不确定性量化、Judge 偏差分析与校准等方法。\n4、具备良好的论文阅读与复现能力，能够跟踪并理解前沿学术研究工作；有相关项目、研究经验或顶会论文（NeurIPS/ICML/ICLR/ACL/EMNLP 等）者优先。\n5、熟练掌握 Python 编程，具备良好的工程实现能力和代码规范意识，有大规模数据处理或评测平台开发经验者优先。\n6、具备较强的逻辑分析能力、数据敏感度与问题拆解能力，对大模型安全评测研究有浓厚兴趣，能够独立推进课题。\n7、工作地点杭州，每周至少实习4天，持续3个月以上。"
+}

@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199907340003",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199907340003?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:05.167686+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992769",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199907340003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-AI研发工程师\nUpdated on 2026-07-01\nHangzhou\nBasic Information\nGraduation Dates: 2027-06-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n职位描述：\n1、参与风险数据AI native基础设施建设。 参与tools、记忆、知识、skills、subAgent和Agent整体AI native基础设施的构建。 满足风险数据生成和分析的AI native化。打造高性价比、高可用、先进性的阿里安全数据基座。\n2、负责 AI Coding 后端服务的设计、开发与高可用部署，应对亿级数据处理、毫秒级响应、强一致性与数据安全等复杂技术难题，保障大规模线上服务的可靠运行。支撑data+AI 的AI智能能力。\n3、引领技术创新与工程效能提升，主动追踪 AI 工程化、向量计算、实时数仓、智能调度等前沿技术趋势，推动先进技术在业务场景中的高效落地。\nQualifications\n职位要求：\n1、有AI应用或Agent实际落地经验：包括不限于RAG系统、多智能体编排、结合MCP、Skill等的Agent项目，有可展示的项目/实习成果者优先。\n2、开源贡献或技术影响力：在Github上有高质量AI项目、技术博客或社区影响力，参与过相关竞赛。\n3、精通 Java语言，熟悉异步编程、性能调优、分布式系统设计，能编写高可靠、可观测的服务代码。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 725,
+      "warnings": []
+    },
+    "request_id": "3f345dd0-0f6b-4613-b329-394d182f4633",
+    "status_code": 200,
+    "title": "日常实习生-AI研发工程师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199907340003?deptCodes="
+  },
+  "responsibilities": "职位描述：\n1、参与风险数据AI native基础设施建设。 参与tools、记忆、知识、skills、subAgent和Agent整体AI native基础设施的构建。 满足风险数据生成和分析的AI native化。打造高性价比、高可用、先进性的阿里安全数据基座。\n2、负责 AI Coding 后端服务的设计、开发与高可用部署，应对亿级数据处理、毫秒级响应、强一致性与数据安全等复杂技术难题，保障大规模线上服务的可靠运行。支撑data+AI 的AI智能能力。\n3、引领技术创新与工程效能提升，主动追踪 AI 工程化、向量计算、实时数仓、智能调度等前沿技术趋势，推动先进技术在业务场景中的高效落地。",
+  "requirements": "1、有AI应用或Agent实际落地经验：包括不限于RAG系统、多智能体编排、结合MCP、Skill等的Agent项目，有可展示的项目/实习成果者优先。\n2、开源贡献或技术影响力：在Github上有高质量AI项目、技术博客或社区影响力，参与过相关竞赛。\n3、精通 Java语言，熟悉异步编程、性能调优、分布式系统设计，能编写高可靠、可观测的服务代码。"
+}

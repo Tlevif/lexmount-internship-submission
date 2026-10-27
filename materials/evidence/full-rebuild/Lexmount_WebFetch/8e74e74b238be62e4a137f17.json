@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199903840037",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199903840037?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:05:24.670525+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992859",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903840037?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "算法工程师-搜索算法大模型应用方向（T-Star Lab日常实习）\nUpdated on 2026-03-26\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2028-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n岗位课题：\n研究基于LLM的个性化电商排序模型，包括但不限于LLM与稀疏模型结合，或LLM进行端到端生成式排序\n课题项目背景：\n淘宝主搜索目前主要依托于稀疏特征体系，相较于稠密的多模态稠密特征泛化性偏弱。LLM的世界知识理论上可以解决现有模型面临的问题，实现真正的用户理解/商品理解，基于大模型推理能力实现个性化购物决策路径推理，个性化意图推理等。\n实习生同学可以在此项目中深度探索LLM应用到“个性化任务”中的各项子任务，并且在这一过程中深度理解电商业务与前沿技术之间的关系，学习如何实现二者兼顾并产出落地于工业界的技术方案。\n岗位职责：\n如果你，期望直接接触工业界最真实的海量数据；\n如果你，期望探索生成式搜推技术；\n如果你，期望探索基于LLM的下一代个性化技术；\n如果你，期望兼顾技术深度与业务价值实现，探索研究业界最新的技术方向；\n加入我们，与我们一起在复杂业务变化中开拓创新，体验追求极致、进无止境的工程师文化。\nQualifications\n1、硕士及以上学历，2026年11月1日以后毕业，计算机科学/人工智能/数据等相关专业，能连续实习3个月及以上；\n2、具备极佳的工程实现能力，精通C/C++、Java、Python、Perl等至少一门语言；\n3、对目前主流的深度学习平台，如tensorflow、pytorch等，至少对其中一个有上手经验；\n4、熟悉深度学习以及常见机器学习算法的原理与算法，深入理解并掌握LLM基本原理和相关算法，如GPT、GLM、T5、BART等，包括它们的架构、训练方法和应用场景；\n5、有强烈求知欲，对人工智能领域相关技术有热情；学习能力强，对新事物保有好奇心；\n6、具有良好的数学基础，良好的英语阅读能力；有团队意识，最好具有团队协作的经验。\n【加分项】\n1、在NLP/CV/ML等领域发表过优秀论文，包括但不限于NeurIPS、ICLR、ICML等顶级会议或期刊；\n2、有工业界相关方向的实践经验者，或参加过ACM或数据挖掘/机器学习类竞赛并取得优异名次者优先。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1103,
+      "warnings": []
+    },
+    "request_id": "7f452da9-e6da-4bab-95d0-8644d9bb3962",
+    "status_code": 200,
+    "title": "算法工程师-搜索算法大模型应用方向（T-Star Lab日常实习）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903840037?deptCodes="
+  },
+  "responsibilities": "岗位课题：\n研究基于LLM的个性化电商排序模型，包括但不限于LLM与稀疏模型结合，或LLM进行端到端生成式排序\n课题项目背景：\n淘宝主搜索目前主要依托于稀疏特征体系，相较于稠密的多模态稠密特征泛化性偏弱。LLM的世界知识理论上可以解决现有模型面临的问题，实现真正的用户理解/商品理解，基于大模型推理能力实现个性化购物决策路径推理，个性化意图推理等。\n实习生同学可以在此项目中深度探索LLM应用到“个性化任务”中的各项子任务，并且在这一过程中深度理解电商业务与前沿技术之间的关系，学习如何实现二者兼顾并产出落地于工业界的技术方案。\n岗位职责：\n如果你，期望直接接触工业界最真实的海量数据；\n如果你，期望探索生成式搜推技术；\n如果你，期望探索基于LLM的下一代个性化技术；\n如果你，期望兼顾技术深度与业务价值实现，探索研究业界最新的技术方向；\n加入我们，与我们一起在复杂业务变化中开拓创新，体验追求极致、进无止境的工程师文化。",
+  "requirements": "1、硕士及以上学历，2026年11月1日以后毕业，计算机科学/人工智能/数据等相关专业，能连续实习3个月及以上；\n2、具备极佳的工程实现能力，精通C/C++、Java、Python、Perl等至少一门语言；\n3、对目前主流的深度学习平台，如tensorflow、pytorch等，至少对其中一个有上手经验；\n4、熟悉深度学习以及常见机器学习算法的原理与算法，深入理解并掌握LLM基本原理和相关算法，如GPT、GLM、T5、BART等，包括它们的架构、训练方法和应用场景；\n5、有强烈求知欲，对人工智能领域相关技术有热情；学习能力强，对新事物保有好奇心；\n6、具有良好的数学基础，良好的英语阅读能力；有团队意识，最好具有团队协作的经验。\n【加分项】\n1、在NLP/CV/ML等领域发表过优秀论文，包括但不限于NeurIPS、ICLR、ICML等顶级会议或期刊；\n2、有工业界相关方向的实践经验者，或参加过ACM或数据挖掘/机器学习类竞赛并取得优异名次者优先。"
+}

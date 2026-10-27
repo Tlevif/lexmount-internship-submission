@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904280003",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904280003?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:42.878131+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992734",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904280003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "具身智能算法实习生-MaaS\nUpdated on 2026-08-19\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2028-12-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n阿里云MaaS（Model-as-a-Service）平台致力于打造国际领先的大模型服务与应用能力。依托阿里云强大的算力集群、领先的基座模型和完备的平台工程体系，我们围绕具身智能方向，以VLA（Vision-Language-Action）模型与世界模型为核心研究主线，持续攻坚具身感知与动作生成、物理世界建模与仿真、复杂任务规划、具身多模态大模型、机器人技能学习与控制等关键技术问题，打造下一代具身智能系统与企业级机器人服务能力，赋能云上企业客户与生态开发者。因此，我们正在寻找具备技术信仰、研究热情与探索精神的优秀人才，共同开发新一代具身智能大模型，使其能够自主学习、适应并以人类水平的熟练度、安全性和多功能性执行复杂的开放世界操作任务。\n核心职责\n1、VLA模型研究：围绕VLA模型的架构设计、训练策略与推理优化开展前沿研究，探索视觉感知、语言理解与动作生成的统一建模方法，研究动作token化、扩散策略、流式推理等关键技术，提升模型在开放世界操作任务中的泛化能力与鲁棒性。\n2、世界模型构建：研究面向具身智能的世界模型，探索物理环境动态建模、状态预测与因果推理方法，为机器人的长程任务规划、离线策略学习与Sim2Real迁移提供可靠的世界知识基础与仿真环境。\nQualifications\n1、学术背景：计算机、人工智能、软件工程、自动化、机器人学、数学等相关方向优秀硕士或博士在读，具备扎实的机器学习、深度学习、计算机视觉与多模态大模型理论基础。\n2、工程能力：具备极佳的工程实现能力与编码能力，熟练掌握C/C++、Java、Python中至少一门语言；熟悉PyTorch等主流深度学习框架。\n3、算法经验：具有机器人的控制、规划、感知算法的研究经验，熟悉深度学习、计算机视觉、多模态算法、机器人决策规划控制领域的前沿研究。\n4、综合素质：具备较强学习能力，对新事物保有好奇心，并能快速适应新环境；良好的沟通能力和团队协同能力，能与他人合作共同完成目标；对所在领域有技术热情，不惧困难与挑战，善于独立思考并反思总结。\n加分项：\n1）有ICPC/NOI/IOI、Kaggle、天池、国内外数学大赛、机器学习与深度学习相关竞赛获奖者优先；\n2）在国际知名期刊或会议（NeurIPS、ICML、ICLR、ICRA、IROS、CoRL、RSS、CVPR、ICCV、ECCV等）上发表过高水平论文者优先；\n3）有多轴机械臂、足式机器人、人形机器人等机器人平台算法研发及工程经验者优先；\n4）在具身大模型、机器人技能学习、Sim2Real、开源大模型或具身智能评测等方向有深入实践或开源贡献者优先。\nHiring Business\nAlibaba Cloud",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1312,
+      "warnings": []
+    },
+    "request_id": "4df36e38-9ed0-4c0a-aea8-8b41249075a6",
+    "status_code": 200,
+    "title": "具身智能算法实习生-MaaS",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904280003?deptCodes="
+  },
+  "responsibilities": "阿里云MaaS（Model-as-a-Service）平台致力于打造国际领先的大模型服务与应用能力。依托阿里云强大的算力集群、领先的基座模型和完备的平台工程体系，我们围绕具身智能方向，以VLA（Vision-Language-Action）模型与世界模型为核心研究主线，持续攻坚具身感知与动作生成、物理世界建模与仿真、复杂任务规划、具身多模态大模型、机器人技能学习与控制等关键技术问题，打造下一代具身智能系统与企业级机器人服务能力，赋能云上企业客户与生态开发者。因此，我们正在寻找具备技术信仰、研究热情与探索精神的优秀人才，共同开发新一代具身智能大模型，使其能够自主学习、适应并以人类水平的熟练度、安全性和多功能性执行复杂的开放世界操作任务。\n核心职责\n1、VLA模型研究：围绕VLA模型的架构设计、训练策略与推理优化开展前沿研究，探索视觉感知、语言理解与动作生成的统一建模方法，研究动作token化、扩散策略、流式推理等关键技术，提升模型在开放世界操作任务中的泛化能力与鲁棒性。\n2、世界模型构建：研究面向具身智能的世界模型，探索物理环境动态建模、状态预测与因果推理方法，为机器人的长程任务规划、离线策略学习与Sim2Real迁移提供可靠的世界知识基础与仿真环境。",
+  "requirements": "1、学术背景：计算机、人工智能、软件工程、自动化、机器人学、数学等相关方向优秀硕士或博士在读，具备扎实的机器学习、深度学习、计算机视觉与多模态大模型理论基础。\n2、工程能力：具备极佳的工程实现能力与编码能力，熟练掌握C/C++、Java、Python中至少一门语言；熟悉PyTorch等主流深度学习框架。\n3、算法经验：具有机器人的控制、规划、感知算法的研究经验，熟悉深度学习、计算机视觉、多模态算法、机器人决策规划控制领域的前沿研究。\n4、综合素质：具备较强学习能力，对新事物保有好奇心，并能快速适应新环境；良好的沟通能力和团队协同能力，能与他人合作共同完成目标；对所在领域有技术热情，不惧困难与挑战，善于独立思考并反思总结。\n加分项：\n1）有ICPC/NOI/IOI、Kaggle、天池、国内外数学大赛、机器学习与深度学习相关竞赛获奖者优先；\n2）在国际知名期刊或会议（NeurIPS、ICML、ICLR、ICRA、IROS、CoRL、RSS、CVPR、ICCV、ECCV等）上发表过高水平论文者优先；\n3）有多轴机械臂、足式机器人、人形机器人等机器人平台算法研发及工程经验者优先；\n4）在具身大模型、机器人技能学习、Sim2Real、开源大模型或具身智能评测等方向有深入实践或开源贡献者优先。"
+}

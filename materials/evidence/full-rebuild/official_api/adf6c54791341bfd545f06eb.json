@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7615549708789975305",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7615549708789975305/detail",
+  "checked_at_utc": "2026-10-27T13:04:46.171855+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7615549708789975305",
+  "code": 0,
+  "title": "大模型算法实习生-法律智能与自主Agent",
+  "responsibilities": "1、构建法律数据生产 Pipeline： 设计并实现自动化法律数据合成链路。利用 Multi-Agent 协同方案生成高质量 SFT/偏好对齐数据，应用聚类与模式识别算法实现法律语料的深度清洗与多样化筛选，识别并优化合成链路瓶颈；\n2、研发法律专用 Reward Model： 构建针对法律文本逻辑严密性、条文引用准确性的奖励模型（Reward Model）。应用 AI-as-Judge 与自动化对齐技术，在强化学习（RLHF/DPO）环境中实现法律逻辑的闭环演进；\n3、模型后训练与 Agent 任务落地： 负责法律大模型的 SFT/Post-training 全流程。面向真实法律工程任务（如长案卷理解、自动化文书修复、跨文件证据提取），优化模型在复杂约束下的规划与执行能力。",
+  "requirements": "1、专业背景：计算机、人工智能或相关专业本科及以上学历，具备扎实的数学与算法功底。\n2、工程能力：精通 PyTorch，具备处理大规模异构数据的工程经验，熟悉分布式训练与高效数据 Pipeline 构建。\n3、算法深度：深度理解 Transformer 架构，对 Post-training（SFT/RLHF/PPO） 有实战经验，熟悉 RAG 或长文本处理技术。\n4、领域兴趣：对法律文本逻辑建模、复杂 Agent 系统有浓厚兴趣，有代码大模型或垂直领域 Agent 项目经验者优先。\n5、学术背书：在 NeurIPS/ICLR/ACL/EMNLP 等顶级会议发表过论文者优先。\n"
+}

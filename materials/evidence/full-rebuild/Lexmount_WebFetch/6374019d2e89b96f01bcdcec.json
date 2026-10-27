@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199907780002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199907780002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:33.662855+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou / Shanghai | Technology | Alibaba Project Intern",
+    "dom_id": "992714",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199907780002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-AI安全算法工程师-Qwen基础模型\nUpdated on 2026-09-01\nBeijing / Hangzhou / Shanghai\nBasic Information\nGraduation Dates: 2027-11-01 - 2032-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n千问（Qwen）是由阿里巴巴自主研发的超大规模语言模型，具备跨语言、跨任务的理解与生成能力。Qwen系列模型涵盖参数量从几百M到T级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创作，从单一多模态到全模态统一理解生成，Qwen正在打造全球领先的全模态模型技术体系，推动AI在企业服务、开发者生态、个人用户等领域的深度应用，引领下一代人工智能的发展。\n随着大模型能力的飞速提升，AI 安全与对齐已成为决定模型能否负责任地服务社会的基石。本岗位将聚焦大模型安全对齐的核心技术挑战，从安全数据构建、安全奖励建模、对抗性红队测试到实时防护体系，全方位守护 Qwen 的安全底线，确保模型在释放强大能力的同时始终可控、可信、可靠。\n工作职责：\n1. 安全推理数据构建：设计并构建覆盖多语言、多模态、多场景的安全对齐训练数据体系，包括安全指令微调数据、偏好对比数据、对抗性攻防数据等，建立数据质量评估与迭代机制，为安全对齐提供高质量数据基础。\n2. 安全代答模型研发：研究并构建安全代答（Safe Refusal / Safe Response）模型，使模型在面对高风险请求时能够生成既安全又有帮助的回复，实现安全性与有用性的最优平衡，避免过度拒绝或生硬拒答。\n3. 前沿安全风险治理：深入研究 CBRN（化学、生物、放射性、核）等高危领域的安全防护策略，探索 Agent 场景下的安全风险（如工具滥用、权限越界、Prompt Injection、间接注入攻击等），构建系统化的风险识别与缓解方案。\n4. 安全评测与红队测试：建立自动化与人工相结合的安全评测体系，设计多维度、多层次的 Red Teaming 方案，覆盖越狱攻击、对抗性 Prompt、多轮诱导、多模态攻击等场景，持续发现模型安全盲区并驱动修复闭环。\n5. Guard 防护体系研发：设计并实现实时安全护栏（Guard）系统，包括输入过滤、输出检测、对话级风险拦截等模块，支持高并发、低延迟的在线安全防护，保障模型在生产环境中的安全运行。\nQualifications\n1. 计算机、机器学习、人工智能、信息安全等相关专业，硕士及以上学历。\n2. 具有大模型安全对齐（Safety Alignment）、内容安全、对抗鲁棒性等方向的实践经验，熟悉 RLHF / DPO / Constitutional AI 等对齐技术。\n3. 精通 Python 及 PyTorch 等深度学习框架，具备扎实的工程能力，能够独立完成从数据构建、模型训练到在线部署的全链路工作。\n4. 具备优秀的对抗性思维与风险敏感度，能够从攻击者视角系统性地发现和评估模型安全隐患。\n加分项：\n1. 在 AI 安全、对抗攻击与防御、可信 AI 等方向有深入研究，曾在 NeurIPS、ICLR、ICML、ACL、USENIX Security、IEEE S&P 等顶级会议或期刊发表论文。\n2. 熟悉主流 Red Teaming 框架与方法论，有实际攻防对抗经验。\n3. 具备 Agent 安全、工具调用安全、多模态安全等新兴安全方向的研究或落地经验。\n4. 拥有知名安全相关开源项目贡献经历，或在 AI 安全社区具有较好的影响力。\nHiring Business\nToken Foundry",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1639,
+      "warnings": []
+    },
+    "request_id": "959e9213-42a3-43a1-94e5-69f5d0b96fd2",
+    "status_code": 200,
+    "title": "日常实习生-AI安全算法工程师-Qwen基础模型",
+    "url": "https://campus-talent.alibaba.com/campus/position/199907780002?deptCodes="
+  },
+  "responsibilities": "千问（Qwen）是由阿里巴巴自主研发的超大规模语言模型，具备跨语言、跨任务的理解与生成能力。Qwen系列模型涵盖参数量从几百M到T级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创作，从单一多模态到全模态统一理解生成，Qwen正在打造全球领先的全模态模型技术体系，推动AI在企业服务、开发者生态、个人用户等领域的深度应用，引领下一代人工智能的发展。\n随着大模型能力的飞速提升，AI 安全与对齐已成为决定模型能否负责任地服务社会的基石。本岗位将聚焦大模型安全对齐的核心技术挑战，从安全数据构建、安全奖励建模、对抗性红队测试到实时防护体系，全方位守护 Qwen 的安全底线，确保模型在释放强大能力的同时始终可控、可信、可靠。\n工作职责：\n1. 安全推理数据构建：设计并构建覆盖多语言、多模态、多场景的安全对齐训练数据体系，包括安全指令微调数据、偏好对比数据、对抗性攻防数据等，建立数据质量评估与迭代机制，为安全对齐提供高质量数据基础。\n2. 安全代答模型研发：研究并构建安全代答（Safe Refusal / Safe Response）模型，使模型在面对高风险请求时能够生成既安全又有帮助的回复，实现安全性与有用性的最优平衡，避免过度拒绝或生硬拒答。\n3. 前沿安全风险治理：深入研究 CBRN（化学、生物、放射性、核）等高危领域的安全防护策略，探索 Agent 场景下的安全风险（如工具滥用、权限越界、Prompt Injection、间接注入攻击等），构建系统化的风险识别与缓解方案。\n4. 安全评测与红队测试：建立自动化与人工相结合的安全评测体系，设计多维度、多层次的 Red Teaming 方案，覆盖越狱攻击、对抗性 Prompt、多轮诱导、多模态攻击等场景，持续发现模型安全盲区并驱动修复闭环。\n5. Guard 防护体系研发：设计并实现实时安全护栏（Guard）系统，包括输入过滤、输出检测、对话级风险拦截等模块，支持高并发、低延迟的在线安全防护，保障模型在生产环境中的安全运行。",
+  "requirements": "1. 计算机、机器学习、人工智能、信息安全等相关专业，硕士及以上学历。\n2. 具有大模型安全对齐（Safety Alignment）、内容安全、对抗鲁棒性等方向的实践经验，熟悉 RLHF / DPO / Constitutional AI 等对齐技术。\n3. 精通 Python 及 PyTorch 等深度学习框架，具备扎实的工程能力，能够独立完成从数据构建、模型训练到在线部署的全链路工作。\n4. 具备优秀的对抗性思维与风险敏感度，能够从攻击者视角系统性地发现和评估模型安全隐患。\n加分项：\n1. 在 AI 安全、对抗攻击与防御、可信 AI 等方向有深入研究，曾在 NeurIPS、ICLR、ICML、ACL、USENIX Security、IEEE S&P 等顶级会议或期刊发表论文。\n2. 熟悉主流 Red Teaming 框架与方法论，有实际攻防对抗经验。\n3. 具备 Agent 安全、工具调用安全、多模态安全等新兴安全方向的研究或落地经验。\n4. 拥有知名安全相关开源项目贡献经历，或在 AI 安全社区具有较好的影响力。"
+}

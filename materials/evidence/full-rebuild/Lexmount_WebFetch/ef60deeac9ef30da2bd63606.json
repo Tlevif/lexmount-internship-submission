@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074687944857",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074687944857",
+  "checked_at_utc": "2026-10-27T13:07:22.161040+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信搜索-大模型AI搜索研究与落地 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "993061",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944857",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n随着大模型技术的发展，搜索正在从传统的“关键词检索”升级为“生成式问答+自动信息探索”的新范式，以AI Overview和AI Search Bot为代表的产品受到越来越多用户的青睐。研究构建AI搜索（AI-native Search）能力，落地并解决真实用户场景的效率和效果问题，是当前重要且极具挑战的课题。\n具体研发内容包括但不限于：\n1、检索增强的信息整合与推理技术：基于强化学习的答案生成优化、证据溯源、大模型可信评估与幻觉控制、复杂问题计算和推理等。\n2、Agentic Search关键技术：搜索任务规划、多轮搜索与探索策略、工具调用、多Agent协作搜索。\n3、利用用户信号持续优化AI搜索系统：短期和长期用户行为建模、RLHF、Online Learning、个性化搜索、长期用户价值优化等。\n课题要求\n1、博士或者有优秀学术项目经历的硕士\n2、计算机/人工智能相关专业，具有大模型研究经验，有业界高水平大模型实验室或公司实习、大模型方向顶会论文优先\n3、具有大模型和搜索结合、AI agent、RL方向研究经验更佳\n4、强烈的好奇心和自驱，对大模型研究和系统化落地有热情，有一定的用户视角产品理解力。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 552,
+      "warnings": []
+    },
+    "request_id": "1df4e242-a524-46cb-9ef0-65ce3cc80ea4",
+    "status_code": 200,
+    "title": "微信搜索-大模型AI搜索研究与落地 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944857"
+  },
+  "responsibilities": "课题背景：\n随着大模型技术的发展，搜索正在从传统的“关键词检索”升级为“生成式问答+自动信息探索”的新范式，以AI Overview和AI Search Bot为代表的产品受到越来越多用户的青睐。研究构建AI搜索（AI-native Search）能力，落地并解决真实用户场景的效率和效果问题，是当前重要且极具挑战的课题。\n具体研发内容包括但不限于：\n1、检索增强的信息整合与推理技术：基于强化学习的答案生成优化、证据溯源、大模型可信评估与幻觉控制、复杂问题计算和推理等。\n2、Agentic Search关键技术：搜索任务规划、多轮搜索与探索策略、工具调用、多Agent协作搜索。\n3、利用用户信号持续优化AI搜索系统：短期和长期用户行为建模、RLHF、Online Learning、个性化搜索、长期用户价值优化等。",
+  "requirements": "1、博士或者有优秀学术项目经历的硕士\n2、计算机/人工智能相关专业，具有大模型研究经验，有业界高水平大模型实验室或公司实习、大模型方向顶会论文优先\n3、具有大模型和搜索结合、AI agent、RL方向研究经验更佳\n4、强烈的好奇心和自驱，对大模型研究和系统化落地有热情，有一定的用户视角产品理解力。"
+}

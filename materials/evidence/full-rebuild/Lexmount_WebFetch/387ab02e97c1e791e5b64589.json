@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199908540005",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199908540005?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:54.863403+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992754",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908540005?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "阿里国际AE技术部-运筹优化算法工程师-日常实习生\nUpdated on 2026-08-05\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n【团队介绍】\n阿里国际跨境电商一人一国团队。我们的业务服务国家经理，覆盖数据洞察、货盘选品、投资分配、营销大促、体验巡检等多个场域，通过自动化能力覆盖提升国家经理运营效率，最终提升国家GMV。技术上聚焦LLM、多模态、因果推断、运筹优化、强化学习、Agent 等前沿技术方向——无论你来自哪个技术背景，只要热爱算法，我们都欢迎！\n在这里，你将：\n- 面向全球 200+ 国家和地区，通过算法洞察跨语言、跨时区、跨文化的用户行为差异与偏好；\n- 融合AI大模型能力建立模拟仿真系统，模拟国家的市场环境、消费者画像、业务流程，持续提升仿真系统和真实世界的匹配度；\n- 建立运筹优化算法，实现在多重约束、多目标、多渠道下的最优策略，寻找全局最优解。\nQualifications\n1.计算机、数学、电子通信、人工智能等相关专业，硕士及以上学历优先；\n2.熟悉常用的机器学习算法，对算法原理有比较深入的理解，对算法应用有比较丰富的经验；\n3.有顶会顶刊论文或者竞赛获奖者更佳。\nHiring Business\nAlibaba International Digital Commerce Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 690,
+      "warnings": []
+    },
+    "request_id": "dd37b005-8551-43cb-a24f-e14ece84e426",
+    "status_code": 200,
+    "title": "阿里国际AE技术部-运筹优化算法工程师-日常实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908540005?deptCodes="
+  },
+  "responsibilities": "【团队介绍】\n阿里国际跨境电商一人一国团队。我们的业务服务国家经理，覆盖数据洞察、货盘选品、投资分配、营销大促、体验巡检等多个场域，通过自动化能力覆盖提升国家经理运营效率，最终提升国家GMV。技术上聚焦LLM、多模态、因果推断、运筹优化、强化学习、Agent 等前沿技术方向——无论你来自哪个技术背景，只要热爱算法，我们都欢迎！\n在这里，你将：\n- 面向全球 200+ 国家和地区，通过算法洞察跨语言、跨时区、跨文化的用户行为差异与偏好；\n- 融合AI大模型能力建立模拟仿真系统，模拟国家的市场环境、消费者画像、业务流程，持续提升仿真系统和真实世界的匹配度；\n- 建立运筹优化算法，实现在多重约束、多目标、多渠道下的最优策略，寻找全局最优解。",
+  "requirements": "1.计算机、数学、电子通信、人工智能等相关专业，硕士及以上学历优先；\n2.熟悉常用的机器学习算法，对算法原理有比较深入的理解，对算法应用有比较丰富的经验；\n3.有顶会顶刊论文或者竞赛获奖者更佳。"
+}

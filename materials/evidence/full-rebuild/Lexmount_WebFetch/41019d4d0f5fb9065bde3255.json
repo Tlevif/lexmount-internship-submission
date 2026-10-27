@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199907660004",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199907660004?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:03.663496+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "- | Technology | Alibaba Project Intern",
+    "dom_id": "992766",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199907660004?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "阿里国际智能技术-广告多模态算法工程师-日常实习生\nUpdated on 2026-07-13\n-\nBasic Information\nGraduation Dates: 2027-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n【团队介绍】\nAIDC 搜索广告算法团队，负责本对本电商 (Gmarket/Lazada/Daraz/Miravia等) 搜索广告投放优化，旨在利用先进的AI技术来构建全球领先的广告算法引擎，在不同语言、文化的国家提升平台变现效率。\n多年来团队紧跟工业界和学术前沿，涉及广告竞价机制、多语言 Query 理解与广告相关性模型、生成式召回与排序模型等领域，并结合大语言模型在广告中的应用持续创新，带来业务快速增长的同时，发表多篇顶会（NIPS、ICLR、KDD、WWW、CIKM等）\n【实习内容】\n1. 解决搜索广告的基础问题，使模型具备业务通识能力，并构建针对大模型幻觉问题、推理能力、模型加速等关键问题的系统性解决方案，提高下游业务的迭代效率和效果上限。\n2. 基于多模态预训练大模型，设计和迭代 SFT+RL训练方案，优化模型语义理解精度和推理能力，落地搜索广告关键场景任务，比如用户意图识别、用户历史兴趣挖掘、商品图搜等，实现业务指标提升。\n3. 学习前沿论文与把握技术趋势，深入理解底层算法原理，探索实验面向未来的硬核技术，实现核心技术突破和技术创新，目标投稿至KDD/SIGIR/ACL/EMNLP/NeurIPS/CVPR/ICML/ICLR等顶会顶刊。\n4. 参与论文研读、技术探讨与开源社区协作，跟踪领域最新进展。\nQualifications\n1. 硕士及以上学历，博士优先，计算机、人工智能、软件工程、数学、自动化等相关专业优先，有实习经历优先；\n2. 扎实的机器学习与深度学习理论基础，在相关领域国际顶级会议或期刊（如 NeurIPS, CVPR, ICLR, ACL, KDD, SIGIR 等）发表过论文；\n3. 精通 Python、C/C++ 或 Java 至少一种编程语言，具备优秀的编程习惯及数据结构基础；熟悉 PyTorch、TensorFlow 等主流深度学习框架；\n4. 良好的沟通能力与团队合作精神，具备抗压能力，能够主动在复杂业务逻辑中寻找技术突破点。\n加分项\n1. 有实际成果并发表在国际顶级会议、期刊者优先，在相关竞赛中取得优异成绩者优先；\n2. 有CLIP、Flamingo、GPT-4V等多模态模型研究经验者优先；有 Diffusion Model 相关研究经验者优先。\nHiring Business\n/",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1166,
+      "warnings": []
+    },
+    "request_id": "699c1de7-1432-4652-9c20-b24481e64b26",
+    "status_code": 200,
+    "title": "阿里国际智能技术-广告多模态算法工程师-日常实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199907660004?deptCodes="
+  },
+  "responsibilities": "【团队介绍】\nAIDC 搜索广告算法团队，负责本对本电商 (Gmarket/Lazada/Daraz/Miravia等) 搜索广告投放优化，旨在利用先进的AI技术来构建全球领先的广告算法引擎，在不同语言、文化的国家提升平台变现效率。\n多年来团队紧跟工业界和学术前沿，涉及广告竞价机制、多语言 Query 理解与广告相关性模型、生成式召回与排序模型等领域，并结合大语言模型在广告中的应用持续创新，带来业务快速增长的同时，发表多篇顶会（NIPS、ICLR、KDD、WWW、CIKM等）\n【实习内容】\n1. 解决搜索广告的基础问题，使模型具备业务通识能力，并构建针对大模型幻觉问题、推理能力、模型加速等关键问题的系统性解决方案，提高下游业务的迭代效率和效果上限。\n2. 基于多模态预训练大模型，设计和迭代 SFT+RL训练方案，优化模型语义理解精度和推理能力，落地搜索广告关键场景任务，比如用户意图识别、用户历史兴趣挖掘、商品图搜等，实现业务指标提升。\n3. 学习前沿论文与把握技术趋势，深入理解底层算法原理，探索实验面向未来的硬核技术，实现核心技术突破和技术创新，目标投稿至KDD/SIGIR/ACL/EMNLP/NeurIPS/CVPR/ICML/ICLR等顶会顶刊。\n4. 参与论文研读、技术探讨与开源社区协作，跟踪领域最新进展。",
+  "requirements": "1. 硕士及以上学历，博士优先，计算机、人工智能、软件工程、数学、自动化等相关专业优先，有实习经历优先；\n2. 扎实的机器学习与深度学习理论基础，在相关领域国际顶级会议或期刊（如 NeurIPS, CVPR, ICLR, ACL, KDD, SIGIR 等）发表过论文；\n3. 精通 Python、C/C++ 或 Java 至少一种编程语言，具备优秀的编程习惯及数据结构基础；熟悉 PyTorch、TensorFlow 等主流深度学习框架；\n4. 良好的沟通能力与团队合作精神，具备抗压能力，能够主动在复杂业务逻辑中寻找技术突破点。\n加分项\n1. 有实际成果并发表在国际顶级会议、期刊者优先，在相关竞赛中取得优异成绩者优先；\n2. 有CLIP、Flamingo、GPT-4V等多模态模型研究经验者优先；有 Diffusion Model 相关研究经验者优先。"
+}

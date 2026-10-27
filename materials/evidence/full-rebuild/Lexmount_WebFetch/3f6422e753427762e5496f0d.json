@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21170",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21170",
+  "checked_at_utc": "2026-10-27T13:09:31.264251+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：前端开发 | 工作地点：深圳市 | 项目：其他项目",
+    "dom_id": "993255",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21170",
+    "language": "zh-cn",
+    "main_text": "职位类型：前端开发\n工作地点：深圳市\n项目：其他项目\n工作职责\n- 参与海外 PC Web 社区产品的功能迭代与日常维护。 - 根据需求和设计稿完成页面开发、组件封装和交互实现。 - 配合后端完成接口联调、问题排查和上线验证。 - 维护和优化已有功能，提升页面体验、代码质量和稳定性。 - 使用 AI 工具辅助开发、调试、代码优化和文档整理。\n任职资格\n- 本科及以上学历，计算机、软件工程等相关专业优先。 - 有至少 1 段以上前端开发、Web 开发或相关实习经验。 - 熟悉 HTML、CSS、JavaScript，掌握 Vue 或 React 至少一种前端框架。 - 了解 TypeScript、Git、Vite / Webpack 等常用前端工具。 - 有使用 Codex、ChatGPT、Claude、Cursor、Copilot 等 AI 工具辅助开发的经验。 - 具备良好的学习能力、沟通能力和问题解决能力。 - 连续实习 3 个月以上者优先。 加分项 - 有社区、论坛、内容平台、社交和UGC 产品相关开发经验。 - 了解前端性能优化、SEO、埋点统计、A/B Test、错误监控等相关实践。 - 有海外产品、多语言国际化或 PC Web 项目经验。 - 能够熟练使用 AI 工具提升开发效率，例如需求拆解、代码生成、Bug 定位、测试用例生成和技术文档总结。 - 具备良好的沟通能力和owner意识 你将获得 - 参与海外 PC Web 社区产品真实业务迭代的机会。 - 接触社区产品功能设计、用户互动场景和内容分发逻辑。 - 提升前端工程化、组件化、国际化和线上问题排查能力。 - 与产品、设计、后端协作完成完整需求从开发到上线的实践经验。 - 鼓励使用 AI 工具提升研发效率，探索 AI 辅助前端开发的工作方式。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 768,
+      "warnings": []
+    },
+    "request_id": "05329848-d532-4c40-ab93-ef3f0c16999e",
+    "status_code": 200,
+    "title": "国际化前端开发实习生（Web / H5）",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21170"
+  },
+  "responsibilities": "- 参与海外 PC Web 社区产品的功能迭代与日常维护。 - 根据需求和设计稿完成页面开发、组件封装和交互实现。 - 配合后端完成接口联调、问题排查和上线验证。 - 维护和优化已有功能，提升页面体验、代码质量和稳定性。 - 使用 AI 工具辅助开发、调试、代码优化和文档整理。",
+  "requirements": "- 本科及以上学历，计算机、软件工程等相关专业优先。 - 有至少 1 段以上前端开发、Web 开发或相关实习经验。 - 熟悉 HTML、CSS、JavaScript，掌握 Vue 或 React 至少一种前端框架。 - 了解 TypeScript、Git、Vite / Webpack 等常用前端工具。 - 有使用 Codex、ChatGPT、Claude、Cursor、Copilot 等 AI 工具辅助开发的经验。 - 具备良好的学习能力、沟通能力和问题解决能力。 - 连续实习 3 个月以上者优先。 加分项 - 有社区、论坛、内容平台、社交和UGC 产品相关开发经验。 - 了解前端性能优化、SEO、埋点统计、A/B Test、错误监控等相关实践。 - 有海外产品、多语言国际化或 PC Web 项目经验。 - 能够熟练使用 AI 工具提升开发效率，例如需求拆解、代码生成、Bug 定位、测试用例生成和技术文档总结。 - 具备良好的沟通能力和owner意识 你将获得 - 参与海外 PC Web 社区产品真实业务迭代的机会。 - 接触社区产品功能设计、用户互动场景和内容分发逻辑。 - 提升前端工程化、组件化、国际化和线上问题排查能力。 - 与产品、设计、后端协作完成完整需求从开发到上线的实践经验。 - 鼓励使用 AI 工具提升研发效率，探索 AI 辅助前端开发的工作方式。"
+}

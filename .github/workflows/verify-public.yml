@@ -7,31 +7,31 @@ jobs:
   verify:
     runs-on: ubuntu-latest
     steps:
-      - name: Check public page, results, PDF, and ZIP without credentials
+      - name: Verify both public demos and complete technical results anonymously
         shell: bash
         run: |
           python - <<'PY'
-          import urllib.request, json, hashlib, zipfile, io
-          base='https://tlevif.github.io/lexmount-internship-submission/'
+          import urllib.request,json,hashlib,zipfile,io
           checks=[]
-          for name in ['', 'materials/REPORT.pdf', 'materials/results/jobs.json', 'materials/MANIFEST.json', 'submission.zip']:
-              with urllib.request.urlopen(base+name,timeout=60) as r:
-                  data=r.read()
-                  item={'path':name or '/', 'status':r.status, 'bytes':len(data)}
-                  assert r.status==200
+          for base in ['https://tlevif.github.io/lexmount-internship-submission/','https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/']:
+            for name in ['', 'materials/REPORT.pdf','materials/results/jobs.json','submission.zip']:
+              with urllib.request.urlopen(base+name,timeout=90) as r:
+                data=r.read();assert r.status==200
+                item={'url':base+name,'status':r.status,'bytes':len(data)}
               if name.endswith('jobs.json'):
-                  rows=json.loads(data); item['jobs']=len(rows); assert item['jobs']==5213
-                  item['review_jobs']=sum(r['category']=='待审核' for r in rows); assert item['review_jobs']==52
-                  enriched=[r for r in rows if r.get('detail_enrichment')]; item['enriched_jobs']=len(enriched); assert len(enriched)==264
-                  assert sum(not r['requirements'] for r in enriched)==2
+                rows=json.loads(data);assert len(rows)==2905
+                assert len({r['company_name'] for r in rows})==32
+                assert len({r['category'] for r in rows})==15
+                assert all(r['responsibilities'] and r['requirements'] and r['classification']['keep'] for r in rows)
+                assert not any(r['category'] in ['待审核','待核验','非计算机岗位','营销','业务分析','设计','客户服务'] for r in rows)
+                item.update(jobs=len(rows),missing_responsibilities=0,missing_requirements=0,categories=15)
               if name=='submission.zip':
-                  item['sha256']=hashlib.sha256(data).hexdigest()
-                  z=zipfile.ZipFile(io.BytesIO(data)); manifest=json.loads(z.read('MANIFEST.json'))
-                  for path,digest in manifest['files'].items():
-                      assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
-                  item['verified_files']=len(manifest['files'])
-                  summary=json.loads(z.read('SUMMARY.json')); assert summary['detail_enrichment']['jobs_filled']==262
-                  assert summary['detail_enrichment']['after_missing']=={'responsibilities':0,'requirements':2}
+                item['sha256']=hashlib.sha256(data).hexdigest();z=zipfile.ZipFile(io.BytesIO(data));m=json.loads(z.read('MANIFEST.json'))
+                for path,digest in m['files'].items():assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
+                item['verified_files']=len(m['files']);s=json.loads(z.read('SUMMARY.json'));assert s['jobs']==2905
+                assert s['full_rebuild']['retained_missing']=={'responsibilities':0,'requirements':0}
+                assert s['full_rebuild']['removed_non_cs_or_umbrella']==2295
+                assert s['full_rebuild']['unverified_detail_jobs']==13
               checks.append(item)
           print('CROSS_HOST_VERIFICATION='+json.dumps({'host':'GitHub-hosted Ubuntu runner','authentication':'none','checks':checks},ensure_ascii=False))
           PY

@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "19990",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/19990",
+  "checked_at_utc": "2026-10-27T13:09:12.963776+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：策略算法 | 工作地点：北京市，上海市 | 项目：其他项目",
+    "dom_id": "993236",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/19990",
+    "language": "zh-cn",
+    "main_text": "职位类型：策略算法\n工作地点：北京市，上海市\n项目：其他项目\n工作职责\n1. 参与视频点播、直播流媒体算法策略的研究与优化，涵盖转码策略、ABR传输、画质增强、音质优化等方向； 2. 参与图片/视频画质增强、音频质量优化及端侧智能算法的研究与落地； 3. 结合业务场景设计指标体系与归因分析，通过数据挖掘用户特征，支撑策略迭代； 4. 合理设计并跟踪 A/B 实验，验证策略效果，推动算法落地； 5. 参与方案设计、原型实现及线上监控等全流程工作。\n任职资格\n1. 计算机、通信、统计、数学、图像处理等相关专业在读； 2. 熟悉 SQL、Python 等常用工具，具备基本的数据分析与统计建模能力； 3. 了解流媒体、图像/音频处理、端侧推理与模型压缩、机器学习、推荐系统、因果推断之一或多个方向者优先； 4. 逻辑清晰，沟通能力强，有良好的团队合作精神。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 378,
+      "warnings": []
+    },
+    "request_id": "33c866d4-c524-4035-bf80-e9aac9a242f6",
+    "status_code": 200,
+    "title": "音视频策略算法实习生",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/19990"
+  },
+  "responsibilities": "1. 参与视频点播、直播流媒体算法策略的研究与优化，涵盖转码策略、ABR传输、画质增强、音质优化等方向； 2. 参与图片/视频画质增强、音频质量优化及端侧智能算法的研究与落地； 3. 结合业务场景设计指标体系与归因分析，通过数据挖掘用户特征，支撑策略迭代； 4. 合理设计并跟踪 A/B 实验，验证策略效果，推动算法落地； 5. 参与方案设计、原型实现及线上监控等全流程工作。",
+  "requirements": "1. 计算机、通信、统计、数学、图像处理等相关专业在读； 2. 熟悉 SQL、Python 等常用工具，具备基本的数据分析与统计建模能力； 3. 了解流媒体、图像/音频处理、端侧推理与模型压缩、机器学习、推荐系统、因果推断之一或多个方向者优先； 4. 逻辑清晰，沟通能力强，有良好的团队合作精神。"
+}

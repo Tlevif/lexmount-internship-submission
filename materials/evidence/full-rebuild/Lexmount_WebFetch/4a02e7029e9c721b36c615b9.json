@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199910140009",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199910140009?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:03.730564+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992672",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199910140009?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "AI 代码评审研发实习生（Open Code Review）\nUpdated on 2026-10-21\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n参与阿里巴巴代码平台 Open Code Review 的研发，在团队指导下围绕 AI Agent、代码理解与智能代码评审开展开发与实验，参与开源社区和 AACR-bench 评测集建设，探索 AI 在真实软件工程场景中的应用。\n参与 Open Code Review 的功能开发与社区维护，协助复现用户反馈的问题、修复缺陷、完善测试和文档，参与技术讨论与代码评审。\n参与代码评审 Agent 的功能开发，围绕工具调用、上下文管理和执行反馈等环节开展实现与实验，协助提升评审效果和运行稳定性。\n探索代码解析、代码搜索与检索增强等技术，协助实现代码上下文的提取与组织，帮助 Agent 理解跨文件的代码逻辑。\n参与 AACR-bench 评测集建设，协助收集真实案例、标注缺陷、编写自动化评测脚本和分析评测结果，为功能迭代提供依据。\nQualifications\n本科在读，计算机科学、软件工程或相关专业，具备数据结构、算法、操作系统等基础知识。\n掌握 Go / Python / Java / Rust / C++ 中至少一门编程语言，有课程项目、个人项目或实习开发经历，能够完成基础功能开发与调试；熟悉 Go 者优先。\n对大模型、AI Agent 或智能代码评审感兴趣，了解工具调用、提示词或检索增强等基本概念；有相关项目或实验经历者优先，不要求生产级系统经验。\n具备良好的学习能力和沟通协作能力，愿意主动定位问题、通过实验验证想法，并在团队指导下完成开发任务。\n能够阅读英文技术文档，对开源技术有热情；有开源贡献、个人开源作品，或代码分析、自动化测试、数据标注与评测相关经历者优先。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 939,
+      "warnings": []
+    },
+    "request_id": "51da433f-4fb6-48f1-be85-16b1cd7aa11e",
+    "status_code": 200,
+    "title": "AI 代码评审研发实习生（Open Code Review）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199910140009?deptCodes="
+  },
+  "responsibilities": "参与阿里巴巴代码平台 Open Code Review 的研发，在团队指导下围绕 AI Agent、代码理解与智能代码评审开展开发与实验，参与开源社区和 AACR-bench 评测集建设，探索 AI 在真实软件工程场景中的应用。\n参与 Open Code Review 的功能开发与社区维护，协助复现用户反馈的问题、修复缺陷、完善测试和文档，参与技术讨论与代码评审。\n参与代码评审 Agent 的功能开发，围绕工具调用、上下文管理和执行反馈等环节开展实现与实验，协助提升评审效果和运行稳定性。\n探索代码解析、代码搜索与检索增强等技术，协助实现代码上下文的提取与组织，帮助 Agent 理解跨文件的代码逻辑。\n参与 AACR-bench 评测集建设，协助收集真实案例、标注缺陷、编写自动化评测脚本和分析评测结果，为功能迭代提供依据。",
+  "requirements": "本科在读，计算机科学、软件工程或相关专业，具备数据结构、算法、操作系统等基础知识。\n掌握 Go / Python / Java / Rust / C++ 中至少一门编程语言，有课程项目、个人项目或实习开发经历，能够完成基础功能开发与调试；熟悉 Go 者优先。\n对大模型、AI Agent 或智能代码评审感兴趣，了解工具调用、提示词或检索增强等基本概念；有相关项目或实验经历者优先，不要求生产级系统经验。\n具备良好的学习能力和沟通协作能力，愿意主动定位问题、通过实验验证想法，并在团队指导下完成开发任务。\n能够阅读英文技术文档，对开源技术有热情；有开源贡献、个人开源作品，或代码分析、自动化测试、数据标注与评测相关经历者优先。"
+}

@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7683473677028346155",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7683473677028346155/detail",
+  "checked_at_utc": "2026-10-27T13:04:46.800589+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7683473677028346155",
+  "code": 0,
+  "title": "Agentic Infra 实习生",
+  "responsibilities": "我们在做什么 我们在验证一条路径：让 AI 自主产出生产级的系统软件。我们关注 Agent 和 Infra 的结合：用 Agent 完成大模型训练、推理、强化学习、算子等 Infra 任务，并通过 Harness 让这套过程可控、可验证、可复用。 你将负责 构建 Harness 系统：设计 Agent 执行 Infra 任务，研究 Agent 做 Infra 任务的能力边界，并探索怎样更高效地完成这些任务。 探索 Agent + Infra：把 Infra 从人工驱动升级为 Agent 驱动，推动 Infra 系统从一堆工具演进成能自我优化的系统，自主发现问题、迭代方案、积累经验并复用。 用 Agent 做出超越人类专家水平的 Infra 结果：在性能、稳定性、适配新硬件等方面取得超过专家手工调优的结果，并用到真实的训练或推理生产环境中。\n",
+  "requirements": "1. 具有较强工程能力，能独立完成复杂系统模块的设计与实现 \n2. 熟练使用 Python，具备扎实的代码能力（C++ / CUDA 为加分项） \n3. 熟悉 PyTorch，有实际训练 / 调试经验 \n4. 理解分布式系统或分布式训练的基本概念 \n5. 对系统问题有良好的拆解能力，能从复杂现象中定位本质问题 \n6. 对 AI Native / Agent 系统有兴趣，认可“用模型解决工程问题”的方向 \n7. 对数据敏感：能判断指标是否可信、实验是否有效，而不是盲目跑实验 \n\n加分项（重要但不硬性）\n1. 有大模型经验，包括训练 （Megatron / DeepSpeed / FSDP 等），推理（Sglang, Vllm等），强化学习（Verl, miles等），算子开发（CUDA / Triton / Kernel 优化等）\n2.  有性能分析经验（Nsight Systems / Nsight Compute / profiler 等）\n3. 熟悉Infra优化手段\n4. 对 Agent 有深入理解或实践（tool use / planning / multi-agent 等） \n5. 阅读或改过大型训练框架源码 \n6. 做过 benchmark / profiling / 自动化实验平台相关工作"
+}

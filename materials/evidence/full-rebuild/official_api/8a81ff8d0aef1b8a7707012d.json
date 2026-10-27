@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7652019433997453573",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7652019433997453573/detail",
+  "checked_at_utc": "2026-10-27T13:03:23.648088+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7652019433997453573",
+  "code": 0,
+  "title": "Agent研发实习生-AI创新业务",
+  "responsibilities": "日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n团队介绍：字节跳动内部创新业务团队，专注研究新技术赛道相关领域产品，落地AI智能化创新。\n\n1、参与Auto Research相关Agent Workflow的设计与开发，探索科研自动化场景中的Agent应用；\n2、参与搜索、文献阅读、代码生成、实验执行、结果分析等Agent能力的验证与集成；\n3、基于现有Agent Framework搭建和迭代原型系统，验证不同技术方案的效果与可行性；\n4、参与Agent Tool、Memory、Evaluation等模块的开发与测试，协助完善平台能力；\n5、跟踪Agent、Auto Research领域的最新进展，调研开源项目和前沿技术，并完成技术验证与分享。",
+  "requirements": "1、硕士及以上学位在读，计算机、人工智能、软件工程等相关专业；\n2、熟练掌握Python，具备良好的编程基础和代码阅读能力；\n3、了解LLM、Agent、RAG、Tool Calling等相关技术，对Agent方向有浓厚兴趣；\n4、具备较强的学习能力和动手能力，能够快速理解并使用新工具和新框架；\n5、具备良好的沟通能力和团队协作意识。"
+}

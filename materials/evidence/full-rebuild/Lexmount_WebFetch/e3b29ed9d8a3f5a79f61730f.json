@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904140020",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904140020?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:08.644496+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992772",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904140020?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生- AI智能体终端助手安全测试\nUpdated on 2026-06-30\nHangzhou\nBasic Information\nGraduation Dates: 2027-03-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、参与AI智能体应用的安全评估，构建应用安全画像体系，利用AI编程工具开发自动化分析脚本，识别应用功能特征与安全风险。\n2、对移动端AI应用（Android/iOS）进行安全分析，识别端侧Agent特有风险面。\n3、设计并实现自动化安全测试工具链，整合静态分析与动态分析能力，提升规模化安全评估效率。\n4、沉淀AI应用安全测试方法论，将高频风险模式转化为可自动化检测的规则，持续完善测试用例库。\nQualifications\n1、移动端安全能力：熟悉Android/iOS应用安全测试技术栈，具备逆向分析经验（JADX、IDA Pro、Frida、Objection等工具使用）。\n2、自动化开发能力：掌握Python或Java/Kotlin，能借助AI编程工具快速编写自动化分析脚本、Frida Hook脚本或自定义安全检测工具。\n3、安全评估方法论：了解应用安全评估方法论，熟悉OWASP MASVS或具备相关实践经验。\n4、AI架构认知：了解LLM推理原理和Agent运行原理，对端侧模型部署及端云协同机制有基本认知。\n加分项（满足越多越优先）：\n5、⭐ AI辅助开发经验：有使用主流AI编程工具进行AI辅助编程的实际项目经验，能快速将安全分析思路落地为可运行代码。\n6、⭐ 应用画像/攻击面管理经验：曾构建过自动化应用特征采集与分析系统。\n7、⭐ AI应用安全经验：熟悉端侧Agent的权限管控、本地记忆存储、模型推理安全等特有风险面。\n8、有IoT安全、智能硬件安全测试经验，或熟悉主流Agent框架的移动端集成方案。\n9、工作地点杭州，每周至少实习4天，持续3个月以上。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 928,
+      "warnings": []
+    },
+    "request_id": "eeee0a26-88b4-487a-bbaf-9d465bfd4c7d",
+    "status_code": 200,
+    "title": "日常实习生- AI智能体终端助手安全测试",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904140020?deptCodes="
+  },
+  "responsibilities": "1、参与AI智能体应用的安全评估，构建应用安全画像体系，利用AI编程工具开发自动化分析脚本，识别应用功能特征与安全风险。\n2、对移动端AI应用（Android/iOS）进行安全分析，识别端侧Agent特有风险面。\n3、设计并实现自动化安全测试工具链，整合静态分析与动态分析能力，提升规模化安全评估效率。\n4、沉淀AI应用安全测试方法论，将高频风险模式转化为可自动化检测的规则，持续完善测试用例库。",
+  "requirements": "1、移动端安全能力：熟悉Android/iOS应用安全测试技术栈，具备逆向分析经验（JADX、IDA Pro、Frida、Objection等工具使用）。\n2、自动化开发能力：掌握Python或Java/Kotlin，能借助AI编程工具快速编写自动化分析脚本、Frida Hook脚本或自定义安全检测工具。\n3、安全评估方法论：了解应用安全评估方法论，熟悉OWASP MASVS或具备相关实践经验。\n4、AI架构认知：了解LLM推理原理和Agent运行原理，对端侧模型部署及端云协同机制有基本认知。\n加分项（满足越多越优先）：\n5、⭐ AI辅助开发经验：有使用主流AI编程工具进行AI辅助编程的实际项目经验，能快速将安全分析思路落地为可运行代码。\n6、⭐ 应用画像/攻击面管理经验：曾构建过自动化应用特征采集与分析系统。\n7、⭐ AI应用安全经验：熟悉端侧Agent的权限管控、本地记忆存储、模型推理安全等特有风险面。\n8、有IoT安全、智能硬件安全测试经验，或熟悉主流Agent框架的移动端集成方案。\n9、工作地点杭州，每周至少实习4天，持续3个月以上。"
+}

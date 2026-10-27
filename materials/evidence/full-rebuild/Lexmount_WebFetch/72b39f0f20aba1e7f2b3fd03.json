@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074692139045",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074692139045",
+  "checked_at_utc": "2026-10-27T13:07:41.767076+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信小程序Agent-基于大语言模型的小程序功能组件（Skill）生成式编译技术研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "993094",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139045",
+    "language": "zh-cn",
+    "main_text": "课题描述\n本课题聚焦于自然语言到小程序功能逻辑的自动化转化。研究如何利用LLM 的代码理解与生成能力，将小程序的原子能力编译成标准化的 Skill 组件（JSON/JS 代码块）。重点突破端侧 Skill 的动态下发、沙箱隔离编译以及生成代码与原生 API 的自适应对齐技术，构建一套从对话到功能实现（Text-to-Skill）的高效编译流水线。\n课题要求\n1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程等专业的博士和优秀硕士；\n2、具备CodeLLM相关的CPT、SFT、RL经验；\n3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 346,
+      "warnings": []
+    },
+    "request_id": "d3b82615-c372-46e1-8fd6-8311aa896e55",
+    "status_code": 200,
+    "title": "微信小程序Agent-基于大语言模型的小程序功能组件（Skill）生成式编译技术研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139045"
+  },
+  "responsibilities": "本课题聚焦于自然语言到小程序功能逻辑的自动化转化。研究如何利用LLM 的代码理解与生成能力，将小程序的原子能力编译成标准化的 Skill 组件（JSON/JS 代码块）。重点突破端侧 Skill 的动态下发、沙箱隔离编译以及生成代码与原生 API 的自适应对齐技术，构建一套从对话到功能实现（Text-to-Skill）的高效编译流水线。",
+  "requirements": "1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程等专业的博士和优秀硕士；\n2、具备CodeLLM相关的CPT、SFT、RL经验；\n3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。"
+}

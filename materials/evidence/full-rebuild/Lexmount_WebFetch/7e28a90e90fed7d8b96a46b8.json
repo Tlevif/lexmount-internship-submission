@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904240014",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904240014?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:53.168172+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992822",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904240014?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-业务技术-AI应用算法工程师（运筹优化）\nUpdated on 2026-04-15\nHangzhou\nBasic Information\nGraduation Dates: 2026-04-30 - 2029-12-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n我们致力于通过大模型 + AI Agent + 运筹优化的深度融合，推动淘天集团物流与供应链体系的智能化跃迁。面对日均亿级订单、千万级商家、全域消费者的复杂场景，我们正在构建业界首个端到端物流智能体（Logistics AI Agent）平台，覆盖预测、质控、规划、诊断、优化等核心环节。在这里，你将：\n1.负责运筹优化／机制设计方向的算法研究和开发，包括但不限于组合优化，博弈论，在线优化，随机优化，混合整数优化，线性规划，控制论等算方法的研发和实现。\n2.负责将优化技术和机器学习等技术有效结合并应用于电商，物流作业实操等领域，实现成本降低，效率提高，协助提高核心竞争力。\n3.负责大数据的分析和建模，沉淀行业解决方案，协助拓展业务边界。\nQualifications\n1.学历要求：本科及以上。\n2.有扎实的运筹优化建模能力，能够根据业务需求快速建模。\n3.对MIP、启发式解法、ADP等算法深入了解，能够采用这些算法解决实际问题。\n4.具有扎实的工程实现能力，对离线、在线系统的较有经验。\n5.对技术充满热情、有前瞻性视野，并能逐步在业务中落地。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 708,
+      "warnings": []
+    },
+    "request_id": "bde14461-a42a-4d0e-a34a-bddee50227e5",
+    "status_code": 200,
+    "title": "日常实习生-业务技术-AI应用算法工程师（运筹优化）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904240014?deptCodes="
+  },
+  "responsibilities": "我们致力于通过大模型 + AI Agent + 运筹优化的深度融合，推动淘天集团物流与供应链体系的智能化跃迁。面对日均亿级订单、千万级商家、全域消费者的复杂场景，我们正在构建业界首个端到端物流智能体（Logistics AI Agent）平台，覆盖预测、质控、规划、诊断、优化等核心环节。在这里，你将：\n1.负责运筹优化／机制设计方向的算法研究和开发，包括但不限于组合优化，博弈论，在线优化，随机优化，混合整数优化，线性规划，控制论等算方法的研发和实现。\n2.负责将优化技术和机器学习等技术有效结合并应用于电商，物流作业实操等领域，实现成本降低，效率提高，协助提高核心竞争力。\n3.负责大数据的分析和建模，沉淀行业解决方案，协助拓展业务边界。",
+  "requirements": "1.学历要求：本科及以上。\n2.有扎实的运筹优化建模能力，能够根据业务需求快速建模。\n3.对MIP、启发式解法、ADP等算法深入了解，能够采用这些算法解决实际问题。\n4.具有扎实的工程实现能力，对离线、在线系统的较有经验。\n5.对技术充满热情、有前瞻性视野，并能逐步在业务中落地。"
+}

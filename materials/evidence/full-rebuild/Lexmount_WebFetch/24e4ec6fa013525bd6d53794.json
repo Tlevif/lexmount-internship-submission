@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "19237",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/19237",
+  "checked_at_utc": "2026-10-27T13:09:49.576227+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：后端开发 | 工作地点：北京市 | 项目：其他项目",
+    "dom_id": "993276",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/19237",
+    "language": "zh-cn",
+    "main_text": "职位类型：后端开发\n工作地点：北京市\n项目：其他项目\n工作职责\n1. 核心参与小红书社区增长相关 Agent 研发工作，结合后端业务场景，开展 Agent 实践落地，助力AI+后端业务融合； 2. 了解大模型，熟练使用相关 AI 工具进行研发提效，配合团队完成需求拆解、代码编写、调试与优化，保障研发任务落地； 3. 积极配合团队完成其他临时性研发相关工作，快速适应业务节奏。\n任职资格\n1. 本科及以上学历，计算机相关专业（计算机科学与技术、软件工程等），在校学生优先； 2. 具备一定的后端开发基础，了解至少一种后端编程语言（Java/Python/Go等），有基础代码编写能力； 3. 了解常用的数据结构、算法基础，对后端研发有基本认知，愿意主动学习新技术、新业务； 4. 工作认真负责，态度积极主动，具备良好的沟通能力和团队协作意识，能高效配合团队完成工作； 5. 有实习经验，能保证稳定的实习时长优先；熟悉 LLM、具备 Agent 研发相关经验者优先。 实习期间表现优异者将提供转正机会",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 449,
+      "warnings": []
+    },
+    "request_id": "2af58d8b-f5cb-4c84-b138-2cd5d4284afc",
+    "status_code": 200,
+    "title": "Agent开发实习生",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/19237"
+  },
+  "responsibilities": "1. 核心参与小红书社区增长相关 Agent 研发工作，结合后端业务场景，开展 Agent 实践落地，助力AI+后端业务融合； 2. 了解大模型，熟练使用相关 AI 工具进行研发提效，配合团队完成需求拆解、代码编写、调试与优化，保障研发任务落地； 3. 积极配合团队完成其他临时性研发相关工作，快速适应业务节奏。",
+  "requirements": "1. 本科及以上学历，计算机相关专业（计算机科学与技术、软件工程等），在校学生优先； 2. 具备一定的后端开发基础，了解至少一种后端编程语言（Java/Python/Go等），有基础代码编写能力； 3. 了解常用的数据结构、算法基础，对后端研发有基本认知，愿意主动学习新技术、新业务； 4. 工作认真负责，态度积极主动，具备良好的沟通能力和团队协作意识，能高效配合团队完成工作； 5. 有实习经验，能保证稳定的实习时长优先；熟悉 LLM、具备 Agent 研发相关经验者优先。 实习期间表现优异者将提供转正机会"
+}

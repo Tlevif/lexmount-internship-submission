@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7696457588657047871",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7696457588657047871/detail",
+  "checked_at_utc": "2026-10-27T13:04:46.409462+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7696457588657047871",
+  "code": 0,
+  "title": "Agentic Engineering (量化 Infra 方向）实习生",
+  "responsibilities": "岗位亮点\n我们正在构建面向大模型量化场景的「自我优化」Agentic 原生基础设施，将量化研发与部署优化从人工驱动升级为自治系统，你将深度参与量化算法研究与工程化、Agentic 范式探索与跨硬件 Infra 建设，打造下一代量化工程体系。\n\n核心职责\n1. 负责大模型量化算法工程化，覆盖 PTQ/QAT/ 低比特量化在大模型及多模态模型的落地，重点针对 GPU/NPU/ 端侧芯片等各类硬件平台设计并优化量化方案，平衡精度与推理性能\n2. 构建 Agent 原生的统一量化研发工作流，实现从量化方案定义到跨硬件落地交付的全流程自治闭环\n3. 搭建标准化量化评测体系，推动基础设施向自我优化的 Agent 驱动系统演进\n4. 跟踪量化与 Agentic Infra 前沿技术，在真实跨硬件量化项目中完成技术落地与迭代",
+  "requirements": "1. 硕士及以上学历，计算机 / 人工智能 / 电子工程相关专业\n2. 熟练使用 Python，熟悉 Transformer 架构。了解大语言模型结构特点与计算瓶颈，具备扎实的代码能力\n3， 深入理解模型量化原理，熟悉 PTQ/QAT 等技术，掌握 GPTQ/AWQ/SmoothQuant 等主流量化算法实现\n4. 扎实的加速器硬件和 AI Infra 系统知识，具备对应算子开发与性能调优经验\n5. 具备复杂系统拆解与问题定位能力，对评测敏感，能判断量化指标可信度与实验有效性\n6. 认可 AI Native 方向，具备快速跟进前沿研究与算法复现能力\n\n加分项\n1. 量化相关论文发表或开源项目贡献，具备跨硬件平台软硬协同优化经验\n2. 熟悉 KV Cache/Activation 量化等大模型量化与推理优化技术，有TVM/MLIR/ONNX Runtime 等 AI 编译器相关实践经验\n3. 有 Agent 评测体系 / 量化 Harness 建设经验，或评测体系 / 评测集构建经验（用例生成、LLM-as-judge 等）\n4. 对 Agent 有深入实践（tool use/planning/multi-agent 等），有活跃开源项目或对社区有实质贡献"
+}

@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "22154",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/22154",
+  "checked_at_utc": "2026-10-27T13:09:18.865579+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：机器学习平台 | 工作地点：上海市，北京市 | 项目：其他项目",
+    "dom_id": "993238",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/22154",
+    "language": "zh-cn",
+    "main_text": "职位类型：机器学习平台\n工作地点：上海市，北京市\n项目：其他项目\n工作职责\n1、参与内部大模型平台 QuickSilver 的全栈研发，完成前端交互、后端服务、平台功能的端到端交付。 2、参与大模型数据、训练、压缩、推理部署、评估等核心工具链建设，提升模型迭代和业务接入效率。 3、参与平台工程能力建设，包括微服务架构、权限管理、任务管理、配置管理、模型服务接入、可观测性等模块。 4、万卡级 GPU 调度系统建设： 参与大规模 GPU 集群调度系统建设，围绕 Quota、优先级、抢占、弹性伸缩、碎片整理、拓扑感知调度等能力提升资源效率。 5、LLMOps 平台融合： 参与构建面向大模型训练、微调、推理、部署全流程的 LLMOps 能力，与云原生平台深度融合，支撑大模型生产链路稳定高效落地。 6、集群稳定性建设： 与云原生、IDC、网络、存储和业务团队协作，提升大规模 AI 集群的故障恢复能力、资源周转效率和任务稳定性。 7、熟练使用 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具，探索 AI Native 的平台研发方式，持续关注 Kubernetes、Volcano、Kueue、Ray、GPU 虚拟化、弹性调度等相关技术，探索下一代 AI 资源调度系统。\n任职资格\n任职要求 1、计算机、软件工程、人工智能等相关专业在校生，具备扎实的编程基础和计算机系统基础。 2、熟悉 Go / Python / Java 中至少一门后端语言，或熟悉 Vue 3 / React / TypeScript 等前端技术栈。 3、是 AI 产品和 AI 编程工具的重度用户，能借助 AI 工具完成需求理解、代码开发、Debug、重构和测试。 4、有基于大模型 API 开发应用的经验，了解流式输出、结构化输出、工具调用、上下文压缩、结果评估等常见问题。 5、具备良好的产品意识、工程质量意识、沟通协作能力和自驱力，愿意在高技术密度团队中快速成长。 加分项： 1、有大模型场景下负载特征分析、GPU 集群调度、资源利用率优化、高性能网络 / 存储等实践经验。 2、有大模型训练、推理、部署、评估平台使用或开发经验，了解 PyTorch、DeepSpeed、Megatron、vLLM、SGLang、Dynamo 等框架。 3、有大规模训练或推理集群端到端优化经验，理解训练和推理负载在调度侧的差异。 4、熟悉 RDMA、IB、RoCE、NCCL 等通信机制，能结合网络拓扑优化调度策略。 5、有 Kubernetes Scheduler、Volcano、Kueue、Ray、YARN、Airflow 等调度系统开发经验。 6、曾利用 AI 工具独立设计并交付完整 Web / AI 应用，有真实用户、开源项目、技术博客或作品展示。 7、有良好的沟通协作能力，能与平台、云原生、算法、业务、IDC、网络和存储团队协同推进复杂项目。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 1232,
+      "warnings": []
+    },
+    "request_id": "749c4230-87e6-46de-bc39-d40f211d4fa1",
+    "status_code": 200,
+    "title": "大模型算力平台研发实习生",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/22154"
+  },
+  "responsibilities": "1、参与内部大模型平台 QuickSilver 的全栈研发，完成前端交互、后端服务、平台功能的端到端交付。 2、参与大模型数据、训练、压缩、推理部署、评估等核心工具链建设，提升模型迭代和业务接入效率。 3、参与平台工程能力建设，包括微服务架构、权限管理、任务管理、配置管理、模型服务接入、可观测性等模块。 4、万卡级 GPU 调度系统建设： 参与大规模 GPU 集群调度系统建设，围绕 Quota、优先级、抢占、弹性伸缩、碎片整理、拓扑感知调度等能力提升资源效率。 5、LLMOps 平台融合： 参与构建面向大模型训练、微调、推理、部署全流程的 LLMOps 能力，与云原生平台深度融合，支撑大模型生产链路稳定高效落地。 6、集群稳定性建设： 与云原生、IDC、网络、存储和业务团队协作，提升大规模 AI 集群的故障恢复能力、资源周转效率和任务稳定性。 7、熟练使用 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具，探索 AI Native 的平台研发方式，持续关注 Kubernetes、Volcano、Kueue、Ray、GPU 虚拟化、弹性调度等相关技术，探索下一代 AI 资源调度系统。",
+  "requirements": "任职要求 1、计算机、软件工程、人工智能等相关专业在校生，具备扎实的编程基础和计算机系统基础。 2、熟悉 Go / Python / Java 中至少一门后端语言，或熟悉 Vue 3 / React / TypeScript 等前端技术栈。 3、是 AI 产品和 AI 编程工具的重度用户，能借助 AI 工具完成需求理解、代码开发、Debug、重构和测试。 4、有基于大模型 API 开发应用的经验，了解流式输出、结构化输出、工具调用、上下文压缩、结果评估等常见问题。 5、具备良好的产品意识、工程质量意识、沟通协作能力和自驱力，愿意在高技术密度团队中快速成长。 加分项： 1、有大模型场景下负载特征分析、GPU 集群调度、资源利用率优化、高性能网络 / 存储等实践经验。 2、有大模型训练、推理、部署、评估平台使用或开发经验，了解 PyTorch、DeepSpeed、Megatron、vLLM、SGLang、Dynamo 等框架。 3、有大规模训练或推理集群端到端优化经验，理解训练和推理负载在调度侧的差异。 4、熟悉 RDMA、IB、RoCE、NCCL 等通信机制，能结合网络拓扑优化调度策略。 5、有 Kubernetes Scheduler、Volcano、Kueue、Ray、YARN、Airflow 等调度系统开发经验。 6、曾利用 AI 工具独立设计并交付完整 Web / AI 应用，有真实用户、开源项目、技术博客或作品展示。 7、有良好的沟通协作能力，能与平台、云原生、算法、业务、IDC、网络和存储团队协同推进复杂项目。"
+}

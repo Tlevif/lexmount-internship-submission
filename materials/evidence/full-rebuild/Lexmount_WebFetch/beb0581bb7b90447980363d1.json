@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904900001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904900001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:04:05.457029+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992770",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904900001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-多模态及视觉生成大模型安全评测与原生安全机制研究\nUpdated on 2026-06-30\nHangzhou\nBasic Information\nGraduation Dates: 2027-03-01 - 2040-01-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、参与多模态大模型与视觉生成大模型端到端安全评测体系建设，围绕内容安全、对抗鲁棒性、越狱攻击、防御有效性等方向设计并执行系统化评测方案，推动模型安全能力量化与评估标准完善。\n2、参与多模态大模型与视觉生成大模型隐层表征风险感知能力研究，构建面向风险识别/安全判别的内部表征分析框架，探索模型在不同语义空间下的风险感知与决策机制。\n3、参与多模态大模型与视觉生成大模型可解释性与模型探针（Model Probing）研究与落地，基于探针技术分析模型内部知识编码、风险表征分布及安全行为形成机制，提升模型安全决策透明度与可解释能力。\n4、参与面向多模态理解与视觉生成场景的低侵入式插件化原生安全围栏算法研发，探索轻量、高效、可插拔的安全防护机制，提升大模型原生安全能力与部署灵活性。\n5、参与多模态大模型与视觉生成大模型原生安全增强技术的探索与落地，研究以低侵入、最小打扰方式提升目标模型解码阶段安全性的关键技术路径，在保障模型安全性的同时平衡生成质量与用户体验。\n6、跟踪国内外大模型安全、模型可解释性及 Runtime Safety Alignment等前沿研究进展，复现相关论文与开源方案，推动研究成果在实际业务场景中的落地应用。\nQualifications\n1、硕士及以上学历在读，计算机、人工智能、网络安全、数学等相关专业优先。\n2、具备扎实的深度学习基础，熟悉主流多模态大模型（如Qwen-VL, LLaVA, InternVL等）及视觉生成模型（如Stable Diffusion, Flux, Wan等）的架构原理及训练/推理机制。\n3、熟悉深度学习框架（PyTorch）及相关多模态/生成式AI开发库（HuggingFace Transformers, Diffusers, vLLM等），具备较强的算法实现与实验调优能力。\n4、了解模型安全、多模态对抗攻击与防御、AIGC内容检测、Representation Learning等相关研究方向，有相关项目经历、竞赛获奖或顶会论文者优先。\n5、具备良好的英文文献阅读与复现能力，能够快速跟进并理解CVPR, ICCV, NeurIPS, ICLR等会议的前沿安全工作。\n6、熟练掌握 Python 编程，具备良好的工程实现能力和代码规范意识。\n7、具备较强的逻辑分析能力、学习能力和问题拆解能力，对大模型安全研究有浓厚兴趣。\n8、工作地点杭州，每周至少实习4天，持续3个月以上。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1269,
+      "warnings": []
+    },
+    "request_id": "df451f84-319b-4671-a3c1-fd43fba5ca30",
+    "status_code": 200,
+    "title": "日常实习生-多模态及视觉生成大模型安全评测与原生安全机制研究",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904900001?deptCodes="
+  },
+  "responsibilities": "1、参与多模态大模型与视觉生成大模型端到端安全评测体系建设，围绕内容安全、对抗鲁棒性、越狱攻击、防御有效性等方向设计并执行系统化评测方案，推动模型安全能力量化与评估标准完善。\n2、参与多模态大模型与视觉生成大模型隐层表征风险感知能力研究，构建面向风险识别/安全判别的内部表征分析框架，探索模型在不同语义空间下的风险感知与决策机制。\n3、参与多模态大模型与视觉生成大模型可解释性与模型探针（Model Probing）研究与落地，基于探针技术分析模型内部知识编码、风险表征分布及安全行为形成机制，提升模型安全决策透明度与可解释能力。\n4、参与面向多模态理解与视觉生成场景的低侵入式插件化原生安全围栏算法研发，探索轻量、高效、可插拔的安全防护机制，提升大模型原生安全能力与部署灵活性。\n5、参与多模态大模型与视觉生成大模型原生安全增强技术的探索与落地，研究以低侵入、最小打扰方式提升目标模型解码阶段安全性的关键技术路径，在保障模型安全性的同时平衡生成质量与用户体验。\n6、跟踪国内外大模型安全、模型可解释性及 Runtime Safety Alignment等前沿研究进展，复现相关论文与开源方案，推动研究成果在实际业务场景中的落地应用。",
+  "requirements": "1、硕士及以上学历在读，计算机、人工智能、网络安全、数学等相关专业优先。\n2、具备扎实的深度学习基础，熟悉主流多模态大模型（如Qwen-VL, LLaVA, InternVL等）及视觉生成模型（如Stable Diffusion, Flux, Wan等）的架构原理及训练/推理机制。\n3、熟悉深度学习框架（PyTorch）及相关多模态/生成式AI开发库（HuggingFace Transformers, Diffusers, vLLM等），具备较强的算法实现与实验调优能力。\n4、了解模型安全、多模态对抗攻击与防御、AIGC内容检测、Representation Learning等相关研究方向，有相关项目经历、竞赛获奖或顶会论文者优先。\n5、具备良好的英文文献阅读与复现能力，能够快速跟进并理解CVPR, ICCV, NeurIPS, ICLR等会议的前沿安全工作。\n6、熟练掌握 Python 编程，具备良好的工程实现能力和代码规范意识。\n7、具备较强的逻辑分析能力、学习能力和问题拆解能力，对大模型安全研究有浓厚兴趣。\n8、工作地点杭州，每周至少实习4天，持续3个月以上。"
+}

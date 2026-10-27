@@ -1,0 +1,12 @@
+{
+  "company_name": "面壁智能",
+  "source_job_id": "7698203064600070451",
+  "detail_url": "https://modelbest.jobs.feishu.cn/campus/position/7698203064600070451/detail",
+  "checked_at_utc": "2026-10-27T13:04:44.294684+00:00",
+  "method": "official_api",
+  "api_url": "https://modelbest.jobs.feishu.cn/api/v1/job/posts/7698203064600070451",
+  "code": 0,
+  "title": "Agent 算法实习生（知识管理与长期记忆）",
+  "responsibilities": "面向下一代 Agent 的知识基础设施研发，聚焦知识组织标准、本体自演化与长期记忆，构建跨框架复用的可插拔知识管理模块。\n岗位职责：\n1.参与知识组织与交互协议的制定，设计可插拔知识管理模块，支持多源知识接入与跨 Agent 框架集成。\n2.探索本体建模与知识组织自演化，实现知识抽取、关联与持续更新，构建可追溯的知识管理。\n3.探索任务反馈驱动的知识与记忆自进化机制，构建覆盖知识质量、演化收益与 Agent 任务表现的评测体系，推动算法持续迭代与落地。\n",
+  "requirements": "1.计算机、人工智能或相关专业在读，硕士或博士均可。\n2.具备扎实的编程与算法基础，熟悉Python、大语言模型及 AI 辅助开发工具。\n3.了解本体建模、知识图谱、RAG 或 Agent Memory，有相关项目经验者优先。\n4.有大厂相关技术岗位实习经验、开源项目贡献或独立项目落地经验者优先。"
+}

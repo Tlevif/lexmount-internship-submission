@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199909800003",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199909800003?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:14.366228+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992683",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909800003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "AIDC供应链产技团队-供应链物流大模型算法工程师-日常实习生\nUpdated on 2026-10-08\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n团队介绍：\n我们是阿里巴巴国际商业数字供应链与定价算法团队，业务覆盖全球数十个国家和地区，支撑千亿级零售行业与数以亿计的商品。团队核心职责是保障供应链效率、降低成本，同时提升经营决策效率与消费者体验。\n我们在销量预测、智能定价、库存管理、履约优化等方向持续深耕，近年来将大模型、Agent、仿真优化等前沿技术引入供应链场景，逐步构建起从预测到决策到执行的完整算法体系。在这里，你将接触真实的全球化供应链问题，用算法直接创造可量化的商业价值。\n1、负责国际零售供应链核心算法研发，涵盖销量预测、库存优化、智能定价、履约效率等方向，运用深度学习、强化学习、运筹优化、大模型等技术解决真实商业问题；\n2、参与供应链垂类大模型建设，基于海量零售与供应链数据构建知识体系，实现复杂场景下的智能洞察与协同决策；\n3、在供应链AI、预测优化、大模型应用等方向做出单点突破，有机会参与高水平论文产出\nQualifications\n1、硕士及以上学历在读，人工智能、计算机、数学、运筹学、工业工程等相关专业优先；\n2、熟悉机器学习/深度学习/大模型中至少一个方向，有供应链、推荐、NLP 或优化算法相关经验优先；\n3、具备优秀的逻辑分析和解决问题的能力，对技术驱动业务有热情，沟通协作能力良好。\nHiring Business\nAlibaba International Digital Commerce Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 800,
+      "warnings": []
+    },
+    "request_id": "f330a203-1d13-4dce-b6c3-8ec8617e5989",
+    "status_code": 200,
+    "title": "AIDC供应链产技团队-供应链物流大模型算法工程师-日常实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909800003?deptCodes="
+  },
+  "responsibilities": "团队介绍：\n我们是阿里巴巴国际商业数字供应链与定价算法团队，业务覆盖全球数十个国家和地区，支撑千亿级零售行业与数以亿计的商品。团队核心职责是保障供应链效率、降低成本，同时提升经营决策效率与消费者体验。\n我们在销量预测、智能定价、库存管理、履约优化等方向持续深耕，近年来将大模型、Agent、仿真优化等前沿技术引入供应链场景，逐步构建起从预测到决策到执行的完整算法体系。在这里，你将接触真实的全球化供应链问题，用算法直接创造可量化的商业价值。\n1、负责国际零售供应链核心算法研发，涵盖销量预测、库存优化、智能定价、履约效率等方向，运用深度学习、强化学习、运筹优化、大模型等技术解决真实商业问题；\n2、参与供应链垂类大模型建设，基于海量零售与供应链数据构建知识体系，实现复杂场景下的智能洞察与协同决策；\n3、在供应链AI、预测优化、大模型应用等方向做出单点突破，有机会参与高水平论文产出",
+  "requirements": "1、硕士及以上学历在读，人工智能、计算机、数学、运筹学、工业工程等相关专业优先；\n2、熟悉机器学习/深度学习/大模型中至少一个方向，有供应链、推荐、NLP 或优化算法相关经验优先；\n3、具备优秀的逻辑分析和解决问题的能力，对技术驱动业务有热情，沟通协作能力良好。"
+}

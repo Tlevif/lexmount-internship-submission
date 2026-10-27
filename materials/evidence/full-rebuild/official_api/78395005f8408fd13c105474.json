@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7685301565117532458",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7685301565117532458/detail",
+  "checked_at_utc": "2026-10-27T13:04:47.571004+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7685301565117532458",
+  "code": 0,
+  "title": "AI Infra研发工程师-FinOps 平台实习生",
+  "responsibilities": "1、参与 FinOps 平台的设计与研发，支持云资源成本、用量、预算、配额和利用率等数据的统一管理。\n2、参与公有云、私有云及 Kubernetes 等环境的资源与账单数据采集、清洗、聚合和分析。\n3、开发成本分摊、预算管理、异常检测、资源优化建议等平台能力。\n5、参与后端服务、数据任务、API 和自动化工具开发，提升资源与成本管理效率。\n6、与业务、算法及基础设施团队协作，将资源运营需求抽象为可复用的平台产品和技术能力。\n",
+  "requirements": "1、计算机、软件工程、云计算、数据科学等相关专业本科或硕士在读。\n2、熟悉 Python、Go、Java、C++ 中至少一门语言，具备良好的编码、调试和测试能力。\n3、掌握常见数据结构、算法、网络和数据库基础知识。\n4、了解 MySQL、PostgreSQL 等关系型数据库，能够使用 SQL 完成数据查询与处理。\n5、对云计算有基础认知，理解计算、存储、网络等云资源及常见计费模式。\n6、了解 Linux、容器、Kubernetes、GPU 等技术中的一项或多项。\n7、每周可实习4天及以上，持续3个月及以上。\n【加分项】\n1、有后端平台、数据平台、云原生或 FinOps 相关项目经验。\n2、使用过 AWS、Azure、阿里云、腾讯云等公有云，或具备私有云实践经验。\n3、了解云账单、成本分摊、预算管理、资源利用率、容量规划或成本优化等概念。\n4、熟悉 Kubernetes API、Prometheus、Grafana、消息队列或任务调度系统。\n5、有数据采集、ETL、异常检测、自动化工具或开源项目开发经验。"
+}

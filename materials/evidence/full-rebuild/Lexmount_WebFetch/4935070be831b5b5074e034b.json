@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199908580002",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199908580002?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:51.263894+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou / Shanghai | Technology | Alibaba Project Intern",
+    "dom_id": "992746",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908580002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-强化学习RL算法-Qwen基础模型\nUpdated on 2026-08-11\nBeijing / Hangzhou / Shanghai\nBasic Information\nGraduation Dates: 2027-11-01 - 2032-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n强化学习（RL）是 Qwen 系列基础模型持续演进的重要技术方向之一。我们围绕大模型在复杂任务中的推理、规划、编码、工具调用与长程决策能力，持续探索 RL 在长程代码任务、视觉交互、真实环境执行、数学与代码竞赛等场景中的应用，推动模型在开放式复杂任务中的自主性与执行表现。\n欢迎对大模型与强化学习方向有兴趣、并具备相关基础和实践经验的在读硕士/博士同学加入。\n1. 参与 PPO、GRPO 等强化学习算法相关工作，协助提升训推分离场景下大规模 RL 训练的稳定性与效率；配合完成 RL scaling law、长程训练、多任务融合与系统优化等实验，帮助提升模型持续训练收益和泛化能力。\n2. 参与优化 Agentic RL 的整体链路，协助提升训练和推理效率，增强 agent 在推理、长程规划、代码生成与工具调用等场景中的表现；结合 critic model 和过程奖励机制，对 agent 行为进行引导，提升 scaffold 泛化性、指令跟随能力和推理效率。\n3. 参与长程任务和复杂开放任务相关的 RL 实验，协助优化训练效率和任务学习方法；结合多 agent 协作、自我反思、记忆机制和规划等方向，提升奖励信号、奖励模型和 agentic verifier 的准确性与鲁棒性。\n4. 与研究员和工程师协作，持续迭代 coding agent 和 long-horizon agent 的训练数据、奖励信号和执行环境；参与合成数据生成方法的改进，针对模型能力短板构建可验证的 RL 数据，提升基础模型在 benchmark 和真实任务场景中的表现。\nQualifications\n1. 计算机、人工智能、自动化等相关专业在读硕士/博士。\n2. 具备强化学习（RL）和 Agent 方向的基础知识与实践经历，了解 PPO、GRPO 等主流 RL 算法和训练方法；有大模型 RL、Agent、代码生成、Reward Modeling 或大规模训练相关经验者优先。\n3. 对真实任务场景和模型行为有一定理解，具备良好的问题分析和推进能力；对算法、数据和 reward signal 有一定直觉，能够在指导下结合实际问题持续迭代方案并提升模型表现。\n4. 具备较强的学习能力、主动性和自驱力，能够快速理解前沿工作，并在指导下推进实验和落地。\nHiring Business\nToken Foundry",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1214,
+      "warnings": []
+    },
+    "request_id": "c98656e2-7a82-446f-a014-8d748c3ec28e",
+    "status_code": 200,
+    "title": "日常实习生-强化学习RL算法-Qwen基础模型",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908580002?deptCodes="
+  },
+  "responsibilities": "强化学习（RL）是 Qwen 系列基础模型持续演进的重要技术方向之一。我们围绕大模型在复杂任务中的推理、规划、编码、工具调用与长程决策能力，持续探索 RL 在长程代码任务、视觉交互、真实环境执行、数学与代码竞赛等场景中的应用，推动模型在开放式复杂任务中的自主性与执行表现。\n欢迎对大模型与强化学习方向有兴趣、并具备相关基础和实践经验的在读硕士/博士同学加入。\n1. 参与 PPO、GRPO 等强化学习算法相关工作，协助提升训推分离场景下大规模 RL 训练的稳定性与效率；配合完成 RL scaling law、长程训练、多任务融合与系统优化等实验，帮助提升模型持续训练收益和泛化能力。\n2. 参与优化 Agentic RL 的整体链路，协助提升训练和推理效率，增强 agent 在推理、长程规划、代码生成与工具调用等场景中的表现；结合 critic model 和过程奖励机制，对 agent 行为进行引导，提升 scaffold 泛化性、指令跟随能力和推理效率。\n3. 参与长程任务和复杂开放任务相关的 RL 实验，协助优化训练效率和任务学习方法；结合多 agent 协作、自我反思、记忆机制和规划等方向，提升奖励信号、奖励模型和 agentic verifier 的准确性与鲁棒性。\n4. 与研究员和工程师协作，持续迭代 coding agent 和 long-horizon agent 的训练数据、奖励信号和执行环境；参与合成数据生成方法的改进，针对模型能力短板构建可验证的 RL 数据，提升基础模型在 benchmark 和真实任务场景中的表现。",
+  "requirements": "1. 计算机、人工智能、自动化等相关专业在读硕士/博士。\n2. 具备强化学习（RL）和 Agent 方向的基础知识与实践经历，了解 PPO、GRPO 等主流 RL 算法和训练方法；有大模型 RL、Agent、代码生成、Reward Modeling 或大规模训练相关经验者优先。\n3. 对真实任务场景和模型行为有一定理解，具备良好的问题分析和推进能力；对算法、数据和 reward signal 有一定直觉，能够在指导下结合实际问题持续迭代方案并提升模型表现。\n4. 具备较强的学习能力、主动性和自驱力，能够快速理解前沿工作，并在指导下推进实验和落地。"
+}

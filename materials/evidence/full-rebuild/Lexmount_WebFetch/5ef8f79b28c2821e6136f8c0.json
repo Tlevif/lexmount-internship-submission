@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21033",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21033",
+  "checked_at_utc": "2026-10-27T13:10:13.562429+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：AIGC算法 | 工作地点：北京市 | 项目：其他项目",
+    "dom_id": "993306",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21033",
+    "language": "zh-cn",
+    "main_text": "职位类型：AIGC算法\n工作地点：北京市\n项目：其他项目\n工作职责\n岗位职责： 1. 负责AIGC商业化基座模型的研发与优化，推动编辑生成与多模态视觉技术的落地应用； 2. 聚焦持续预训练（continue pretrain）、监督微调（SFT）及强化学习（RL）等关键技术环节； 3. 攻坚核心技术指标，实现模型性能达到业内领先水平。\n任职资格\n任职要求： 1. 具备AIGC领域相关研发经验，熟悉基座模型训练流程； 2. 精通多模态生成、图像编辑或视觉生成方向的技术架构； 3. 有ccfa论文经验",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 251,
+      "warnings": []
+    },
+    "request_id": "7f2f4786-fb05-4235-b50b-0c848e3da9f9",
+    "status_code": 200,
+    "title": "AIGC算法实习生-商业算法",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21033"
+  },
+  "responsibilities": "岗位职责： 1. 负责AIGC商业化基座模型的研发与优化，推动编辑生成与多模态视觉技术的落地应用； 2. 聚焦持续预训练（continue pretrain）、监督微调（SFT）及强化学习（RL）等关键技术环节； 3. 攻坚核心技术指标，实现模型性能达到业内领先水平。",
+  "requirements": "任职要求： 1. 具备AIGC领域相关研发经验，熟悉基座模型训练流程； 2. 精通多模态生成、图像编辑或视觉生成方向的技术架构； 3. 有ccfa论文经验"
+}

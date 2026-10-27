@@ -1,0 +1,12 @@
+{
+  "company_name": "字节跳动",
+  "source_job_id": "7673007990174009605",
+  "detail_url": "https://jobs.bytedance.com/campus/position/7673007990174009605/detail",
+  "checked_at_utc": "2026-10-27T13:03:48.235970+00:00",
+  "method": "official_api",
+  "api_url": "https://jobs.bytedance.com/api/v1/job/posts/7673007990174009605",
+  "code": 0,
+  "title": "Agent开发（研发效能方向）实习生 - 剪映CapCut",
+  "responsibilities": "团队介绍：剪映研发团队，主要支持剪映、CapCut、醒图、Hypic、即梦、Dreamina、小云雀、Pippit等多款国内外产品的研发工作，业务覆盖多元化影像创作场景，并孵化了多款AIGC明星产品，相关产品多次登顶国内外App Store 免费应用榜第一，并继续保持高速增长。加入我们，一起打造全球最受用户欢迎的影像创作和GenAI产品。\n\n日常实习：面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。\n\n1、参与面向需求、设计和开发环节的AI研发效能平台、工具及Agent建设，重点探索Figma-to-Code、PRD-to-Code等方向，推动设计稿、需求文档到iOS/Android/Web代码的辅助生成、验证与迭代，提升业务团队研发效率；\n2、参与多智能体协作、任务规划、工具调用（MCP）、记忆等能力在真实研发场景中的设计与落地；\n3、参与沉淀组件库、代码规范和工程最佳实践，建设研发知识库及RAG链路，为Agent提供高质量上下文，提升代码生成的正确性、可用性与可维护性；\n4、面向业务团队的实际使用反馈，参与提示词、工作流和评测体系设计，持续优化工具的稳定性和使用体验。",
+  "requirements": "1、本科及以上学历在读，计算机、软件工程、人工智能等相关专业优先；\n2、对客户端或前端开发有浓厚兴趣，具备以下至少一个方向的实际项目经验：iOS（Swift或Objective-C）、Android（Kotlin或Java）、Web（HTML、CSS、JavaScript/TypeScript及React、Vue等框架）；\n3、具备良好的编程基础和工程意识，能够将需求拆解为清晰的技术方案，重视代码的可读性与可维护性；\n4、对LLM、Agent及AIGC应用开发有浓厚兴趣，具备主动学习和动手实践能力；\n5、学习能力强，沟通协作顺畅，每周可出勤4天，可连续实习4个月。\n\n加分项\n1、有Figma插件、Design-to-Code、低代码或代码生成相关开发经验；\n2、了解前端工程化体系，或有React Native、Flutter、Kotlin MultiPlatform等跨端开发经验；\n3、有知识库、RAG或MCP Server/Client相关实践；\n4、有开源项目、HaCKAthon经历或可展示的AI作品。"
+}
