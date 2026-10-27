@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7665611162177128745/detail",
+  "checked_at_utc": "2026-10-27T11:04:45.151520+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "小米实习生招聘",
+    "description": "到小米科技，开启你的新工作",
+    "dom_id": "991174",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7665611162177128745/detail",
+    "language": "zh-cn",
+    "main_text": "机器人可靠性仿真工程师实习生\n北京 · 校招 · 实习 · 硬件研发类\n职位描述：\n1. 负责人形机器人产品结构的可靠性仿真建模； 2. 构建精准结构仿真模型，开展诸如强度，动力学，极限工况下结构仿真分析，确保仿真结构准确性和可靠性； 3. 与研发团队紧密协作，参与产品设计的全流程，提供专业的仿真技术支撑； 4. 跟踪试验结果，进行仿真模型和实测的仿测一致性验证；\n职位要求：\n1. 机械工程、力学、航空航天、材料或相关专业硕士及以上学历； 2. 精通有限元建模软件ANSA或者Hypermesh，了解各种有限元网格类型特点，有大规模模型有限元建模经验，熟悉各种接触类型，有自动化建模的经验； 3. 熟悉人形机器人等特定行业结构仿真者优先 4. 精通结构力学，材料力学等专业知识，能进行复杂模型的理论分析和计算，深厚的有限元分析理论功底，熟悉准静态及显式/隐式求解器，对于疲劳或者振动问题有一定的了解和认识 5. 熟练掌握 Abaqus、OptiStruct、ANSYS、LS‑DYNA 等主流 FEA 软件，以及 Motion、DesignLife、FE‑Safe 等疲劳分析或振动寿命工具 6. 丰富的仿真结果与实测数据关联能力，能基于测试反馈不断优化仿真模型 7. 熟悉主流3D设计软件，能够与设计团队顺畅进行数据交互和沟通",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 566,
+      "warnings": []
+    },
+    "request_id": "fc65e3d9-1426-496b-a8bc-5197d1f83aae",
+    "status_code": 200,
+    "title": "机器人可靠性仿真工程师实习生",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7665611162177128745/detail"
+  },
+  "exit_code": 0
+}

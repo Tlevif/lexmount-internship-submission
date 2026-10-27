@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/40447266-bdbb-4728-8db4-ed1435408026",
+  "checked_at_utc": "2026-10-27T11:04:46.851558+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "幻方&DeepSeek",
+    "description": "2026年幻方&DeepSeek社会招聘正在进行，点击申请职位",
+    "dom_id": "991177",
+    "engine": "lightmount_lite",
+    "error": null,
+    "final_url": "https://app.mokahr.com/social-recruitment/high-flyer/140576",
+    "language": "en-us",
+    "main_text": "在招职位（共 36 个，本页展示 15 个）\n1. 预训练（数据/算法）研究员 | 深度学习 | 融科资讯中心C座北楼5层\n2. 服务端开发工程师 | 全栈开发/算法 | 融科资讯中心C座北楼5层\n3. 大模型训练/推理框架工程师 | 深度学习 | 融科资讯中心C座北楼5层\n4. 后训练（数据/算法）研究员 | 深度学习 | 拱墅区环城北路169号汇金国际大厦A座14楼\n5. 多模态理解（数据/算法）研究员 | 深度学习 | 拱墅区环城北路169号汇金国际大厦A座14楼\n6. Agent Harness 团队 | 全栈开发/算法 | 拱墅区环城北路169号汇金国际大厦A座14楼\n7. 高性能算子/通信/编译器工程师 | AI核心系统研发 | 融科资讯中心C座北楼5层\n8. Agent 弹性计算研发工程师 | 全栈开发/算法 | 融科资讯中心C座北楼5层\n9. Frontier（持续学习/自进化/新范式）研究员 | 深度学习 | 融科资讯中心C座北楼5层\n10. 研发基础设施工程师 | AI核心系统研发 | 融科资讯中心C座北楼5层\n11. Code Agent 数据工程师 | 模型数据策略 | 融科资讯中心C座北楼5层\n12. AI云服务解决方案架构师 | 全栈开发/算法 | 融科资讯中心C座北楼5层\n13. 深度学习研发工程师 | 深度学习 | 融科资讯中心C座北楼5层\n14. HR团队 | HR团队 | 融科资讯中心C座北楼5层\n15. 法务团队 | 法务团队 | 拱墅区环城北路169号汇金国际大厦A座14楼",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 10,
+      "links_count": 16,
+      "text_length": 667,
+      "warnings": []
+    },
+    "request_id": "f51b5e74-3537-4528-9226-20c8044c27d3",
+    "status_code": 200,
+    "title": "DeepSeek招聘",
+    "url": "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/40447266-bdbb-4728-8db4-ed1435408026"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199908120003?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:11.261259+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990915",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908120003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "千问-系统开发实习生-杭州\nUpdated on 2026-07-27\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 参与核心链路研发：在导师指导下，参与千问RAG收录调度、页面解析、内容理解、索引建库等核心离线数据系统的研发与日常维护；\n2. 参与数据采集与清洗：协助优化网页/图片数据的采集策略、去重策略与质量评估，参与大规模网页数据的清洗与提取；\n3. 协助通用平台建设：参与万亿级链接、千亿级网页数据分布式处理平台的功能开发，提升海量数据处理的效率与稳定性；\n4. 性能分析与优化：辅助对大规模分布式计算/存储系统进行性能瓶颈分析，参与系统吞吐与资源成本的专项优化。\nQualifications\n1. 计算机、软件工程等相关专业在校本科、硕士或博士研究生（2028届及以后毕业，有充足实习时间者优先）；\n2. 精通 C++/Python/Java 至少一种编程语言，具备极其扎实的数据结构、算法、计算机网络和操作系统基础，手写代码能力过硬；\n3. 熟悉分布式系统的基本原理（如 MapReduce/大数据的基本概念），有相关课程设计、实验室项目或过往相关实习经历者优先；\n4. 具备极强的学习渴望与主动性，对解决复杂技术难题充满好奇心，具备良好的沟通能力和团队协作精神；\n实习时间：每周可实习 4天及以上，且能连续实习 6个月及以上\n加分项（满足任意一项均是极大的加分优势）：\n1. 大数据生态：熟悉 Hadoop、Spark、Flink、HBase 等分布式计算/存储平台，有实际动手实践或调优经验者优先；\n2. 爬虫与文本处理：有网页抓取（爬虫）、数据解析、反反爬、高并发网络编程或自然语言处理（NLP/文本清洗）相关项目经验者优先；\n3. 算法竞赛：在知名算法比赛（如 ACM/ICPC、CCPC等）或高校编程挑战赛中取得过优异成绩者优先。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 954,
+      "warnings": []
+    },
+    "request_id": "e5e9d204-30e3-487b-a2c2-ba9b8258e6a0",
+    "status_code": 200,
+    "title": "千问-系统开发实习生-杭州",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908120003?deptCodes="
+  },
+  "exit_code": 0
+}

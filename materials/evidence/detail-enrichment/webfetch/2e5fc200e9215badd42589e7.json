@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199905120003?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:28.263687+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990934",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905120003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "GPU异构计算推理实习生\nUpdated on 2026-05-19\nHangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2028-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、负责AI硬件的云端GPU和XPU的推理引擎日常研发；\n2、跟进支撑智能业务，整合团队资源，协调外部团队，推动业务上线；\n3、探索计算优化和芯片异构前沿技术，比如：GPU，XPU等，跟进前沿加速技术：flash attention，paged attention，MTP。\n职位要求\nQualifications\n1、计算机基础扎实：Linux操作系统，计算机网络，数据结果&算法，数据库等；\n2、精通CUDA和C/C++/Python等编程语言，熟悉常用设计模式；\n3、良好的表达、组织、沟通和协作能力；\n4、对技术有激情，喜欢钻研，良好的学习能力。\n加分项：\n1、熟悉VLLM，SGLang，TensorRT等推理服务引擎；\n2、熟悉CUDA，Triton等开发框架；\n3、熟悉各种大规模高性能服务技术。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 586,
+      "warnings": []
+    },
+    "request_id": "d4e2207f-7532-4b0e-a7a7-47643cb92d58",
+    "status_code": 200,
+    "title": "GPU异构计算推理实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905120003?deptCodes="
+  },
+  "exit_code": 0
+}

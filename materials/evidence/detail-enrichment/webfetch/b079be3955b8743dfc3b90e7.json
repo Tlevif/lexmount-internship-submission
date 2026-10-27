@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1236099085644457986",
+  "checked_at_utc": "2026-10-27T11:04:15.889429+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "听一听-音乐生成模型 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991119",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1236099085644457986",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n“听一听”等音乐消费与互动场景对个性化、高质量音乐内容的需求持续增长。音乐生成模型能够辅助旋律创作、配器编排、风格延展与短音频生产，提升内容供给效率与创作多样性。随着生成式模型能力提升，探索面向真实业务场景的音乐生成技术，具有明显的产品价值和研究意义。\n课题挑战：\n音乐生成不仅要“好听”，还要同时保证旋律连贯、节奏稳定、和声合理与结构完整，比文本或语音生成更强调长期依赖建模。不同风格、情绪、乐器组合之间差异明显，数据标注和统一表示也较困难。真实应用中还需兼顾生成速度、可控性、版权风险规避以及主观评测标准不稳定等问题，因此模型设计、训练和评估都具有较高挑战。\n具体工作：\n参与音乐数据处理与分析，探索音乐生成模型训练和可控生成方法，优化生成质量与效率，并结合业务场景开展评测和迭代。\n课题要求\n学历和专业要求：\n来自计算机、人工智能、自动化、电子信息、信号处理、数学等相关专业的博士/硕士同学。\n技术技能要求：\n掌握深度学习、生成模型、序列建模等算法及应用，熟悉Python，了解PyTorch/TensorFlow等训练框架。\n软性素质要求：\n具备良好的沟通协作与问题分析能力，对音乐、音频或AIGC方向有兴趣，学习能力和执行力强。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 592,
+      "warnings": []
+    },
+    "request_id": "62ef5e78-6716-4824-8457-4f350c5693c2",
+    "status_code": 200,
+    "title": "听一听-音乐生成模型 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1236099085644457986"
+  },
+  "exit_code": 0
+}

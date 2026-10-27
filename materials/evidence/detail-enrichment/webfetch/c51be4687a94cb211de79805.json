@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199908000002?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:01:57.862290+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990892",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908000002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "数据打标平台-研发实习生\nUpdated on 2026-10-20\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n团队介绍\n数据打标平台承载阿里语音智能多模态数据生产链路，面向多业务方收集 / 提供大模型语料、语音 / 文本 / 图像 / 视频等数据的标注、质检、交付与结算能力，对接专业标注供应商组织，覆盖二十余个语种与方言。团队规模精简、节奏明快，实习生会作为正式研发同学的搭档，参与真实业务模块的设计与落地，而非仅做辅助性工作。\n岗位职责\n1.参与数据打标平台核心链路（任务分发、数据标注、多轮验收、质量管控、数据投递、结算对账等）中若干模块的方案设计、编码与联调，独立 owning 一到两个可交付的子模块。\n2.参与平台性能、稳定性、可观测性相关的排查与优化工作，协助日常线上问题定位与修复，逐步理解业务。\n3.在日常研发中积极使用 Coding Agent、大模型对话工具等 AI 工具辅助编码、调试与文档撰写，并把好用的 Prompt、工作流沉淀为团队可复用的资产。\nQualifications\n任职要求\n1.计算机、软件工程或相关专业本科大三及以上 / 硕士在读，2027 届及之后毕业。\n2.扎实的代码基础：掌握数据结构、算法、网络、操作系统等计算机基础知识；在 Java / Python / JS 等至少一种主流编程语言上有较深入的实践经验（课程作业、个人项目、开源贡献、实习经历、竞赛作品均可）；了解常用中间件（缓存、消息队列、数据库等）的基本使用。\n3.AI 使用能力（硬性要求）：对 AI 工具有真实、日常的使用习惯，而非仅停留在概念层面——熟练使用大模型对话工具（通义 / ChatGPT / Claude 等）辅助学习、查资料、写代码、写文档；能用 Coding Agent（Qoder / Cursor / Claude Code 等）独立完成小工具、脚本、Web Demo 或个人项目；具备基本的 Prompt 编写与调优能力，在 AI 输出不达预期时会主动补上下文、拆问题或换模型；\n4.学习能力强、主动性高，思路清晰、善于沟通，能独立推进事项拿到结果；对遇到的问题有\"先自己想再问人\"的习惯。\n加分项\n1.AI 应用或 Agent 实际落地经验：包括但不限于 RAG 系统、多智能体编排、结合 MCP、Skill 等的 Agent 项目，有可展示的项目 / 竞赛 / 实习成果者优先。\n2.开源贡献或技术影响力：在 Github 上有高质量 AI 项目、技术博客、社区影响力或开源仓库。\n3.有过 toB 后台、平台型产品、数据类系统相关的实习或课题经验。\n4.有 ACM / 蓝桥 / Kaggle 等竞赛获奖经历，或有较完整的个人独立项目（App、Web、Agent 等）可展示。\nHiring Business\nQwenWork",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1313,
+      "warnings": []
+    },
+    "request_id": "de600413-7609-4107-b712-74e23914e516",
+    "status_code": 200,
+    "title": "数据打标平台-研发实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908000002?deptCodes="
+  },
+  "exit_code": 0
+}

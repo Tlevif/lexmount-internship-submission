@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199904380003?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:33.863343+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990941",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904380003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "视频生成模型工程师-Agentic视频生成\nUpdated on 2026-04-13\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2028-12-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n围绕Agentic视频生成方向，开展视频智能体架构设计、多镜头一致性控制和推理侧扩展相关研究，推动视频生成模型从“单点工具”向“自主系统”演进，并服务于广告营销、短剧创作等实际业务落地。\n你将参与以下一个或多个方向的工作：\n1. 视频Agent工作流构建：面向复杂剧情生成场景，研究视频Agent的核心组件，包括任务自主拆解、长短期记忆机制、工具调用及自我反思与修正。通过SFT/RLHF/DPO等后训练技术，提升模型在分镜规划与多维指令遵从上的能力，探索从模糊意图到高质量长视频生成的端到端智能体方案。\n2. 可控生成与长视频能力：面向商业级视频交付需求，研究基于Agent上下文记忆的多镜头一致性控制算法，攻克复杂场景下角色IP、场景特征与运动规律的稳定性难题。通过后训练，重点突破长视频生成的时空稳定性与长效剧情逻辑，提升模型在长时序列下的生成质量。同时研究视频大模型在推理阶段的Test-time Scaling策略，突破模型在复杂提示词下的语义对齐上限。\n3. 视频智能体评测与进化：构建完善的视频Agent量化评测体系，涵盖视觉一致性、意图命中率、任务完成度等核心维度，打通从数据采集、自动评测到模型在线迭代的闭环。结合广告、漫剧等具体业务场景，参与Agent系统的设计与优化，显著提升商业化视频生成的可用率与交付效率。\nQualifications\n1. 计算机、人工智能、数学等相关专业，硕士/博士在读优先；\n2. 熟悉Python和PyTorch，具备优秀的算法实现与代码工程能力；\n3. 熟悉扩散模型（Diffusion Models/DiT）或视频生成相关技术，理解主流LLM/MLLM基础架构，有SFT/RL等后训练实操经验者优先；\n4. 认真踏实、自驱动力强，具备优秀的科研素养，有能力在mentor指导下完成顶会论文（CVPR/NeurIPS/ICLR等）发表或专利申请；\n5. 在以下一个或多个方向有经验者优先：视频生成、Agent、多模态理解、图像/视频编辑。\nHiring Business\nAlibaba Cloud",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1067,
+      "warnings": []
+    },
+    "request_id": "487aedde-dd3b-4ccc-abe8-88f6aa8166fd",
+    "status_code": 200,
+    "title": "视频生成模型工程师-Agentic视频生成",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904380003?deptCodes="
+  },
+  "exit_code": 0
+}

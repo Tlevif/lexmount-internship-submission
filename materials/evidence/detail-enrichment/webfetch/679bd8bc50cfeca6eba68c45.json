@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944738",
+  "checked_at_utc": "2026-10-27T11:02:57.450109+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元多模态-基于Verifiable Reward的多模态强化学习 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "990974",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944738",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：大语言模型（LLM）在文本领域通过RLHF取得了显著进展，但多模态场景——尤其是语音交互——面临独特挑战。当前主流方案依赖人工标注的Reward Model（RM）数据来训练奖励模型，再通过强化学习优化。这种对RM偏好数据标注的依赖制约了模型的迭代。\n课题挑战：\n文本域的Verifiable Reward成立依赖于答案可验证（如数学题有标准解、代码可执行）。但语音交互的质量评估缺乏客观验证基准，因此verify更加复杂。\n在多模态交互LM场景下，设计verifiable reward的链路更加复杂\n具体工作：\n设计基于多个verifiable reward的agentic system最终实现对于多模态交互任务的准确verifiable信号提取\n课题要求\n学历与专业： 来自计算机科学、人工智能、电子信息、信号处理等相关专业的博士/硕士同学，具备扎实的机器学习理论基础，有多模态方向研究经验者优先。\n技能要求：精通 PyTorch 框架与 Python 编程；深度掌握 Transformer 架构及主流 MLLM（如 LLaVA, Qwen-Audio, Qwen-Omni） 原理；熟悉 PPO、GRPO 等强化学习算法及 DeepSpeed/Megatron 分布式训练工具。\n软性素质： 具备较强的问题分解与独立研究能力；能在模糊问题定义上给出清晰的拆解思路和方法。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 665,
+      "warnings": []
+    },
+    "request_id": "256ea310-82c8-4402-b535-ab782bc6c352",
+    "status_code": 200,
+    "title": "混元多模态-基于Verifiable Reward的多模态强化学习 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944738"
+  },
+  "exit_code": 0
+}

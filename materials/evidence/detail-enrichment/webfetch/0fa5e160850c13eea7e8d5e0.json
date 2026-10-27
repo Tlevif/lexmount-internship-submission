@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://career.huawei.com/cn/job-details?advertisementId=30851",
+  "checked_at_utc": "2026-10-27T11:05:37.065562+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": null,
+    "description": null,
+    "dom_id": "991240",
+    "engine": "lightmount_dcl",
+    "error": null,
+    "final_url": "https://career.huawei.com/cn/job-details?advertisementId=30851",
+    "language": "zh",
+    "main_text": "职位详情",
+    "publish_time": null,
+    "quality": {
+      "has_description": false,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 0,
+      "text_length": 4,
+      "warnings": [
+        "thin_content"
+      ]
+    },
+    "request_id": "3ae8c70d-0d51-42cb-a018-abaef9f6fe3c",
+    "status_code": 200,
+    "title": "职位详情",
+    "url": "https://career.huawei.com/cn/job-details?advertisementId=30851"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199909620010?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:02.151239+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990897",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909620010?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-全模态基础能力与Agentic应用-Qwen基础模型\nUpdated on 2026-10-09\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2032-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 参与音频/音视频多模态 Agentic 能力研究与实现，探索 Long-horizon 推理、全模态交互、Coding 等场景下的能力提升方法。\n2. 参与音视频理解基础能力研发，包括 Caption、Grounding、音视频对齐、General QA、长视频理解、多音视频理解等方向。\n3. 参与音频/语音理解基础能力研发，包括 ASR、Multi-speaker ASR、语音/音频 Grounding/Counting/QA、音乐理解、长音频理解、多音频理解等方向。\n4. 参与音频/音视频 Post-training、RL、OPD 等训练方法研究与实验验证。\n5. 参与音视频通话与交互能力优化，包括全音视频双工、音频 Query 理解与体验优化等。\n6. 参与语音生成基础能力研发，包括音色克隆、可控性、长语音生成稳定性等方向。\n7. 参与全模态模型自主优化、Self-evolving 与评测迭代。\nQualifications\n1. 计算机、人工智能、电子信息、自动化、数学等相关专业在读，对音频/音视频多模态方向有浓厚兴趣。\n2. 具备音频/语音理解与生成、多模态对齐与交互（如音视频 Alignment、Captioning、Grounding），或 Agentic AI、长程推理、Omni 模型等任一方向的项目经验。\n3. 熟悉 PyTorch 等深度学习框架，具备良好的工程实现能力与实验分析能力，能够独立推进模型训练、调试或评测。\n4. 有相关论文、开源项目、技术竞赛或高质量项目经历者优先。\n5. 具备较强的学习能力、自驱力和沟通协作能力，能够快速理解问题并形成有效实验方案。\nHiring Business\nToken Foundry",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 948,
+      "warnings": []
+    },
+    "request_id": "f09bf31d-68d7-451c-a747-92fdfeba7100",
+    "status_code": 200,
+    "title": "日常实习生-全模态基础能力与Agentic应用-Qwen基础模型",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909620010?deptCodes="
+  },
+  "exit_code": 0
+}

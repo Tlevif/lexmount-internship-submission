@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139012",
+  "checked_at_utc": "2026-10-27T11:03:29.749867+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信-有价值信息主动挖掘和梳理的Agent技术研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991034",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139012",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n大模型能力快速提升，个人多模态数据（社交、订单、音视频、文件等）海量增长，数据呈现非结构化、规模大、噪声高、关联复杂等特点，传统管理方式难以高效整理、提炼与利用。为实现用户专属、智能、精准的个人信息管理，亟需研究面向大规模多模态数据的信息挖掘 Agent 技术，支撑高效、安全、可理解的数据使用。\n课题挑战：\n多模态数据异构、非结构化、噪声高，难以统一表征与深度关联挖掘。\n复杂信息挖掘任务需 Agent 具备自主规划、动态推理与决策能力，逻辑链路长。\n数据全流程（采集、存储、检索、推理）需严格满足隐私与权限约束，安全与性能需平衡。\n模型需在端侧 / 边缘部署，对压缩、剪枝、推理加速提出极高要求。\n具体工作：\n参与多模态 Agent 模型设计、信息挖掘与推理算法实现、隐私保护方案研究，开展模型压缩与端侧部署实验，完成算法验证与性能优化。\n课题要求\n学历和专业要求\n计算机、人工智能、软件工程、电子信息等相关专业硕士 / 博士，具备多模态、大模型、强化学习、Agent技术研究基础优先。\n技术技能要求：\n掌握多模态模型训练 / 检索/强化学习/ Agent 相关算法，熟练使用 Python/PyTorch，了解模型压缩和端侧部署加速技术。\n软性素质要求：\n自驱自律、逻辑清晰、动手能力强，具备良好文献阅读、论文写作与团队协作沟通能力。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 643,
+      "warnings": []
+    },
+    "request_id": "37bc34d0-d909-46a3-b83f-67c7b8a0febc",
+    "status_code": 200,
+    "title": "微信-有价值信息主动挖掘和梳理的Agent技术研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139012"
+  },
+  "exit_code": 0
+}

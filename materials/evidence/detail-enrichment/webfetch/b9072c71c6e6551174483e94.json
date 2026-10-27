@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139120",
+  "checked_at_utc": "2026-10-27T11:03:52.362716+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "腾讯云—高性能RL系统设计研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991081",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139120",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\nAI Infra强化学习工程师是连接强化学习算法与工程化落地的核心纽带，其工作直接决定LLM RL、Agentic RL等强化学习技术的部署效率、性能表现与规模化应用能力。当前强化学习在AI领域的应用场景持续拓展，大规模RL算法的高效落地成为企业技术竞争力的关键，该岗位通过构建高效分布式训练体系、优化训练工具链、解决工程化瓶颈，可显著提升GPU利用率与训练吞吐，降低技术落地成本，推动强化学习技术从算法研发走向实际业务应用，同时为企业搭建完善的AI Infra基础设施、储备核心技术人才提供重要支撑。\n课题挑战：\n1、大规模RL训练的性能优化挑战：需解决大规模RL算法（PPO、DQN、GRPO等）训练中的高并发、高吞吐难题，优化训推异步、partial rollout等核心机制，在千级GPU集群场景下，实现算力与显存的高效调度，突破GPU利用率瓶颈，同时规避样本传输延迟、数据一致性等问题。\n2、分布式训练体系的设计与优化难度：需深入掌握分布式训练原理，基于FSDP、DeepSpeed、Ray等工具，构建适配LLM RL、Agentic RL的分布式训练架构，解决模型并行、数据并行中的通信开销问题，同时优化Replay Buffer分布式存储与调度策略，平衡存储效率与样本读取速度，保障训练稳定性。\n3、工程化瓶颈的攻坚难度：需精准定位并解决RL训练中的核心技术痛点，包括GPU显存溢出、梯度爆炸/消失等训练稳定性问题，以及环境封装适配、工具链全流程联动等工程化难题；同时需跟进VERL、rllm等前沿技术，快速将技术转化为实际落地能力，适配多场景RL训练的动态需求。\n具体工作：\n1、负责LLM RL、Agentic RL强化学习训练框架的全流程设计、开发与性能优化，核心支撑PPO、DQN、GRPO等大规模RL算法的高效落地，适配不同业务场景的算法应用需求。\n2、构建高效分布式训练体系，重点优化训推异步、partial rollout、数据并行、模型并行等核心机制，同时优化Replay Buffer分布式存储与调度策略，最大化提升GPU利用率与训练吞吐效率。\n3、设计并实现强化学习训练全流程工具链，覆盖环境封装、数据预处理、模型版本管理、训练日志监控、TensorBoard/Weights & Biases指标可视化等关键环节，保障训练流程的规范化与高效化。\n4、跟踪强化学习与分布式训练领域前沿技术，包括VERL、rllm、Agentlightning、Ray、Megatron-LM等，将前沿技术转化为实际系统能力，持续提升基础设施的性能与竞争力。\n课题要求\n1、熟练掌握 Python 编程，具备扎实的工程编码能力，熟悉 C/C++ 者优先（底层优化场景）；​\n2、深入理解深度学习框架（PyTorch），精通分布式训练原理与实践（FSDP/DeepSpeed/Megatron/Ray 等工具使用经验）；​\n3、具备强化学习基础，理解 RL 训练流程（智能体、环境、奖励机制、经验回放等核心组件），熟悉主流 RL 框架（Ray、VERL、rllm、Agentlightning）者优先。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1356,
+      "warnings": []
+    },
+    "request_id": "ad66c29b-9601-4158-b5a7-9b91763210c7",
+    "status_code": 200,
+    "title": "腾讯云—高性能RL系统设计研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139120"
+  },
+  "exit_code": 0
+}

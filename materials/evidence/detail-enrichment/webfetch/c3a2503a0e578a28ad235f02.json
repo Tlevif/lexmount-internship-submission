@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://jobs.bytedance.com/campus/position/7688177690629556533/detail",
+  "checked_at_utc": "2026-10-27T11:04:56.150142+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": null,
+    "description": "字节跳动校园招聘",
+    "dom_id": "991191",
+    "engine": "lightmount_dcl",
+    "error": null,
+    "final_url": "https://jobs.bytedance.com/campus/position/7688177690629556533/detail",
+    "language": "zh-cn",
+    "main_text": ".for-seo { display: none; }校园招聘window.web_server='ssr'window.sourceMD5='5c3faab4217f6e6b083e3ea46b02c5a7'",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 105,
+      "warnings": [
+        "thin_content"
+      ]
+    },
+    "request_id": "a14ec452-e046-448d-846f-529912eddcb3",
+    "status_code": 200,
+    "title": "字节跳动校园招聘",
+    "url": "https://jobs.bytedance.com/campus/position/7688177690629556533/detail"
+  },
+  "exit_code": 0
+}

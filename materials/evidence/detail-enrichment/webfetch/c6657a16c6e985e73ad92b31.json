@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199903920026?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:34.751250+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990942",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903920026?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "Agent开发实习生\nUpdated on 2026-10-27\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2028-05-31 - 2029-12-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n在这里，你可以参与到淘宝直播的全流程开发过程，无论是AI算法工程，音视频工程，还是服务端，都可以深度参与，一起打造下一代直播体系；\n在这里，你可以探索新技术，新趋势，参与到直播场域下AI应用架构设计与开发，包括端&云算法工程、性能优化，调度优化等领域；\n在这里，你可以解锁跨栈开发的能力，无论是前端、移动端还是服务端，技能统统点满，一起打造高效、创新的直播用户体验；\n在这里，你可以参与团队内闭环技术项目，参与AI创新项目，协助团队攻克各种终端异常、性能优化等方面的技术难关，推进前瞻性项目的共同落地，成长为一名多语言技术专家。\nQualifications\n具备Python经验，计算机基础扎实，并对内存、线程、操作系统等有深入理解；\n了解AI算法部署，能够开发高利用量的弹性资源调度系统；\n了解算法工程性能优化，可以针对全链路进行性能优化，包括但不限于显存、内存、延时优化；\n熟悉音视频基础概念，了解音视频与AI结合方案，熟悉音视频数据处理流程；\n具备创新思维，对AI有一定理解，并乐于探索和持续学习；\n熟悉C++，了解C++与Python结合链路者优先；\n面向2027届与2028届毕业在校的本科生与硕士，具备较强的学习能力与积极性，动手能力好，能够长期实习至少6个月以上。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 765,
+      "warnings": []
+    },
+    "request_id": "1c6e08ac-6797-49d9-a45e-a46f03913c1f",
+    "status_code": 200,
+    "title": "Agent开发实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903920026?deptCodes="
+  },
+  "exit_code": 0
+}

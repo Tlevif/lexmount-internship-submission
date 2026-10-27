@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199904420001?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:30.766612+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing | Technology | Alibaba Project Intern",
+    "dom_id": "990936",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904420001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-数据智多星-物理方向\nUpdated on 2026-04-16\nBeijing\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n团队介绍：\n当AI进入下半场，AI评测与数据变得越来越专业，也越来越重要，甚至逐渐成为制约AI能力发展的关键。在此背景下，我们将与阿里巴巴集团各核心部门一起，围绕“高质量复杂物理推理评测集及数据合成算法研究”，日常工作包括：评测集设计，论文发表，Al数据合成算法，数据管理，AI测试，agent搭建，Al模型训练等，以评测驱动AI能力的快速迭代发展！\n岗位职责：\n1. 多元数据深度分析：从零开始规划数据集的用途和框架，制定清晰且可执行的标准。深入书籍、期刊、报纸、网站和专业数据库等多样化的知识来源，以严谨的态度筛选、分类和验证数据，确保信息准确。\n2. 严格把控标注质量：根据项目需求为海量数据贴上精准的标签，建立严格的标注规则和验收机制，实时监控标注过程，发现问题并迅速解决，确保输出的高质量成果。\n3. 精准构建知识库：将零散的数据编织成结构化的知识体系，打造一个全面、系统化的知识库体系。不断更新和完善知识库内容，保持前沿性并满足业务需求。\n4. 高效制定标注标准：制定科学合理的标注标准和计划，明确每个阶段的目标与要求。建立高效的沟通机制，及时收集和解决标注过程中遇到的问题，推动流程的持续改进。\n5. AI评测与标注前沿研究：与团队开展前沿研究，合作撰写、发表高水平论文，打造有影响力的体系化数据集评测集开源工作。优秀同学能够参与学术论文、开源数据集评测集署名，受邀参与团队主办的大模型评测论坛等高规格交流活动。\nQualifications\n1. 物理类专业背景，985大学硕士及以上，博士优先；\n2. 无太大毕业压力（27年上半年及之后毕业者优先），能长时间连续实习者优先，每周4天以上最佳；\n3. 有sci英文论文发表经验优先；\n4. 有代码及算法经验者优先；\n5. 有数据生产经验、出题经验、教辅经验者优先；\n6. 性格勤奋，踏实负责，执行力强，有主动精神，思路开阔，思维清晰活跃，喜欢提问，热爱学习新知识新技术者优先；\n7. 对AI发展有憧憬，对AI技术有热情，并希望未来从事AI行业者优先；\n8.擅长沟通与表达，团队合作，有社工经验者加分。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1114,
+      "warnings": []
+    },
+    "request_id": "f71570a3-0cea-47bb-a69b-d59584c2e387",
+    "status_code": 200,
+    "title": "日常实习生-数据智多星-物理方向",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904420001?deptCodes="
+  },
+  "exit_code": 0
+}

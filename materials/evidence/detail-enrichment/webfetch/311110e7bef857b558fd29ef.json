@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139150",
+  "checked_at_utc": "2026-10-27T11:04:04.155746+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "大语言模型推理能力研究 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "991099",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139150",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n随着大语言模型的发展，单纯依靠扩大预训练规模带来的收益正在边际递减，研究前沿已全面转向 “慢思考”与测试时计算的扩展。尽管模型在通用自然语言任务上表现优异，但在复杂数学推导、长周期代码生成及多步逻辑规划等深层符号推理任务中，仍面临幻觉频发、自我纠错能力弱及推理链条易断裂等瓶颈。本课题聚焦于提升 LLM 的系统性与原生推理能力，探索以强化学习、自我博弈及动态测试时计算为核心的全链路推理能力增强机制与前沿评测体系。\n课题挑战：\n1、长链推理的鲁棒性与内生自我纠错：在多步复杂推理中如何避免错误级联，赋予模型在推理过程中的反思验证能力；\n2、推理能力的跨领域泛化：如何将基于数理逻辑训练出的强推理能力，有效泛化至缺乏明确对错边界的开放域指令遵循、通用自然语言处理甚至多模态智能体任务中。\n具体工作：\n参与新一代 LLM 推理能力评测体系建设；主导或参与推理导向的强化学习算法的实验与策略调优；推动相关前沿推理模型及 Agent 系统的工程落地与泛化应用。\n课题要求\n1、包含但不限于计算机、信息工程、人工智能、自然语言处理、应用数学、统计学、物理学等专业的博士和优秀硕士；\n2、熟练掌握大语言模型基本原理（Transformer架构、预训练、RLHF等），熟悉主流推理增强方法（MCTS、过程奖励模型、RLVR 等）；\n3、熟悉PyTorch、Hugging Face Transformers等深度学习框架，具备大模型训练/微调的实践经验，掌握Python编程语言，具备较强的工程实现能力；\n4、加分项：在NLP/推理/LLM相关领域发表过顶会论文（如NeurIPS、ICML、ICLR、ACL等）；有开源大模型或推理相关项目维护经验。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 793,
+      "warnings": []
+    },
+    "request_id": "1478c756-c3a7-4c78-a20b-88a81c000803",
+    "status_code": 200,
+    "title": "大语言模型推理能力研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139150"
+  },
+  "exit_code": 0
+}

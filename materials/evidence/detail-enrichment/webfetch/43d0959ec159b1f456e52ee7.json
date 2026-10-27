@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199904240012?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:11.948040+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990916",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904240012?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-音乐评测实习生-未来生活实验室\nUpdated on 2026-07-30\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-05-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、参与音乐数据的收集、整理与标注\n2、参与音乐生成效果的听感评测,输出反馈\n3、整理参考曲目、制作 Demo 与对比案例\n4、跟踪音乐行业与音乐 AI 动态，产出简报\n5、配合算法、产品团队完成日常音乐相关工作\nQualifications\n1、本科及以上在读，音乐、作曲、音乐制作、录音、计算机等相关专业优先\n2、具备基本乐理与听辨能力，能分辨风格与制作手法\n3、熟练使用至少一款 DAW(Logic、Cubase、FL、Ableton 等)\n4、细致、有耐心，每周到岗不少于 4 天,可实习不少于 3 个月\nHiring Business\nToken Foundry",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 487,
+      "warnings": []
+    },
+    "request_id": "1f1de7cd-4c46-4e2e-9657-a744c563f2c2",
+    "status_code": 200,
+    "title": "日常实习生-音乐评测实习生-未来生活实验室",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904240012?deptCodes="
+  },
+  "exit_code": 0
+}

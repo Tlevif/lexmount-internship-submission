@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944718",
+  "checked_at_utc": "2026-10-27T11:02:48.765350+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元多模态-多模态强化学习研究 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "990963",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944718",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n近年来，多模态模型快速发展，包括生成模型（Diffusion Models）和理解模型（VLMs），但如何通过强化学习（RL）实现高质量后训练（post-training）来提升模型能力仍是开放问题。本课题将探索面向多模态生成与理解模型的强化学习训练框架，包括生成模型（文生图/视频）与视觉语言理解模型的RL后训练方法，并构建可扩展的RL Infra与Reward系统，以提升模型生成质量、推理效率与任务泛化能力。\n课题挑战：\n1. 多模态RL训练框架搭建（基于UniRL仓库）：构建可扩展的RL Infra，统一训练引擎、推理引擎与reward server，支持生成模型与VLM的高效后训练；\n2. 生成模型RL算法研究：设计适用于diffusion/生成模型的RL算法，例如dense reward、multi-reward优化及off-policy稳定训练；\n3. 多任务reward系统构建：设计reward hub与pipeline，为不同任务构建高质量reward信号。\n具体工作：\n参与多模态强化学习研究，包括RL Infra搭建、生成模型RL算法设计，以及多任务reward系统构建与实验验证。\n课题要求\n1. 计算机相关专业的博士、硕士、以及特别优秀的高年级本科生；\n2. 工程代码能力强或理论功底扎实；\n3. 发表过一作顶会论文，包括ICML/NeurIPS/ICLR、CVPR/ICCV/ECCV；\n4. (加分项) 有diffusion models (image/video generation) 相关工作发表，并具备一定的大规模训练经验；\n5. (加分项) 有RL infra相关工程搭建经验，熟悉常用的training engine (FSDP/Megatron)和inference engine (vllm/SGLang)，并对生成模型有一定的了解；\n6. (加分项) 有reward model相关数据标注链路经验\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 902,
+      "warnings": []
+    },
+    "request_id": "fa90e524-cc2e-4b7f-a1aa-0dfff62991e1",
+    "status_code": 200,
+    "title": "混元多模态-多模态强化学习研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944718"
+  },
+  "exit_code": 0
+}

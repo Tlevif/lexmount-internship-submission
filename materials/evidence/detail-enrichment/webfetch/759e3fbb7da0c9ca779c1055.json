@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944763",
+  "checked_at_utc": "2026-10-27T11:03:05.151635+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "Agent赋能安全攻防演练 青云课题、实习生、青云计划、AI基础设施、系统与安全",
+    "dom_id": "990986",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944763",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景： 传统的网络安全攻防演练和漏洞挖掘高度依赖安全专家的个人经验，面临着效率瓶颈、覆盖面受限以及人力成本高昂等痛点。大模型（LLM）与智能体（Agent）技术的成熟，其强大的任务规划、执行和工具调用能力为自动化攻防带来了全新可能。利用Agent赋能安全团队，已成为提升企业自动化安全防御水位的重要趋势。\n课题挑战：构建具备红蓝对抗演练与漏洞挖掘能力的自主Agent面临多重技术壁垒：需解决复杂长链路渗透场景下的稳定性问题；实现安全工具的高效集成与动态调度，使Agent能根据实时反馈调整策略；此外，还需克服行业内缺乏贴合真实业务场景的高质量攻防Benchmark的难题，以指导模型迭代。\n具体工作：研究结合 AI Agent 提升企业安全蓝军演习与漏洞发现的效率，对标行业SOTA产品建立可高效验证与迭代的Benchmark与工作流。\n课题要求\n1.人工智能、网络空间安全与计算机相关专业的博士同学\n2.有大模型与Agent赋能自动化漏洞挖掘与攻防演练相关研究经验，参加过知名CTF比赛并获得较好成绩或有开源安全工具项目，熟悉常见Agent框架与Benchmark构建，能基于AI Coding快速进行产品迭代。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 548,
+      "warnings": []
+    },
+    "request_id": "330b3601-efc8-4d24-a5c2-3eaa97b98b96",
+    "status_code": 200,
+    "title": "Agent赋能安全攻防演练 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944763"
+  },
+  "exit_code": 0
+}

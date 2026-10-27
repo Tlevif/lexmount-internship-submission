@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139165",
+  "checked_at_utc": "2026-10-27T11:04:08.454235+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "游戏氛围NPC方法研究 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "991107",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139165",
+    "language": "zh-cn",
+    "main_text": "课题描述\n随着游戏工业迈入“次世代”，玩家对虚拟世界的期待已从单纯的玩法刺激，升维至深度沉浸与情感共鸣。开放世界、元宇宙及叙事驱动型游戏成为市场主流，其核心挑战在于构建一个“活”的世界，而不仅仅是“大”的地图。\n传统的NPC设计大多服务于明确的功能性目标：提供任务（任务NPC）、进行战斗（敌人NPC）或推动主线剧情（关键NPC）。然而，构成世界真实感与氛围的，恰恰是那些“无目的”的居民——街头的路人、酒馆的食客、巡逻的卫兵、忙碌的工匠。他们曾是世界的“背景板”，行为呆板、对话循环、与玩家及环境缺乏有机互动，极易让玩家产生“楚门的世界”般的疏离感，打破沉浸感。\n因此，将氛围NPC​ 从“背景装饰”提升为“生态基石”，使其具备自主性、反应性和叙事潜力，已成为下一代游戏开发的关键前沿课题。\n课题要求\n1、深入理解大语言模型的底层原理，熟悉推理、指令遵循、对齐等能力；有SFT/偏好对齐/推理增强经验者优先；\n2、熟悉主流Agent框架/范式；\n3、精通 Prompt Engineering、RAG、Function Calling、向量数据库；\n4、熟悉记忆系统设计与对话状态管理；\n5、熟练掌握强化学习与思维链等方法，能根据任务需求进行模型适配与评测；\n6、优秀的Python能力，扎实的数据结构与算法；熟悉 PyTorch/DeepSpeed 等训练或推理框架；具备线上系统稳定性意识；\n7、逻辑分析能力强，能将模糊需求拆解为可执行的算法步骤；具备良好的沟通协作与自驱力。\n参加面试的城市\n远程面试\n课题部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 675,
+      "warnings": []
+    },
+    "request_id": "89ef0f27-18ce-45a2-ba41-f14ae425697b",
+    "status_code": 200,
+    "title": "游戏氛围NPC方法研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139165"
+  },
+  "exit_code": 0
+}

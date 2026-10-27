@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7697090660449470729/detail",
+  "checked_at_utc": "2026-10-27T11:04:44.557324+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "小米实习生招聘",
+    "description": "到小米科技，开启你的新工作",
+    "dom_id": "991171",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7697090660449470729/detail",
+    "language": "zh-cn",
+    "main_text": "机器人热设计工程师实习生\n北京 · 校招 · 实习 · 硬件研发类\n职位描述：\n1. 仿真建模与分析 (Simulation & Analysis) 协助进行人形机器人关键模组（如高扭矩关节电机、驱动器、电池包、算力主板）的CFD热流体仿真（使用Icepak/Flotherm/Star-CCM+等）。 参与整机散热流场的优化分析，协助解决胸腔、头部等复杂受限空间的风道设计问题。 2. 实验测试与数据闭环 (Testing & Validation) 负责搭建热测试平台，执行风扇性能测试（P-Q曲线）、散热器流阻测试及整机温升实验。 负责热测试数据的采集与清洗，协助Mentor进行**仿真vs实测（Sim-to-Real）**的对标分析，修正仿真边界条件。 参与制定风扇PID调速策略的测试验证，收集噪声与温度数据，协助寻找最优平衡点。 3. 结构设计支持 (Design Support) 使用3D建模软件（SolidWorks/Creo/Catia）协助绘制和修改散热零部件（散热器、风扇支架、导热界面材料等）。 协助与结构、硬件团队对接，确认散热方案的堆叠空间与装配可行性。 4. 前沿技术预研 (Advanced Tech Exploration) 协助调研新型散热技术（如VC均温板、相变材料、微通道液冷等）在机器人领域的应用。 参与散热相关专利的交底书撰写与查新工作。\n职位要求：\n1. 专业要求 工程热物理、流体机械、动力工程、机械工程等相关专业，硕士及以上学历在读。 扎实的传热学、流体力学理论基础，理解电子设备散热的基本原理。 2. 技能要求 仿真软件： 熟悉至少一款主流热仿真软件（Ansys Icepak / Flotherm / Star-CCM+ / Fluent）。 设计软件： 熟练使用一种3D CAD软件（SolidWorks / ProE / Catia）。 加分项： 有PID控制基础、Python数据处理能力，或有机器人、服务器等电子散热项目经验者优先。 3. 综合素质 有较强的逻辑思维能力和责任心，能对测试数据的真实性和准确性负责。 实习周期至少3个月以上（长期实习优先）。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 911,
+      "warnings": []
+    },
+    "request_id": "b5ef849f-8c7a-4022-a765-5bf5cba1521a",
+    "status_code": 200,
+    "title": "机器人热设计工程师实习生",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7697090660449470729/detail"
+  },
+  "exit_code": 0
+}

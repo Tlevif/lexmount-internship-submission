@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://jobs.bilibili.com/campus/positions/29368?type=0",
+  "checked_at_utc": "2026-10-27T11:04:48.845835+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "哔哩哔哩",
+    "description": "哔哩哔哩招聘官方网站，你感兴趣的岗位都在哔哩哔哩！",
+    "dom_id": "991180",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://jobs.bilibili.com/campus/positions/29368?type=0",
+    "language": "zh-cn",
+    "main_text": "职位描述\n工作职责: 1、你将建设面向视频生产的多模态智能体系统，让 agent 能够理解用户需求、分析素材、生成脚本、规划镜头、调用生成模型、检查结果、自动编辑、失败重试并交付成片。 2、你会设计 content-centric harness, tool use、planner、memory、workflow、multi-agent collaboration、human-in-the-loop 和 evaluation environment。 3、协同优化agentic理解模型和生成模型，使得系统实现高质量及高效率生产面向专业场景的成品视频。 工作要求: 1、熟悉 LLM/VLM agent、tool calling、RAG、workflow orchestration 等相关技术 2、能快速搭建 demo，也能把 demo 变成稳定系统；能分析 agent 在长链路任务中的失败模式 3、整体优化理解和生成模型性能，提升整体系统可用性 加分项 coding agent、computer use、RL environment、自动化创作工具、视频编辑工具、复杂 workflow 系统经验\n网申须知\n网申开始日期：2026-06-15 00:00\n网申截止日期：2027-06-30 00:00\n仅限 2026-09 至 2030-06 毕业的大学生，快来投递吧～",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 592,
+      "warnings": []
+    },
+    "request_id": "856a17f3-420b-42c7-aa7e-bc8e28a534c8",
+    "status_code": 200,
+    "title": "【B-UP】多模态智能体工程师（实习）",
+    "url": "https://jobs.bilibili.com/campus/positions/29368?type=0"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,12 @@
+{
+  "source_url": "https://talent.baidu.com/httservice/getPostListNew",
+  "checked_at_utc": "2026-10-27T11:17:04.350707+00:00",
+  "query": {
+    "keyWord": "J105784",
+    "recruitType": "INTERN"
+  },
+  "response": {
+    "status": "no-auth",
+    "message": "illegal-visit"
+  }
+}

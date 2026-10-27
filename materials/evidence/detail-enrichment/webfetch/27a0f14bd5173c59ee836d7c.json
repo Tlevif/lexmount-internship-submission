@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7610380645575133494/detail",
+  "checked_at_utc": "2026-10-27T11:05:45.260922+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "小米实习生招聘",
+    "description": "到小米科技，开启你的新工作",
+    "dom_id": "991251",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7610380645575133494/detail",
+    "language": "zh-cn",
+    "main_text": "电子电气测试工程师-实习生\n上海 · 校招 · 实习 · 测试类\n职位描述：\n1. 负责零部件电子电气可靠性的正向设计，参与FMEA（失效模式与影响分析）、可靠性预计、耐久性仿真等分析工作； 2. 负责零部件电子电气可靠性的测试验证； 3. 负责电子电器零部件DV测试和管理工作；\n职位要求：\n1. 大学本科及以上学历，车辆工程、电子工程、电气工程、自动化、材料科学（电子材料方向）、可靠性工程等相关专业。 2. 掌握电子电路、概率论与数理统计基础，了解汽车电子电气架构及主要零部件工作原理，对材料特性、失效物理（如热疲劳、磨损、腐蚀）有基本概念者优先。 3. 熟练使用示波器、CANoe等设备； 4. 具备良好的英语读写能力，能阅读技术文档，熟练使用Office办公软件。 5. 学习能力强，具备良好的团队合作精神。",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 359,
+      "warnings": []
+    },
+    "request_id": "833795eb-f682-41b5-9348-9ae20f82fb9d",
+    "status_code": 200,
+    "title": "电子电气测试工程师-实习生",
+    "url": "https://xiaomi.jobs.f.mioffice.cn/internship/position/7610380645575133494/detail"
+  },
+  "exit_code": 0
+}

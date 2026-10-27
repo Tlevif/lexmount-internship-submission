@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139054",
+  "checked_at_utc": "2026-10-27T11:03:42.053036+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "优图实验室—大规模原生多模态智能体研究 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "991061",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139054",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n我们正处于从“静态模型”向“自主演进智能体”跨越的关键节点。本课题的核心目标是构建具备极大规模环境适应性与用户学习能力的原生多模态智能体。我们不仅关注模型在统一参数空间内的多模态理解与逻辑推理，更侧重于通过大规模环境仿真（Env Scaling）与真实用户交互反馈（User Scaling），利用强化学习驱动模型在复杂、开放域任务中的性能 Scaling，打造能够闭环学习、自我进化的通用智能体。\n课题挑战：\n1、多模态经验 Scaling (Experience Scaling)： 针对纯文本与多模态混合任务，如何构建支持数百万级并发交互的仿真环境，通过自博弈（Self-play）或环境探索产生海量高质量“视觉-语言-动作”轨迹数据。\n2、用户反馈驱动的在线演进： 在大规模用户交互场景下，如何处理极其稀疏、噪声大且非平稳的反馈数据，设计高效的在线强化学习（Online RL）策略，使智能体能够根据用户习惯实现“千人千面”的持续进化。\n3、全模态统一推理与策略 Scaling： 探索在扩大模型参数（Model Scaling）与增加计算量（Compute Scaling）的同时，如何确保文本逻辑（如代码、数学）与多模态感知（如 GUI 定位、视觉因果推理）协同增强，避免大模型在 Agent 任务中的能力坍塌。\n4、超大规模分布式 RL 基础设施： 面对包含复杂环境反馈（环境渲染、多模态输入处理）的 RL 训练，如何优化计算资源调度，提升超大规模分布式强化学习训练的稳定性和吞吐量。\n具体工作：\n1、Scaling 算法研发： 负责原生多模态 Agent 在大规模 SFT 和 RL 阶段的算法优化，利用 Scaling Law 指导数据比例与训练策略。\n2、数据/经验飞轮建设： 搭建自动化轨迹生成与清洗流水线，通过分布式仿真环境或合成数据技术，实现 Agent 经验数据的指数级增长。\n3、用户对齐与闭环优化： 研发基于用户反馈的奖励建模（Reward Modeling）技术，提升智能体在真实场景下的工具调用准确率与任务完成度。\n4、跨模态协同训练： 优化文本与多模态任务的联合训练方案，确保模型在复杂 Agent 场景下具备顶级的长链条推理（CoT）能力。\n课题要求\n1、计算机科学、人工智能、软件工程等相关专业的博士及硕士生；\n2、有深度大模型训练、Agent框架设计或使用的经历；\n3、求知欲驱动的行动力： 对大模型、具身智能及 AGI 的演进具有极其浓厚的兴趣与探索欲。不满足于现有的 SOTA，能够主动追踪并复现全球最前沿的研究进展，对“模型能力的边界在哪里”有持续的好奇心；\n4、AI-Native 的工程范式： 极其擅长利用 Coding Agent (如 Cursor, GitHub Copilot, Windsurf 等) 优化工作流。我们不仅在研发 Agent，更要求你是一个深度 Agent 使用者，能够通过自动化工具极速提升代码质量与实验效率；\n5、极致的细节控制力 (Attention to Detail)： 在处理大规模数据清洗、多模态对齐及超大规模 RL 训练时，表现出近乎偏执的细心。深信“Garbage in, Garbage out”，能够敏锐察觉实验数据中的细微异常并追溯底层逻辑；\n6、坚定的第一性原理思考者： 面对复杂、多模态的混沌问题，不盲从于现有的 Paper 或技术路径。能够拆解问题的本质，从物理底层、信息论或计算效率等基本点出发，推演并设计最优的技术方案。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1515,
+      "warnings": []
+    },
+    "request_id": "73546636-314b-4a10-9e5a-4e484ff635f4",
+    "status_code": 200,
+    "title": "优图实验室—大规模原生多模态智能体研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139054"
+  },
+  "exit_code": 0
+}

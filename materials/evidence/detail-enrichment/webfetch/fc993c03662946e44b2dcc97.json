@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139161",
+  "checked_at_utc": "2026-10-27T11:04:05.965637+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "游戏垂类多模态理解LLM 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991103",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139161",
+    "language": "zh-cn",
+    "main_text": "课题描述\n1、构建系统化的游戏垂类知识理解能力：建立针对游戏垂直领域的专业知识体系建模能力，使模型能够深入理解不同游戏品类（包括但不限于休闲游戏、FPS、RPG、MOBA等）的核心机制、玩法结构、叙事范式与经典桥段，实现对游戏内容的语义级、结构级与策略级理解；\n2、实现娱乐热点与游戏内容的跨域融合能力：提升模型对泛娱乐行业热点（如影视、动漫、综艺、网络文化等）的实时理解与趋势分析能力，并构建跨域知识映射机制，使模型能够将热点内容与游戏垂类知识进行语义融合与创意重构，生成具备传播潜力与商业价值的创新内容；\n3、构建面向二次元剧情导演能力：强化模型对二次元叙事表达体系的理解能力，包括运镜语言、角色站位逻辑、互动结构、情绪表达及视觉节奏控制等要素；在此基础上，构建文本—画面—角色关系—叙事节奏之间的结构化表达与生成框架，使模型能够基于创作需求输出逻辑清晰、结构合理、具备视觉可执行性的多模态剧本方案，提升游戏宣发与内容创作场景下的剧本生成效率。\n课题要求\n1、包含但不限于人工智能/计算机/自动化/数学等专业的博士和优秀硕士；\n2、较强的工程实现能力，熟练掌握PyTorch，精通Diffusion Model / Transformer 等架构，熟悉DeepSpeed/Megatron等分布式训练框架；\n3、熟悉动作生成大模型相关算法，包括但不限于文生动作、手势动作生成、单目视频动捕、in-betweening 动作生成、动作风格迁移等。\n加分项：\n1、在 CVPR、ICCV、ECCV、SIGGRAPH 等顶会发表过高质量论文，或在相关开源项目、算法竞赛中获得优异成绩者优先；\n2、有数字人全栈开发经验，熟悉游戏引擎和DCC等相关软件（UE/Unity、Maya/Blender）。\n参加面试的城市\n远程面试\n课题部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 781,
+      "warnings": []
+    },
+    "request_id": "b5fa4bce-662f-45e4-a72e-e75e3b5864af",
+    "status_code": 200,
+    "title": "游戏垂类多模态理解LLM | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139161"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199905400006?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:13.776371+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990918",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905400006?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "多模态传输（T-Star Lab 日常实习）\nUpdated on 2026-07-27\nHangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\nT-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星”的使命与愿景，面向全球招募顶尖技术人才。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的AI技术，在有价值的业务场景落地技术成果。\n● 我们正在建设面向 AI Native 时代的实时传输基础设施。\n● 随着智能体从文本对话走向 Live 交互，网络传输正在从基础连接能力，演进为支撑智能体实时感知、表达、协同与行动的核心基础设施。未来的智能体需要让音视频、文本、工具调用、传感信号等多模态信息，在复杂网络环境中实现低时延、高可靠、可感知、可调度的流动。\n● 这类全新的多模态传输系统也带来了许多尚未被充分定义的研究问题：LLM/多模态模型对内容质量、时延、连续性和一致性的要求与人类感知有何不同，面向智能体任务完成效果的 QoE 应如何建模，异构数据之间如何表达传输语义、依赖关系、优先级和可靠性需求，以及传输系统如何与模型推理、上下文管理和实时交互状态协同优化。\n● 团队长期深耕网络协议栈、QUIC、多路径传输、实时音视频、弱网对抗等核心技术，服务淘宝及阿里体系内海量真实业务场景。我们主导建设标准化开源项目 XQUIC，并持续参与 IETF 等国际标准组织工作，在多路径 QUIC、Media over QUIC、实时多模态传输等方向具备持续技术积累。\n● 这里既有真实大规模线上系统，也有面向前沿研究的开放问题。你将有机会基于海量真实网络环境，参与从问题发现、系统建模、算法设计、协议实现到线上验证的完整闭环，让研究成果真正影响亿级用户体验。\n● 加入我们，你的成果将直接应用于阿里巴巴核心业务——淘宝AI导购、千问AI助手、智能体实时语音对话、多模态实时交互等场景，每一行代码、每一次算法优化，都在重新定义下一代智能体人机交互的传输基础设施\n成长资源\n1. 面向Live智能体交互场景，参与下一代多模态实时传输协议与系统架构设计，支撑音视频、文本、工具调用、传感信号等异构数据的统一传输。\n2. 参与QUIC、MPQUIC、Media over QUIC 等前沿协议方向研发，探索面向 AI 智能体交互的传输语义、优先级调度、低时延传输机制。\n3. 标准制定: 深度参与 IETF MoQ / QUIC / TSVWG 等国际标准组织，有机会作为标准草案作者（Draft Author） 推动你的技术方案成为全球标准。\n4. 研究面向实时交互体验的端到端 QoE 建模、网络性能度量、拥塞控制、多路径调度、码率/帧率自适应等传输算法；探索面向弱网、抖动、丢包、带宽突变等复杂环境的QoE优化方法。\n5. 基于淘宝及阿里体系真实业务数据，参与传输性能分析、问题诊断、算法验证和规模化落地。\n6. 参与高水平论文、开源项目和 IETF 等国际标准工作，与团队共同推动下一代实时多模态传输技术的发展。\n加入我们，你将获得：\n● 你将参与 AI Native 时代最前沿的 Live 智能体交互基础设施建设，在真实海量业务、复杂网络环境和国际标准演进中，探索下一代多模态实时传输系统的核心机制。\n● 这里既有面向高水平论文的研究问题，也有开源项目、IETF 标准和亿级用户规模真实系统的落地出口。我们期待你和团队一起，重新定义智能体时代的实时多模态传输系统。\nQualifications\n1. 计算机、电子信息、通信、自动化、软件工程等相关专业，硕士或博士在读优先，具备扎实的计算机系统基础。\n2. 熟悉计算机网络基础，理解 TCP/IP、UDP、QUIC、拥塞控制、实时音视频等相关技术；对网络协议栈或传输系统有深入兴趣。\n3. 具备良好的编程能力，熟悉 C/C++、Rust、Python 中至少一种，能够完成系统模块开发、实验验证和性能分析。\n4. 具备较强的问题抽象、数据分析和工程实现能力，能够在真实复杂系统中发现问题、建模问题并解决问题。\n5. 对 AI 智能体、实时交互系统有强烈兴趣，愿意探索 AI Native 场景下传输系统的新问题和新范式。\n【加分项】\n1. 有 QUIC、WebRTC、多路径传输、实时音视频通信、云游戏等相关经验。\n2. 有网络协议测量、QoE优化、拥塞控制、FEC、Jitter Buffer、码率自适应等研究或项目经验。\n3. 在 SIGCOMM、NSDI、MobiCom 等系统与网络方向 CCF-A 类会议发表过论文，或有相关科研经历。\n4. 参与过开源项目、标准化工作，或具备较强的系统工程实现能力。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 2112,
+      "warnings": []
+    },
+    "request_id": "62137b68-9a55-464a-b252-f2b9c7cff9a5",
+    "status_code": 200,
+    "title": "多模态传输（T-Star Lab 日常实习）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905400006?deptCodes="
+  },
+  "exit_code": 0
+}

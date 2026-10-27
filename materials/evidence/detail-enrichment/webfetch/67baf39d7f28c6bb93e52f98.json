@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199904300004?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:10.850478+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990914",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904300004?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-数据智多星-具身智能仿真方向\nUpdated on 2026-07-30\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n以下方向二选一：\n方向一：3D 仿真\n1.3D 原生生成大模型研发。基于 Transformer 架构（如 MeshDiffusion）实现从单图 / 多图 / 文本到拓扑一致的高保真刚体、铰链、柔体资产的端到端生成。\n神经物理仿真与材质表示。利用 AIGC 自动赋予资产物理属性（质量、摩擦力、弹性模量），解决刚体 / 柔体交互的高保真表现。\n方向二：worldsim 仿真\n1.世界模型研发与数据引擎。研发基于视频与动作条件的神经世界模型，学习场景动力学并实现未来观测的可控生成与长时序 rollout；将其打造为规模化数据引擎，可控生成带交互标注的轨迹与仿真视频，构建支撑 VLA 训练的闭环数据集。\n2.世界模型作为运营环境。构建可交互、低成本的策略训练与评测环境，支持在环闭环评测、Sim-to-Real 泛化与模型持续迭代。\nQualifications\n1.计算机、人工智能、数学或图形学相关专业硕士 / 博士；\n2.方向 A 需掌握 3D 表征，有大规模合成数据集或 Foundation Models for 3D 经验。 方向 B 有 视频 / 世界模型 经验。\n3.有 CVPR、SIGGRAPH、NeurIPS 等顶会论文者优先。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 763,
+      "warnings": []
+    },
+    "request_id": "90fee3e2-3b3c-41c0-83b8-7f137eee7ef4",
+    "status_code": 200,
+    "title": "日常实习生-数据智多星-具身智能仿真方向",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904300004?deptCodes="
+  },
+  "exit_code": 0
+}

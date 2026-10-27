@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199908880001?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:09.660097+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990912",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908880001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "数据智多星-多模态\nUpdated on 2026-08-19\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1.负责多模态大模型的评测与分析工作，包括模型性能评估、能力测试、问题诊断等。通过系统的评测方法论，发现模型瓶颈，支持模型优化迭代。\n2.评测体系构建：设计和执行多模态模型的评测方案，建立科学的评测体系。\n3.全面性能评估：对模型在不同场景下的表现进行全面评估（涵盖准确率、效率、稳定性等维度）。\n4.短板分析与报告：分析模型的能力短板，撰写详细的评测报告和分析文档。\n5.业界对标研究：参与模型对标研究，持续跟踪业界模型的最新进展。\n6.工具建设：参与评测工具和评测框架的建设与完善。\nQualifications\n1.985/211计算机相关专业；或优秀艺术生毕业于顶尖艺术院校，CSM、RCA、北电、中戏、中传等设计/影视方向优先；\n2.对多模态视频/图像方向有探索精神与极大热情，有创造力思维，具备高品位设计审美者优先；\n3.熟悉多模态图像生成模型/编辑模型/视频生成类模型，有丰富的AI产品使用经验；\n4.具备基础Python能力、Vibe Coding能力、PE提示词工程者优先；\n5.擅长论文写作、数据分析、报告写作者优先；有论文发表经验/会议中选经历者优先；\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 722,
+      "warnings": []
+    },
+    "request_id": "2908437e-fdb0-4d20-b994-b305eb3ea60e",
+    "status_code": 200,
+    "title": "数据智多星-多模态",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908880001?deptCodes="
+  },
+  "exit_code": 0
+}

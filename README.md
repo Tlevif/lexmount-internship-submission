@@ -12,7 +12,7 @@
 - [数据口径与数量](materials/SUMMARY.json)
 - [文件哈希清单](materials/MANIFEST.json)
 
-当前结果包含5,213条去重岗位，来自35家企业；目录89家，其中51家完成岗位核验、7家完成入口核验、31家待验证。岗位总数包含技术和业务方向，当前规则下292条待审核。原始批量采集为2026-10-22至23日，2026-10-27补充百川6岗云端复核和软件验收（65项测试通过）。
+当前结果包含5,213条去重岗位，来自35家企业；目录89家，其中51家完成岗位核验、7家完成入口核验、31家待验证。岗位总数包含技术和业务方向，补齐详情后当前规则下52条待审核。原始批量采集为2026-10-22至23日，2026-10-27补充百川6岗云端复核、原292条待审核岗位详情补采和软件验收（69项测试通过）。
 
 Lexmount Cloud Browser 实际运行截图：
 
@@ -22,4 +22,7 @@ Lexmount Cloud Browser 实际运行截图：
 
 ## 跨主机访问验收
 
-[独立云主机匿名验收已通过](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40491435478)：材料页、PDF、完整结果和ZIP均可访问，结果计数5,213条；ZIP内34个文件全部通过SHA256校验。[验收明细](ACCESS_VERIFICATION.json)。
+[独立云主机匿名验收已通过](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40491435478)：材料页、PDF、完整结果和ZIP均可访问，结果计数5,213条；该历史版本ZIP内34个文件通过SHA256校验；详情补采版本正在重新验收。[验收明细](ACCESS_VERIFICATION.json)。
+
+
+详情补采结果：262条岗位补齐缺失字段，共补211条职责、262条要求；剩余2条明确标注下线/未检索到。证据见 [详情补采统计](materials/evidence/detail-enrichment/SUMMARY.json)。

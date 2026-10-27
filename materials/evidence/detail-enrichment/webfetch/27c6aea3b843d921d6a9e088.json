@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1293212684925501443",
+  "checked_at_utc": "2026-10-27T11:04:30.156933+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "元宝-复杂场景下的知识消歧与推理能力优化 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "991145",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1293212684925501443",
+    "language": "zh-cn",
+    "main_text": "课题描述\n真实复杂场景中，搜索模型不仅需要召回相关信息，还需要判断当前证据是否充分、信息之间是否存在歧义或冲突，并据此决定是否继续获取信息以及如何完成后续推理。本课题面向元宝真实搜索场景，研究多层次监督信号与信用分配机制，提升模型在复杂信息环境中的信息获取、知识消歧与推理能力。\n可能探索的方向包括但不限于：\n复杂搜索中的监督信号与 Credit Assignment：围绕答案正确性、证据充分性、搜索有效性和推理过程设计 Reward Model / Judge，使模型能够识别真正促进问题解决的关键行为，并通过 Agentic RL 优化多步搜索与推理决策。\n外部知识增强的自适应推理：研究模型如何根据任务需求和当前信息状态，自主选择并组合不同的信息获取与分析能力，在通用搜索、专业知识调用与数值计算等工具之间动态切换，形成更高效、更可靠的问题求解路径，提升复杂专业场景下的信息获取效率与推理准确性。\nPolicy 与 Judge 协同进化：探索搜索场景Agentic RL 训练过程中 Policy 与 Judge 的联合迭代机制，使 Judge 能够持续识别更强 Policy 产生的新型错误与推理模式，同时利用不断演进的评价信号推动 Policy 突破现有能力边界，探索更加稳定、可持续的 Policy-Judge 共进化训练范式。\n课题将结合真实互联网环境和元宝线上复杂 Query，探索搜索、知识调用与推理能力的统一优化，提升模型在高难度、专业化和多步问题中的可靠性与效率。\n课题要求\n希望候选人对大语言模型 Post-training，尤其是 Agentic Reinforcement Learning、Credit Assignment、Reward Model 等方向具有较强兴趣，具备扎实的算法基础和良好的实验能力。\n具体希望具备：\n1. 计算机、人工智能、机器学习、自然语言处理等相关专业背景，熟悉深度学习及大语言模型基本原理；\n2. 熟练使用 Python、PyTorch 等常用开发与深度学习框架，具备较强的模型训练、实验分析和工程实践能力，能够熟练使用主流 AI 编程工具开展研发工作；\n3. 在 SFT、RLHF / RL、Agent、Tool Use 等一个或多个方向具有研究或项目经验者优先；熟悉 PPO、GRPO 等 Post-training 方法或具有相关实践经验者优先；\n4. 具备较强的模型行为分析能力，能够从实际问题出发定义可验证指标、设计优化方案，并通过实验持续迭代模型效果；\n5. 对复杂搜索、Tool-Augmented Reasoning 等方向感兴趣，愿意探索如何通过多种外部工具提升信息可信度、推理一致性与任务完成效率，以及 Policy 与 Judge 协同进化的训练机制；\n6. 具备较强的论文阅读、独立思考和实验分析能力，持续关注大模型 Post-training 与 Agentic RL 的前沿研究；\n7. 具备良好的沟通协作能力和 Ownership，能够主动推动开放性研究课题取得实质进展。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1320,
+      "warnings": []
+    },
+    "request_id": "8be101c6-d951-440b-8170-4f81c19ccc81",
+    "status_code": 200,
+    "title": "元宝-复杂场景下的知识消歧与推理能力优化 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1293212684925501443"
+  },
+  "exit_code": 0
+}

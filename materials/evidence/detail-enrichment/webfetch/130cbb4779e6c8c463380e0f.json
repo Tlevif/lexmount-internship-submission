@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139095",
+  "checked_at_utc": "2026-10-27T11:03:49.755294+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "腾讯云—基于大语言模型的边缘安全运维智能体研究与实现 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991074",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139095",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n在当前边缘安全防护领域，面对日益复杂隐蔽的DDoS与Web攻击（WAF），传统响应式运维模式在实时性、准确性与自适应性上存在不足。\n课题挑战：\n为突破瓶颈，本课题提出研发基于大语言模型（LLM）的安全运维智能体。在边缘安全防护领域，建设自动化安全运维防护能力。\n课题价值和具体工作：\n该智能体将深度融合边缘侧多维度安全数据与产品防护能力，构建自动化分析引擎，实现：一、对安全事件与运维问题的智能诊断与精准回答；二、在攻击场景下，通过实时流量分析与行为模式推演，动态优化并加固WAF/DDoS防护策略。最终形成“感知-决策-执行”闭环，提升主动防御能力，推动安全运维向智能化、自动化演进。\n课题要求\n1、计算机科学、软件工程、分布式计算、人工智能、计算机体系结构、网络与信息安全、通信工程、电子工程、应用数学、自动化等相关专业的博士和优秀硕士；\n2、熟悉安全防护；了解大模型推理优化（量化/并行策略/调度算法）、Agent系统架构、沙箱安全或边缘计算相关研究经验者优先；熟练掌握Go/C++/Rust/Python/Java/Lua中至少一种语言；\n3、具备扎实的科研素养与系统性思维能力，善于将前沿理论转化为工程实践；良好的跨团队沟通协作意识，能主动推动复杂问题的定义与解决，具备较强的自驱力与抗压能力。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 600,
+      "warnings": []
+    },
+    "request_id": "65be7771-5e02-4eb9-9de3-45b8b0a950f4",
+    "status_code": 200,
+    "title": "腾讯云—基于大语言模型的边缘安全运维智能体研究与实现 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139095"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139059",
+  "checked_at_utc": "2026-10-27T11:03:42.951955+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "优图实验室—高保真人像视频生成及应用研究 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991064",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139059",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n近年来视频生成领域取得了很大的进展，并在影视创作、社交等场景开始实际应用。其中人像相关视频的生成应用需求最为广泛。\n课题挑战：\n1、真人像视频生成中ID的维持能力\n2、人物交互中的动作合理性\n3、人物面部的细节表情控制与表达。\n具体工作：\n你将跟进前沿的生成技术，并参与到文生视频/图生视频等基础生成模型的设计、开发和优化过程中。针对人像视频这个特定领域，完善量化评估，建立benchmark。在此基础之上，将视频生成底模改造适配到实际的下游任务中，结合文本、音频、视觉等多种模态地控制信号，探索新技术在实际应用中的有效性和商业潜力。\n课题要求\n1、计算机科学、人工智能、模式识别、计算机视觉等相关专业的博士及优秀硕士；具有图像生成、视频生成方向研究背景者优先；\n2、熟悉视频生成领域的基础理论和主流大模型原理，具备大模型实践经验者优先；\n3、在CVPR、ICCV、NeurIPS、ICML等学术会议或期刊发表过文章者优先；\n4、熟练掌握Python编程，熟悉至少一种深度学习框架，如PyTorch等。有较强的代码能力优先，如获得过ACM奖牌或代码开源产生了较大影响力；\n5、熟悉人脸人体相关的生成编辑任务，有实际项目经验的优先；\n6、良好的自驱力，优秀的分析和解决问题的能力，对解决具有挑战性的问题充满激情。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 603,
+      "warnings": []
+    },
+    "request_id": "b9836e74-813e-4261-9cf9-6d065152ee82",
+    "status_code": 200,
+    "title": "优图实验室—高保真人像视频生成及应用研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139059"
+  },
+  "exit_code": 0
+}

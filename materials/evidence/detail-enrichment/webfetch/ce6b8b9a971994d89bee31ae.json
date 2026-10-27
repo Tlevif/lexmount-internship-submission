@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944810",
+  "checked_at_utc": "2026-10-27T11:03:15.154753+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元-预训练数据价值刻画研究 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "991007",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944810",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n聚焦大语言模型预训练数据的价值刻画，覆盖中文、英文及典型小语种场景，结合大语言模型预训练核心逻辑，梳理数据价值维度、沉淀评估方法论，排查数据现存问题。\n课题挑战：\n1、数据低质分类多，低质/有价值区分度小，判定难度大；\n2、什么样数据对于预训练有价值，难以详细定义标准，需要结合大量实验验证。\n具体工作：\n1、系统梳理预训练数据价值核心维度，重点围绕数据质量、领域覆盖率、领域分布均衡性等展开；\n2、沉淀多语言场景下预训练数据价值评估方法论；\n3、分析当前预训练数据在质量是否优质、数据是否冗余、领域分布倾斜等方面的核心问题；\n4、完成简单数据样本实践验证。\n课题要求\n1、计算机/软件工程等相关专业硕士以上学历，拥有博士学位者优先，熟悉python/c++编程语言，熟练掌握大数据技术栈，包括Hadoop/Spark等；\n2、深入理解大语言模型预训练原理、预训练目标及数据构建流程，拥有发表顶会论文、大模型研究工作、知名竞赛获奖、顶级研究机构或一线互联网工作经验者优先；\n3、研读足量相关核心论文，掌握预训练数据评估、多语言数据处理等相关研究成果；\n4、具备基础科研分析能力，能梳理价值维度、沉淀可落地方法，精准识别数据问题。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 559,
+      "warnings": []
+    },
+    "request_id": "db745d56-66f2-46b1-b29d-d807d1a057cf",
+    "status_code": 200,
+    "title": "混元-预训练数据价值刻画研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944810"
+  },
+  "exit_code": 0
+}

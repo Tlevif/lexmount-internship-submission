@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139116",
+  "checked_at_utc": "2026-10-27T11:03:49.513607+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "腾讯云—腾讯云下一代虚拟化预研项目 青云课题、实习生、青云计划、其他",
+    "dom_id": "991076",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139116",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n虚拟化团队负责腾讯云虚拟化宿主机内核以及虚拟化套件的开发与维护工作，支撑腾讯自研云平台、公有云及私有云场景下的虚拟化底层技术，支持大规模业务的稳定运营。\n下一代虚拟化平台的主要方向涵盖：\n1、轻量虚拟化，重构 QEMU/KVM 架构，支持在高密服务器下的轻量级部署，减少虚拟化损耗；\n2、可维护性提升，支持任何组件的热升级和热替换能力；\n3、HostOS 与 GuestOS 的协同优化，实现性能和资源消耗的极致优化。\n课题挑战：\n1、虚拟化属于计算机工程范畴里复杂性最大的软件程序之一，对操作系统的开发、维护需要足够的熟悉与全局化思维；\n2、底层硬件不断地发展，单机规格越来越大。进而带来对虚拟化和操作系统扩展性的挑战，底层软件需要和CPU体系结构深度优化，解决扩展性和稳定性的问题。\n具体工作：\n1、针对弹性内存，优化冷热内存判断机制与检测算法\n2、针对所设计检测机制与对应的淘汰算法，设计方案去进行性能评估/准确性评估\n课题要求\n1、熟悉虚拟化相关技术，熟悉以下模块中的一个或者多个：kvm、调度器、内存管理、网络、存储(有开源贡献、实际代码开发项目经验的优先)；\n2、了解/熟悉Linux系统下通用的问题分析工具链使用，如ebpf，perf，ftrace，kprobe等；\n3、熟悉x86/arm cpu架构或者异构硬件架构，有相关的调研、调优经验；\n4、分析问题有专研精神，做到刨根问底。解决问题有长远意识，底层组件需要做到足够优雅。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 670,
+      "warnings": []
+    },
+    "request_id": "f8901b8b-1895-4b73-afc4-429c2000c7e0",
+    "status_code": 200,
+    "title": "腾讯云—腾讯云下一代虚拟化预研项目 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139116"
+  },
+  "exit_code": 0
+}

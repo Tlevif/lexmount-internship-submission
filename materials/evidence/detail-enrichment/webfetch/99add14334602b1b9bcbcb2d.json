@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199909680008?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:04.553368+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990899",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909680008?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "智多星-模型评测（Agent / 应用方向）\nUpdated on 2026-09-20\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、评测方案设计与执行：参与Agent评测项目的全流程，包括评测方案设计、评测集构造、评测执行与结果分析，协助输出评测报告；\n2、标注规范与质检协助：参与评测标准、Rubric标准、分类标签体系撰写与迭代，搭建评测体系（如一致性校验、抽检方案等），跟进评测全流程质量，保障评测实效性和评测置信度；\n3、分析与归因：对评测中发现的模型问题进行分类归因（模型能力/评测标准/任务定义），输出结构化分析和核心指标并追踪指标变化趋势，指导模型迭代方向；\n4、项目管理与进度跟进：协助管理评测任务的排期、分发与进度监控，对接标注团队与算法团队，确保项目按时交付；\n5、策略研究与分析：参与评测方法论研究、竞品调研、数据分析等策略类工作，输出分析报告指导评测方案优化。\nQualifications\n1、学历专业：本科及以上在读，计算机、软件工程、人工智能、语言学、统计学、数据科学等相关专业优先，硕士优先；\n2、业务体感：重度Agent / AI应用 / cowork类产品用户，对大模型缺陷有敏锐感知；了解Agent工作原理（Tool Use、多步规划等），能看懂基础API调用链路日志和Trace信息者优先；\n3、软性素质：极度细心且有耐心，面对海量脏数据不厌烦；逻辑严密，具备极强的数据敏感度；具备良好的学习能力和跨团队合作能力；具备良好的文档输出能力；\n4、数据处理：熟悉数据处理工具和方法，具备对大规模数据进行处理和分析的能力。\n加分项\n● 有Agent / AI应用 / Cowork产品相关评测、大模型数据或用户研究相关经验，了解评测方法论，熟悉人评 / 自动评测方案\n● 熟悉Prompt Engineering，有深度使用大模型产品的习惯\n● 有Python脚本、数据处理等技术基础\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 993,
+      "warnings": []
+    },
+    "request_id": "c92b6090-e946-42a0-9af9-d8a16f6b8567",
+    "status_code": 200,
+    "title": "智多星-模型评测（Agent / 应用方向）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909680008?deptCodes="
+  },
+  "exit_code": 0
+}

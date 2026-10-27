@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1236099085644457987",
+  "checked_at_utc": "2026-10-27T11:04:16.753167+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信小微-用户人格建模与个性化对话研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991123",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1236099085644457987",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n微信助手目标是做最懂用户的聊天助手，不仅要帮用户做事，还要能有情商地聊天。但现有大模型在对话风格上千人一面，缺乏对用户个性、情绪与偏好的持续感知能力。如何让助手在长期交互中逐步形成对每个用户的独特理解，并以此驱动更贴合用户的回复风格，是提升助手体验的核心课题。\n课题挑战：\n用户的个性与情绪信息散落在大量碎片化对话中，显式信号稀少，提炼和更新人格画像本身就是难题，还需防止长期更新带来的遗忘与漂移。同时，助手在不同场景下需要兼顾风格一致性与情感自适应，两者之间的平衡难以把握。此外，人格建模涉及用户隐私，如何在保护隐私的前提下实现高质量建模，也是不可回避的现实约束。\n具体工作：\n参与用户人格表示体系的设计与构建，探索人格画像动态注入对话生成的方法，结合微信助手真实场景完成效果评测与迭代优化。\n课题要求\n学历和专业要求：\n来自计算机、人工智能、自然语言处理、信息工程、心理学等相关专业的博士/硕士同学。\n技术技能要求：\n掌握大模型SFT、RLHF、用户画像建模等算法及应用，熟悉Python，了解PyTorch/TensorFlow等训练框架。\n软性素质要求：\n具备良好的沟通协作与问题分析能力，对个性化对话或用户体验方向有兴趣，学习能力和执行力强。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 599,
+      "warnings": []
+    },
+    "request_id": "4dbe27ba-327d-4805-aa9e-eb1c391e7b2e",
+    "status_code": 200,
+    "title": "微信小微-用户人格建模与个性化对话研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1236099085644457987"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139163",
+  "checked_at_utc": "2026-10-27T11:04:08.057845+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "二次元垂类风格化动作生成模型 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991105",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139163",
+    "language": "zh-cn",
+    "main_text": "课题描述\n1、构建支持规模化生产的风格化动作生成体系：面向二次元内容创作与游戏宣发场景中对高频、海量动作资产的需求，建立可扩展的风格化动作生成框架，实现从单条定制生成向批量化、半自动化乃至全自动化生产模式的升级；提升动作资产生产效率与风格一致性；\n2、突破通用动作生成模型在垂类场景下的适配瓶颈：针对现有通用动作生成模型在二次元语境中存在的动作失真、物理逻辑不稳定、风格表达弱化以及角色表现力不足等问题，构建面向二次元垂类特征的专用建模机制；强化对夸张形变、节奏张力、表演性姿态与风格化肢体语言的建模能力，实现动作生成在结构合理性与风格表达力上的同步提升；\n3、建立风格控制与质量评估的可控生成机制：构建可调节的风格参数与表现强度控制体系，实现不同二次元子风格（如写实偏日式、夸张演出风、战斗特效强化风等）之间的可控切换；同时建立面向业务需求的动作质量评估标准，保障生成结果在视觉表现、角色一致性与可用性方面满足实际制作要求。\n课题要求\n1、包含但不限于人工智能/计算机/自动化/数学等专业的博士和优秀硕士；\n2、较强的工程实现能力，熟练掌握PyTorch，精通Diffusion Model / Transformer 等架构，熟悉DeepSpeed/Megatron等分布式训练框架；\n3、熟悉动作生成大模型相关算法，包括但不限于文生动作、手势动作生成、单目视频动捕、in-betweening 动作生成、动作风格迁移等。\n加分项：\n1、在 CVPR、ICCV、ECCV、SIGGRAPH 等顶会发表过高质量论文，或在相关开源项目、算法竞赛中获得优异成绩者优先；\n2、有数字人全栈开发经验，熟悉游戏引擎和DCC等相关软件（UE/Unity、Maya/Blender）。\n参加面试的城市\n远程面试\n课题部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 770,
+      "warnings": []
+    },
+    "request_id": "998e14b7-6088-4e7b-89a1-7fa4ff0ebd80",
+    "status_code": 200,
+    "title": "二次元垂类风格化动作生成模型 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139163"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199905260003?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:19.554746+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990924",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905260003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "Agent工程日常实习生\nUpdated on 2026-05-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、参与优化多模态对话框架，构建支持超长上下文的对话系统。利用长短期记忆机制（Long/Short-term Memory）实现用户画像与历史意图的精准召回，结合物理环境感知（如位置、设备状态）增强智能体的情境理解能力，打造具备“类人”记忆与情感交互能力的行业领先助手；\n2、参与AI穿戴设备（如智能手表、眼镜）的云端网关建设。通过端云协同（Edge-Cloud Synergy）策略，优化弱网、断网场景下的服务可用性，保障高并发下的低延迟与高稳定性；\n3、追踪多模态大模型及Agent技术的最新进展，探索RAG、MCP在业务中的落地，探索Agentic技术在业务中的落地。结合硬件形态创新，推动从“指令执行”到“主动智能”的技术产品化转型。\nQualifications\n1、计算机相关专业本科及以上学历，熟练掌握 Java/Python，掌握计算机网络、操作系统基本知识，具备良好的数据结构与算法基础；\n2、熟悉 LangChain/LangGragh 等主流框架，理解 ReAct、CoT 等提示工程范式；\n3、深入理解 Function Calling / Tool Use 机制，有实际的 Prompt/Contex/Harness Engineering 经验及大模型应用开发项目。\n加分项：\n1、理解多模态交互系统相关技术，熟悉语音识别、语音合成、视觉理解的实现方案，有建设相关算法服务的实际经验；\n2、在 GitHub 上有高质量的 AI Agent 开源项目/个人 Demo。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 878,
+      "warnings": []
+    },
+    "request_id": "21b116e3-9df4-462c-8f3d-cbec8f0bb4db",
+    "status_code": 200,
+    "title": "Agent工程日常实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905260003?deptCodes="
+  },
+  "exit_code": 0
+}

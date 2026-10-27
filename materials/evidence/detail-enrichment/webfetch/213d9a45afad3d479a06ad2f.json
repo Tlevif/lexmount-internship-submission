@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139162",
+  "checked_at_utc": "2026-10-27T11:04:08.468623+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "游戏垂类视频生成模型 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991104",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139162",
+    "language": "zh-cn",
+    "main_text": "课题描述\n1、基于动作/运镜资产与特定角色的短剧化快速生成能力：构建标准化动作库与角色行为表达模型，结合具体游戏角色设定与世界观约束，实现结构化短剧内容的快速生成；支持多镜头调度、角色互动逻辑与节奏编排的自动化组合，提升短视频内容在叙事完整性与生产效率上的稳定性；\n2、实现中高品质宣发级视频内容的自动化生成能力：构建面向游戏宣发场景的视频生成质量控制框架，强化画面构图、运镜逻辑、节奏控制与情绪表达能力，使生成内容在视觉表现力、叙事张力与商业转化潜力方面达到中高品质宣发标准，满足不同渠道投放与营销传播需求。\n课题要求\n1、包含但不限于人工智能/计算机/自动化/数学等专业的博士和优秀硕士；\n2、较强的工程实现能力，熟练掌握PyTorch，精通Diffusion Model / Transformer 等架构，熟悉DeepSpeed/Megatron等分布式训练框架；\n3、熟悉动作生成大模型相关算法，包括但不限于文生动作、手势动作生成、单目视频动捕、in-betweening 动作生成、动作风格迁移等。\n加分项：\n1、在 CVPR、ICCV、ECCV、SIGGRAPH 等顶会发表过高质量论文，或在相关开源项目、算法竞赛中获得优异成绩者优先；\n2、有数字人全栈开发经验，熟悉游戏引擎和DCC等相关软件（UE/Unity、Maya/Blender）。\n参加面试的城市\n远程面试\n课题部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 612,
+      "warnings": []
+    },
+    "request_id": "55e54571-08e3-494e-9561-8176ae6d164d",
+    "status_code": 200,
+    "title": "游戏垂类视频生成模型 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139162"
+  },
+  "exit_code": 0
+}

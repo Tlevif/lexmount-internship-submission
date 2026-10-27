@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://lihangxing.com/careers/",
+  "checked_at_utc": "2026-10-27T11:05:38.583854+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "利航星科技",
+    "description": "加入利航星，查看全栈开发工程师、销售 BD 与实习生公开岗位。",
+    "dom_id": "991243",
+    "engine": "lightmount_dcl",
+    "error": null,
+    "final_url": "https://lihangxing.com/careers/",
+    "language": "zh-cn",
+    "main_text": "准备好加入利航星科技了吗？\n全栈开发工程师 12K-20K 工作地点：深圳 岗位职责： 负责企业官网、ERP/CRM、业务系统、App 配套后台和 AI 工具等项目开发 能根据需求完成前后端开发、联调、部署与交付 参与产品优化与项目迭代 岗位要求： 能独立完成中小型项目 熟悉前后端开发、数据库及基础部署 能理解业务需求并落地实现 有真实上线项目经验优先\n销售 BD / 客户开发 8K-30K 工作地点：深圳 + 中山 岗位职责： 负责寻找潜在企业客户并建立联系 了解客户需求，推动官网、App、ERP/CRM、AI 自动化等项目合作 跟进客户线索，促进成交与长期合作 岗位要求： 具备主动开发客户和拓展渠道的能力 沟通能力强，结果导向 有企业服务、互联网或软件行业经验优先 能持续跟进客户并推动合作落地\n实习生 200–500 元/天 工作地点：面议 岗位职责： 协助团队推进项目，整理需求与项目资料 参与基础测试、内容维护与交付检查 根据个人能力参与开发或业务支持工作 岗位要求： 在校学生，有相关学习或实践经历优先 学习主动，沟通清楚，有责任心 能认真完成任务，及时反馈进展\n加入我们一起把想法真正做出来 投递简历",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 2,
+      "links_count": 5,
+      "text_length": 511,
+      "warnings": []
+    },
+    "request_id": "b59c454b-e189-432d-897a-c1ef5730488c",
+    "status_code": 200,
+    "title": "加入我们 | 利航星科技",
+    "url": "https://lihangxing.com/careers/"
+  },
+  "exit_code": 0
+}

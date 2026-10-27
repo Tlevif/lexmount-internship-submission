@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1224696239841804288",
+  "checked_at_utc": "2026-10-27T11:05:27.547792+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "你是连接艺术与技术的桥梁，是打磨出顶级画质的工匠。在腾讯游戏，你将发挥想象力和技术力，与程序、美术紧密合作，构建出完美的虚拟世界。我们欢迎在渲染、动画、工具、PCG、性能优化等领域拥有专长的同学加入，共同推动次世代游戏表现力的边界。",
+    "dom_id": "991221",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1224696239841804288",
+    "language": "zh-cn",
+    "main_text": "你是连接艺术与技术的桥梁，是打磨出顶级画质的工匠。在腾讯游戏，你将发挥想象力和技术力，与程序、美术紧密合作，构建出完美的虚拟世界。我们欢迎在渲染、动画、工具、PCG、性能优化等领域拥有专长的同学加入，共同推动次世代游戏表现力的边界。\n岗位描述\n我们提供多元化的技术赛道，你只需在以下方向中对任一方向具备扎实的实践经验即可：\n1、渲染向 (Rendering)\n·职责：负责游戏画面效果的开发与优化，探索前沿渲染技术（如PBR、光照、后处理）在引擎内的落地。\n·要求：熟悉现代实时渲染管线；能熟练使用 HLSL/GLSL 编写 Shader，实现高质量的视觉效果。\n2、动画向 (Animation & Rigging)\n·职责：优化角色与物体的动态表现，解决动画状态的平滑过渡与物理真实感问题；负责角色骨骼绑定与蒙皮，确保角色变形自然、动作流畅。\n·要求：熟悉 Unreal/Unity 引擎动画系统及骨骼绑定机制；掌握常用DCC软件（如Maya/Blender），有能力开发Rigging工具；对运动规律有良好感知，能使用蓝图或脚本优化动画与绑定工作流。\n3、工具与管线向 (Tools & Pipeline)\n·职责：打造高效的生产力工具，梳理并优化美术制作管线，降低内容生产门槛。\n·要求：熟悉 Max/Maya 等 DCC 软件的开发接口（Python/MEL）；有开发自动化工具或插件的实际经验。\n4、PCG与程序化生成向 (PCG)\n·职责：参与游戏场景程序化生成方案与工具落地，支持地形、植被、道路、建筑、装饰物等内容的自动化生成，提升关卡设计和场景迭代效率。\n·要求：熟悉 Houdini、Unreal PCG、Blender Geometry Nodes等任一程序化生成工具或技术栈；具备基础编程、数学和几何能力，理解常见数据结构、向量、坐标变换、随机采样等基础概念；对游戏场景制作和程序化生成有兴趣，有相关 Demo 或实践经验。\n5、性能优化向 (Performance)\n·职责：保障游戏在多平台（PC/主机/移动端）上的流畅运行，制定严格的性能标准。\n·要求：熟练使用 Profiler/RenderDoc 等分析工具；具备内存、DrawCall、带宽等性能瓶颈的排查与优化经验。\n岗位要求\n1、教育背景：美术、计算机图形学、数字媒体、游戏设计或相关专业优先；\n2、美术素养：具备优秀的艺术审美，对色彩、光影、构图、动态有良好的感知力；熟悉游戏美术制作流程，能精准理解美术团队的创意需求并提供专业的技术建议；\n3、编程能力：熟悉 C++、C# 或 Python 中的至少一种编程语言；\n4、引擎熟悉度：至少熟练掌握一款主流商业引擎（Unreal Engine 或 Unity）；熟悉 Max/Maya/Blender/Houdini 等至少一款主流 DCC 软件的基本操作；\n5、软性素质：具备良好的沟通能力，能顺畅地在程序员与美术师之间“翻译”技术需求；对游戏技术充满热情，具备快速学习和解决复杂问题的能力。\n加分项或注意事项\n具有良好美术基础或技术美术相关经验。\n参加面试的城市\n远程面试\n招聘部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1330,
+      "warnings": []
+    },
+    "request_id": "fcf93712-4611-4e2a-bea6-90faf69a8e0c",
+    "status_code": 200,
+    "title": "技术美术（多方向） | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1224696239841804288"
+  },
+  "exit_code": 0
+}

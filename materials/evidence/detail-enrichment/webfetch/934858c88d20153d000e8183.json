@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199905340003?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:23.561887+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990928",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905340003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "社区小程序研发实习生\nUpdated on 2026-05-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、负责AI眼镜社区小程序产品的需求分析、架构设计与落地实施，包括需求调研、分析设计、编码开发、功能测试、文档编写等工作；\n2、主导复杂问题分析和系统设计，承担核心代码编写任务，保证项目的进度和质量；\n3、参与技术难题攻关，对团队内技术方案进行优化和改进。\nQualifications\n1、计算机科学或相关专业本科及以上学历，有扎实的数据结构、算法设计与分析、TCP/IP、HTTP等知识，并且在实际工作中有所运用；\n2、至少精通一门编程语言：Java、C/C++/Python，有大规模高并发系统的设计和开发经验，熟悉SpringBoot、MyBatis等框架；\n3、具备良好的团队合作精神，能快速融入团队，在项目中担当技术负责人角色，主导技术方向；\n4、对前沿技术保持持续关注，并能够跟踪新技术，熟悉各种主流开源框架，了解业界动态；\n5、逻辑能力强，思维活跃，善于思考，能独立分析和解决问题，抗压能力强。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 634,
+      "warnings": []
+    },
+    "request_id": "9d7a60c9-fc02-4714-902e-bfce4286c62c",
+    "status_code": 200,
+    "title": "社区小程序研发实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905340003?deptCodes="
+  },
+  "exit_code": 0
+}

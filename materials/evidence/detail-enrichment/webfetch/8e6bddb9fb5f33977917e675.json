@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199903840020?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:19.152730+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990923",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199903840020?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-业务技术-视频与图片调色师\nUpdated on 2026-06-17\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-10-31 - 2028-10-30\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n如果你渴望参与淘天集团海量视频与图像内容的专业色彩校正与风格化调色，为亿万用户打造极致视觉体验，欢迎加入我们！\n在这里，你将持续追踪行业视觉趋势与前沿色彩技术，对电商图片、直播视频、短视频等多元内容进行精细化调色，助力色彩增强算法优化与规模化图像及视频生产能力；\n在这里，你将依托海量业务数据，直面极具挑战性的业务场景，充分释放你的创意与专业潜能；\n在这里，你将与一群聪明、皮实、乐观且追求卓越的优秀伙伴们并肩作战，共同开创视觉技术的新格局！\nQualifications\n【必备项】\n1. 本科及以上学历，美术、影视、数字媒体或相关专业背景，具备扎实的色彩理论基础与视觉美学素养；\n2. 精通主流调色软件（如DaVinci Resolve、Adobe Premiere Pro、Photoshop、Lightroom等），熟练使用 DaVinci Resolve 者优先；\n3. 熟悉图像和视频编码标准及主流色彩空间（如 Rec.709、Rec.2020、sRGB、DCI-P3等）和 HDR 工作流程；\n4. 具备对画面细节与质感有敏锐洞察力，善于通过精准调色提升美观度与品质感，确保调色效果达到专业标准；\n5. 具备良好沟通能力与团队协作意识，能准确理解调色目标，实现一致且高质量的色彩呈现；\n6. 拥有摄影或后期制作全流程经验者优先。\n【加分项】\n1. 具备相关岗位实习经历或参与过完整影像项目开发；\n2. 有代表作品，并在权威赛事或行业评选中获得奖项；\n3. 有电商或短视频平台调色实战经验；\n4. 对AI辅助调色技术有探索热情或落地经验。\nHiring Business\nTaobao&Tmall Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 909,
+      "warnings": []
+    },
+    "request_id": "b715ce1e-bda7-4deb-b8f7-50bcd32f6574",
+    "status_code": 200,
+    "title": "日常实习生-业务技术-视频与图片调色师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199903840020?deptCodes="
+  },
+  "exit_code": 0
+}

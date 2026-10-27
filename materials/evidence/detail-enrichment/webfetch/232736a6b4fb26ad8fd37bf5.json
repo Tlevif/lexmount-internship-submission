@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://talent.antgroup.com/campus-position?positionId=260826011678789",
+  "checked_at_utc": "2026-10-27T11:04:44.248674+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "蚂蚁集团",
+    "description": "当前 HTML 为客户端渲染壳，未读取到职位详情。职位 ID：260826011678789。",
+    "dom_id": "991168",
+    "engine": "lightmount_lite",
+    "error": null,
+    "final_url": "https://talent.antgroup.com/campus-position?positionId=260826011678789",
+    "language": "zh-cn",
+    "main_text": "页面状态：当前 HTML 为客户端渲染壳，未包含职位详情正文。\n职位 ID：260826011678789\n站点简介：蚂蚁集团起步于2004年诞生的支付宝，源于一份为社会解决信任问题的初心，经过近二十年的发展，已成为世界领先的互联网开放平台。期待你的加入，让理想有回响！\n说明：该页面需要浏览器执行 JavaScript 后由前端接口加载职位详情。服务器端 HTML 快照中只有空的 #root-master 容器，因此无法读取职位名称、所属部门、工作地点、职位描述或任职要求等字段。为避免编造内容，这里仅返回稳定可确认的页面信息。\n页面可见文本：\n(function(){ try{ var dom = document.querySelector(\"script[type=\\\"tern-site-config\\\"]\"); if(!dom){throw new Error('未找到tern-site-config')} var cfg = JSON.parse(dom.innerHTML) || {}; var props = cfg.presets&&cfg.presets[0].props; var hooksJSUrl = props.hooksJSUrl; if(!hooksJSUrl){return;} var script = document.createElement('script'); script.src = hooksJSUrl; script.async=\"async\"; script.crossorigin=\"anonymous\"; script.id=\"TERN_MASTERAPP_EI_HOOKS_SCRIPT\" window[\"TERN_MASTERAPP_EI_HOOKS\"]=new Promise(function(resolve,reject){ script.onload=function(e){console.log('[ei-hooks]load script succ', hooksJSUrl);resolve(true);} script.onerror=function(e){console.warn('[ei-hooks]load script failed', hooksJSUrl,e);reject(e);} }); var con = (document.querySelector('head') || document.body); if(con){con.appendChild(script);} }catch(e){ console.warn('[ei-hooks]', e); } })()",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 0,
+      "text_length": 1145,
+      "warnings": []
+    },
+    "request_id": "5fc953e5-2261-4298-983a-3d70cb326069",
+    "status_code": 200,
+    "title": "蚂蚁集团校园招聘职位详情 - 260826011678789（页面加载中）",
+    "url": "https://talent.antgroup.com/campus-position?positionId=260826011678789"
+  },
+  "exit_code": 0
+}

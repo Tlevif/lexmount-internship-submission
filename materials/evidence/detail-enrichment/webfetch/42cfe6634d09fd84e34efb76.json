@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1287771601961893888",
+  "checked_at_utc": "2026-10-27T11:04:25.053117+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元基座模型——多模态Agent评测研究 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991138",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1287771601961893888",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n随着模型多模态能力的快速进步，多模态Agent评测受到越来越多的挑战。随着AI下半场的到来，前沿的评测也成为迫切的需求，不仅可以客观反映模型的能力，而且能为Agent未来的迭代指出方向。\n课题挑战：\n如何高效可靠地建立多模态Agent评测环境是一个开放性问题，特别是随着模型能力的提升，复杂环境的构建越来越重要同时越来越困难。\n具体工作：\n本课题关注于前沿多模态Agent评测方向的探索、评测环境的构建与数据的可靠合成。\n课题要求\n1、自然语言处理/机器学习/模式识别/人工智能/计算机等相关专业；\n2、在NLP、LLM领域有深入实践，对生成式AI、复杂推理或特定垂域（如代码生成、数学定理证明等）有丰富的数据构建与模型调优经验；\n3、较强的工程实现能力，熟练掌握Python、C/C++等至少一种语言，熟悉指令演化（如Self-Instruct等）及合成数据Pipeline架构；\n4、熟悉DeepSpeed、Megatron等分布式训练框架，熟练使用至少一种深度学习框架(如PyTorch等)；\n5、有高质量论文发表者优先（如ACL、EMNLP、NeurIPS、ICML、ICLR等），特别是在数据合成、模型微调或特定垂域能力突破方向；\n6、具备强烈的进取心、自驱力及跨领域学习能力，团队合作精神极佳，对实现AGI核心能力跃迁充满热情。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 615,
+      "warnings": []
+    },
+    "request_id": "588287d7-3542-4c59-8188-3fdb3b132a66",
+    "status_code": 200,
+    "title": "混元基座模型——多模态Agent评测研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1287771601961893888"
+  },
+  "exit_code": 0
+}

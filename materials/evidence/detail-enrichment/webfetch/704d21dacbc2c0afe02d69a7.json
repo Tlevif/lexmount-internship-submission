@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=-2",
+  "checked_at_utc": "2026-10-27T11:05:31.251648+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "项目实习生-技术 技术、日常实习",
+    "dom_id": "991231",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=-2",
+    "language": "zh-cn",
+    "main_text": "岗位描述\n本岗位为项目制实习生招聘，你将协助项目团队完成短期的技术类工作支持。\n划分为以下方向：\n（1）软件开发：后台开发、客户端开发、游戏客户端开发、测试开发、运营开发、前端开发、全栈开发、数据工程等；\n（2）技术研究：机器学习、计算机视觉、多媒体处理、自然语言处理、机器人、计算机图形学、数据科学等；\n（3）技术运营；\n（4）测试与质量管理。\n岗位要求\n我们期望你：\n1. 具备编程能力，掌握C/C++/Java/Go/PHP/JavaScript/Python等其中一门编程语言。\n2. 具有一定的学习能力、分析及解决问题能力，有责任心与合作意识\n职位方向\n软件开发类\n安全技术类\n项目实习生-全栈开发\n参加面试的城市\n远程面试\n招聘部门和工作地\nCDG\n企业发展事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 338,
+      "warnings": []
+    },
+    "request_id": "caa60322-db57-4918-a928-9cd2f7dfe893",
+    "status_code": 200,
+    "title": "项目实习生-技术 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=-2"
+  },
+  "exit_code": 0
+}

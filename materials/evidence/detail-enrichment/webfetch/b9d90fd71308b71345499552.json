@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199904260008?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:32.463076+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing | Technology | Alibaba Project Intern",
+    "dom_id": "990938",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904260008?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-数据智多星-法律方向\nUpdated on 2026-04-15\nBeijing\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 多元数据深度分析：从零开始规划数据集的用途和框架，制定清晰且可执行的标准。深入书籍、期刊、报纸、网站和专业数据库等多样化的知识来源，以严谨的态度筛选、分类和验证数据，确保信息准确。\n2. 严格把控标注质量：根据项目需求为海量数据贴上精准的标签，建立严格的标注规则和验收机制，实时监控标注过程，发现问题并迅速解决，确保输出的高质量成果。\n3. 精准构建知识库：将零散的数据编织成结构化的知识体系，打造一个全面、系统化的知识库体系。不断更新和完善知识库内容，保持前沿性并满足业务需求。\n4. 高效制定标注标准：制定科学合理的标注标准和计划，明确每个阶段的目标与要求。建立高效的沟通机制，及时收集和解决标注过程中遇到的问题，推动流程的持续改进。\n5. AI评测与标注前沿研究：与团队开展前沿研究，合作撰写、发表高水平论文，打造有影响力的体系化数据集评测集开源工作。优秀同学能够参与学术论文、开源数据集评测集署名，受邀参与团队主办的大模型评测论坛等高规格交流活动。\nQualifications\n1. 法学/法律专业，本科及以上，硕博优先；\n2. 在校期间涉猎广泛、博闻强识、参加过社团活动优先；\n3. 具有较强的学习能力和逻辑思维能力，能够快速掌握新知识和技能；\n4. 具备良好的团队合作精神和沟通能力，能够与不同背景的人员进行有效的合作。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 801,
+      "warnings": []
+    },
+    "request_id": "fd84091c-d6fc-4ac8-8a84-0854b37b0d92",
+    "status_code": 200,
+    "title": "日常实习生-数据智多星-法律方向",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904260008?deptCodes="
+  },
+  "exit_code": 0
+}

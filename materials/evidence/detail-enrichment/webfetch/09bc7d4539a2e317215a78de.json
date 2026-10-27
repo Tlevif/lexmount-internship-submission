@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://zhaopin.kuaishou.cn/#/official/trainee/job-info/23495",
+  "checked_at_utc": "2026-10-27T11:04:35.870403+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": null,
+    "description": "快手招聘官方平台，邀请来自国内外各界精英，了解快手、关注快手、加入快手，快手招聘无界限，让有才华、有创造性的我们共聚一堂，做点更有趣的事!",
+    "dom_id": "991152",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://zhaopin.kuaishou.cn/#/official/trainee/job-info/23495",
+    "language": null,
+    "main_text": "日常实习-职位详情 社会招聘 日常实习 校园招聘 关于快手 注册/登录 C++开发实习生—【搜索广告方向】 职位类别： 工程类 职位性质： 实习 工作年限： 不限 工作地点： 北京 更新时间： 2025.07.07 职位描述 1、负责百亿级广告投放引擎和周边上下游系统的研发工作，保障高可用、高性能、快速迭代； 2、参与广告系统研发，能够了解高并发、高吞吐、低延迟的大规模系统建设； 3、优化系统性能、资源优化。 任职要求 1、26届及以后、本科及以上计算机相关专业，扎实的编程基础，熟练掌握C/C++，具备独立设计编码落地能力； 2、熟悉数据结构和操作系统； 3、乐于接受挑战自驱，至少实习4个月以上，一周至少线下实习4天； 4、具备完备的独立思考和文献阅读能力，能独立完成解决方案； 5、团队协作意识，兼容并蓄，使命驱动。 我已阅读并同意 隐私政策 投递简历 Copyright © 2023 北京快手科技有限公司 All Rights Reserved. 京ICP备15023266号-4 京公网安备11010802021190号",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 2,
+      "links_count": 8,
+      "text_length": 468,
+      "warnings": []
+    },
+    "request_id": "becc2de3-7da2-4741-a6c9-7bbb9a3b47a3",
+    "status_code": 200,
+    "title": "日常实习-职位详情",
+    "url": "https://zhaopin.kuaishou.cn/#/official/trainee/job-info/23495"
+  },
+  "exit_code": 0
+}

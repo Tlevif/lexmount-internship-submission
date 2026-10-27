@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944706",
+  "checked_at_utc": "2026-10-27T11:02:46.450857+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "腾讯视频-统一多模态视频生成强化学习研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "990959",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944706",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n统一多模态模型已经在多模态内容生成和编辑方面展现出非常巨大的潜力，图像领域有Nano Banana为代表的模型正在深入行业应用，视频领域也有Seedance 2.0模型正崭露头角，统一多模态模型已经成为视频模型的大势所趋，并在重塑整个视频内容行业。\n课题挑战：\n如何通过强化学习中的奖励信号设计（如美学分数、视觉质量、语义一致性、时序连贯性等多维度反馈），实现对视频内容在语义层、结构层和感知层的精准控制。突破现有方法在高质量画面生成、跨模态对齐、长时序视频连贯生成以及复杂场景可控生成等方面的瓶颈。\n具体工作：\n主要研究如何引入强化学习机制对生成过程进行端到端的优化与调控。深入研究多模态特征的统一表示学习、基于人类反馈的强化学习（RLHF）在视频生成中的适配策略，以及大规模生成模型的高效训练范式，最终推动视频生成技术在影视、动漫场景落地。\n课题要求\n1、具备较强的学习能力、清晰的逻辑思维能力和出色的沟通能力，有强烈的好奇心；\n2、熟悉现有强化学习理论与框架，有探索新理论与新方法的热情；\n3、具有扎实的计算机视觉和机器学习算法基础，有图像、音视频生成和编辑方向顶级论文者优先。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nPCG\n平台与内容事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 568,
+      "warnings": []
+    },
+    "request_id": "f58314e3-78af-4f1f-afea-e75a624c83c8",
+    "status_code": 200,
+    "title": "腾讯视频-统一多模态视频生成强化学习研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944706"
+  },
+  "exit_code": 0
+}

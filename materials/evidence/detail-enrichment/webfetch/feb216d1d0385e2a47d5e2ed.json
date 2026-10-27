@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944798",
+  "checked_at_utc": "2026-10-27T11:03:09.951766+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元-面向 Agentic Coding 的高质量训练数据挖掘与构建研究 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "990995",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944798",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n现有代码预训练数据以静态代码为主，缺乏 Agentic Coding 所需的交互轨迹、执行反馈与多轮决策链。这一数据层面的结构性缺失，是制约开源 Coding Agent 能力提升的核心瓶颈。\n课题挑战：\n构建 Agentic Coding 训练数据面临三重挑战：真实交互轨迹难以大规模获取；合成轨迹的正确性验证成本高；任务类型、编程语言与仓库规模的分布差异大，难以兼顾覆盖度与质量均衡。\n具体工作：\n1、数据来源挖掘：从 GitHub Issue、PR、Commit 历史及 CI/CD 执行日志中挖掘真实 Bug 修复轨迹，提取带有可验证执行反馈的高质量任务实例；\n2、轨迹数据合成与质量控制：构建解题轨迹，通过代码执行沙箱验证正确性，并从冗长探索轨迹中提炼关键决策步骤，构建面向过程的质量评估信号；\n3、数据多样性与覆盖度设计：覆盖 Bug Fix、Feature Implementation、Test Generation 等多类任务类型，兼顾多语言与多仓库规模，以保障训练数据的任务分布均衡性。\n课题要求\n1、计算机/软件工程等相关专业硕士以上学历，拥有博士学位者优先，熟悉python/c++编程语言，熟练掌握大数据技术栈，包括Hadoop/Spark等；\n2、深入理解大语言模型预训练原理、预训练目标及数据构建流程，拥有发表顶会论文、大模型研究工作、知名竞赛获奖、顶级研究机构或一线互联网工作经验者优先。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 685,
+      "warnings": []
+    },
+    "request_id": "c0ad280c-6727-4c43-a27a-5a34fc1b4508",
+    "status_code": 200,
+    "title": "混元-面向 Agentic Coding 的高质量训练数据挖掘与构建研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944798"
+  },
+  "exit_code": 0
+}

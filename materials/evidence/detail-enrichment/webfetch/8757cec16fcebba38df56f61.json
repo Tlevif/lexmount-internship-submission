@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139027",
+  "checked_at_utc": "2026-10-27T11:03:33.453384+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信视频号-推荐模型 Scaling Up /端到端推荐系统研究 青云课题、实习生、青云计划、搜索、推荐、模型应用",
+    "dom_id": "991039",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139027",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n短视频推荐仍普遍采用召回、粗排、精排、重排等多阶段链路，模型容量、候选规模和上下文长度均受到限制，容易产生信息损失和目标不一致。本课题希望通过更大模型、更长用户序列、及更大候选空间建模，释放模型能力，探索可落地的端到端推荐系统。\n课题挑战：\n一是超长序列建模，需要从序列长度和结构两方面进行 Scaling，支持十万级行为历史与长期兴趣演化，同时满足线上时延与资源约束。二是扩大单模型打分规模，逐步融合召回、粗排、精排和重排等漏斗。三是面向万级乃至全候选集合，研究高效序列生成，和强化学习训练方法。\n链路层面：\n参与超长序列建模、大规模候选打分、推荐漏斗融合或生成式推荐方向的模型设计、训练优化、系统实现与线上实验。\n课题要求\n学历和专业要求：\n计算机、人工智能、数学等相关专业的博士或硕士同学。\n技术技能要求：\n掌握深度学习、推荐系统、强化学习、大模型相关算法，有大规模训练经验者优先。\n软性素质要求：\n具备较强的学习、分析与工程实践能力，沟通协作良好，对推荐系统和前沿研究有热情。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 485,
+      "warnings": []
+    },
+    "request_id": "9d20a958-f214-444c-9b66-3f3ac0727ca3",
+    "status_code": 200,
+    "title": "微信视频号-推荐模型 Scaling Up /端到端推荐系统研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139027"
+  },
+  "exit_code": 0
+}

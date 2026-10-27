@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199905160003?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:26.177122+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990931",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905160003?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "数据生成实习生\nUpdated on 2026-05-19\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、熟练使用各种LLM，VLM接口；\n2、通过以上接口承接理解上游数据需求形成数据生成脚本批量生成数据；\n3、大规模产出数据并质检最终交付。\nQualifications\n1、熟悉Python，Shell，等多种脚本化语言；\n2、能够通过脚本规模化处理数据，生成报告；\n3、熟悉各种模型的调用方式，使用方式；\n4、善于沟通，对AI模型有很强的好奇心，能探索各种不同的模型。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 412,
+      "warnings": []
+    },
+    "request_id": "95790da2-c54a-4267-91ee-ed7185b7da31",
+    "status_code": 200,
+    "title": "数据生成实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905160003?deptCodes="
+  },
+  "exit_code": 0
+}

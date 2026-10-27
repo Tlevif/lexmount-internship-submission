@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1293212684929695744",
+  "checked_at_utc": "2026-10-27T11:04:30.961483+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "元宝-面向低时延场景的小模型 Agentic 能力学习与优化 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991146",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1293212684929695744",
+    "language": "zh-cn",
+    "main_text": "课题描述\n随着大模型逐步应用于搜索、推荐、智能助手、内容理解等创新场景，模型需要从单轮生成进一步具备任务规划、工具调用、多步决策和结果反思等 Agentic 能力。然而，在大量真实产品场景中，端到端耗时、计算成本和服务吞吐具有严格约束，直接使用大尺寸模型往往难以同时满足效果与性能要求。\n本课题将面向真实低时延应用场景，探索基于 Agentic-SFT、Agentic-RL 与模型蒸馏的小模型能力优化方法，将大模型的推理、规划、工具使用和决策能力高效迁移到更小、更快的模型中，在效果、延迟和计算成本之间取得更优平衡。\n可能探索的方向包括但不限于：\n1. Agentic 数据与轨迹构建：研究如何从真实任务、大模型执行轨迹和交互反馈中自动构造高质量 Agentic 数据，覆盖任务规划、工具选择、参数生成、多步执行、反思与修正等能力；\n2. Agentic-SFT：研究适合小模型的监督微调方法，包括轨迹筛选、难度建模、数据配比、过程监督等，提升有限模型容量下的学习效率；\n3. Agentic-RL：围绕任务最终完成效果、过程质量、工具调用正确性及效率等信号设计强化学习方法，使模型能够通过交互和反馈持续优化 Agentic 决策能力；\n4. 大模型能力蒸馏：探索 On-Policy Distillation、轨迹蒸馏、过程蒸馏等方法，将强模型的推理与决策能力有效迁移到小模型，并研究 Teacher 与 Student 能力差异下更加高效稳定的蒸馏策略；\n5. 效果与效率联合优化：研究模型效果、推理步数、工具调用次数、Token 消耗和端到端时延之间的关系，使模型不仅能够“完成任务”，也能够以更低成本、更短路径完成任务；\n6. 困难样本与自主迭代：利用线上 Badcase、模型探索轨迹以及强模型反馈持续发现小模型的能力边界，并自动生成针对性训练数据，形成数据—训练—评估—再训练的迭代闭环；\n7. 真实应用场景验证：结合对实时性要求较高的 AI 创新应用，对模型在复杂指令理解、工具调用、多步任务执行等场景中的效果、时延与资源成本进行综合验证。\n课题将紧密结合真实业务场景与线上模型数据，兼顾算法研究和实际应用价值，鼓励探索能够同时带来模型效果提升与推理效率优化的新方法。\n课题要求\n希望候选人对大语言模型 Post-training、Agent、Reinforcement Learning、Knowledge Distillation 等方向具有较强兴趣，具备扎实的算法基础和较好的实验能力。\n具体希望具备：\n1 计算机、人工智能、机器学习、自然语言处理等相关专业背景；\n熟悉深度学习及大语言模型基本原理，对 Transformer、LLM Post-training 等技术有较好的理解；\n2. 熟练使用 Python、PyTorch 等常用深度学习工具，具备较强的模型训练、实验分析和工程实践能力；\n3. 对 SFT、RLHF / RL、模型蒸馏、Agent、Tool Use 等一个或多个方向有研究或项目经历者优先；\n熟悉 PPO、GRPO、DPO、On-Policy Distillation 等 Post-training / Distillation 方法，或有相关实践经验者优先；\n4. 能够从真实模型 Case 和实验结果中发现问题，设计数据、训练目标和实验方案，并持续迭代模型效果；\n5. 对模型效果与推理效率之间的 Trade-off 有兴趣，愿意探索算法、数据和推理策略的联合优化；\n6. 具备较强的论文阅读、独立思考和实验分析能力，能够跟进大模型 Post-training 与 Agentic Learning 的前沿研究；\n7. 具备良好的沟通协作能力和 Ownership，能够主动推动开放性研究课题取得实质进展。\n我们尤其欢迎对“如何让更小、更快的模型拥有真正可用的 Agentic 能力”这一问题感兴趣的同学。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1667,
+      "warnings": []
+    },
+    "request_id": "c3e987d3-cd99-4506-bacc-8cdbd1f5cdbb",
+    "status_code": 200,
+    "title": "元宝-面向低时延场景的小模型 Agentic 能力学习与优化 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1293212684929695744"
+  },
+  "exit_code": 0
+}

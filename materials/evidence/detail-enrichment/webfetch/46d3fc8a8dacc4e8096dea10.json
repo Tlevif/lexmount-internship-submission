@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199908000012?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:00.390557+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990895",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908000012?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "日常实习生-Agent安全评测与审计\nUpdated on 2026-10-14\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. Agent 轨迹离线审计：了解各类 Agent 应用的业务场景和工具链，对 Agent 执行轨迹（用户输入、模型推理、工具调用、外部返回、记忆读写等）做逐步审计。重点识别以下风险：恶意注入、越权、记忆污染、工具投毒等。\n2. 风险研判与归因分析：对审计命中的风险案例做深度研判，还原攻击链路和触发条件，区分真实攻击、误操作和系统缺陷。分析风险根因，并给出修复和防护建议，推动业务方闭环整改。\n3. 审计报告与风险运营：持续跟踪高风险 Agent 应用和新出现的风险模式，定期产出风险审计报告，内容包括风险水位、风险分布、典型案例、趋势变化和整改进展，为安全决策提供数据支撑。\n4. 审计能力建设：结合业务特性和行业动态，参与 Agent 风险分类分级体系建设。负责多源轨迹数据的采集与格式标准化，设计并迭代审计规则和检测策略（含基于大模型的自动化研判）。通过人工复核校准审计准确率，降低误报和漏报，编写自动化审计脚本、优化审计工具，沉淀风险案例库和审计知识库等可复用资产。\nQualifications\n1. 学历与经验：本科及以上学历在读（大三、大四或研一、研二优先），网络安全、应用安全、AI 安全、计算机科学、人工智能等相关专业。\n2. 技术能力：\n* 对 Agent 工作流（感知-规划-行动-记忆）有基本认知，了解 Agent 常见安全风险（如注入攻击、越权、数据泄露、幻觉等），能读懂 Agent 执行日志和工具调用链路。\n* 有扎实的数据处理能力，能熟练使用 SQL 或 Python 做日志查询、数据清洗、统计分析和批量处理。\n* 英文文献阅读能力良好，能快速跟进 AI 安全领域最新的攻击手法和风险动态。\n3. 学习能力：对 AI 安全方向有学习热情，能在指导下快速掌握风险框架和审计方法，独立完成轨迹研判和案例分析，配合团队完成审计工作。\n4. 综合素质：工作细致、责任心强，对数据安全和保密规范有高度敬畏心。数据分析能力扎实，擅长从海量日志中发现异常、提炼问题和解决方案。逻辑清晰，能把技术结论写成结构化报告。团队协作能力出色。\n5. 实习时长：每周至少 5 天，持续 3 个月以上。\n加分项：\n1. 有 CTF 比赛经历、网络安全相关课程项目或学术研究成果。\n2. 熟悉 LangChain、LlamaIndex 等主流 Agent 开发框架，或了解 MCP、Skill/插件等工具扩展机制的原理。\n3. 有安全日志分析、威胁检测、SOC 运营或入侵溯源相关经验，有使用大模型做风险研判的实践经验。\n4. 对 Agent 攻击手法有研究或复现经验，有Agent 安全漏洞挖掘经验者优先。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1342,
+      "warnings": []
+    },
+    "request_id": "3f4ec4f5-19e1-475c-87af-c74a27a0ffaf",
+    "status_code": 200,
+    "title": "日常实习生-Agent安全评测与审计",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908000012?deptCodes="
+  },
+  "exit_code": 0
+}

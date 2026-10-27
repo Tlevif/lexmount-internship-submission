@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139167",
+  "checked_at_utc": "2026-10-27T11:04:09.455408+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "游戏智能化决策支持研究 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "991109",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139167",
+    "language": "zh-cn",
+    "main_text": "课题描述\n1、为全球游戏业务建立数据科学框架，评估各地区产品功能、核心玩法及运营活动的表现，提供可操作的深度洞察；\n2、运用机器学习与统计建模，为全球产品迭代与本地化体验优化提供模型驱动的支持与策略建议；\n3、基于全球市场趋势及多区域用户反馈，开展行业分析与精细化用户研究，为全球增长战略提供依据并推动策略优化；\n4、构建可扩展的数据处理与建模流程，高效整合；\n5、与国际产品、工程及市场团队协作，将复杂的全球业务挑战转化为数据科学解决方案，推动全球运营的数据驱动决策。\n课题要求\n1、包含但不限于人工智能/计算机/软件工程/数据科学等专业的博士和优秀硕士；\n2、较强的工程实现与算法落地能力，具有数据敏感性和扎实的数据科学基础，熟练掌握Python及主流深度学习框架；\n3、扎实的自然语言处理与数据库基础，熟悉Text-to-SQL、信息抽取、知识图谱构建与推理等相关技术，对特征工程、AutoML有深入理解。\n加分项：\n1、在ACL、EMNLP、SIGMOD、VLDB、KDD、ICLR、NeurIPS等顶会/顶刊发表过相关高质量论文，或在相关开源项目、算法竞赛中获得优异成绩者优先；\n2、有游戏行业数据分析、数据仓库建设或游戏业务系统开发经验者优先。\n3、对游戏有浓厚兴趣，熟悉至少一种主流游戏类型（如RPG、SLG、MOBA等）的核心玩法与系统者优先。\n参加面试的城市\n远程面试\n课题部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 614,
+      "warnings": []
+    },
+    "request_id": "773981de-8683-4c32-9a84-7eb67ed98ff6",
+    "status_code": 200,
+    "title": "游戏智能化决策支持研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139167"
+  },
+  "exit_code": 0
+}

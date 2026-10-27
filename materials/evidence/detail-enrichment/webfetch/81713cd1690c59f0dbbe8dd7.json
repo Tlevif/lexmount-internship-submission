@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199905400001?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:24.157858+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990929",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905400001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "Agent开放平台SOP实习生\nUpdated on 2026-05-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、负责开放平台相关产品文档编写，梳理并制定SOP及培训体系；\n2、负责对各子公司进行产品培训及技术支持服务工作；\n3、根据业务需要，持续跟踪分析业务数据，提出运营建议，并推动相关产品优化改进。\nQualifications\n1、本科及以上学历，理工科背景，有较强的工程能力，有技术功底者优先；\n2、熟练使用Office工具，有较好的PPT文档制作能力，熟练掌握文档撰写技巧；\n3、具有良好的沟通协调能力和团队合作精神，具备一定的项目管理经验；\n4、具备较强的学习能力和责任感，工作认真仔细，有较好的独立性及团队协作意识。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 495,
+      "warnings": []
+    },
+    "request_id": "7f3c11b2-2f7c-46bc-81aa-5fae000960eb",
+    "status_code": 200,
+    "title": "Agent开放平台SOP实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905400001?deptCodes="
+  },
+  "exit_code": 0
+}

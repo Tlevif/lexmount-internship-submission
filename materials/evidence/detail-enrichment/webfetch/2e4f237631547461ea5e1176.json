@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1219025706886098944",
+  "checked_at_utc": "2026-10-27T11:02:38.357135+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "对一个研究者来说， 丰富的应用场景、全谱领域的技术积累、追求极致的氛围都很重要， 而你正是其中一员！",
+    "dom_id": "990948",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1219025706886098944",
+    "language": "zh-cn",
+    "main_text": "对一个研究者来说， 丰富的应用场景、全谱领域的技术积累、追求极致的氛围都很重要， 而你正是其中一员！\n岗位描述\n作为机器人方向的研究工程师，你可以：\n1、负责机器人本体设计开发，包括形态功能、机械机构、电气系统、驱动执行、新材料应用等；\n2、负责机器人感知交互技术开发，包括机器视觉、触觉传感器、视触觉信息处理融合、环境状态感知、人机交互协作等；\n3、负责机器人控制技术开发，包括系统辨识、状态估计、运动规划、轨迹生成、实时控制、异常检测恢复等；\n4、负责前沿机器人AI技术开发，包括但不限于强化学习、深度学习、发育学习、群体智能等；\n5、负责新一代机器人仿真、边缘计算、虚实结合等技术的研究与开发。\n岗位要求\n1、包含但不限于机器人、计算机、自动化、机械工程、电子电气、人工智能、材料科学等专业的博士和优秀硕士；\n2、具有一定的机器人软硬件开发经验和较强的动手能力；\n3、熟悉设计软件（如Solidworks）、仿真软件（如Adams/Gazebo）或至少一种编程语言（C/C++、Python、Matlab）。\n加分项或注意事项\n在IJRR、T-RO、Science Robotics、RSS、ICRA、IROS等相关一流学术期刊或会议上以第一作者发表过文章，有实体机器人经验。\n参加面试的城市\n远程面试\n招聘部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 575,
+      "warnings": []
+    },
+    "request_id": "b15e24f8-9f77-4d60-8ae9-832b295ff9c0",
+    "status_code": 200,
+    "title": "技术研究-机器人方向 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1219025706886098944"
+  },
+  "exit_code": 0
+}

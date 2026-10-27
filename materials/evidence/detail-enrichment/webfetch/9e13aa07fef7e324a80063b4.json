@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944816",
+  "checked_at_utc": "2026-10-27T11:03:17.669103+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元-音视频理解 Benchmark 构建 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991010",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944816",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n现有的音视频评估基准多局限于简单的短片分类或基础QA，严重缺乏对长视频时序推理、深层音画关联逻辑以及复杂人类意图理解的系统性深度评测基准。\n课题挑战：\n1）高推理深度设计：涵盖音画错位、长事件溯源及跨模态细粒度比对等维度的数据标注与评测指标制定极具难度。\n2）自动化开放评测：设计能准确反映真实业务场景且基于大型语言/视觉模型（LLM/VLM）的自动化评测 Pipeline，避免开放式评估中的模型偏见与一致性漂移，是当前行业的难点。\n具体工作：\n设计并构建具备高时序推理深度的顶级音视频 Benchmark；开发并验证基于 VLM 的自动化开放式评估 Pipeline。\n课题要求\n1.计算机/软件工程等相关专业硕士以上学历，拥有博士学位者优先；\n2.熟悉计算机视觉、多模态领域的相关研究工作和算法，以第一作者身份发表顶会论文、顶级研究机构或一线互联网工作经验加分；\n3.熟练使用Python、PyTorch和CUDA等语言及工具，具备快速阅读和复现论文的能力；\n4.具备优秀的分析和解决问题能力，良好的团队合作精神及沟通意识。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 510,
+      "warnings": []
+    },
+    "request_id": "2720fb84-a141-4898-9828-b8b06e66118b",
+    "status_code": 200,
+    "title": "混元-音视频理解 Benchmark 构建 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944816"
+  },
+  "exit_code": 0
+}

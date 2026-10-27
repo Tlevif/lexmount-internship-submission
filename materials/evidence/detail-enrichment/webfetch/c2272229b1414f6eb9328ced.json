@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1236099085644457989",
+  "checked_at_utc": "2026-10-27T11:04:18.408664+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信小微-基于微信复杂生态的Agentic后训练研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991128",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1236099085644457989",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n微信的生态非常丰富，拥有朋友圈、视频号、公众号、小程序等功能。作为微信助手，如何能够正确地使用这些功能，是助手能力的基本盘。现有的基模主要聚焦于通用的能力和世界知识，与微信生态和用户真实的使用情况有鸿沟，因此需要我们针对业务场景进行Agentic后训练。\n课题挑战：\n微信生态中朋友圈、视频号、公众号、小程序等各功能模块的交互逻辑差异显著，构建高保真的训练环境本身就是一个复杂的系统工程。真实业务场景下，功能调用成败的判断标准模糊，缺乏标准化的自动评估体系，使得模型能力的量化与对比困难重重。Agentic后训练覆盖的能力众多，合版时需要兼顾各能力的独立效果与版内耦合，稍有不慎就可能引入能力遗忘或负向迁移。此外，线上用户的query高度复杂，往往包含多步骤的组合任务与个性化上下文，对模型的指令遵循、工具调用与长程规划能力提出了更高的要求。\n具体工作：\n参与Agentic后训练数据体系的设计与构建，探索面向微信生态的多能力联合训练与合版优化方法，结合微信助手真实场景完成效果评测与迭代优化。\n课题要求\n学历和专业要求：\n来自计算机、人工智能、自动化、信息工程等相关专业的博士、硕士同学。\n技术技能要求：\n掌握大模型SFT、强化学习、持续学习等算法及应用，熟悉Python，了解PyTorch等训练框架及LLM Agent相关技术。\n软性素质要求：\n具备较强的自主探索与工程实现能力，对Agent系统与后训练方向有浓厚兴趣，学习能力强，能独立推进研究课题。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 702,
+      "warnings": []
+    },
+    "request_id": "2a808643-6622-4a81-96cd-4b68a1303fa5",
+    "status_code": 200,
+    "title": "微信小微-基于微信复杂生态的Agentic后训练研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1236099085644457989"
+  },
+  "exit_code": 0
+}

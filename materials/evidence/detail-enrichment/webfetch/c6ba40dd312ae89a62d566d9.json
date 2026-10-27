@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://careers.meituan.com/web/position/detail?jobUnionId=4603932411&highlightType=campus",
+  "checked_at_utc": "2026-10-27T11:02:35.776137+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": null,
+    "description": null,
+    "dom_id": "990943",
+    "engine": "lightmount_dcl",
+    "error": null,
+    "final_url": "https://careers.meituan.com/web/position/detail?jobUnionId=4603932411&highlightType=campus",
+    "language": "zh-cn",
+    "main_text": "美团招聘",
+    "publish_time": null,
+    "quality": {
+      "has_description": false,
+      "has_title": true,
+      "images_count": 1,
+      "links_count": 0,
+      "text_length": 4,
+      "warnings": [
+        "thin_content"
+      ]
+    },
+    "request_id": "554c8f8d-54b9-4cc5-8bff-1476ffc32aa3",
+    "status_code": 200,
+    "title": "美团招聘",
+    "url": "https://careers.meituan.com/web/position/detail?jobUnionId=4603932411&highlightType=campus"
+  },
+  "exit_code": 0
+}

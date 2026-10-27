@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139031",
+  "checked_at_utc": "2026-10-27T11:03:35.149497+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信秒剪-基于强化学习的视频生成模型优化 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991040",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139031",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n视频生成已成为大模型时代新的热点，大模型厂家纷纷发布视频生成基座模型，但效果优秀的头部模型多为闭源，无法针对业务场景进行定制和适配。开源模型在指令遵循、视觉效果、运动质量上都有一定短板，虽然利用监督学习能在一定程度上弥补短板，但无法针对具体的指标和问题进行直接优化，需要引入强化学习进行针对性提升，闭源产品也都将强化学习作为后训练的重要环节。\n强化学习具有收敛难、易发生Reward Hack等难点，在视频生成场景更面临扩散模型计算量大的问题。本课题需要系统性解决强化学习（GRPO等算法）的各项难点，提升视频生成模型（如Wan 2.2、LTX-2.3等）效果，完善音画同步和分镜生成能力，以落地到业务场景中。\n岗位价值：\n强化学习可以系统性提升视频生成在各个维度的综合能力，解决SFT、LoRA等技术无法处理的问题，但这一技术难度较高，业内多为闭源，强化学习在视频扩散上的技术并不成熟，需要引入能力较强的同学攻克技术难点，系统性提升各种场景下的视频生成质量，提升秒剪、输入法生成场景下的用户体验\n课题要求\n1、具备独立解决复杂算法难题的能力\n2、在多模态（理解和生成等方向）方向有持续深入的耕耘\n3、具备丰富的强化学习效果调优经验\n4、发表过多篇顶会论文，或具有优秀的多模态开源项目，博士优先\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 590,
+      "warnings": []
+    },
+    "request_id": "53c84acb-4cc2-467c-aca8-cce740d2cb53",
+    "status_code": 200,
+    "title": "微信秒剪-基于强化学习的视频生成模型优化 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139031"
+  },
+  "exit_code": 0
+}

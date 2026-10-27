@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944727",
+  "checked_at_utc": "2026-10-27T11:02:52.467944+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元多模态-原生多模态后训练技术研究 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "990967",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944727",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：原生多模态架构逐渐成为生图的主流方案，例如混元发布的Hunyuan-Image-3.0就是一个原生多模态模型，在文生图和图生图都取得了不错的效果。模态统一是大势所趋，但理解与生成的强化范式仍存在较大差异，如何在统一架构上同时做好理解和生成的强化学习仍是一个亟需探索的问题。\n课题挑战：1）构建跨模态的强化学习范式，兼容理解与生成，弥合离散和连续动作空间差异，搭建端到端强化框架；2）探索生成领域的RLVR范式 ，设计可验证的生成任务和奖励系统，并提升模型通用指令遵循能力；3）reward hacking: 图像生成在强化阶段极易出现reward hacking，无法训更久，解决不断涌现的hacking pattern对于RL scaling至关重要；4）multiple reward system：除了理解和生成各自的rm之外，对于生成任务，同时会有美学，语义，畸形，id一致性等多个reward，一个robust的reward system要能平衡多奖励模型做到各维度同时提升；5）多轮反思生成：即模型具备自我反思能力，通过生成后反思再生成提升模型的生成效果。\n具体工作：1）理解和生成统一的强化算法研发；2）reward system/reward hacking/multiple reward 设计；3）生成RLVR范式探索；4）主模型的数据建设和算法实验，成为关键贡献者。\n课题要求\n学历和专业要求：来自计算机、人工智能、自动化、数学等相关专业的优秀博士/硕士。\n技术技能要求：熟悉图像/视频/文本等后训练技术与方法，有相关实践经验和相关顶会论文发表；代码能力强，熟练掌握PyTorch/verl/Megatron；有相关实习经验者优先，有竞赛获奖经历优先。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 811,
+      "warnings": []
+    },
+    "request_id": "f4a17d13-a832-4f1c-9870-59fddd6d6d09",
+    "status_code": 200,
+    "title": "混元多模态-原生多模态后训练技术研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944727"
+  },
+  "exit_code": 0
+}

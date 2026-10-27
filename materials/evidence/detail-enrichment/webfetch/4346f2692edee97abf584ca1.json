@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139075",
+  "checked_at_utc": "2026-10-27T11:03:45.747857+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "元宝—面向全网搜索的多模态文档表征技术研究 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991066",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139075",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n目前文档（doc）的建模工作主要以文字为核心开展表示学习，缺乏对视觉信息的利用；近期deepseek-ocr及其v2版本提出了通过视觉信息建模文档表征的思路，且该思路已在ocr相关场景中得到应用，为多模态文档表示研究提供了参考。\n课题挑战：\n如何合理利用视觉信息实现文档表示的有效压缩，兼顾信息捕获的完整性与表示的简洁性；如何将基于视觉的多模态文档表示顺利适配搜索ranking、rag生成等多样化下游场景，解决不同场景下的适配性问题，确保其能稳定发挥提升效果、降低耗时的作用。\n具体工作：\n1、doc的多模态表征技术研究：研究如何通过多模态模型，更好的表征图文网页的信息，更好的捕捉doc语义和结构\n2、基于多模态doc表征的ranking模型训练优化：研究如何利用多模态doc表征优化ranking效果，解决以往纯文本语义刻画不了图文信息导致的排序问题\n课题要求\n1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程、电子工程、统计学、应用数学、物理学/量子计算、信息安全、信号与信息处理等专业的博士和优秀硕士；\n2、熟练掌握计算机视觉和图像处理相关的基本算法及应用，熟悉Caffe、TensorFlow，PyTorch等至少一个深度学习框架；\n3、较强的工程实现能力，熟练掌握 C/C++ 编程，熟悉 Shell/Python/Matlab 至少一种编程语言。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 640,
+      "warnings": []
+    },
+    "request_id": "ccd03d8d-058a-4900-bbd4-808e3e5a66b2",
+    "status_code": 200,
+    "title": "元宝—面向全网搜索的多模态文档表征技术研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139075"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,4922 @@
+{
+  "checked_at_utc": "2026-10-27T11:15:24.553667+00:00",
+  "target_cohort": 292,
+  "before_missing": {
+    "responsibilities": 211,
+    "requirements": 264
+  },
+  "after_missing": {
+    "responsibilities": 0,
+    "requirements": 2
+  },
+  "jobs_filled": 262,
+  "fields_filled": {
+    "responsibilities": 211,
+    "requirements": 262
+  },
+  "current_categories": {
+    "人工智能与算法": 2120,
+    "安全与测试": 90,
+    "前端与客户端": 247,
+    "产品经理": 495,
+    "数据": 301,
+    "后端与基础架构": 455,
+    "硬件与芯片": 11,
+    "运营": 593,
+    "设计": 101,
+    "项目管理": 41,
+    "内容策划": 140,
+    "嵌入式与自动驾驶": 22,
+    "财务": 10,
+    "营销": 220,
+    "待审核": 52,
+    "业务分析": 49,
+    "软件工程": 64,
+    "人力资源": 124,
+    "行政与采购": 11,
+    "游戏策划": 5,
+    "活动策划": 32,
+    "客户服务": 2,
+    "销售": 20,
+    "法务": 8
+  },
+  "changed": [
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7680510617432459525",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7690499056886270213",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7680511707076495669",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7564347936323389701",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7654808687708440837",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7587645077012187445",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7509419457706838290",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7581451859225053445",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7514594473012185362",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7586587791322581253",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7697159301958043957",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7585398926745291061",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7552800778092906759",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905800003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199910000012",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908000002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199910140006",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908000012",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909640001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909620010",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908740002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909680008",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909660004",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908640002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909020002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909060002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908880001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908700005",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904300004",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904240012",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908120003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905400006",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907720001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908100001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907980002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907740001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907700001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199903840020",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905260003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905300003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905340004",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905260002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905340003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905340002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905400001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905160003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905060005",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905120003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905000002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904580001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904560003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904420001",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904260008",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904380002",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904380003",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199903920026",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J100550",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J106366",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J71274",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J89774",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J95071",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J93383",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J99858",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J99884",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1210646470286783488",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1210646470286783494",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1219025706886098944",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1269457251706814464",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1200791473415778304",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1200889496565214210",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1212080123424280576",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1209171621219493888",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944774",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944824",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944828",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944705",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944706",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944714",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944715",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944718",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944723",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944724",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944726",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944727",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944728",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944729",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944730",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944734",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944735",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944736",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944738",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944739",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944741",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944743",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944745",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944746",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944752",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944757",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944758",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944763",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944775",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944776",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944778",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944779",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944780",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944798",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944799",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944800",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944804",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944805",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944807",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944808",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944809",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944810",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944811",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944816",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944817",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944818",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944821",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944826",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944827",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944829",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944830",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944832",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944833",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944835",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944836",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944854",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944856",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944860",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944862",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139008",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139012",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139015",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139016",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139017",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139027",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139029",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139030",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139031",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139035",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139036",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139039",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139041",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139048",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139049",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139050",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139053",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139054",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139058",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139059",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139060",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139074",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139075",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139080",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139082",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139083",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139095",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139112",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139115",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139116",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139120",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139121",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139122",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139125",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139128",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139129",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139131",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139132",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139134",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139135",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139138",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139139",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139144",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139145",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139146",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139148",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139150",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139151",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139152",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139158",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139161",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139162",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139163",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139165",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139166",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139167",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139169",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139170",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231998633466259456",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231998633466259457",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1233535296004810752",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457984",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457985",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457986",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457987",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457988",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457989",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236103359740901376",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1237440383043269633",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1243708556705035264",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1243708556705035265",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1243708556705035266",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1280148757136402432",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1282757520922109952",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1282757520922109954",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1287215417483756544",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1287771601961893888",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293194418543067136",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293194428185772032",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293194428185772033",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684925501441",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684925501442",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684925501443",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684929695744",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1297696816577839104",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1298382438912983040",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1306974476940050432",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "小红书",
+      "source_job_id": "22205",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "小红书",
+      "source_job_id": "20587",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "小红书",
+      "source_job_id": "22204",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "261020012503484",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "261020012494328",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "260826011678789",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "260820011582505",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "260710010862294",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "DeepSeek",
+      "source_job_id": "40447266-bdbb-4728-8db4-ed1435408026",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7220424726634940733",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7695774712723605813",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7306026540650465587",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7688177690629556533",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7581732599363455285",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7205180497750821180",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7288353965770656055",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7662260868417472773",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7581341586308876597",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7618437042020256053",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7654914973756033333",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7629653531158989109",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7317968206735771954",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7473338342776867079",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7621405333920155957",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7623356895722244405",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7218839802317359419",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7265303211628038459",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7576580346171885829",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7376523269853743370",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7551007834772080914",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7613608661021772037",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7629657137346136373",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7602520315970701573",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7514314144716491016",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7536145694781409554",
+      "filled_fields": [
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1224696239841804288",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1241478075938909184",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "-2",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1153452731391100928",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1155545119882220545",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1219751794327154688",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1226957086077102081",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1226957104464930818",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1226979621736977408",
+      "filled_fields": [
+        "responsibilities",
+        "requirements"
+      ]
+    }
+  ],
+  "outcomes": [
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7680510617432459525",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7690499056886270213",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7680511707076495669",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7564347936323389701",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7654808687708440837",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7587645077012187445",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7509419457706838290",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7581451859225053445",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7514594473012185362",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7586587791322581253",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7697159301958043957",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7585398926745291061",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7552800778092906759",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905800003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199910000012",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908000002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199910140006",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908000012",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909640001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909620010",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908740002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909680008",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909660004",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908640002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909020002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199909060002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908880001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908700005",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904300004",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904240012",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908120003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905400006",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907720001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199908100001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907980002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907740001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199907700001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199903840020",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905260003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905300003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905340004",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905260002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905340003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905340002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905400001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905160003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905060005",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905120003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199905000002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904580001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904560003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904420001",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904260008",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904380002",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199904380003",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "阿里巴巴",
+      "source_job_id": "199903920026",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "面壁智能",
+      "source_job_id": "7681283109740185907",
+      "status": "offline",
+      "verified_fields": [],
+      "note": "2026-10-27官网显示“该职位已下线”；保留历史职责，任职要求尚未核验。"
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J100550",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J106366",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J105784",
+      "status": "not_found",
+      "verified_fields": [],
+      "note": "2026-10-27官网按原岗位编号未检索到该岗位；保留历史职责，任职要求尚未核验。"
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J71274",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J89774",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J95071",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J93383",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J99858",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "百度",
+      "source_job_id": "J99884",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "美团",
+      "source_job_id": "4603932411",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1210646470286783488",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1210646470286783494",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1219025706886098944",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1269457251706814464",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1200791473415778304",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1200889496565214210",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1212080123424280576",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1209171621219493888",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944774",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944824",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944828",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944705",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944706",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944714",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944715",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944718",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944723",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944724",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944726",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944727",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944728",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944729",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944730",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944734",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944735",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944736",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944738",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944739",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944741",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944743",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944745",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944746",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944752",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944757",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944758",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944763",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944775",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944776",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944778",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944779",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944780",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944798",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944799",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944800",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944804",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944805",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944807",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944808",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944809",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944810",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944811",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944816",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944817",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944818",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944821",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944826",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944827",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944829",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944830",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944832",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944833",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944835",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944836",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944854",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944856",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944860",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074687944862",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139008",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139012",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139015",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139016",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139017",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139027",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139029",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139030",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139031",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139035",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139036",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139039",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139041",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139048",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139049",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139050",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139053",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139054",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139058",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139059",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139060",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139074",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139075",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139080",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139082",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139083",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139095",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139112",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139115",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139116",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139120",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139121",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139122",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139125",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139128",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139129",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139131",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139132",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139134",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139135",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139138",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139139",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139144",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139145",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139146",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139148",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139150",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139151",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139152",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139158",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139161",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139162",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139163",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139165",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139166",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139167",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139169",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231829074692139170",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231998633466259456",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1231998633466259457",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1233535296004810752",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457984",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457985",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457986",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457987",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457988",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236099085644457989",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1236103359740901376",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1237440383043269633",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1243708556705035264",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1243708556705035265",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1243708556705035266",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1280148757136402432",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1282757520922109952",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1282757520922109954",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1287215417483756544",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1287771601961893888",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293194418543067136",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293194428185772032",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293194428185772033",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684925501441",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684925501442",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684925501443",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1293212684929695744",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1297696816577839104",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1298382438912983040",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1306974476940050432",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "小米",
+      "source_job_id": "7697090660449306889",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "小米",
+      "source_job_id": "7665611162176964905",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "快手",
+      "source_job_id": "31222",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "快手",
+      "source_job_id": "31297",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "快手",
+      "source_job_id": "23495",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "快手",
+      "source_job_id": "24544",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "华为",
+      "source_job_id": "30853",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "小红书",
+      "source_job_id": "22205",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "小红书",
+      "source_job_id": "20587",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "小红书",
+      "source_job_id": "22204",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "261020012503484",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "261020012494328",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "260826011678789",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "260820011582505",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": "官网“职位描述”写能力要求、“职位要求”写工作任务；本页按实际内容对调展示，原文保留于证据。"
+    },
+    {
+      "company_name": "蚂蚁集团",
+      "source_job_id": "260710010862294",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "哔哩哔哩",
+      "source_job_id": "29368",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "哔哩哔哩",
+      "source_job_id": "30429",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "网易",
+      "source_job_id": "70268",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "网易",
+      "source_job_id": "78076",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "网易",
+      "source_job_id": "79129",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "网易",
+      "source_job_id": "79251",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "网易",
+      "source_job_id": "56828",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "网易",
+      "source_job_id": "77643",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "网易",
+      "source_job_id": "60365",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "360集团",
+      "source_job_id": "J12190",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "360集团",
+      "source_job_id": "J12288",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "360集团",
+      "source_job_id": "J12310",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "360集团",
+      "source_job_id": "J12265",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "DeepSeek",
+      "source_job_id": "40447266-bdbb-4728-8db4-ed1435408026",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": "原岗位页指向新的“Agent Harness 团队”页面；本页摘录其中“深度学习研究员方向”，全职、实习均可。"
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7220424726634940733",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7695774712723605813",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7306026540650465587",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7688177690629556533",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7581732599363455285",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7205180497750821180",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7288353965770656055",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7662260868417472773",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7581341586308876597",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7618437042020256053",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7654914973756033333",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7629653531158989109",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7317968206735771954",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7473338342776867079",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7621405333920155957",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7623356895722244405",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7218839802317359419",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7265303211628038459",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7576580346171885829",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7376523269853743370",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7551007834772080914",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7613608661021772037",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7629657137346136373",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7602520315970701573",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7514314144716491016",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "字节跳动",
+      "source_job_id": "7536145694781409554",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1224696239841804288",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1241478075938909184",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "-2",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1153452731391100928",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1155545119882220545",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1219751794327154688",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1226957086077102081",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1226957104464930818",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "腾讯",
+      "source_job_id": "1226979621736977408",
+      "status": "verified",
+      "verified_fields": [
+        "responsibilities",
+        "requirements"
+      ],
+      "note": null
+    },
+    {
+      "company_name": "小米",
+      "source_job_id": "7610380645574969654",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "小米",
+      "source_job_id": "7530740141188251757",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "华为",
+      "source_job_id": "30849",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "华为",
+      "source_job_id": "30841",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "华为",
+      "source_job_id": "30851",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "利航星科技",
+      "source_job_id": "None",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    },
+    {
+      "company_name": "完美世界",
+      "source_job_id": "82861325-0882-45bc-a365-82fbb9577517",
+      "status": "retained_existing",
+      "verified_fields": [],
+      "note": null
+    }
+  ]
+}

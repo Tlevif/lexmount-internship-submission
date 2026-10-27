@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199907700001?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:17.859034+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou / Shanghai | Technology | Alibaba Project Intern",
+    "dom_id": "990922",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199907700001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "淘宝闪购C端Agent研究与实践-阿里星\nUpdated on 2026-07-10\nHangzhou / Shanghai\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n打造下一代即时零售商业化AI Agent引擎，定义外卖分钟达场景下AI Agent的技术边界，推动淘宝闪购在复杂的时空X人货场的网络中实现智能化决策与自动化运营，支撑千万级日订单量的高效运转。\n如果你想在即时零售的核心战场中，用数据驱动决策、用算法优化体验、用技术连接线上线下百万实体门店，这里就是你的最佳舞台——期待与你携手，共创即时商业的下一个里程碑！\n1. 智能Agent技术探索：深入研究大模型驱动的自主智能体（Autonomous Agent）架构，探索规划、推理、工具调用、多Agent协作等核心技术在闪购场景中的创新应用，参与构建面向即时零售的Agent操作系统与智能体框架。\n2. 大模型与业务融合：探索LLM/VLM在淘宝闪购业务场景中的深度应用，通过语义理解、多模态感知、知识增强等方式提升算法的业务适配性与可解释性；设计基于大模型的智能调度、供需预测、动态定价、智能客服等创新方案；融合RLHF、MARL、Prompt Engineering等技术，推动模型在闪购履约、营销、服务链路中的精准决策与持续进化。\n3. 高效优化与落地：能够基于TensorRT、vLLM、量化压缩等推理加速技术，提升Agent系统的实时响应与并发处理能力；面向末端配送、商家运营、用户体验等核心场景，结合企业级场景解决序列决策、资源分配、异常处理等问题，推动算法在淘宝闪购业务中的规模化落地。\n4. 团队协作与共创：与工程、数据、产品团队紧密合作，将算法需求转化为可落地的系统方案；通过AB实验验证模型效果，持续优化用户体验与业务指标，驱动即时零售业务的智能化升级。\nQualifications\n1. 教育背景：计算机科学、人工智能、运筹学、数据科学等相关专业，博士/硕士及以上学历，熟悉推荐系统、运筹优化、强化学习、大模型应用等理论。\n2. 扎实的工程与算法基础：精通Python/C++，熟练掌握PyTorch、TensorFlow等深度学习框架；有大模型（LLM/VLM）应用、Agent系统开发、强化学习（RL/MARL）、推荐系统、生成式AI等相关领域经验；有顶会论文或大型项目落地经验者优先。\n3. 出色的研究能力：参与或主导过有代表性的技术开源项目或科研项目，或发表过顶级大模型/Agent相关领域论文，如ICML、NeurIPS、ICLR、KDD、WWW、ACL等高质量论文。\n4. 快速学习与创新能力：对技术有强烈的好奇心，能快速跟踪国际前沿研究，主动掌握新工具与新范式；具备创新突破和不断探索在模糊中找路径的韧性以及独立思考与解决复杂问题的能力。\n5. 团队协作与推动力：能够清晰表达技术思路，良好的沟通力与团队协作精神，推动跨部门合作及项目落地。\nHiring Business\nTaobao Shangou",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1368,
+      "warnings": []
+    },
+    "request_id": "4c3bb313-8901-4d68-8ef1-df49a7ece5d0",
+    "status_code": 200,
+    "title": "淘宝闪购C端Agent研究与实践-阿里星",
+    "url": "https://campus-talent.alibaba.com/campus/position/199907700001?deptCodes="
+  },
+  "exit_code": 0
+}

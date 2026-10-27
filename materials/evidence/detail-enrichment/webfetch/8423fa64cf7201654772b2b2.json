@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944836",
+  "checked_at_utc": "2026-10-27T11:03:25.355834+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "电脑操作智能体 (CUA) 基模研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991027",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944836",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景\n随着大模型能力的提升，AI 正逐步从“理解与生成内容”走向“执行任务”。电脑操作智能体（Computer-Use Agents, CUA）旨在让 AI 能够像人类一样在真实数字环境中完成复杂任务，例如浏览网页、使用软件工具、编写文档、进行数据分析等。\n课题挑战\n如何推动下一代 通用电脑操作智能体（General Computer-Use Agents） 的核心技术发展，使 AI 能够在真实数字世界中完成复杂任务。提高智能体的任务成功率、泛化性，以及提高执行长任务的能力。\n具体工作\n- Computer-Use Foundation Models：训练能够泛化到多种软件和操作环境的基础模型。\n- Agent Training at Scale：通过大规模真实数据与合成环境（synthetic environments）提升智能体的泛化能力。\n- Long-Horizon Task Planning：研究多步骤任务分解、执行监控与自我修正能力。\n课题要求\n学历和专业要求：\n计算机科学、人工智能、机器学习等相关专业硕士/博士/在读学生\n技术技能要求\n-扎实的 机器学习 / 深度学习基础\n- 熟练使用 Python 与 PyTorch / JAX\n- 有 大模型训练经验（10B+）\n- 有 Agent Benchmark / Evaluation 经验\n- 熟悉 RL / planning / decision making\n- 熟悉 synthetic data / environment generation\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 737,
+      "warnings": []
+    },
+    "request_id": "aeb02013-25f1-4c94-b8d2-492ce0736552",
+    "status_code": 200,
+    "title": "电脑操作智能体 (CUA) 基模研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944836"
+  },
+  "exit_code": 0
+}

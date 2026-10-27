@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139146",
+  "checked_at_utc": "2026-10-27T11:04:01.249060+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "用于实时渲染的复杂材质的高效表示 青云课题、实习生、青云计划、其他",
+    "dom_id": "991094",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139146",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n随着游戏画质的提高，材质模型变得越来越复杂，如何探索更高效的材质表达成为一个重要问题，在新的时代下，既有Subtrate 中传统的多层表达，也有neural material model这种基于网络的表达，本课题需要探索这些表达在实时渲染场景下的落地可能。\n课题价值：\n在保证渲染性能的基础上，大幅提升渲染质量，提升游戏品质。\n具体工作：\n探索新一代生成复杂材质的工作流和优化手段，不断推进绘制效果极限。\n课题要求\n1、包含但不限于计算机、人工智能、计算机视觉、信息工程、应用数学等专业的博士和优秀硕士；\n2、熟悉计算机图形学，渲染相关的基础方法，有相关项目/研究经验；\n3、加分项：在SIGGRAPH,CVPR、NeurIPS、ICLR、ECCV等顶会发表过先关论文。\n参加面试的城市\n远程面试\n课题部门和工作地\nIEG\n互动娱乐事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 380,
+      "warnings": []
+    },
+    "request_id": "84dc0b3f-88c1-4184-a188-05723b65352f",
+    "status_code": 200,
+    "title": "用于实时渲染的复杂材质的高效表示 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139146"
+  },
+  "exit_code": 0
+}

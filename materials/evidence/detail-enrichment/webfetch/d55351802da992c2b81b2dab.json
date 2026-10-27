@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1243708556705035265",
+  "checked_at_utc": "2026-10-27T11:04:20.354768+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元-Code Agent 执行轨迹的评估与过程奖励研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991131",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1243708556705035265",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n当前 Code Agent 的强化学习往往依赖最终的通过率作为稀疏奖励，这在长周期复杂任务中极易导致“奖励作弊”——模型可能生成欺骗测试用例但逻辑错误的代码。同时，静态代码切片的评估无法反映 Agent 在真实执行环境中的状态变异。同时，目前的评估体系（如 HumanEval 的 Pass@1 或 SWE-bench）也主要采用结果导向的评估方式，不利于对模型的真实能力做更细致的评估。\n课题挑战：\n如何定义“好轨迹”，如何针对不同任务类型自适应评估，如何从动态执行过程里提取有效信号，以及如何把高成本、主观性强的人工轨迹分析，转化为稳定、可规模化、还能服务强化学习的过程奖励。\n具体工作：\n本课题旨在构建一套全方位、多维度的 Code Agent 轨迹质量评估框架，不再单纯以“成败论英雄”，而是通过对 Agent 解决问题过程中的每一跳（Step）进行量化分析，从而：\n1、定义“好轨迹”的标准： 明确什么是高效、鲁棒且符合人类开发者逻辑的解决路径；\n2、自适应评估：对于不同类型的code agent数据，能自适应评估轨迹的质量；\n3、诊断与调优： 为 Agent 的迭代提供诊断报告，识别性能瓶颈；\n4、强化学习指引： 为基于过程奖励模型（PRMs）的强化学习提供高质量的评估信号。\n课题要求\n1、计算机科学、软件工程、人工智能或相关专业硕士及以上学历，具备大模型数据工程或Code LLM等实际项目经验；\n2、深入理解 Transformer 架构及大语言模型训练原理，具备丰富的数据处理经验。能针对Code SFT、代码偏好对齐等后训练场景，设计高标准数据方案，有项目实战经验；\n3、深入实践过 CodeAct、SWE-agent、LATS、AlphaCode等前沿代码推理与自动化框架者优先；\n4、熟练掌握 Python，善于利用 Cursor、Claude Code 等 AI 辅助工具提升数据生产与自动化分析效率。熟悉至少一门其他主流编程语言（C++/Java/Go等），熟悉Docker优先；\n5、在前沿会议有高质量论文发表，或在开源社区有高影响力贡献者优先；\n6、具备强烈的数据敏感度、技术热情和自驱力，能够从繁杂的代码与报错日志中洞察模型能力的边界，拥有优秀的跨团队（模型、评测、平台）协作与沟通能力。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1009,
+      "warnings": []
+    },
+    "request_id": "fc20ed82-78ea-4cc2-bf1d-d2cc3f2766a6",
+    "status_code": 200,
+    "title": "混元-Code Agent 执行轨迹的评估与过程奖励研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1243708556705035265"
+  },
+  "exit_code": 0
+}

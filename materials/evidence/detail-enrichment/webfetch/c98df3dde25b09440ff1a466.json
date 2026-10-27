@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074687944808",
+  "checked_at_utc": "2026-10-27T11:03:13.251299+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "混元-下一代大语言模型主要预训练数据提升空间 青云课题、实习生、青云计划、大语言模型、NLP",
+    "dom_id": "991003",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944808",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n当前业界大语言模型预训练阶段主要采用来自网页、文档、代码等互联网上的公开数据，经过精心解析、清洗、质量筛选后，结合模型训练效果构建成最佳的预训练数据集合；但公开研究较少提及诸如多模态数据、非公开域可直接抓取的数据在LLM预训练时对模型的价值。\n课题挑战：\n本课题偏数据前瞻性探索，需要实习生在充分了解当前业界常用的文本预训练数据源、加工方式、模型效果的基础上，创新性地探索更大范围的数据源对应的价值。\n具体工作：\n涉及的工作包括新数据集原型的构建，数据集质量优化，数据实验验证价值等。\n课题要求\n1、计算机/软件工程等相关专业硕士以上学历，拥有博士学位者优先；\n2、熟悉大语言模型领域的相关研究工作和算法，拥有发表顶会论文、大模型研究工作、知名竞赛获奖、顶级研究机构或一线互联网工作经验者优先；\n3、熟练使用Python、PyTorch和CUDA等语言及工具，具备快速阅读和复现论文的能力，熟练使用AI工具提效者优先；\n4、具备优秀的分析和解决问题能力，良好的团队合作精神及沟通意识；\n5、有大模型数据研发相关公司的实践经验或者科研成果，有丰富的通过数据优化提升LLM效果经验者优先。\n参加面试的城市\n远程面试\n课题部门和工作地\nTEG\n技术工程事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 537,
+      "warnings": []
+    },
+    "request_id": "8b1e859b-e7e4-47fe-a3f6-169bce560f55",
+    "status_code": 200,
+    "title": "混元-下一代大语言模型主要预训练数据提升空间 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944808"
+  },
+  "exit_code": 0
+}

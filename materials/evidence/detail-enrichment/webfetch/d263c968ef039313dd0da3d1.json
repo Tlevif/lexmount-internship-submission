@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1231829074692139016",
+  "checked_at_utc": "2026-10-27T11:03:31.451742+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信-长视频理解生成统一模型 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "991036",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139016",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n图文场景的理解生成统一模型已经有了不错的进展，但是围绕视频领域的相关研究方兴未艾。本课题希望围绕数据构建、模型架构、模型算法三个维度探索围绕视频场景的统一模型研发范式。\n课题挑战：\n1、视频编辑的预训练数据构造与算法；\n2、支持30s-60s的高效音视频生成架构；\n3、高效的预训练和后训练算法；\n具体工作：\n你将在团队现有数据、模型、训练框架的技术上进行探索，全链路参与到视频场景的理解生成统一模型的研发当中。\n课题要求\n1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程、电子工程、统计学、应用数学、物理学/量子计算、信息安全、信号与信息处理等相关专业的优秀硕士和博士；\n2、在CVPR、ICCV、ECCV、NeurIPS、 ICLR等顶会发表一作论文\n3、有丰富的大模型方向项目或实习经验\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 430,
+      "warnings": []
+    },
+    "request_id": "8cc34aad-b595-4e31-9330-3193579705fd",
+    "status_code": 200,
+    "title": "微信-长视频理解生成统一模型 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139016"
+  },
+  "exit_code": 0
+}

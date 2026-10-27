@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199909660004?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:04.860295+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990900",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909660004?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "LLM 推理系统研发实习生（推理缓存方向）\nUpdated on 2026-09-18\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2027-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 参与大模型推理场景下 KVCache 资源管控系统的研发，协助建设资源管理、配额控制、生命周期管理与调度能力，提升 GPU 集群资源利用率与服务稳定性。\n2. 参与 KVCache 缓存复用、淘汰、预取与分层存储等策略的开发和实验，探索 GPU 显存、CPU 内存及 SSD 之间的数据管理与迁移优化。\n3. 参与 KVCache 管控系统与 vLLM / SGLang 等主流推理引擎的集成，完成元数据管理、资源上报与控制接口等模块的开发与测试。\n4. 参与性能测试与可观测性建设，分析缓存命中率、显存占用、首 Token 延迟、生成速度及吞吐等指标，协助定位并优化长上下文、高并发场景下的性能瓶颈。\nQualifications\n1. 计算机、软件工程或相关专业在校生，对大模型推理基础设施、分布式系统或高性能计算有兴趣。\n2. 熟悉 C++ / Go / Python 中至少一种编程语言，具备良好的数据结构、算法、操作系统与计算机网络基础，能够在 Linux 环境下进行开发和调试。\n3. 了解缓存、并发编程、RPC 或分布式系统的基本原理，有课程项目、科研项目、开源项目或实习开发经验。\n4. 具备良好的学习能力、问题分析能力与沟通协作能力，能够在指导下完成模块开发、测试与问题定位。\n5. 每周可实习 3 天及以上，连续实习 6 个月及以上；可长期实习者优先。\n加分项\n1. 了解 LLM 推理流程及 KVCache 基本原理，使用或研究过 vLLM / SGLang / TensorRT-LLM / RTP-LLM / Mooncake 等项目。\n2. 有缓存或存储系统、GPU 编程、资源调度相关实践，或有 Kubernetes / Ray 等项目使用与开发经验。\n3. 有性能分析、压测或监控建设经验，使用过 Linux 性能工具、Prometheus / Grafana 等。\n4. 善于使用 Qoder / Codex / Claude Code 等 AI 编程工具，有将 AI 融入编码、调试、测试与优化流程的具体实践，能够理解并验证生成代码的正确性。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 1139,
+      "warnings": []
+    },
+    "request_id": "baad8595-e217-4ac7-ad01-e1da2bd84b7d",
+    "status_code": 200,
+    "title": "LLM 推理系统研发实习生（推理缓存方向）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909660004?deptCodes="
+  },
+  "exit_code": 0
+}

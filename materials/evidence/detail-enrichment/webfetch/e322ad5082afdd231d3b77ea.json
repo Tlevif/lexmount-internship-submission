@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1293212684925501441",
+  "checked_at_utc": "2026-10-27T11:04:27.361814+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "元宝—Agentic Model能力进化 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "991142",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1293212684925501441",
+    "language": "zh-cn",
+    "main_text": "课题描述\n随着通用Agent在复杂任务链路中的广泛部署，如何让智能体具备跨场景的技能泛化能力与持续自我进化能力，成为制约Agent从\"单点任务执行\"迈向\"通用智能助理\"的核心瓶颈。传统基于固定Prompt与静态工具集的Agent架构，在面对长尾场景、多步骤工具编排与跨领域知识迁移时，存在技能复用率低、探索效率差、慢思考与快反应难以协同等问题。本课题聚焦以下方向：\n1、技能泛化与Agent自进化\n攻克Agent在陌生任务场景中自主发现、组合、迁移已有能力的技能泛化难题，突破技能库随任务反馈自我扩充与淘汰的机制瓶颈，使Agent具备从经验中持续学习、不断拓展能力边界的自进化特性，实现从\"人工预置能力\"到\"自主习得能力\"的跨越。\n2、多智能体协同与Agentic RL训练范式\n解决多智能体任务分解与协同决策中的效率瓶颈，突破强化学习在复杂工具调用链路中奖励设计与训练效率的优化难题，结合环境模拟与蒸馏等技术手段，攻克冷启动场景下高质量轨迹数据稀缺的问题，提升Agent在真实业务环境中的探索效率与收敛速度。\n3、快慢思考融合与Auto Think机制\n攻克快思考与慢思考融合中的一致性与效率难题，突破Auto Think范式下Agent根据任务复杂度自主判断何时深度推理、何时快速响应的决策瓶颈，在保障效果的同时兼顾推理效率与成本，使Agent具备更接近人类专家的自适应思考能力。\n课题要求\n1、具备较强的系统架构思维与工程落地能力，能够在Harness底层设计与算法策略之间灵活切换，有独立发表顶会论文（NeurIPS/ICML/ACL等）经验者优先。\n2、计算机、人工智能、自然语言处理或相关专业硕士及以上学历，博士优先。具备扎实的深度学习理论基础，在大模型Agent、强化学习或多智能体系统领域有深入研究背景者优先。\n3、熟悉LLM后训练全流程，以及PyTorch、verl等训练框架。有Tool-calling、Agentic RL、智能体相关Benchmark评测构建经验者优先。\n4、极强的技术自驱力与好奇心，善于在开放性问题中主动定义方向，具备良好的跨团队协作与沟通能力。\n参加面试的城市\n远程面试\n课题部门和工作地\nCSIG\n云与智慧产业事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 932,
+      "warnings": []
+    },
+    "request_id": "3a2ce950-0778-44b7-a85a-e1262a7f0f5d",
+    "status_code": 200,
+    "title": "元宝—Agentic Model能力进化 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1293212684925501441"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,31 @@
+{
+  "requested_url": "https://modelbest.jobs.feishu.cn/campus/position/7681283109740185907/detail",
+  "checked_at_utc": "2026-10-27T11:02:36.948922+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": null,
+    "description": "到面壁智能，开启你的新工作",
+    "dom_id": "990944",
+    "engine": "lightmount_dcl",
+    "error": null,
+    "final_url": "https://modelbest.jobs.feishu.cn/campus/position/7681283109740185907/detail",
+    "language": null,
+    "main_text": "全模态记忆系统实习生 - 加入面壁智能",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 0,
+      "text_length": 19,
+      "warnings": [
+        "thin_content"
+      ]
+    },
+    "request_id": "1cd6bdad-9f14-4b8d-a01b-5313fac62f17",
+    "status_code": 200,
+    "title": "全模态记忆系统实习生 - 加入面壁智能",
+    "url": "https://modelbest.jobs.feishu.cn/campus/position/7681283109740185907/detail"
+  },
+  "exit_code": 0
+}

@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://campus-talent.alibaba.com/campus/position/199905260002?deptCodes=",
+  "checked_at_utc": "2026-10-27T11:02:22.463216+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "990927",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199905260002?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "生产系统研发实习生\nUpdated on 2026-05-20\nHangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2029-10-31\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、负责销售运营平台、服务运营平台的开发工作；\n2、能独立完成相关系统的功能设计和编码实现，并保证代码质量和系统性能；\n3、参与售前沟通和方案撰写，对客户提供技术支持；\n4、能够快速学习其他产品相关的功能并能够完成相应功能的开发。\nQualifications\n1、计算机科学、软件工程等相关专业，本科及以上学历；\n2、精通Java语言，熟悉Java内存模型，了解JVM原理，熟练使用Spring、MyBatis等开源框架；\n3、有大型分布式、高并发、高负载、高性能的系统的设计及实践经验；\n4、熟悉MySQL、MongoDB、HBase等常用数据库及其应用场景；\n5、掌握Linux操作系统，熟悉TCP/IP网络通信技术；\n6、具有很强的责任心，良好的逻辑分析和数据处理能力，有较强的团队协作意识。\nHiring Business\nQWEN Applications Business Group",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 578,
+      "warnings": []
+    },
+    "request_id": "ca68127c-e2f3-48a8-96e3-1fb71c82ceca",
+    "status_code": 200,
+    "title": "生产系统研发实习生",
+    "url": "https://campus-talent.alibaba.com/campus/position/199905260002?deptCodes="
+  },
+  "exit_code": 0
+}

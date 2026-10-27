@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://join.qq.com/post_detail.html?postid=1200791473415778304",
+  "checked_at_utc": "2026-10-27T11:02:40.666991+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "你是腾讯产品「背后」的英雄， 打造出更稳定安全、高效可靠的后台支撑体系， 守护海量用户的笑容！",
+    "dom_id": "990951",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1200791473415778304",
+    "language": "zh-cn",
+    "main_text": "你是腾讯产品「背后」的英雄， 打造出更稳定安全、高效可靠的后台支撑体系， 守护海量用户的笑容！\n岗位描述\n负责实现和优化公司的产品功能，以及构建和维护关键服务与基础设施。\n1、深入理解业务需求和产品设计，高效地实现并优化产品功能；\n2、持续优化架构，提升关键服务和基础设施的稳定性与可用性，关注AI在智能运维、故障预测等领域的应用；\n3、通过引入AI编程工具和自动化流程，显著提升团队的开发效率和代码质量；\n4、通过与产品和前端工程师的紧密合作，共同推进产品的迭代与优化，参与AI能力在后端的集成与落地；\n5、对线上问题进行快速定位并解决，探索利用AI进行智能故障诊断和性能优化；\n6、参与新技术的研究和探索，特别关注AI/大模型技术在后端架构中的应用，为团队的技术进步和产品创新提供支持。\n岗位要求\nAI应用技能：\n善于借助AI工具拆解复杂问题、探索解决方案，并能对AI的输出进行高质量判断，具备人机协同的工作意识和习惯。\n专业能力：\n1、扎实的编程能力，熟练掌握C/C++/Java/Go等其中一门开发语言；\n2、TCP/UDP网络协议及相关编程、进程间通讯编程；专业软件知识，包括算法、操作系统、软件工程、设计模式、数据结构、数据库系统、网络安全等。\n3、有一定了解的：Python、Shell等脚本语言；MySQL及SQL语言、编程；NoSQL, Key-value存储原理。\n加分项或注意事项\n1、分布式系统设计与开发、负载均衡技术，系统容灾设计，高可用系统等知识；\n2、对云原生相关技术有所了解。\n参加面试的城市\n上海\n远程面试\n招聘部门和工作地\nCDG\n企业发展事业群\nCSIG\n云与智慧产业事业群\nIEG\n互动娱乐事业群\nPCG\n平台与内容事业群\nTEG\n技术工程事业群\nWXG\n微信事业群\nS1\n职能系统－职能线\nS2\n职能系统－财经线",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 777,
+      "warnings": []
+    },
+    "request_id": "ff0066f4-658b-4286-9fb4-b3f2e6d127bb",
+    "status_code": 200,
+    "title": "后台开发 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1200791473415778304"
+  },
+  "exit_code": 0
+}

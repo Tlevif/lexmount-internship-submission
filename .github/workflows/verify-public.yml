@@ -20,13 +20,18 @@ jobs:
                   item={'path':name or '/', 'status':r.status, 'bytes':len(data)}
                   assert r.status==200
               if name.endswith('jobs.json'):
-                  item['jobs']=len(json.loads(data)); assert item['jobs']==5213
+                  rows=json.loads(data); item['jobs']=len(rows); assert item['jobs']==5213
+                  item['review_jobs']=sum(r['category']=='待审核' for r in rows); assert item['review_jobs']==52
+                  enriched=[r for r in rows if r.get('detail_enrichment')]; item['enriched_jobs']=len(enriched); assert len(enriched)==264
+                  assert sum(not r['requirements'] for r in enriched)==2
               if name=='submission.zip':
                   item['sha256']=hashlib.sha256(data).hexdigest()
                   z=zipfile.ZipFile(io.BytesIO(data)); manifest=json.loads(z.read('MANIFEST.json'))
                   for path,digest in manifest['files'].items():
                       assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
                   item['verified_files']=len(manifest['files'])
+                  summary=json.loads(z.read('SUMMARY.json')); assert summary['detail_enrichment']['jobs_filled']==262
+                  assert summary['detail_enrichment']['after_missing']=={'responsibilities':0,'requirements':2}
               checks.append(item)
           print('CROSS_HOST_VERIFICATION='+json.dumps({'host':'GitHub-hosted Ubuntu runner','authentication':'none','checks':checks},ensure_ascii=False))
           PY

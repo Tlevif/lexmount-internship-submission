@@ -1,0 +1,29 @@
+{
+  "requested_url": "https://hr.163.com/job-list.html?workType=1",
+  "checked_at_utc": "2026-10-27T11:04:46.752197+00:00",
+  "tool": "Lexmount WebFetch",
+  "response": {
+    "author": null,
+    "description": "网易社会招聘",
+    "dom_id": "991176",
+    "engine": "lightmount_dcl",
+    "error": null,
+    "final_url": "https://hr.163.com/job-list.html?workType=1",
+    "language": "en",
+    "main_text": "Positions | NetEase Careers Careers Home Positions Teams NetEase Games ( Interactive Entertainment ) NetEase Games ( Thunder Fire ) Youdao NetEase Cloud Music NetEase Fuxi Lab NetEase Yanxuan GrowthEase NetEase YUANQI NetEase InnoMail NetEase Media Geek Passionate Talent Life 中 EN Sign In This website uses cookies. By using our site, it indicates that you have read and agree to the practices described in our Privacy Policy OK Follow NetEase's Official Account Follow NetEase's Official WeChat Account Follow NetEase's Official WeCom Account Follow NetEase Culture WeChat Account Follow NetEase Culture WeChat Account Privacy Policy © 1997-2026 All Rights Reserved by NetEase | ZICPB No. 17006647-2",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 3,
+      "links_count": 18,
+      "text_length": 701,
+      "warnings": []
+    },
+    "request_id": "5146988b-0159-4fa3-a66b-2ad870a6e680",
+    "status_code": 200,
+    "title": "Positions | NetEase Careers",
+    "url": "https://hr.163.com/job-list.html?workType=1"
+  },
+  "exit_code": 0
+}
