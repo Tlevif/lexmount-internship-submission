@@ -1,0 +1,32 @@
+name: Verify public submission from another host
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check public page, results, PDF, and ZIP without credentials
+        shell: bash
+        run: |
+          python - <<'PY'
+          import urllib.request, json, hashlib, zipfile, io
+          base='https://tlevif.github.io/lexmount-internship-submission/'
+          checks=[]
+          for name in ['', 'materials/REPORT.pdf', 'materials/results/jobs.json', 'materials/MANIFEST.json', 'submission.zip']:
+              with urllib.request.urlopen(base+name,timeout=60) as r:
+                  data=r.read()
+                  item={'path':name or '/', 'status':r.status, 'bytes':len(data)}
+                  assert r.status==200
+              if name.endswith('jobs.json'):
+                  item['jobs']=len(json.loads(data)); assert item['jobs']==5213
+              if name=='submission.zip':
+                  item['sha256']=hashlib.sha256(data).hexdigest()
+                  z=zipfile.ZipFile(io.BytesIO(data)); manifest=json.loads(z.read('MANIFEST.json'))
+                  for path,digest in manifest['files'].items():
+                      assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
+                  item['verified_files']=len(manifest['files'])
+              checks.append(item)
+          print('CROSS_HOST_VERIFICATION='+json.dumps({'host':'GitHub-hosted Ubuntu runner','authentication':'none','checks':checks},ensure_ascii=False))
+          PY
