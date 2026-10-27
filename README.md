@@ -22,7 +22,7 @@ Lexmount Cloud Browser 实际运行截图：
 
 ## 跨主机访问验收
 
-[独立云主机匿名验收已通过](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40491435478)：材料页、PDF、完整结果和ZIP均可访问，结果计数5,213条；该历史版本ZIP内34个文件通过SHA256校验；详情补采版本正在重新验收。[验收明细](ACCESS_VERIFICATION.json)。
+[独立云主机匿名验收已通过](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40495502588)：材料页、PDF、完整结果和ZIP均可访问，结果计数5,213条；详情补采版本ZIP内317个文件全部通过SHA256校验，待审核52条与补齐262条也通过核验。[验收明细](ACCESS_VERIFICATION.json)。
 
 
 详情补采结果：262条岗位补齐缺失字段，共补211条职责、262条要求；剩余2条明确标注下线/未检索到。证据见 [详情补采统计](materials/evidence/detail-enrichment/SUMMARY.json)。
