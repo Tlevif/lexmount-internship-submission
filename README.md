@@ -19,3 +19,7 @@ Lexmount Cloud Browser 实际运行截图：
 ![百川官方日常实习列表](materials/screenshots/cloud-baichuan.png)
 
 解压提交包后，可用 `python verify_package.py` 核验文件哈希与5,213条岗位唯一性。配套最小源码包的运行方法见包内 RUN.md。
+
+## 跨主机访问验收
+
+[独立云主机匿名验收已通过](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40491435478)：材料页、PDF、完整结果和ZIP均可访问，结果计数5,213条；ZIP内34个文件全部通过SHA256校验。[验收明细](ACCESS_VERIFICATION.json)。

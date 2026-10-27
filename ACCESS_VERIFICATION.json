@@ -1,0 +1,72 @@
+{
+  "checked_at_utc": "2026-10-27T10:47:48.023523+00:00",
+  "checked_from": "未登录HTTP客户端",
+  "url": "https://tlevif.github.io/lexmount-internship-submission/",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 13240,
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "path": "materials/REPORT.pdf",
+      "status": 200,
+      "bytes": 1181121,
+      "content_type": "application/pdf"
+    },
+    {
+      "path": "materials/results/jobs.json",
+      "status": 200,
+      "bytes": 8829410,
+      "content_type": "application/json; charset=utf-8",
+      "jobs": 5213
+    },
+    {
+      "path": "materials/evidence/baichuan_run.json",
+      "status": 200,
+      "bytes": 821,
+      "content_type": "application/json; charset=utf-8"
+    },
+    {
+      "path": "materials/MANIFEST.json",
+      "status": 200,
+      "bytes": 3479,
+      "content_type": "application/json; charset=utf-8"
+    },
+    {
+      "path": "submission.zip",
+      "status": 200,
+      "bytes": 7632894,
+      "content_type": "application/x-zip-compressed",
+      "sha256": "a819ee73251cd0c689f9c199e7f27722f05e6566bf72144dd77a00b60f78c06e"
+    }
+  ],
+  "independent_host": {
+    "host": "GitHub-hosted Ubuntu runner",
+    "authentication": "none",
+    "conclusion": "success",
+    "started_at": "2026-10-27T10:49:24Z",
+    "completed_at": "2026-10-27T10:49:28Z",
+    "run_url": "https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40491435478",
+    "job_url": "https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40491435478/job/122146083748",
+    "verification": "网页/PDF/结果/ZIP均为200；岗位数5213；ZIP内34个文件SHA256通过",
+    "steps": [
+      {
+        "name": "Set up job",
+        "status": "completed",
+        "conclusion": "success"
+      },
+      {
+        "name": "Check public page, results, PDF, and ZIP without credentials",
+        "status": "completed",
+        "conclusion": "success"
+      },
+      {
+        "name": "Complete job",
+        "status": "completed",
+        "conclusion": "success"
+      }
+    ]
+  }
+}
