@@ -1,10 +1,10 @@
 {
-  "id": 40514810238,
+  "id": 40641076609,
   "status": "completed",
   "conclusion": "success",
-  "html_url": "https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40514810238",
-  "head_sha": "d17502f3642155453498e7848c789c64d179dc38",
-  "data_version": "cs-content-v2",
+  "html_url": "https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40641076609",
+  "head_sha": "74e4ad4f67b9d1ad5927e0d334588222d33d42c0",
+  "data_version": "technical-taxonomy-20261028",
   "jobs": 2905,
   "verification": {
     "host": "GitHub-hosted Ubuntu runner",
@@ -13,55 +13,68 @@
       {
         "url": "https://tlevif.github.io/lexmount-internship-submission/",
         "status": 200,
-        "bytes": 12436
+        "bytes": 13199
+      },
+      {
+        "url": "https://tlevif.github.io/lexmount-internship-submission/demo.js",
+        "status": 200,
+        "bytes": 4253
       },
       {
         "url": "https://tlevif.github.io/lexmount-internship-submission/materials/REPORT.pdf",
         "status": 200,
-        "bytes": 1284109
+        "bytes": 1265986
       },
       {
         "url": "https://tlevif.github.io/lexmount-internship-submission/materials/results/jobs.json",
         "status": 200,
-        "bytes": 10146863,
+        "bytes": 10425876,
         "jobs": 2905,
         "missing_responsibilities": 0,
         "missing_requirements": 0,
-        "categories": 15
+        "categories": 33,
+        "large_model_categories": 12
       },
       {
         "url": "https://tlevif.github.io/lexmount-internship-submission/submission.zip",
         "status": 200,
-        "bytes": 13219574,
-        "sha256": "c1318d47ac78e0e97e95ebd69b514e03ced44498e0c7098557622df63e533c9f",
-        "verified_files": 1788
+        "bytes": 13563775,
+        "sha256": "3d9b4689a420ec9506e812f3285c748de84c21296ed5a05ac3ad256e9637020a",
+        "verified_files": 1791
       },
       {
         "url": "https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/",
         "status": 200,
-        "bytes": 13374
+        "bytes": 14137
+      },
+      {
+        "url": "https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/demo.js",
+        "status": 200,
+        "bytes": 4253
       },
       {
         "url": "https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/materials/REPORT.pdf",
         "status": 200,
-        "bytes": 1284109
+        "bytes": 1265986
       },
       {
         "url": "https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/materials/results/jobs.json",
         "status": 200,
-        "bytes": 10146863,
+        "bytes": 10425876,
         "jobs": 2905,
         "missing_responsibilities": 0,
         "missing_requirements": 0,
-        "categories": 15
+        "categories": 33,
+        "large_model_categories": 12
       },
       {
         "url": "https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/submission.zip",
         "status": 200,
-        "bytes": 13219574,
-        "sha256": "c1318d47ac78e0e97e95ebd69b514e03ced44498e0c7098557622df63e533c9f",
-        "verified_files": 1788
+        "bytes": 13563775,
+        "sha256": "3d9b4689a420ec9506e812f3285c748de84c21296ed5a05ac3ad256e9637020a",
+        "verified_files": 1791
       }
     ]
-  }
+  },
+  "canonical_site_url": "https://lexmount-internship-evidence-20261027.tlevif.chatgpt.site/"
 }
