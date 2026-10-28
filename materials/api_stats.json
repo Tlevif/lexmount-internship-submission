@@ -5,32 +5,36 @@
   "verified_companies": 58,
   "by_category": [
     {
-      "category": "人工智能与算法",
-      "count": 1351
+      "category": "大模型多模态与生成",
+      "count": 320
     },
     {
       "category": "后端与分布式服务",
-      "count": 293
+      "count": 282
     },
     {
-      "category": "系统与计算基础设施",
-      "count": 194
+      "category": "大模型评测与安全",
+      "count": 200
     },
     {
       "category": "数据科学与计算分析",
       "count": 173
     },
     {
+      "category": "大模型后训练与强化学习",
+      "count": 170
+    },
+    {
+      "category": "大模型应用开发",
+      "count": 156
+    },
+    {
+      "category": "系统与计算基础设施",
+      "count": 136
+    },
+    {
       "category": "软件测试与质量工程",
       "count": 125
-    },
-    {
-      "category": "数据工程与数据库",
-      "count": 122
-    },
-    {
-      "category": "软件开发",
-      "count": 121
     },
     {
       "category": "前端开发",
@@ -41,24 +45,92 @@
       "count": 111
     },
     {
-      "category": "全栈与应用开发",
-      "count": 110
+      "category": "软件开发",
+      "count": 111
     },
     {
-      "category": "计算机安全",
-      "count": 82
+      "category": "大模型数据工程与合成",
+      "count": 98
+    },
+    {
+      "category": "数据工程与数据库",
+      "count": 92
+    },
+    {
+      "category": "推荐搜索与广告算法",
+      "count": 86
+    },
+    {
+      "category": "大模型Agent算法",
+      "count": 77
+    },
+    {
+      "category": "大模型推理优化与部署",
+      "count": 72
+    },
+    {
+      "category": "全栈与应用开发",
+      "count": 60
+    },
+    {
+      "category": "大模型应用算法",
+      "count": 60
     },
     {
       "category": "图形图像与游戏技术",
       "count": 57
     },
     {
-      "category": "嵌入式与机器人软件",
+      "category": "具身智能与机器人算法",
+      "count": 49
+    },
+    {
+      "category": "计算机安全",
+      "count": 47
+    },
+    {
+      "category": "决策优化与数据挖掘",
+      "count": 44
+    },
+    {
+      "category": "大模型基模架构与模型研究",
+      "count": 36
+    },
+    {
+      "category": "机器学习与通用算法",
+      "count": 35
+    },
+    {
+      "category": "大模型训练系统与算力",
+      "count": 34
+    },
+    {
+      "category": "大模型综合算法",
       "count": 32
+    },
+    {
+      "category": "嵌入式与机器人软件",
+      "count": 28
+    },
+    {
+      "category": "大模型预训练",
+      "count": 27
+    },
+    {
+      "category": "计算机视觉与图像算法",
+      "count": 26
+    },
+    {
+      "category": "语音与音频算法",
+      "count": 20
     },
     {
       "category": "芯片与数字系统",
       "count": 10
+    },
+    {
+      "category": "自然语言处理算法",
+      "count": 7
     },
     {
       "category": "网络与IT基础设施",

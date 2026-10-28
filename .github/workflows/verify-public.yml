@@ -14,7 +14,7 @@ jobs:
           import urllib.request,json,hashlib,zipfile,io
           checks=[]
           for base in ['https://tlevif.github.io/lexmount-internship-submission/','https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/']:
-            for name in ['', 'materials/REPORT.pdf','materials/results/jobs.json','submission.zip']:
+            for name in ['', 'demo.js','materials/REPORT.pdf','materials/results/jobs.json','submission.zip']:
               print('CHECKING '+base+name,flush=True)
               with urllib.request.urlopen(urllib.request.Request(base+name,headers={'User-Agent':'Mozilla/5.0'}),timeout=90) as r:
                 data=r.read();assert r.status==200
@@ -22,10 +22,17 @@ jobs:
               if name.endswith('jobs.json'):
                 rows=json.loads(data);assert len(rows)==2905
                 assert len({r['company_name'] for r in rows})==32
-                assert len({r['category'] for r in rows})==15
+                assert len({r['category'] for r in rows})==33
+                assert len({r['category'] for r in rows if r['category'].startswith('大模型')})==12
                 assert all(r['responsibilities'] and r['requirements'] and r['classification']['keep'] for r in rows)
                 assert not any(r['category'] in ['待审核','待核验','非计算机岗位','营销','业务分析','设计','客户服务'] for r in rows)
-                item.update(jobs=len(rows),missing_responsibilities=0,missing_requirements=0,categories=15)
+                assert not any(r['category']=='人工智能与算法' for r in rows)
+                item.update(jobs=len(rows),missing_responsibilities=0,missing_requirements=0,categories=33,large_model_categories=12)
+              if name=='':
+                text=data.decode();assert 'id="page-jump"' in text and '跳转页码' in text
+              if name=='demo.js':
+                text=data.decode();assert "Number.isInteger(n)" in text
+                assert not any(x in text for x in ['原站发布日期','稳定岗位ID','采集方式：','数据期：','相互印证','详情核验：','补采依据：'])
               if name=='submission.zip':
                 item['sha256']=hashlib.sha256(data).hexdigest();z=zipfile.ZipFile(io.BytesIO(data));m=json.loads(z.read('MANIFEST.json'))
                 for path,digest in m['files'].items():assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
