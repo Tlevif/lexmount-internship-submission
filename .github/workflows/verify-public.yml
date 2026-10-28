@@ -27,16 +27,21 @@ jobs:
                 assert all(r['responsibilities'] and r['requirements'] and r['classification']['keep'] for r in rows)
                 assert not any(r['category'] in ['待审核','待核验','非计算机岗位','营销','业务分析','设计','客户服务'] for r in rows)
                 assert not any(r['category']=='人工智能与算法' for r in rows)
+                assert len({r['category_group'] for r in rows})==9
+                assert sum(r['category_group']=='大模型' for r in rows)==1499
+                assert all('与' not in r['category_label'] for r in rows)
+                assert any('AI Infra' in r['title'] and r['category_group']=='大模型' for r in rows)
                 item.update(jobs=len(rows),missing_responsibilities=0,missing_requirements=0,categories=33,large_model_categories=12)
               if name=='':
-                text=data.decode();assert 'id="page-jump"' in text and '跳转页码' in text
+                text=data.decode();assert 'aria-label="大方向"' in text and 'aria-label="子方向"' in text
+                assert 'id="page-jump"' in text and '跳转页码' in text
               if name=='demo.js':
                 text=data.decode();assert "Number.isInteger(n)" in text
                 assert not any(x in text for x in ['原站发布日期','稳定岗位ID','采集方式：','数据期：','相互印证','详情核验：','补采依据：'])
               if name=='submission.zip':
                 item['sha256']=hashlib.sha256(data).hexdigest();z=zipfile.ZipFile(io.BytesIO(data));m=json.loads(z.read('MANIFEST.json'))
                 for path,digest in m['files'].items():assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
-                item['verified_files']=len(m['files']);s=json.loads(z.read('SUMMARY.json'));assert s['jobs']==3095
+                item['verified_files']=len(m['files']);s=json.loads(z.read('SUMMARY.json'));assert s['jobs']==3095 and s['category_tree']['groups']==9 and s['category_tree']['large_model_jobs']==1499
                 assert s['full_rebuild']['retained_missing']=={'responsibilities':0,'requirements':0}
                 assert s['full_rebuild']['removed_non_cs_or_umbrella']==2295
                 assert s['full_rebuild']['unverified_detail_jobs']==13
