@@ -8,4 +8,4 @@
 
 [复核说明](materials/REMOVAL_REVIEW.md)｜[逐条审计](materials/evidence/removal_review20261028/classification_audit.json)｜[技术分类](materials/TAXONOMY.md)
 
-98项软件测试通过。跨主机匿名验证记录将在发布验证完成后写入ACCESS_VERIFICATION.json。
+98项软件测试通过。[跨主机匿名验证通过](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40643386907)：两个入口首页、脚本、PDF、岗位JSON和ZIP均200，1,880个文件哈希一致。详见ACCESS_VERIFICATION.json。
