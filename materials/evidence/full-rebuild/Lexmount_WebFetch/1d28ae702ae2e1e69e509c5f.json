@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21599",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21599",
+  "checked_at_utc": "2026-10-27T13:09:38.671180+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：产品工程师 | 工作地点：上海市，北京市 | 项目：其他项目",
+    "dom_id": "993268",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21599",
+    "language": "zh-cn",
+    "main_text": "职位类型：产品工程师\n工作地点：上海市，北京市\n项目：其他项目\n工作职责\n我们是谁 小红书 Lab 1327 创新业务部门——专注 AI 创新产品的孵化，把前沿 AI 能力与用户核心痛点结合，打造真正有用的产品。 我们需要你 基本要求 前端 / 后端 / 客户端 / Agent 架构等不限，熟悉至少一门语言，具备优秀的技术素养 对 AI 有自己的理解，有热情；熟练使用 AI 工具，善于借助 AI 解决实际问题。 28 届毕业生，每周至少到岗 4 天\n任职资格\n我们更看重的特质 不设边界：遇到没做过的事，第一反应是\"我来试试\"，而不是\"这不是我的活\" 心态 open：愿意尝试不同研发角色，敢于接受应用开发全链路的挑战 自驱：有强烈的 ownership，能把一件事从 0 推到 1，再推到 10 加分项（有其一即可） 有 LLM / Agent / RAG 相关项目经历，个人或课外项目均可 参与过 AI 产品从 0 到 1 的孵化，或独立开发过完整 App 有开源项目贡献（GitHub Star 数、PR 记录） 参加过 ACM / ICPC / Kaggle 等技术竞赛 你能得到什么 真正的全栈锻炼：不是照需求堆代码，是从看懂产品、写出来、到真正上线给用户用的完整链路 Open 的氛围：鼓励探索 AI 和创新，不设限制，边界是用来打破的 最前沿的 AI 工作方式：不只是在用 AI 工具，你也可以定义团队的最佳 AI 工作流 创业氛围：有机会独立孵化一个属于自己的产品，从 0 到上线",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 650,
+      "warnings": []
+    },
+    "request_id": "6a1e67c6-7892-4464-bb0a-1835690360c7",
+    "status_code": 200,
+    "title": "【28届实习】全栈工程师（AI native）-Lab 1327",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21599"
+  },
+  "responsibilities": "我们是谁 小红书 Lab 1327 创新业务部门——专注 AI 创新产品的孵化，把前沿 AI 能力与用户核心痛点结合，打造真正有用的产品。 我们需要你 基本要求 前端 / 后端 / 客户端 / Agent 架构等不限，熟悉至少一门语言，具备优秀的技术素养 对 AI 有自己的理解，有热情；熟练使用 AI 工具，善于借助 AI 解决实际问题。 28 届毕业生，每周至少到岗 4 天",
+  "requirements": "我们更看重的特质 不设边界：遇到没做过的事，第一反应是\"我来试试\"，而不是\"这不是我的活\" 心态 open：愿意尝试不同研发角色，敢于接受应用开发全链路的挑战 自驱：有强烈的 ownership，能把一件事从 0 推到 1，再推到 10 加分项（有其一即可） 有 LLM / Agent / RAG 相关项目经历，个人或课外项目均可 参与过 AI 产品从 0 到 1 的孵化，或独立开发过完整 App 有开源项目贡献（GitHub Star 数、PR 记录） 参加过 ACM / ICPC / Kaggle 等技术竞赛 你能得到什么 真正的全栈锻炼：不是照需求堆代码，是从看懂产品、写出来、到真正上线给用户用的完整链路 Open 的氛围：鼓励探索 AI 和创新，不设限制，边界是用来打破的 最前沿的 AI 工作方式：不只是在用 AI 工具，你也可以定义团队的最佳 AI 工作流 创业氛围：有机会独立孵化一个属于自己的产品，从 0 到上线"
+}

@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074687944853",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074687944853",
+  "checked_at_utc": "2026-10-27T13:07:19.567407+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "腾讯金融科技-金融AI评测能力建设 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "993051",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944853",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n金融场景AI评测标准及算法能力在当前阶段尤为稀缺，构建“agent+流程+组织”系统级的评测能力是金融AI应用落地的关键能力之一，亟需相关领域的人才。\n当前挑战：\n需要补充相关领域的人才，构建良好的人才储备，为金融场景应用落地探索新方式、储备能力和人才\n工作内容：\n1、负责设计及构建金融大模型评测标准，探索金融大模型评测新范式\n2、构建、实现及优化金融大模型的评测算法，优化金融大模型训练\n3、与产品一起探索金融场景评测及产品能力优化，推动金融场景AI应用的落地及优化\n课题要求\n1、有大语言模型评测算法研究或落地经验者优先，包括数据合成、模型评测技术等；\n2、有良好的项目实践经验及实现能力；\n3、有金融场景AI应用落地经验者优先；\n4、持续跟踪领先AI技术动态，结合业务需求进行技术转化与创新；\n5、有高质量相关论文如NeurIPS、ACL、ICML、EMNLP优先。\n参加面试的城市\n远程面试\n课题部门和工作地\nCDG\n企业发展事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 432,
+      "warnings": []
+    },
+    "request_id": "17b24255-8e70-44c8-8609-fd8f13e11a46",
+    "status_code": 200,
+    "title": "腾讯金融科技-金融AI评测能力建设 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944853"
+  },
+  "responsibilities": "课题背景：\n金融场景AI评测标准及算法能力在当前阶段尤为稀缺，构建“agent+流程+组织”系统级的评测能力是金融AI应用落地的关键能力之一，亟需相关领域的人才。\n当前挑战：\n需要补充相关领域的人才，构建良好的人才储备，为金融场景应用落地探索新方式、储备能力和人才\n工作内容：\n1、负责设计及构建金融大模型评测标准，探索金融大模型评测新范式\n2、构建、实现及优化金融大模型的评测算法，优化金融大模型训练\n3、与产品一起探索金融场景评测及产品能力优化，推动金融场景AI应用的落地及优化",
+  "requirements": "1、有大语言模型评测算法研究或落地经验者优先，包括数据合成、模型评测技术等；\n2、有良好的项目实践经验及实现能力；\n3、有金融场景AI应用落地经验者优先；\n4、持续跟踪领先AI技术动态，结合业务需求进行技术转化与创新；\n5、有高质量相关论文如NeurIPS、ACL、ICML、EMNLP优先。"
+}

@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199908860001",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199908860001?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:31.801351+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992709",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199908860001?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "数据智多星-世界模型评测\nUpdated on 2026-09-10\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1. 负责世界模型的评测与分析工作，包括模型性能评估、能力边界探测、物理一致性诊断等。通过系统的评测方法论，发现模型在物理规律理解、因果推理、时空建模等方面的瓶颈，支持模型优化迭代。\n2. 评测体系构建：设计和执行世界模型的评测方案，建立覆盖视觉感知、物理遵循、动作跟随、长程预测、因果推理等多维度的科学评测体系。\n3. 全面性能评估：对世界模型在不同场景下的表现进行全面评估一一涵盖生成质量、物理规律遵守程度（如力学、热学、材料特性等）、动作执行精度、时空一致性、三维空间准确性及可控性等维度。\n4. 短板分析与报告：分析世界模型的能力短板，撰写详细的评测报告和分析文档。\n5. 业界对标研究：参与世界模型的对标研究，持续跟踪前沿世界模型的最新进展。\n6. 工具建设：参与世界模型评测工具和自动化评测框架的建设与完善，推动从人工评测到自动化、可扩展评测的演进。\nQualifications\n1.学历要求：本科及以上学位在读（硕士学历优先）。\n2.专业背景：计算机、数学、统计学、人工智能等相关专业。\n3.逻辑思维：具有良好的分析和逻辑思维能力，能够快速理解复杂系统。\n4.技能：熟悉Python或其他编程语言，能够编写评测脚本和数据分析代码。\n5.理论基础：了解机器学习和深度学习的基本概念，理解模型评测的基本原理。\n6.数据可视化：具有数据分析和可视化能力，能够清晰呈现评测结果。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 831,
+      "warnings": []
+    },
+    "request_id": "5e66b0ac-5d60-4e5d-bd37-4d15045d7798",
+    "status_code": 200,
+    "title": "数据智多星-世界模型评测",
+    "url": "https://campus-talent.alibaba.com/campus/position/199908860001?deptCodes="
+  },
+  "responsibilities": "1. 负责世界模型的评测与分析工作，包括模型性能评估、能力边界探测、物理一致性诊断等。通过系统的评测方法论，发现模型在物理规律理解、因果推理、时空建模等方面的瓶颈，支持模型优化迭代。\n2. 评测体系构建：设计和执行世界模型的评测方案，建立覆盖视觉感知、物理遵循、动作跟随、长程预测、因果推理等多维度的科学评测体系。\n3. 全面性能评估：对世界模型在不同场景下的表现进行全面评估一一涵盖生成质量、物理规律遵守程度（如力学、热学、材料特性等）、动作执行精度、时空一致性、三维空间准确性及可控性等维度。\n4. 短板分析与报告：分析世界模型的能力短板，撰写详细的评测报告和分析文档。\n5. 业界对标研究：参与世界模型的对标研究，持续跟踪前沿世界模型的最新进展。\n6. 工具建设：参与世界模型评测工具和自动化评测框架的建设与完善，推动从人工评测到自动化、可扩展评测的演进。",
+  "requirements": "1.学历要求：本科及以上学位在读（硕士学历优先）。\n2.专业背景：计算机、数学、统计学、人工智能等相关专业。\n3.逻辑思维：具有良好的分析和逻辑思维能力，能够快速理解复杂系统。\n4.技能：熟悉Python或其他编程语言，能够编写评测脚本和数据分析代码。\n5.理论基础：了解机器学习和深度学习的基本概念，理解模型评测的基本原理。\n6.数据可视化：具有数据分析和可视化能力，能够清晰呈现评测结果。"
+}

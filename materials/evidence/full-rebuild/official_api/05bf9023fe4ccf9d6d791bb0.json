@@ -1,0 +1,12 @@
+{
+  "company_name": "MiniMax",
+  "source_job_id": "7550978737798908214",
+  "detail_url": "https://vrfi1sk8a0.jobs.feishu.cn/379481/position/7550978737798908214/detail",
+  "checked_at_utc": "2026-10-27T13:04:48.805210+00:00",
+  "method": "official_api",
+  "api_url": "https://vrfi1sk8a0.jobs.feishu.cn/api/v1/job/posts/7550978737798908214",
+  "code": 0,
+  "title": "网络架构实习生",
+  "responsibilities": "1. 参与数据中心内部以太网网络架构的辅助设计与规划，学习核心、汇聚、接入等多层网络拓扑构建、设备选型与基础配置；\n2. 协助完成企业或运营商专线骨干网络方案的支持工作，了解IP专线/MPLS VPN/VXLAN EVPN等技术的实际应用与高可用保障机制；\n3. 参与机房网络标准化治理的部分工作，包括VLAN划分、链路冗余部署、广播域控制与基础布线规划；\n4. 在导师指导下了解跨网络域互通与融合方案（如专线与以太网），学习相关安全与稳定性设计方法；\n5. 初步参与容器网络（如Kubernetes CNI）的对接与支持工作，了解容器环境下网络通信和基本故障排查流程；",
+  "requirements": "1. 2026届本科或硕士在读，通信、计算机、网络工程及相关专业；\n2. 对网络基础架构有浓厚兴趣，了解TCP/IP原理，有相关课程设计或实验经验；\n3. 具备一定的网络基础知识，如VLAN、STP、BGP/OSPF等路由与交换协议，愿意学习MPLS、EVPN等进阶技术；\n4. 熟悉至少一种主流网络设备（如Cisco、华为等）的基本配置和操作；\n5. 对容器网络（Kubernetes、CNI）或自动化工具（Ansible、Python等）有初步了解者优先；\n6. 具备良好的沟通能力和团队协作意识，能够撰写清晰的技术文档；"
+}

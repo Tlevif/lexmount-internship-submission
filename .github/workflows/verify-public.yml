@@ -20,7 +20,7 @@ jobs:
                 data=r.read();assert r.status==200
                 item={'url':base+name,'status':r.status,'bytes':len(data)}
               if name.endswith('jobs.json'):
-                rows=json.loads(data);assert len(rows)==2905
+                rows=json.loads(data);assert len(rows)==3095
                 assert len({r['company_name'] for r in rows})==32
                 assert len({r['category'] for r in rows})==33
                 assert len({r['category'] for r in rows if r['category'].startswith('大模型')})==12
@@ -36,10 +36,16 @@ jobs:
               if name=='submission.zip':
                 item['sha256']=hashlib.sha256(data).hexdigest();z=zipfile.ZipFile(io.BytesIO(data));m=json.loads(z.read('MANIFEST.json'))
                 for path,digest in m['files'].items():assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
-                item['verified_files']=len(m['files']);s=json.loads(z.read('SUMMARY.json'));assert s['jobs']==2905
+                item['verified_files']=len(m['files']);s=json.loads(z.read('SUMMARY.json'));assert s['jobs']==3095
                 assert s['full_rebuild']['retained_missing']=={'responsibilities':0,'requirements':0}
                 assert s['full_rebuild']['removed_non_cs_or_umbrella']==2295
                 assert s['full_rebuild']['unverified_detail_jobs']==13
+                assert s['removal_review']['restored_jobs']==190
+                assert s['removal_review']['remain_removed_jobs']==2105
+                assert s['removal_review']['deleted_incomplete_jobs']==13
+                assert s['removal_review']['pending_incomplete_jobs']==0
+                audit=json.loads(z.read('evidence/removal_review20261028/classification_audit.json'))
+                assert len(audit)==2295 and sum(a['status']=='restored' for a in audit)==190
               checks.append(item)
           print('CROSS_HOST_VERIFICATION='+json.dumps({'host':'GitHub-hosted Ubuntu runner','authentication':'none','checks':checks},ensure_ascii=False))
           PY

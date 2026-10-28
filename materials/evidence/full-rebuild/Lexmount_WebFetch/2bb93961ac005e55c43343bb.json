@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199909620007",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199909620007?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:09.562027+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992677",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199909620007?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "千问办公-AI评测工程师\nUpdated on 2026-10-15\nHangzhou\nBasic Information\nGraduation Dates: 2026-12-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、结合业界最佳实践与 B 端业务场景，通过专家设计和数据合成等手段，动态构建高质量评测集\n2、负责评测任务的调度与执行监控，对评测结果进行审核与标注，输出质量报告，推动问题闭环\n3、深入理解高频业务场景（电商、门店管理、资讯情报、数据分析等），针对性地构建专项评测集，设计可量化的评测标准\n4、与产品、算法团队紧密协作，将评测中发现的问题和模式转化为优化方向，推动评测流程的持续改进\nQualifications\n1、本科及以上学历在读或应届毕业生，计算机科学、人工智能、数据科学、统计学、电子商务、数字经济等相关专业优先\n2、具备较好的编程能力（Python、JAVA、SQL），能编写脚本处理数据和自动化评测流程，有 AI Coding 经验者优先\n3、熟悉 LLM 和智能体构建基本原理，包括但不限于 SFT、RLHF、Prompt Engineering、Data Synthesis 等\n4、具备独立解决问题的能力，善于沟通、勤于思考、乐于合作、善于总结分享，有强烈的责任心和团队合作精神\nHiring Business\nQwenWork",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 657,
+      "warnings": []
+    },
+    "request_id": "954ede1d-f0db-4036-bb15-b60f10c92b4d",
+    "status_code": 200,
+    "title": "千问办公-AI评测工程师",
+    "url": "https://campus-talent.alibaba.com/campus/position/199909620007?deptCodes="
+  },
+  "responsibilities": "1、结合业界最佳实践与 B 端业务场景，通过专家设计和数据合成等手段，动态构建高质量评测集\n2、负责评测任务的调度与执行监控，对评测结果进行审核与标注，输出质量报告，推动问题闭环\n3、深入理解高频业务场景（电商、门店管理、资讯情报、数据分析等），针对性地构建专项评测集，设计可量化的评测标准\n4、与产品、算法团队紧密协作，将评测中发现的问题和模式转化为优化方向，推动评测流程的持续改进",
+  "requirements": "1、本科及以上学历在读或应届毕业生，计算机科学、人工智能、数据科学、统计学、电子商务、数字经济等相关专业优先\n2、具备较好的编程能力（Python、JAVA、SQL），能编写脚本处理数据和自动化评测流程，有 AI Coding 经验者优先\n3、熟悉 LLM 和智能体构建基本原理，包括但不限于 SFT、RLHF、Prompt Engineering、Data Synthesis 等\n4、具备独立解决问题的能力，善于沟通、勤于思考、乐于合作、善于总结分享，有强烈的责任心和团队合作精神"
+}

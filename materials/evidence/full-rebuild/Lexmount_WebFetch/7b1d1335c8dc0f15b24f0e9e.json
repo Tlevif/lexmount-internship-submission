@@ -1,0 +1,32 @@
+{
+  "company_name": "阿里巴巴",
+  "source_job_id": "199904320009",
+  "detail_url": "https://campus-talent.alibaba.com/campus/position/199904320009?deptCodes=",
+  "checked_at_utc": "2026-10-27T13:03:09.763271+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "Alibaba Group",
+    "description": "Beijing / Hangzhou | Technology | Alibaba Project Intern",
+    "dom_id": "992679",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://campus-talent.alibaba.com/campus/position/199904320009?deptCodes=",
+    "language": "zh-cn",
+    "main_text": "智多星-语音评测方向（ASR/TTS/语音交互）\nUpdated on 2026-10-10\nBeijing / Hangzhou\nBasic Information\nGraduation Dates: 2026-11-01 - 2030-01-01\nJob Category: Technology\nHiring Program: Alibaba Project Intern\nAbout the Job\n1、主导ASR/TTS/语音交互等方向的评测方法研究，设计评测指标体系与方案，跟踪前沿动态，引入新型评估维度与方法；\n2、从零规划评测数据集的用途与框架，制定采集、清洗、分层抽样方案，深入书籍、期刊、专业数据库等多元来源筛选验证数据，推动评测集标准化与开源输出；\n3、制定科学合理的标注标准与验收机制，建立一致性度量方法，实时监控标注质量，发现问题并推动流程持续改进；\n4、将评测经验与零散数据沉淀为结构化的知识体系，打造全面、系统化的知识库，持续更新保持前沿性，支撑方案复用与团队传承；\n5、与算法团队协同开展评测方法创新研究，合作撰写并发表高水平论文，参与顶会/顶刊署名及评测论坛，推动体系化数据集与评测集开源工作。\nQualifications\n1、985/211硕博在读，语言学、语音学、智能语音、计算语言学或相关专业优先；\n2、了解数字音频基础知识，熟悉WER/CER、MOS、PESQ、UTMOS等主流指标原理与适用边界，有ASR/TTS/语音交互评测或Benchmark构建经验者优先；\n3、具备评测方案独立设计能力（目标拆解→指标选取→数据分层→结论输出全流程），能从评测视角而非仅从算法优化视角审视问题；\n4、具备数据分析与统计基础（Python/R），能进行显著性检验、误差分析和指标相关性建模，有AI Coding、PE工程或Agent/Skill开发经历超级加分；\n5、逻辑严谨，擅长论文写作，有Interspeech/ICASSP/ACL等顶会/顶刊发布经历者优先；\n6、思维活跃，对语音模型有浓厚兴趣，持续关注评测前沿（大模型自动评估、动态对抗评测等），具备跨团队沟通协作能力。\nHiring Business\nAlibaba Group Holding Limited",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 953,
+      "warnings": []
+    },
+    "request_id": "0529ae20-f0f9-4779-992b-49dfd74ff9b7",
+    "status_code": 200,
+    "title": "智多星-语音评测方向（ASR/TTS/语音交互）",
+    "url": "https://campus-talent.alibaba.com/campus/position/199904320009?deptCodes="
+  },
+  "responsibilities": "1、主导ASR/TTS/语音交互等方向的评测方法研究，设计评测指标体系与方案，跟踪前沿动态，引入新型评估维度与方法；\n2、从零规划评测数据集的用途与框架，制定采集、清洗、分层抽样方案，深入书籍、期刊、专业数据库等多元来源筛选验证数据，推动评测集标准化与开源输出；\n3、制定科学合理的标注标准与验收机制，建立一致性度量方法，实时监控标注质量，发现问题并推动流程持续改进；\n4、将评测经验与零散数据沉淀为结构化的知识体系，打造全面、系统化的知识库，持续更新保持前沿性，支撑方案复用与团队传承；\n5、与算法团队协同开展评测方法创新研究，合作撰写并发表高水平论文，参与顶会/顶刊署名及评测论坛，推动体系化数据集与评测集开源工作。",
+  "requirements": "1、985/211硕博在读，语言学、语音学、智能语音、计算语言学或相关专业优先；\n2、了解数字音频基础知识，熟悉WER/CER、MOS、PESQ、UTMOS等主流指标原理与适用边界，有ASR/TTS/语音交互评测或Benchmark构建经验者优先；\n3、具备评测方案独立设计能力（目标拆解→指标选取→数据分层→结论输出全流程），能从评测视角而非仅从算法优化视角审视问题；\n4、具备数据分析与统计基础（Python/R），能进行显著性检验、误差分析和指标相关性建模，有AI Coding、PE工程或Agent/Skill开发经历超级加分；\n5、逻辑严谨，擅长论文写作，有Interspeech/ICASSP/ACL等顶会/顶刊发布经历者优先；\n6、思维活跃，对语音模型有浓厚兴趣，持续关注评测前沿（大模型自动评估、动态对抗评测等），具备跨团队沟通协作能力。"
+}

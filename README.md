@@ -1,11 +1,11 @@
 # 企业官网实习岗位聚合平台
 
-公开演示与活动材料： https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/#demo
+演示：https://lexmount-internship-evidence-20261027.tlevif.chatgpt.site/#demo
 
-备用入口： https://tlevif.github.io/lexmount-internship-submission/
+备用：https://tlevif.github.io/lexmount-internship-submission/
 
-当前2,905条完整计算机技术岗位、32家企业、33个技术类别，其中大模型12个方向。基于岗位职责和要求分类；卡片和详情清除采集日志；支持输入页码和回车跳转。
+当前3,095条完整技术岗位、32家企业、33类技术方向。复核此前移除的2,295条后恢复190条，维持移除2,105条。13条字段不完整记录已从待处理队列删除。
 
-分类定义、公开招聘参考： [TAXONOMY.md](materials/TAXONOMY.md)。报告、CSV、JSONL、证据和可运行源码集中在materials/及submission.zip。
+[复核说明](materials/REMOVAL_REVIEW.md)｜[逐条审计](materials/evidence/removal_review20261028/classification_audit.json)｜[技术分类](materials/TAXONOMY.md)
 
-软件测试87项通过。[跨主机匿名验证通过](https://github.com/Tlevif/lexmount-internship-submission/actions/runs/40641076609)；两个入口首页、脚本、PDF、岗位JSON、ZIP均返回200。详见ACCESS_VERIFICATION.json。
+98项软件测试通过。跨主机匿名验证记录将在发布验证完成后写入ACCESS_VERIFICATION.json。

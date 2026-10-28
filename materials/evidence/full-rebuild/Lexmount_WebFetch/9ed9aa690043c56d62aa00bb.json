@@ -1,0 +1,32 @@
+{
+  "company_name": "小红书",
+  "source_job_id": "21331",
+  "detail_url": "https://job.xiaohongshu.com/campus/intern/position/21331",
+  "checked_at_utc": "2026-10-27T13:09:32.064158+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "小红书",
+    "description": "职位类型：后端开发 | 工作地点：上海市，北京市 | 项目：其他项目",
+    "dom_id": "993258",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://job.xiaohongshu.com/campus/intern/position/21331",
+    "language": "zh-cn",
+    "main_text": "职位类型：后端开发\n工作地点：上海市，北京市\n项目：其他项目\n工作职责\n我们正在寻找对构建「国际化社区」有兴趣的应用研发工程师，并期待有机会一起探索构建AI应用的产品形态与工程范式。 你会参与 1. 作为应用研发，参与小红书国际化社区应用的 产品迭代 与 全栈工程落地 2. 作为数据开发，参与数据分析、数据挖掘相关工作，参与构建 Agent 数据体系 3. 作为研发者或深度用户，参与设计与构建 Agent 全栈工作流，并能结合实践沉淀方案或输出洞察 4. 结合海外市场、用户的需求与反馈，与产品、设计、算法等团队协作，推动产品迭代演进\n任职资格\n我们期待你具备 1. 大学本科及以上学历。主修计算机相关专业，具备扎实的编码能力、数据结构与算法基础 2. 了解现代应用研发技术栈与系统架构，至少熟悉一个技术方向，具备跨栈或全栈经验者优先 3. 对 AI 以及 Agent 工作流保持高度兴趣，了解 Prompt Engineering、Spec Coding、RAG 等方向，有实践经验者优先 4. 每周可实习 4 天及以上，连续实习 3 个月及以上优先",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 2,
+      "text_length": 478,
+      "warnings": []
+    },
+    "request_id": "2998240e-b252-476f-8528-66e9371d1b24",
+    "status_code": 200,
+    "title": "国际化PE实习生",
+    "url": "https://job.xiaohongshu.com/campus/intern/position/21331"
+  },
+  "responsibilities": "我们正在寻找对构建「国际化社区」有兴趣的应用研发工程师，并期待有机会一起探索构建AI应用的产品形态与工程范式。 你会参与 1. 作为应用研发，参与小红书国际化社区应用的 产品迭代 与 全栈工程落地 2. 作为数据开发，参与数据分析、数据挖掘相关工作，参与构建 Agent 数据体系 3. 作为研发者或深度用户，参与设计与构建 Agent 全栈工作流，并能结合实践沉淀方案或输出洞察 4. 结合海外市场、用户的需求与反馈，与产品、设计、算法等团队协作，推动产品迭代演进",
+  "requirements": "我们期待你具备 1. 大学本科及以上学历。主修计算机相关专业，具备扎实的编码能力、数据结构与算法基础 2. 了解现代应用研发技术栈与系统架构，至少熟悉一个技术方向，具备跨栈或全栈经验者优先 3. 对 AI 以及 Agent 工作流保持高度兴趣，了解 Prompt Engineering、Spec Coding、RAG 等方向，有实践经验者优先 4. 每周可实习 4 天及以上，连续实习 3 个月及以上优先"
+}

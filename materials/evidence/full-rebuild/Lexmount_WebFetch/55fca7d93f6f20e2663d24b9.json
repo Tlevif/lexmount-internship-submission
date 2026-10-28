@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074687944709",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074687944709",
+  "checked_at_utc": "2026-10-27T13:06:24.577212+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "腾讯视频-针对影视制作的agentic system研究 青云课题、实习生、青云计划、智能体、强化学习",
+    "dom_id": "992951",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074687944709",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n统一多模态模型已经在多模态内容生成和编辑方面展现出非常巨大的潜力，图像领域有Nano Banana为代表的模型正在深入行业应用，视频领域也有Seedance 2.0模型正崭露头角，并在重塑整个视频内容行业。\n课题挑战：\n视频生成基模能力和后训练效果的提升快速推动多模态生成agent的scaling up，然而，相比于传统的LLM 和tool use的agent，多模态生成agent还欠缺很多重要模块，包括asset library，多模态encoding，全模态标注，visual token reasoning等等一系列的关键问题。\n具体工作：\n此项目期望能够从根本原理和工程实现上设计适合多模态生成的agentic system，并且实现一个用于影视制作的agentic system。同时，针对核心瓶颈进行特有模型训练和agent RL训练。\n课题要求\n1、具备较强的学习能力、清晰的逻辑思维能力和出色的沟通能力，有强烈的好奇心；\n2、对openclaw及其背后的agent，LLM，functioncall有扎实的理解与应用热情；\n3、具有多模态内容理解，多模态生成与编辑，机器学习算法基础，有图像生成与编辑、agent，音视频生成和编辑方向顶级论文者优先。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nPCG\n平台与内容事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 611,
+      "warnings": []
+    },
+    "request_id": "99cd4b96-c33a-4544-90f5-f08c9291b9f3",
+    "status_code": 200,
+    "title": "腾讯视频-针对影视制作的agentic system研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074687944709"
+  },
+  "responsibilities": "课题背景：\n统一多模态模型已经在多模态内容生成和编辑方面展现出非常巨大的潜力，图像领域有Nano Banana为代表的模型正在深入行业应用，视频领域也有Seedance 2.0模型正崭露头角，并在重塑整个视频内容行业。\n课题挑战：\n视频生成基模能力和后训练效果的提升快速推动多模态生成agent的scaling up，然而，相比于传统的LLM 和tool use的agent，多模态生成agent还欠缺很多重要模块，包括asset library，多模态encoding，全模态标注，visual token reasoning等等一系列的关键问题。\n具体工作：\n此项目期望能够从根本原理和工程实现上设计适合多模态生成的agentic system，并且实现一个用于影视制作的agentic system。同时，针对核心瓶颈进行特有模型训练和agent RL训练。",
+  "requirements": "1、具备较强的学习能力、清晰的逻辑思维能力和出色的沟通能力，有强烈的好奇心；\n2、对openclaw及其背后的agent，LLM，functioncall有扎实的理解与应用热情；\n3、具有多模态内容理解，多模态生成与编辑，机器学习算法基础，有图像生成与编辑、agent，音视频生成和编辑方向顶级论文者优先。\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。"
+}

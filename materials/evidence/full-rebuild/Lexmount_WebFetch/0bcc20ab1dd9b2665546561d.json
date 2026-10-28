@@ -1,0 +1,32 @@
+{
+  "company_name": "腾讯",
+  "source_job_id": "1231829074692139019",
+  "detail_url": "https://join.qq.com/post_detail.html?postid=1231829074692139019",
+  "checked_at_utc": "2026-10-27T13:07:29.466650+00:00",
+  "method": "Lexmount_WebFetch",
+  "response": {
+    "author": "腾讯校园招聘",
+    "description": "微信-多模态AI搜索研究 青云课题、实习生、青云计划、多模态、视觉、语音",
+    "dom_id": "993072",
+    "engine": "lightmount_domstable",
+    "error": null,
+    "final_url": "https://join.qq.com/post_detail.html?postid=1231829074692139019",
+    "language": "zh-cn",
+    "main_text": "课题描述\n课题背景：\n多模态搜索正经历从传统相似度匹配（如CLIP）向“深度语义理解 + 逻辑推理”的技术变革。应用场景也拓宽至万物识别（如商品、动植物、地标）、跨模态富媒体检索等。相应产生出若干新的问题挑战。\n课题挑战：\n1、多模态Embedding升级与统一表征：支持图像、视频、音频、文本等任意模态及其组合的mm-embedding，实现从\"固定模态\"到\"任意模态组合\"的能力跃迁；\n2、复杂query下的推理：支持多约束条件的逻辑组合、隐含意图与间接线索推理；\n3、搜索Agent与多工具协同：构建具备多工具调用（如RAG）、自我验证及纠错能力的Agentic闭环工作流\n具体工作：\n你将参与到多模态大模型搜索系统的核心技术研发中，包括统一多模态embedding表征学习、复杂跨模态Query理解与推理模块、端到端搜索Agent架构设计等工作。\n课题要求\n1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程、电子工程、统计学、应用数学、物理学/量子计算、信息安全、信号与信息处理等相关专业的优秀硕士和博士；\n2、在CVPR、ICCV、ECCV、NeurIPS、 ICLR等顶会发表一作论文\n3、有丰富的大模型方向项目或实习经验\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。\n参加面试的城市\n远程面试\n课题部门和工作地\nWXG\n微信事业群",
+    "publish_time": null,
+    "quality": {
+      "has_description": true,
+      "has_title": true,
+      "images_count": 0,
+      "links_count": 1,
+      "text_length": 590,
+      "warnings": []
+    },
+    "request_id": "f44165c9-971d-4fd3-b4cf-ad94e7b4f934",
+    "status_code": 200,
+    "title": "微信-多模态AI搜索研究 | 腾讯校招",
+    "url": "https://join.qq.com/post_detail.html?postid=1231829074692139019"
+  },
+  "responsibilities": "课题背景：\n多模态搜索正经历从传统相似度匹配（如CLIP）向“深度语义理解 + 逻辑推理”的技术变革。应用场景也拓宽至万物识别（如商品、动植物、地标）、跨模态富媒体检索等。相应产生出若干新的问题挑战。\n课题挑战：\n1、多模态Embedding升级与统一表征：支持图像、视频、音频、文本等任意模态及其组合的mm-embedding，实现从\"固定模态\"到\"任意模态组合\"的能力跃迁；\n2、复杂query下的推理：支持多约束条件的逻辑组合、隐含意图与间接线索推理；\n3、搜索Agent与多工具协同：构建具备多工具调用（如RAG）、自我验证及纠错能力的Agentic闭环工作流\n具体工作：\n你将参与到多模态大模型搜索系统的核心技术研发中，包括统一多模态embedding表征学习、复杂跨模态Query理解与推理模块、端到端搜索Agent架构设计等工作。",
+  "requirements": "1、包含但不限于计算机、信息工程、模式识别、人工智能、自动化、软件工程、电子工程、统计学、应用数学、物理学/量子计算、信息安全、信号与信息处理等相关专业的优秀硕士和博士；\n2、在CVPR、ICCV、ECCV、NeurIPS、 ICLR等顶会发表一作论文\n3、有丰富的大模型方向项目或实习经验\n加分项或注意事项\n此课题同时招聘应届实习生和低年级实习生。"
+}
