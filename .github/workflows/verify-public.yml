@@ -14,7 +14,7 @@ jobs:
           import urllib.request,json,hashlib,zipfile,io
           checks=[]
           for base in ['https://tlevif.github.io/lexmount-internship-submission/','https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/']:
-            for name in ['', 'demo.js','materials/REPORT.pdf','materials/results/jobs.json','submission.zip']:
+            for name in ['', 'demo.js','materials/REPORT.pdf','materials/AUDIT_REPORT.md','materials/README.md','materials/results/jobs.json','submission.zip']:
               print('CHECKING '+base+name,flush=True)
               with urllib.request.urlopen(urllib.request.Request(base+name,headers={'User-Agent':'Mozilla/5.0'}),timeout=90) as r:
                 data=r.read();assert r.status==200
@@ -34,6 +34,11 @@ jobs:
                 item.update(jobs=len(rows),missing_responsibilities=0,missing_requirements=0,categories=33,large_model_categories=12)
               if name=='':
                 text=data.decode();assert 'aria-label="大方向"' in text and 'aria-label="子方向"' in text
+                report=text.split('<section id="report">',1)[1].split('</section>',1)[0]
+                assert report.count('<h2>')==4 and '1. 项目简介' in report
+                assert not any(x in report for x in ['DOM ID','请求 ID','AUDIT_REPORT','5,213','2,295','31秒'])
+                assert '51 + 7' not in text and '最后更新：' in text
+                assert 'materials/AUDIT_REPORT.md' in text and '原始证据文件索引' in text
                 assert 'id="page-jump"' in text and '跳转页码' in text
               if name=='demo.js':
                 text=data.decode();assert "Number.isInteger(n)" in text
