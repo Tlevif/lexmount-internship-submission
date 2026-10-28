@@ -1,3 +1,0 @@
-2026-10-28: python -X utf8 -m pytest -q
-110 passed, 3 dependency deprecation warnings in 6.96s.
-Includes two-level category labels, AI Infra inclusion, unrelated infrastructure exclusion, combined API filtering, CSV export, complete tree counts, restoration and SQLite consistency.

@@ -1,7 +1,0 @@
-{
-  "company_name": "小红书",
-  "source_job_id": "18199",
-  "source_url": "https://job.xiaohongshu.com/campus/intern/position/18199",
-  "method": "Lexmount Cloud Browser wait 7 seconds",
-  "text": "首页\nREDstar 顶尖校招\nAce 顶尖实习生\n2027 校园招聘\n实习生\n社会招聘\n了解小红书\n登录\n职位列表\n大模型训推基础架构实习生\n大模型训推基础架构实习生\n职位类型：引擎\n工作地点：北京市，上海市\n项目：其他项目\n投递简历\n工作职责\n【部门介绍】引擎架构部提供小红书搜广推，CV和NLP业务的深度学习模型高性能AI Infra服务。主导SOTA AI Infra架构设计与核心模块开发，支撑AI业务在大规模多模态生成式搜广推等前沿场景上规模落地。\n\n1、参与开发支持下一代语言/多模态超大规模（百亿-万亿级）模型的GPU千卡互联分布式训练和推理框架。\n2、与公司算法同学深度合作，为重点项目进行算法与训练/推理框架的联合优化。\n3、支撑业界领先的多模态模型在国内最大的生活兴趣社区上落地。\n任职资格\n【岗位要求】\n1. 有扎实的工程算法基础，精通数据结构和常用算法，熟练掌握各种编译、调试、性能分析工具。\n2. 熟悉C/C++/CUDA，具备扎实的系统底层能力（内存、并发、网络）。\n3. 有大规模分布式系统开发和优化经验；有大模型分布式训练或推理经验者优先。\n4. 接触过vLLM/SGLang/Megatron/DeepSpeed/veRL/OpenRLHF/LLaMA-Factory/MLIR/TVM/Triton/TileLang等分布式异构计算框架中的一个。\n5. 熟悉常见深度学习模型结构。\n【加分项】\n• 在vLLM/SGLang、Megatron、DeepSpeed、veRL、TVM、LLVM等社区有持续代码贡献。\n\n社区精选\n注册协议\n隐私协议\n关注小红书招聘\n关注小红书技术REDtech\n沪ICP备13030189号-1｜沪B2-20150021｜沪公网安备31010102002533号\n地址：上海市黄浦区马当路388号C座｜电话：9501-3888\nCopyright © 2014-2026 行吟信息科技（上海）有限公司"
-}

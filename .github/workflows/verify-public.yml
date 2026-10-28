@@ -1,4 +1,4 @@
-name: Verify public submission from another host
+name: Verify minimal submission from another host
 on:
   workflow_dispatch:
 permissions:
@@ -7,55 +7,40 @@ jobs:
   verify:
     runs-on: ubuntu-latest
     steps:
-      - name: Verify both public demos and complete technical results anonymously
+      - name: Verify four-category packages and public data anonymously
         shell: bash
         run: |
           python - <<'PY'
           import urllib.request,json,hashlib,zipfile,io
           checks=[]
-          for base in ['https://tlevif.github.io/lexmount-internship-submission/','https://lexmount-internship-evidence-20261027.cherrydune65.chatgpt.site/']:
-            for name in ['', 'demo.js','materials/REPORT.pdf','materials/AUDIT_REPORT.md','materials/README.md','materials/results/jobs.json','submission.zip']:
+          expected={'01_作品说明','02_开发流程','03_岗位数据','04_源代码'}
+          for base in ['https://tlevif.github.io/lexmount-internship-submission/','https://lexmount-internship-evidence-20261027.tlevif.chatgpt.site/']:
+            for name in ['', 'demo.js','assets/jobs.json','materials/REPORT.pdf','materials/DEVELOPMENT.md','materials/jobs.jsonl','materials/jobs.csv','materials/source.zip','submission.zip']:
               print('CHECKING '+base+name,flush=True)
-              with urllib.request.urlopen(urllib.request.Request(base+name,headers={'User-Agent':'Mozilla/5.0'}),timeout=90) as r:
-                data=r.read();assert r.status==200
-                item={'url':base+name,'status':r.status,'bytes':len(data)}
-              if name.endswith('jobs.json'):
-                rows=json.loads(data);assert len(rows)==3095
-                assert len({r['company_name'] for r in rows})==32
-                assert len({r['category'] for r in rows})==33
-                assert len({r['category'] for r in rows if r['category'].startswith('大模型')})==12
-                assert all(r['responsibilities'] and r['requirements'] and r['classification']['keep'] for r in rows)
-                assert not any(r['category'] in ['待审核','待核验','非计算机岗位','营销','业务分析','设计','客户服务'] for r in rows)
-                assert not any(r['category']=='人工智能与算法' for r in rows)
-                assert len({r['category_group'] for r in rows})==9
-                assert sum(r['category_group']=='大模型' for r in rows)==1499
-                assert all('与' not in r['category_label'] for r in rows)
-                assert any('AI Infra' in r['title'] and r['category_group']=='大模型' for r in rows)
-                item.update(jobs=len(rows),missing_responsibilities=0,missing_requirements=0,categories=33,large_model_categories=12)
+              with urllib.request.urlopen(urllib.request.Request(base+name,headers={'User-Agent':'Mozilla/5.0'}),timeout=90) as response:
+                data=response.read();assert response.status==200
+                item={'url':base+name,'status':response.status,'bytes':len(data)}
               if name=='':
-                text=data.decode();assert 'aria-label="大方向"' in text and 'aria-label="子方向"' in text
-                report=text.split('<section id="report">',1)[1].split('</section>',1)[0]
-                assert report.count('<h2>')==4 and '1. 项目简介' in report
-                assert not any(x in report for x in ['DOM ID','请求 ID','AUDIT_REPORT','5,213','2,295','31秒'])
-                assert '51 + 7' not in text and '最后更新：' in text
-                assert 'materials/AUDIT_REPORT.md' in text and '原始证据文件索引' in text
-                assert 'id="page-jump"' in text and '跳转页码' in text
-              if name=='demo.js':
-                text=data.decode();assert "Number.isInteger(n)" in text
-                assert not any(x in text for x in ['原站发布日期','稳定岗位ID','采集方式：','数据期：','相互印证','详情核验：','补采依据：'])
-              if name=='submission.zip':
-                item['sha256']=hashlib.sha256(data).hexdigest();z=zipfile.ZipFile(io.BytesIO(data));m=json.loads(z.read('MANIFEST.json'))
-                for path,digest in m['files'].items():assert hashlib.sha256(z.read(path)).hexdigest()==digest,path
-                item['verified_files']=len(m['files']);s=json.loads(z.read('SUMMARY.json'));assert s['jobs']==3095 and s['category_tree']['groups']==9 and s['category_tree']['large_model_jobs']==1499
-                assert s['full_rebuild']['retained_missing']=={'responsibilities':0,'requirements':0}
-                assert s['full_rebuild']['removed_non_cs_or_umbrella']==2295
-                assert s['full_rebuild']['unverified_detail_jobs']==13
-                assert s['removal_review']['restored_jobs']==190
-                assert s['removal_review']['remain_removed_jobs']==2105
-                assert s['removal_review']['deleted_incomplete_jobs']==13
-                assert s['removal_review']['pending_incomplete_jobs']==0
-                audit=json.loads(z.read('evidence/removal_review20261028/classification_audit.json'))
-                assert len(audit)==2295 and sum(a['status']=='restored' for a in audit)==190
+                text=data.decode();assert '四类材料，一份提交包' in text and 'materials/DEVELOPMENT.md' in text
+                assert not any(x in text for x in ['AUDIT_REPORT','FORM_TEXT','MANIFEST','SUMMARY.json','test_results.txt','原始证据文件索引'])
+              if name=='materials/DEVELOPMENT.md':
+                text=data.decode();assert all(x in text for x in ['Cloud Browser','WebFetch','session create','dump-dom','04_源代码'])
+              if name=='assets/jobs.json' or name.endswith('jobs.jsonl'):
+                rows=json.loads(data) if name.endswith('.json') else [json.loads(line) for line in data.decode().split('\n') if line]
+                assert len(rows)==3095 and all(r['responsibilities'] and r['requirements'] for r in rows)
+                assert sum(r['category_group']=='大模型' for r in rows)==1499
+                item['jobs']=len(rows)
+              if name.endswith('.zip'):
+                z=zipfile.ZipFile(io.BytesIO(data));assert z.testzip() is None
+                assert not any('__pycache__' in n or n.endswith(('.pyc','.log','.sqlite3','.png')) for n in z.namelist())
+                if name=='submission.zip':
+                  assert {n.split('/')[0] for n in z.namelist()}==expected
+                  assert '01_作品说明/作品说明.pdf' in z.namelist()
+                  assert '02_开发流程/开发流程与工具使用说明.md' in z.namelist()
+                  assert len([json.loads(x) for x in z.read('03_岗位数据/jobs.jsonl').decode().split('\n') if x])==3095
+                  assert not any('/evidence/' in n or n.endswith(('MANIFEST.json','SUMMARY.json','AUDIT_REPORT.md','FORM_TEXT.md')) for n in z.namelist())
+                  item.update(files=len(z.namelist()),categories=sorted(expected),sha256=hashlib.sha256(data).hexdigest())
+                else:assert 'app/main.py' in z.namelist() and 'data/jobs.jsonl' in z.namelist()
               checks.append(item)
           print('CROSS_HOST_VERIFICATION='+json.dumps({'host':'GitHub-hosted Ubuntu runner','authentication':'none','checks':checks},ensure_ascii=False))
           PY
